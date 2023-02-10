@@ -1,0 +1,2952 @@
+event_id,match_id,team,event_team,event_time,event_type,action_player_1,action_player_2
+1,1,PSG,away, 55 ,Substitution, Kylian Mbappé , Hugo Ekitike 
+2,1,PSG,away, 56 ,Substitution, Achraf Hakimi , Nordi Mukiele 
+3,1,Rennes,home, 65 ,Goal, Hamari Traore , Adrien Truffert 
+4,1,Rennes,home, 68 ,Substitution, Jérémy Doku , Désiré Doué 
+5,1,PSG,away, 72 ,Substitution, Carlos Soler , Warren Zaïre-Emery 
+6,1,PSG,away, 72 ,Substitution, Fabian Ruiz , Vitinha 
+7,1,Rennes,home, 75 ,Substitution, Lorenz Assignon , Arnaud Kalimuendo 
+8,1,Rennes,home, 76 ,Substitution, Birger Meling , Adrien Truffert 
+9,1,PSG,away, 83 ,Substitution, Renato Sanches , Danilo Pereira 
+10,1,Rennes,home, 89 ,Substitution, Kamaldeen Sulemana , Amine Gouiri 
+11,1,Rennes,home, 89 ,Substitution, Flavien Tait , Lovro Majer 
+12,2,Monaco,home, 2 ,Goal, Axel Disasi ,
+13,2,Monaco,home, 6 ,Goal, Krépin Diatta , Vanderson 
+14,2,Ajaccio,away, 11 ,Goal, Youcef Belaïli , Cyrille Bayala 
+15,2,Monaco,home, 20 ,Yellow card, Mohamed Camara ,
+16,2,Monaco,home, 21 ,Goal, Wissam Ben Yedder ,
+17,2,Monaco,home, 28 ,Goal, Wissam Ben Yedder , Aleksandr Golovin 
+18,2,Ajaccio,away, 33 ,Yellow card, Ismaël Diallo ,
+19,2,Monaco,home, 35 ,Penalty, Wissam Ben Yedder , Penalty 
+20,2,Monaco,home, 45 ,Substitution, Eliot Matazo , Mohamed Camara 
+21,2,Ajaccio,away, 45 ,Substitution, Cédric Avinel , Fernand Mayembo 
+22,2,Ajaccio,away, 45 ,Substitution, Bevic Moussiti-Oko , Youcef Belaïli 
+23,2,Ajaccio,away, 46 ,Yellow card, Thomas Mangani ,
+24,2,Monaco,home, 61 ,Substitution, Breel Embolo , Eliesse Ben Seghir 
+25,2,Monaco,home, 61 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+26,2,Monaco,home, 63 ,Goal, Breel Embolo , Krépin Diatta 
+27,2,Ajaccio,away, 64 ,Substitution, Jean Botué , Riad Nouri 
+28,2,Ajaccio,away, 64 ,Substitution, Mickaël Alphonse , Ismaël Diallo 
+29,2,Monaco,home, 71 ,Substitution, Malang Sarr , Axel Disasi 
+30,2,Monaco,home, 71 ,Substitution, Myron Boadu , Wissam Ben Yedder 
+31,2,Monaco,home, 89 ,Goal, Breel Embolo ,
+32,3,Angers,home, 23 ,Substitution, Himad Abdelli , Farid El Melali 
+33,3,Clermont,away, 40 ,Goal, Elbasan Rashani ,
+34,3,Angers,home, 42 ,Yellow card, Pierrick Capelle ,
+35,3,Clermont,away, 47 ,Goal, Neto Borges , Grejohn Kyei 
+36,3,Angers,home, 59 ,Substitution, Azzedine Ounahi , Batista Mendy 
+37,3,Angers,home, 60 ,Yellow card, Cedric Hountondji ,
+38,3,Angers,home, 60 ,Substitution, Abdallah Sima , Adrien Hunou 
+39,3,Angers,home, 69 ,Substitution, Lilian Rao-Lisoa , Pierrick Capelle 
+40,3,Clermont,away, 73 ,Substitution, Muhammed Cham , Elbasan Rashani 
+41,3,Clermont,away, 73 ,Substitution, Komnen Andrić , Grejohn Kyei 
+42,3,Clermont,away, 79 ,Yellow card, Neto Borges ,
+43,3,Angers,home, 80 ,Goal, Sofiane Boufal , Nabil Bentaleb 
+44,3,Clermont,away, 83 ,Yellow card, Maximiliano Caufriez ,
+45,3,Clermont,away, 87 ,Substitution, Mehdi Zeffane , Jim Allevinah 
+46,3,Clermont,away, 87 ,Substitution, Yanis Massolin , Saifeddine Khaoui 
+47,4,Nantes,away, 16 ,Substitution, Sebastien Corchia , Charles Traoré 
+48,4,Montpellier,home, 42 ,Red card, Wahbi Khazri ,
+49,4,Nantes,away, 56 ,Yellow card, Evann Guessand ,
+50,4,Nantes,away, 58 ,Goal, Andrei Girotto ,
+51,4,Nantes,away, 60 ,Substitution, Samuel Moutoussamy , Nathan Zeze 
+52,4,Nantes,away, 60 ,Substitution, Mostafa Mohamed , Evann Guessand 
+53,4,Montpellier,home, 64 ,Substitution, Joris Chotard , Léo Leroy 
+54,4,Montpellier,home, 65 ,Substitution, Arnaud Nordin , Valere Germain 
+55,4,Montpellier,home, 67 ,Yellow card, Elye Wahi ,
+56,4,Montpellier,home, 67 ,Red card, Elye Wahi ,
+57,4,Nantes,away, 69 ,Yellow card, Moses Simon ,
+58,4,Montpellier,home, 78 ,Substitution, Nicolas Cozza , Faitout Maouassa 
+59,4,Montpellier,home, 78 ,Substitution, Khalil Fayad , Jordan Ferri 
+60,4,Nantes,away, 81 ,Goal, Mostafa Mohamed , Pedro Chirivella 
+61,4,Nantes,away, 84 ,Goal, Ludovic Blas , Sebastien Corchia 
+62,4,Nantes,away, 85 ,Substitution, Marcus Coco , Ludovic Blas 
+63,4,Nantes,away, 85 ,Substitution, Lohann Doucet , Pedro Chirivella 
+64,4,Montpellier,home, 86 ,Substitution, Falaye Sacko , Christopher Jullien 
+65,5,Reims,home, 51 ,Yellow card, Jens Cajuste ,
+66,5,Nice,away, 69 ,Substitution, Billal Brahimi , Sofiane Diop 
+67,5,Nice,away, 69 ,Substitution, Ross Barkley , Aaron Ramsey 
+68,5,Nice,away, 69 ,Substitution, Badredine Bouanani , Gaetan Laborde 
+69,5,Reims,home, 70 ,Substitution, Arbër Zeneli , Mitchell van Bergen 
+70,5,Reims,home, 81 ,Substitution, Dion Lopy , Marshall Munetsi 
+71,5,Reims,home, 81 ,Substitution, Kamory Doumbia , Jens Cajuste 
+72,5,Reims,home, 88 ,Substitution, Bradley Locko , Maxime Busi 
+73,5,Nice,away, 92 ,Substitution, Antoine Mendy , Melvin Bard 
+74,5,Nice,away, 95 ,Yellow card, Jordan Lotomba ,
+75,6,Brest,away, 18 ,Goal, Steve Mounie , Hugo Magnetti 
+76,6,Brest,away, 37 ,Yellow card, Lilian Brassier ,
+77,6,Brest,away, 38 ,Yellow card, Pierre Lees-Melou ,
+78,6,Toulouse,home, 42 ,Yellow card, Brecht Dejaegere ,
+79,6,Toulouse,home, 55 ,Substitution, Thijs Dallinga , Ado Onaiwu 
+80,6,Toulouse,home, 55 ,Substitution, Farès Chaïbi , Rafael Ratão 
+81,6,Toulouse,home, 57 ,Yellow card, Anthony Rouault ,
+82,6,Toulouse,home, 65 ,Goal, Zakaria Aboukhlal ,
+83,6,Brest,away, 70 ,Substitution, Kenny Lala , Noah Fadiga 
+84,6,Brest,away, 70 ,Substitution, Islam Slimani , Steve Mounie 
+85,6,Toulouse,home, 70 ,Substitution, Veljko Birmančević , Zakaria Aboukhlal 
+86,6,Toulouse,home, 80 ,Substitution, Naatan Skyttä , Brecht Dejaegere 
+87,6,Brest,away, 83 ,Substitution, Axel Camblan , Jérémy Le Douaron 
+88,6,Brest,away, 83 ,Substitution, Haris Belkebla , Mahdi Camara 
+89,7,Lille,home, 8 ,Substitution, Edon Zhegrova , Adam Ounas 
+90,7,Lille,home, 16 ,Goal, Mohamed Bayo , Angel Gomes 
+91,7,Lille,home, 23 ,Yellow card, Carlos Baleba ,
+92,7,Lille,home, 47 ,Goal, Jonathan David ,
+93,7,Lille,home, 47 ,Goal, Mohamed Bayo ,
+94,7,Troyes,away, 64 ,Substitution, Wilson Odobert , Andreas Bruus 
+95,7,Troyes,away, 65 ,Goal, Mama Baldé , Abdu Conté 
+96,7,Lille,home, 66 ,Substitution, Remy Cabella , Carlos Baleba 
+97,7,Lille,home, 67 ,Substitution, Alan Virginius , Mohamed Bayo 
+98,7,Lille,home, 75 ,Goal, Alan Virginius ,
+99,7,Lille,home, 75 ,Substitution, Alexsandro Ribeiro , Tim Weah 
+100,7,Lille,home, 77 ,Substitution, Jose Fonte , Leny Yoro 
+101,7,Lille,home, 88 ,Goal, Jonathan David , Remy Cabella 
+102,8,Strasbourg,away, 18 ,Substitution, Franci Bouebari , Dimitri Liénard 
+103,8,Strasbourg,away, 29 ,Goal, Jean Aholou ,
+104,8,Strasbourg,away, 31 ,Substitution, Ibrahima Sissoko , Jeanricner Bellegarde 
+105,8,Strasbourg,away, 32 ,Goal, Habib Diallo ,
+106,8,Olympique Lyonnais,home, 47 ,Penalty, Alexandre Lacazette , Penalty 
+107,8,Strasbourg,away, 45 ,Substitution, Maxime Le Marchand , Gerzino Nyamsi 
+108,8,Olympique Lyonnais,home, 56 ,Yellow card, Dejan Lovren ,
+109,8,Olympique Lyonnais,home, 58 ,Substitution, Bradley Barcola , Karl Toko Ekambi 
+110,8,Strasbourg,away, 59 ,Yellow card, Jean Aholou ,
+111,8,Strasbourg,away, 60 ,Yellow card, Habib Diallo ,
+112,8,Strasbourg,away, 68 ,Substitution, Habib Diarra , Jean Aholou 
+113,8,Strasbourg,away, 68 ,Substitution, Lebo Mothiba , Kevin Gameiro 
+114,8,Olympique Lyonnais,home, 78 ,Substitution, Jeff Reine-Adelaide , Corentin Tolisso 
+115,8,Olympique Lyonnais,home, 78 ,Substitution, Tetê , Sinaly Diomandé 
+116,8,Olympique Lyonnais,home, 79 ,Substitution, Sael Kumbedi , Malo Gusto 
+117,8,Strasbourg,away, 80 ,Yellow card, Habib Diarra ,
+118,9,Lorient,away, 29 ,Goal, Terem Moffi , Yoann Cathline 
+119,9,Marseille,home, 38 ,Goal, Sead Kolasinac , Cengiz Ünder 
+120,9,Marseille,home, 50 ,Yellow card, Cengiz Ünder ,
+121,9,Marseille,home, 53 ,Goal, Alexis Sanchez , Samuel Gigot 
+122,9,Marseille,home, 59 ,Goal, Jordan Veretout ,
+123,9,Lorient,away, 63 ,Substitution, Bonke Innocent , Julien Ponceau 
+124,9,Marseille,home, 66 ,Substitution, Issa Kaboré , Sead Kolasinac 
+125,9,Marseille,home, 66 ,Substitution, Dimitri Payet , Ruslan Malinovskyi 
+126,9,Lorient,away, 70 ,Substitution, Adil Aouchiche , Laurent Abergel 
+127,9,Marseille,home, 76 ,Substitution, Pape Gueye , Jordan Veretout 
+128,9,Marseille,home, 77 ,Substitution, Bamba Dieng , Alexis Sanchez 
+129,9,Lorient,away, 84 ,Substitution, Ibrahima Koné , Enzo Le Fée 
+130,10,Lens,home, 27 ,Yellow card, Kevin Danso ,
+131,10,Auxerre,away, 54 ,Yellow card, S Touré ,
+132,10,Lens,home, 54 ,Yellow card, Facundo Medina ,
+133,10,Lens,home, 59 ,Penalty, Przemysław Frankowski , Penalty 
+134,10,Auxerre,away, 65 ,Second yellow card, S Touré ,
+135,10,Lens,home, 67 ,Substitution, Wesley Said , Loïs Openda 
+136,10,Lens,home, 67 ,Substitution, Alexis Claude-Maurice , David da Costa 
+137,10,Auxerre,away, 69 ,Substitution, Jubal , Mathias Autret 
+138,10,Lens,home, 73 ,Substitution, Deiver Machado , Facundo Medina 
+139,10,Auxerre,away, 77 ,Substitution, Hamza Sakhi , Youssouf M'Changama 
+140,10,Auxerre,away, 77 ,Substitution, Lassine Sinayoko , Gauthier Hein 
+141,10,Auxerre,away, 77 ,Substitution, Nuno da Costa , Niang 
+142,10,Auxerre,away, 83 ,Substitution, Matthis Abline , Gaetan Perrin 
+143,10,Lens,home, 91 ,Substitution, Julien Le Cardinal , Przemysław Frankowski 
+144,10,Lens,home, 91 ,Substitution, Adrien Thomasson , Florian Sotoca 
+145,10,Auxerre,away, 95 ,Yellow card, Nuno da Costa ,
+146,11,Marseille,away, 10 ,Goal, Chancel Mbemba , Matteo Guendouzi 
+147,11,Marseille,away, 15 ,Yellow card, Issa Kaboré ,
+148,11,Marseille,away, 46 ,Goal, Jordan Veretout , Cengiz Ünder 
+149,11,Troyes,home, 47 ,Yellow card, Rominigue Kouamé ,
+150,11,Marseille,away, 54 ,Yellow card, Chancel Mbemba ,
+151,11,Marseille,away, 67 ,Substitution, Ruslan Malinovskyi , Issa Kaboré 
+152,11,Marseille,away, 67 ,Yellow card, Ruslan Malinovskyi ,
+153,11,Troyes,home, 68 ,Substitution, Florian Tardieu , Rominigue Kouamé 
+154,11,Troyes,home, 73 ,Yellow card, Renaud Ripart ,
+155,11,Marseille,away, 75 ,Substitution, Bamba Dieng , Alexis Sanchez 
+156,11,Marseille,away, 75 ,Substitution, Pape Gueye , Sead Kolasinac 
+157,11,Troyes,home, 77 ,Substitution, Yasser Larouci , Renaud Ripart 
+158,12,Monaco,away, 37 ,Yellow card, Caio Henrique ,
+159,12,Lorient,home, 42 ,Yellow card, Bonke Innocent ,
+160,12,Monaco,away, 61 ,Goal, Breel Embolo , Mohamed Camara 
+161,12,Monaco,away, 62 ,Substitution, Wissam Ben Yedder , Breel Embolo 
+162,12,Monaco,away, 62 ,Substitution, Gelson Martins , Krépin Diatta 
+163,12,Lorient,home, 63 ,Substitution, Julien Ponceau , Bonke Innocent 
+164,12,Lorient,home, 75 ,Goal, Dango Ouattara , Enzo Le Fée 
+165,12,Lorient,home, 77 ,Goal, Terem Moffi , Dango Ouattara 
+166,12,Monaco,away, 83 ,Substitution, Ismail Jakobs , Eliesse Ben Seghir 
+167,12,Monaco,away, 83 ,Substitution, Myron Boadu , Aleksandr Golovin 
+168,12,Lorient,home, 85 ,Substitution, Ibrahima Koné , Terem Moffi 
+169,12,Lorient,home, 85 ,Substitution, Stéphane Diarra , Dango Ouattara 
+170,12,Monaco,away, 93 ,Goal, Wissam Ben Yedder , Ismail Jakobs 
+171,13,Lens,away, 4 ,Yellow card, Jean Onana ,
+172,13,Lens,away, 11 ,Goal, Alexis Claude-Maurice , Facundo Medina 
+173,13,Strasbourg,home, 13 ,Goal, Sanjin Prcic , Alexander Djiku 
+174,13,Strasbourg,home, 16 ,Goal, Kevin Gameiro ,
+175,13,Strasbourg,home, 27 ,Yellow card, Lucas Perrin ,
+176,13,Lens,away, 33 ,Goal, Loïs Openda , Florian Sotoca 
+177,13,Lens,away, 72 ,Substitution, Lukasz Poręba , Jean Onana 
+178,13,Lens,away, 73 ,Substitution, David Pereira da Costa , Alexis Claude-Maurice 
+179,13,Strasbourg,home, 73 ,Substitution, Habib Diallo , Kevin Gameiro 
+180,13,Strasbourg,home, 73 ,Substitution, Ibrahima Sissoko , Habib Diarra 
+181,13,Strasbourg,home, 78 ,Substitution, Maxime Le Marchand , Alexander Djiku 
+182,13,Lens,away, 79 ,Substitution, Massadio Haidara , Deiver Machado 
+183,13,Lens,away, 80 ,Substitution, Rémy Labeau Lascary , Loïs Openda 
+184,13,Strasbourg,home, 84 ,Substitution, Jean Aholou , Sanjin Prcic 
+185,13,Strasbourg,home, 84 ,Substitution, Lebo Mothiba , Ludovic Ajorque 
+186,14,Nice,home, 15 ,Goal, Nicolas Pepe , Khéphren Thuram 
+187,14,Nice,home, 35 ,Goal, Khéphren Thuram , Dante 
+188,14,Nice,home, 43 ,Substitution, Mario Lemina , Hicham Boudaoui 
+189,14,Montpellier,away, 45 ,Substitution, Arnaud Nordin , Béni Makouana 
+190,14,Nice,home, 56 ,Goal, Nicolas Pepe , Aaron Ramsey 
+191,14,Montpellier,away, 61 ,Substitution, Wahbi Khazri , Léo Leroy 
+192,14,Montpellier,away, 61 ,Substitution, Valere Germain , Stephy Mavididi 
+193,14,Montpellier,away, 63 ,Yellow card, Wahbi Khazri ,
+194,14,Nice,home, 63 ,Yellow card, Nicolas Pepe ,
+195,14,Nice,home, 67 ,Substitution, Ross Barkley , Aaron Ramsey 
+196,14,Nice,home, 67 ,Substitution, Andy Delort , Sofiane Diop 
+197,14,Nice,home, 67 ,Substitution, Badredine Bouanani , Nicolas Pepe 
+198,14,Montpellier,away, 74 ,Substitution, Mamadou Sakho , Maxime Estève 
+199,14,Nice,home, 75 ,Goal, Andy Delort , Gaetan Laborde 
+200,14,Nice,home, 78 ,Substitution, Pablo Rosario , Khéphren Thuram 
+201,14,Montpellier,away, 80 ,Goal, Téji Savanier ,
+202,14,Nice,home, 82 ,Goal, Ross Barkley , Badredine Bouanani 
+203,14,Nice,home, 85 ,Goal, Ross Barkley , Andy Delort 
+204,15,PSG,home, 5 ,Goal, Hugo Ekitike , Nordi Mukiele 
+205,15,Angers,away, 53 ,Yellow card, Pierrick Capelle ,
+206,15,Angers,away, 61 ,Substitution, Amine Salama , Adrien Hunou 
+207,15,Angers,away, 62 ,Substitution, Farid El Melali , Pierrick Capelle 
+208,15,Angers,away, 62 ,Substitution, Sofiane Boufal , Himad Abdelli 
+209,15,PSG,home, 72 ,Goal, Lionel Messi , Nordi Mukiele 
+210,15,PSG,home, 79 ,Substitution, Warren Zaïre-Emery , Fabian Ruiz 
+211,15,PSG,home, 79 ,Substitution, Carlos Soler , Hugo Ekitike 
+212,15,Angers,away, 80 ,Substitution, Waniss Taibi , Batista Mendy 
+213,15,Angers,away, 80 ,Substitution, Sada Thioub , Abdallah Sima 
+214,15,PSG,home, 86 ,Substitution, El Bitshiabu , Vitinha 
+215,15,Angers,away, 89 ,Yellow card, Miha Blažič ,
+216,15,PSG,home, 92 ,Yellow card, Neymar ,
+217,16,Clermont,home, 31 ,Goal, Grejohn Kyei , Saifeddine Khaoui 
+218,16,Rennes,away, 47 ,Yellow card, Benjamin Bourigeaud ,
+219,16,Rennes,away, 60 ,Substitution, Lovro Majer , Flavien Tait 
+220,16,Rennes,away, 61 ,Substitution, Désiré Doué , Jérémy Doku 
+221,16,Rennes,away, 74 ,Goal, Arnaud Kalimuendo , Benjamin Bourigeaud 
+222,16,Rennes,away, 75 ,Substitution, Birger Meling , Adrien Truffert 
+223,16,Rennes,away, 77 ,Second yellow card, Benjamin Bourigeaud ,
+224,16,Clermont,home, 78 ,Substitution, Mehdi Zeffane , Jim Allevinah 
+225,16,Clermont,home, 79 ,Substitution, Komnen Andrić , Grejohn Kyei 
+226,16,Rennes,away, 83 ,Red card, Warmed Omari ,
+227,16,Rennes,away, 85 ,Substitution, Christopher Wooh , Amine Gouiri 
+228,16,Clermont,home, 90 ,Substitution, Florent Ogier , Mateusz Wieteska 
+229,16,Clermont,home, 90 ,Substitution, Muhammed Cham , Saifeddine Khaoui 
+230,16,Clermont,home, 95 ,Goal, Johan Gastien , Komnen Andrić 
+231,17,Nantes,home, 50 ,Substitution, Charles Traoré , Quentin Merlin 
+232,17,Olympique Lyonnais,away, 54 ,Yellow card, Tetê ,
+233,17,Nantes,home, 68 ,Substitution, Marcus Coco , Evann Guessand 
+234,17,Nantes,home, 68 ,Substitution, Ignatius Ganago , Mostafa Mohamed 
+235,17,Olympique Lyonnais,away, 69 ,Substitution, Corentin Tolisso , Johann Lepenant 
+236,17,Nantes,home, 69 ,Yellow card, Charles Traoré ,
+237,17,Olympique Lyonnais,away, 69 ,Substitution, Rayan Cherki , Tetê 
+238,17,Olympique Lyonnais,away, 76 ,Yellow card, Castello Lukeba ,
+239,17,Nantes,home, 83 ,Substitution, Lohann Doucet , Pedro Chirivella 
+240,17,Nantes,home, 83 ,Substitution, Sebastien Corchia , Moses Simon 
+241,17,Olympique Lyonnais,away, 85 ,Yellow card, Sael Kumbedi ,
+242,17,Olympique Lyonnais,away, 85 ,Substitution, Jeff Reine-Adelaide , Maxence Caqueret 
+243,17,Nantes,home, 94 ,Yellow card, Sebastien Corchia ,
+244,18,Brest,home, 51 ,Substitution, Jérémy Le Douaron , Mathias Pereira Lage 
+245,18,Lille,away, 74 ,Substitution, Mohamed Bayo , Angel Gomes 
+246,18,Lille,away, 74 ,Substitution, André Gomes , Carlos Baleba 
+247,18,Brest,home, 76 ,Substitution, Islam Slimani , Steve Mounie 
+248,18,Lille,away, 83 ,Substitution, Tim Weah , Adam Ounas 
+249,18,Brest,home, 88 ,Substitution, Noah Fadiga , Kenny Lala 
+250,18,Brest,home, 88 ,Substitution, Lilian Brassier , Jean Duverne 
+251,18,Brest,home, 89 ,Substitution, Axel Camblan , Franck Honorat 
+252,18,Lille,away, 96 ,Yellow card, Remy Cabella ,
+253,19,Toulouse,away, 4 ,Goal, Farès Chaïbi , Branco Van den Boomen 
+254,19,Toulouse,away, 33 ,Goal, Anthony Rouault ,
+255,19,Toulouse,away, 41 ,Penalty, Branco Van den Boomen , Penalty 
+256,19,Auxerre,home, 43 ,Yellow card, Niang ,
+257,19,Toulouse,away, 44 ,Yellow card, Issiaga Sylla ,
+258,19,Auxerre,home, 45 ,Substitution, Gaetan Perrin , Matthis Abline 
+259,19,Auxerre,home, 45 ,Substitution, Youssouf M'Changama , Akim Zedadka 
+260,19,Auxerre,home, 55 ,Yellow card, Gideon Mensah ,
+261,19,Toulouse,away, 60 ,Substitution, Zakaria Aboukhlal , Brecht Dejaegere 
+262,19,Auxerre,home, 67 ,Substitution, Nuno da Costa , Lassine Sinayoko 
+263,19,Auxerre,home, 67 ,Substitution, Gauthier Hein , Hamza Sakhi 
+264,19,Toulouse,away, 72 ,Substitution, Warren Kamanzi , Issiaga Sylla 
+265,19,Toulouse,away, 73 ,Substitution, Veljko Birmančević , Rafael Ratão 
+266,19,Toulouse,away, 75 ,Goal, Zakaria Aboukhlal , Moussa Diarra 
+267,19,Auxerre,home, 77 ,Substitution, S Touré , Gideon Mensah 
+268,19,Toulouse,away, 79 ,Substitution, Naatan Skyttä , Branco Van den Boomen 
+269,19,Toulouse,away, 79 ,Substitution, Thijs Dallinga , Ado Onaiwu 
+270,19,Auxerre,home, 88 ,Yellow card, Jubal ,
+271,19,Toulouse,away, 88 ,Goal, Thijs Dallinga , Zakaria Aboukhlal 
+272,20,Reims,away, 3 ,Goal, Marshall Munetsi , Emmanuel Agbadou 
+273,20,Ajaccio,home, 16 ,Yellow card, Mohamed Youssouf ,
+274,20,Ajaccio,home, 19 ,Yellow card, Riad Nouri ,
+275,20,Reims,away, 45 ,Substitution, Jens Cajuste , Alexis Flips 
+276,20,Reims,away, 50 ,Yellow card, Thibault De Smet ,
+277,20,Reims,away, 59 ,Substitution, Mitchell van Bergen , Arbër Zeneli 
+278,20,Ajaccio,home, 65 ,Substitution, Youcef Belaïli , Bevic Moussiti-Oko 
+279,20,Reims,away, 70 ,Yellow card, Folarin Balogun ,
+280,20,Ajaccio,home, 70 ,Yellow card, Mounaïm El Idrissy ,
+281,20,Reims,away, 76 ,Substitution, Kaj Sierhuis , Folarin Balogun 
+282,20,Ajaccio,home, 77 ,Substitution, Jean Botué , Mounaïm El Idrissy 
+283,20,Ajaccio,home, 77 ,Substitution, Florian Chabrolle , Vincent Marchetti 
+284,20,Reims,away, 77 ,Substitution, Martin Adeline , Marshall Munetsi 
+285,20,Reims,away, 81 ,Yellow card, Martin Adeline ,
+286,20,Ajaccio,home, 88 ,Substitution, Clément Vidal , Cyrille Bayala 
+287,20,Reims,away, 88 ,Substitution, Rafik Guitane , Junya Ito 
+288,20,Ajaccio,home, 88 ,Substitution, Mickaël Alphonse , Thomas Mangani 
+289,21,Rennes,home, 5 ,Goal, Martin Terrier ,
+290,21,Rennes,home, 17 ,Disallowed goal,Disallowed goal,
+291,21,Nice,away, 21 ,Goal, Ross Barkley , Jordan Lotomba 
+292,21,Rennes,home, 36 ,Substitution, Jérémy Doku , Martin Terrier 
+293,21,Nice,away, 67 ,Substitution, Sofiane Diop , Ross Barkley 
+294,21,Nice,away, 68 ,Substitution, Billal Brahimi , Mario Lemina 
+295,21,Rennes,home, 72 ,Substitution, Flavien Tait , Lovro Majer 
+296,21,Rennes,home, 72 ,Substitution, Adrien Truffert , Birger Meling 
+297,21,Rennes,home, 79 ,Yellow card, Benjamin Bourigeaud ,
+298,21,Rennes,home, 84 ,Substitution, Kamaldeen Sulemana , Arnaud Kalimuendo 
+299,21,Nice,away, 85 ,Yellow card, Melvin Bard ,
+300,21,Rennes,home, 89 ,Goal, Benjamin Bourigeaud , Flavien Tait 
+301,22,Marseille,away, 7 ,Yellow card, Chancel Mbemba ,
+302,22,Marseille,away, 25 ,Substitution, Issa Kaboré , Jonathan Clauss 
+303,22,Marseille,away, 47 ,Goal, Nuno Tavares ,
+304,22,Montpellier,home, 52 ,Yellow card, Jordan Ferri ,
+305,22,Marseille,away, 61 ,Own goal, Maxime Estève , Own goal 
+306,22,Montpellier,home, 63 ,Substitution, Nicolas Cozza , Faitout Maouassa 
+307,22,Montpellier,home, 63 ,Substitution, Béni Makouana , Arnaud Nordin 
+308,22,Marseille,away, 66 ,Substitution, Pape Gueye , Jordan Veretout 
+309,22,Marseille,away, 66 ,Substitution, Matteo Guendouzi , Dimitri Payet 
+310,22,Marseille,away, 66 ,Substitution, Leonardo Balerdi , Eric Bailly 
+311,22,Montpellier,home, 78 ,Substitution, Arnaud Souquet , Falaye Sacko 
+312,22,Montpellier,home, 78 ,Substitution, Joris Chotard , Jordan Ferri 
+313,22,Montpellier,home, 81 ,Substitution, Valere Germain , Elye Wahi 
+314,22,Marseille,away, 84 ,Substitution, Bamba Dieng , Alexis Sanchez 
+315,22,Montpellier,home, 86 ,Yellow card, Christopher Jullien ,
+316,22,Marseille,away, 87 ,Red card, Nuno Tavares ,
+317,22,Marseille,away, 90 ,Yellow card, Pau Lopez ,
+318,22,Montpellier,home, 91 ,Penalty, Téji Savanier , Penalty 
+319,23,Reims,away, 29 ,Yellow card, Yunis Abdelhamid ,
+320,23,Lille,home, 32 ,Goal, Jonathan David ,
+321,23,Lille,home, 45 ,Substitution, Alexsandro Ribeiro , Jose Fonte 
+322,23,Reims,away, 56 ,Substitution, Jens Cajuste , Alexis Flips 
+323,23,Lille,home, 59 ,Substitution, Adam Ounas , Edon Zhegrova 
+324,23,Lille,home, 70 ,Substitution, Alan Virginius , Jonathan David 
+325,23,Reims,away, 71 ,Substitution, Arbër Zeneli , Mitchell van Bergen 
+326,23,Reims,away, 71 ,Substitution, Maxime Busi , Thomas Foket 
+327,23,Reims,away, 71 ,Substitution, Dion Lopy , Azor Matusiwa 
+328,23,Reims,away, 79 ,Goal, Jens Cajuste , Thibault De Smet 
+329,23,Lille,home, 84 ,Substitution, Tim Weah , Bafodé Diakité 
+330,23,Lille,home, 84 ,Substitution, André Gomes , Angel Gomes 
+331,23,Lille,home, 85 ,Yellow card, Alexsandro Ribeiro ,
+332,23,Reims,away, 85 ,Substitution, Andreaw Gravillon , Thibault De Smet 
+333,24,Troyes,away, 16 ,Goal, Renaud Ripart ,
+334,24,Troyes,away, 20 ,Goal, Rony Lopes ,
+335,24,Strasbourg,home, 41 ,Goal, Habib Diallo , Jeanricner Bellegarde 
+336,24,Strasbourg,home, 54 ,Goal, Ismaël Doukouré , Jeanricner Bellegarde 
+337,24,Troyes,away, 55 ,Substitution, Yasser Larouci , Wilson Odobert 
+338,24,Strasbourg,home, 60 ,Yellow card, Ismaël Doukouré ,
+339,24,Troyes,away, 61 ,Yellow card, Yasser Larouci ,
+340,24,Strasbourg,home, 67 ,Substitution, Kevin Gameiro , Habib Diarra 
+341,24,Troyes,away, 70 ,Yellow card, Thierno Baldé ,
+342,24,Troyes,away, 70 ,Yellow card, Abdu Conté ,
+343,24,Strasbourg,home, 73 ,Substitution, Ronaël Pierre-Gabriel , Ismaël Doukouré 
+344,24,Troyes,away, 73 ,Substitution, Florian Tardieu , Renaud Ripart 
+345,24,Troyes,away, 73 ,Substitution, Iké Ugbo , Rominigue Kouamé 
+346,24,Troyes,away, 78 ,Goal, Xavier Chavalerin , Rony Lopes 
+347,24,Troyes,away, 79 ,Substitution, Tristan Dingomé , Rony Lopes 
+348,24,Strasbourg,home, 83 ,Substitution, Ibrahima Sissoko , Sanjin Prcic 
+349,24,Strasbourg,home, 83 ,Substitution, Jean Aholou , Jeanricner Bellegarde 
+350,25,Lens,home, 5 ,Goal, Przemysław Frankowski ,
+351,25,PSG,away, 8 ,Goal, Hugo Ekitike ,
+352,25,Lens,home, 28 ,Goal, Loïs Openda , Seko Fofana 
+353,25,Lens,home, 41 ,Yellow card, Salis Abdul Samed ,
+354,25,PSG,away, 48 ,Yellow card, Achraf Hakimi ,
+355,25,Lens,home, 48 ,Yellow card, Jonathan Gradit ,
+356,25,Lens,home, 47 ,Goal, Alexis Claude-Maurice , Loïs Openda 
+357,25,PSG,away, 57 ,Substitution, Pablo Sarabia , Danilo Pereira 
+358,25,PSG,away, 58 ,Substitution, Vitinha , Fabian Ruiz 
+359,25,Lens,home, 73 ,Substitution, Wesley Said , Loïs Openda 
+360,25,Lens,home, 73 ,Substitution, Jean Onana , Alexis Claude-Maurice 
+361,25,PSG,away, 73 ,Substitution, Warren Zaïre-Emery , Hugo Ekitike 
+362,25,PSG,away, 78 ,Substitution, Ismaël Gharbi , Carlos Soler 
+363,25,PSG,away, 88 ,Yellow card, Ismaël Gharbi ,
+364,25,PSG,away, 94 ,Yellow card, Marco Verratti ,
+365,25,Lens,home, 95 ,Substitution, Lukasz Poręba , Seko Fofana 
+366,26,Clermont,away, 4 ,Yellow card, Mateusz Wieteska ,
+367,26,Clermont,away, 46 ,Yellow card, Saifeddine Khaoui ,
+368,26,Olympique Lyonnais,home, 70 ,Yellow card, Sael Kumbedi ,
+369,26,Clermont,away, 72 ,Substitution, Muhammed Cham , Jim Allevinah 
+370,26,Clermont,away, 72 ,Substitution, Jérémie Bela , Elbasan Rashani 
+371,26,Olympique Lyonnais,home, 73 ,Substitution, Moussa Dembele , Rayan Cherki 
+372,26,Olympique Lyonnais,home, 73 ,Substitution, Romain Faivre , Tetê 
+373,26,Olympique Lyonnais,home, 74 ,Substitution, Houssem Aouar , Maxence Caqueret 
+374,26,Clermont,away, 81 ,Substitution, Grejohn Kyei , Komnen Andrić 
+375,26,Clermont,away, 87 ,Penalty, Muhammed Cham , Penalty 
+376,26,Olympique Lyonnais,home, 87 ,Substitution, Jeff Reine-Adelaide , Alexandre Lacazette 
+377,26,Clermont,away, 88 ,Yellow card, Muhammed Cham ,
+378,26,Clermont,away, 90 ,Substitution, Brandon Baiye , Saifeddine Khaoui 
+379,26,Olympique Lyonnais,home, 93 ,Substitution, Bradley Barcola , Thiago Mendes 
+380,27,Angers,home, 4 ,Yellow card, Pierrick Capelle ,
+381,27,Angers,home, 10 ,Goal, Abdallah Sima , Pierrick Capelle 
+382,27,Angers,home, 30 ,Yellow card, Farid El Melali ,
+383,27,Angers,home, 52 ,Yellow card, Cedric Hountondji ,
+384,27,Angers,home, 58 ,Substitution, Ilyés Chetti , Souleyman Doumbia 
+385,27,Lorient,away, 61 ,Substitution, Julien Ponceau , Bonke Innocent 
+386,27,Angers,home, 70 ,Substitution, Amine Salama , Farid El Melali 
+387,27,Lorient,away, 76 ,Substitution, Ibrahima Koné , Laurent Abergel 
+388,27,Angers,home, 76 ,Substitution, Nabil Bentaleb , Himad Abdelli 
+389,27,Lorient,away, 76 ,Substitution, Siriné Doucouré , Yoann Cathline 
+390,27,Lorient,away, 79 ,Own goal, Abdallah Sima , Own goal 
+391,27,Lorient,away, 88 ,Goal, Enzo Le Fée , Ibrahima Koné 
+392,28,Auxerre,away, 21 ,Yellow card, Gideon Mensah ,
+393,28,Auxerre,away, 45 ,Substitution, Youssouf M'Changama , Gaetan Perrin 
+394,28,Auxerre,away, 45 ,Substitution, Mathias Autret , Nuno da Costa 
+395,28,Nantes,home, 64 ,Substitution, Marcus Coco , Moses Simon 
+396,28,Nantes,home, 64 ,Substitution, Mostafa Mohamed , Evann Guessand 
+397,28,Nantes,home, 74 ,Goal, Marcus Coco , Ignatius Ganago 
+398,28,Auxerre,away, 78 ,Substitution, Ousmane Camara , Lassine Sinayoko 
+399,28,Auxerre,away, 78 ,Substitution, Gauthier Hein , Hamza Sakhi 
+400,28,Nantes,home, 79 ,Substitution, Moussa Sissoko , Ignatius Ganago 
+401,28,Auxerre,away, 82 ,Yellow card, Ousmane Camara ,
+402,28,Nantes,home, 87 ,Substitution, Quentin Merlin , Charles Traoré 
+403,28,Nantes,home, 87 ,Substitution, Sebastien Corchia , Ludovic Blas 
+404,28,Nantes,home, 91 ,Yellow card, Samuel Moutoussamy ,
+405,29,Brest,away, 12 ,Substitution, Jérémy Le Douaron , Romain Del Castillo 
+406,29,Brest,away, 25 ,Yellow card, Noah Fadiga ,
+407,29,Monaco,home, 40 ,Yellow card, Eliesse Ben Seghir ,
+408,29,Monaco,home, 54 ,Goal, Aleksandr Golovin , Mohamed Camara 
+409,29,Brest,away, 69 ,Yellow card, Islam Slimani ,
+410,29,Monaco,home, 70 ,Substitution, Ruben Aguilar , Vanderson 
+411,29,Brest,away, 70 ,Substitution, Mathias Pereira Lage , Islam Slimani 
+412,29,Monaco,home, 70 ,Substitution, Gelson Martins , Krépin Diatta 
+413,29,Brest,away, 70 ,Substitution, Steve Mounie , Mahdi Camara 
+414,29,Brest,away, 76 ,Yellow card, Mathias Pereira Lage ,
+415,29,Monaco,home, 77 ,Yellow card, Aleksandr Golovin ,
+416,29,Brest,away, 77 ,Yellow card, Pierre Lees-Melou ,
+417,29,Monaco,home, 78 ,Substitution, Myron Boadu , Eliesse Ben Seghir 
+418,29,Monaco,home, 79 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+419,29,Brest,away, 80 ,Substitution, Haris Belkebla , Hugo Magnetti 
+420,29,Brest,away, 80 ,Substitution, Jean Duverne , Jere Uronen 
+421,29,Monaco,home, 88 ,Substitution, Malang Sarr , Caio Henrique 
+422,29,Monaco,home, 95 ,Yellow card, Malang Sarr ,
+423,30,Toulouse,home, 13 ,Disallowed goal,Disallowed goal,
+424,30,Toulouse,home, 37 ,Yellow card, Branco Van den Boomen ,
+425,30,Ajaccio,away, 45 ,Substitution, Thomas Mangani , Mounaïm El Idrissy 
+426,30,Toulouse,home, 46 ,Goal, Rafael Ratão , Brecht Dejaegere 
+427,30,Toulouse,home, 56 ,Yellow card, Brecht Dejaegere ,
+428,30,Ajaccio,away, 59 ,Substitution, Fernand Mayembo , Youssouf Kone 
+429,30,Toulouse,home, 62 ,Goal, Brecht Dejaegere , Rafael Ratão 
+430,30,Toulouse,home, 70 ,Substitution, Zakaria Aboukhlal , Brecht Dejaegere 
+431,30,Toulouse,home, 70 ,Substitution, Thijs Dallinga , Ado Onaiwu 
+432,30,Ajaccio,away, 72 ,Substitution, Bevic Moussiti-Oko , Yoann Touzghar 
+433,30,Ajaccio,away, 72 ,Substitution, Cyrille Bayala , Youcef Belaïli 
+434,30,Ajaccio,away, 78 ,Yellow card, Bevic Moussiti-Oko ,
+435,30,Toulouse,home, 79 ,Substitution, Veljko Birmančević , Rafael Ratão 
+436,30,Toulouse,home, 83 ,Substitution, Christian Mawissa Elebi , Moussa Diarra 
+437,30,Ajaccio,away, 91 ,Substitution, Mickaël Alphonse , Riad Nouri 
+438,30,Toulouse,home, 94 ,Yellow card, Thijs Dallinga ,
+439,31,Lens,away, 46 ,Yellow card, Wesley Said ,
+440,31,Lens,away, 57 ,Substitution, Loïs Openda , Jean Onana 
+441,31,Lens,away, 60 ,Yellow card, Deiver Machado ,
+442,31,Lens,away, 64 ,Substitution, Massadio Haidara , Facundo Medina 
+443,31,Lens,away, 64 ,Substitution, Rémy Labeau Lascary , Wesley Said 
+444,31,Nice,home, 71 ,Substitution, Sofiane Diop , Ross Barkley 
+445,31,Nice,home, 78 ,Yellow card, Sofiane Diop ,
+446,31,Nice,home, 78 ,Yellow card, Nicolas Pepe ,
+447,31,Lens,away, 78 ,Yellow card, Jonathan Gradit ,
+448,31,Nice,home, 81 ,Substitution, Andy Delort , Gaetan Laborde 
+449,31,Lens,away, 88 ,Substitution, Julien Le Cardinal , Deiver Machado 
+450,31,Nice,home, 90 ,Substitution, Mario Lemina , Khéphren Thuram 
+451,32,Marseille,home, 13 ,Goal, Valentin Rongier , Samuel Gigot 
+452,32,Marseille,home, 41 ,Own goal, Rasmus Nicolaisen , Own goal 
+453,32,Marseille,home, 51 ,Goal, Sead Kolasinac , Pape Gueye 
+454,32,Marseille,home, 61 ,Substitution, Eric Bailly , Samuel Gigot 
+455,32,Marseille,home, 61 ,Substitution, Nuno Tavares , Sead Kolasinac 
+456,32,Marseille,home, 61 ,Goal, Dimitri Payet , Jonathan Clauss 
+457,32,Toulouse,away, 62 ,Substitution, Ado Onaiwu , Thijs Dallinga 
+458,32,Toulouse,away, 62 ,Substitution, Veljko Birmančević , Brecht Dejaegere 
+459,32,Marseille,home, 65 ,Yellow card, Jonathan Clauss ,
+460,32,Toulouse,away, 66 ,Penalty, Branco Van den Boomen , Penalty 
+461,32,Toulouse,away, 73 ,Substitution, Moussa Diarra , Issiaga Sylla 
+462,32,Toulouse,away, 73 ,Substitution, Zakaria Aboukhlal , Rafael Ratão 
+463,32,Marseille,home, 77 ,Substitution, Bamba Dieng , Dimitri Payet 
+464,32,Marseille,home, 77 ,Substitution, Jordan Veretout , Valentin Rongier 
+465,32,Toulouse,away, 78 ,Substitution, Yanis Begraoui , Farès Chaïbi 
+466,32,Toulouse,away, 79 ,Yellow card, Christian Mawissa Elebi ,
+467,32,Marseille,home, 80 ,Penalty, Cengiz Ünder , Penalty 
+468,32,Toulouse,away, 81 ,Yellow card, Branco Van den Boomen ,
+469,32,Marseille,home, 82 ,Goal, Nuno Tavares , Jonathan Clauss 
+470,32,Marseille,home, 86 ,Substitution, Salim Ben Seghir , Cengiz Ünder 
+471,33,Reims,home, 6 ,Goal, Folarin Balogun , Alexis Flips 
+472,33,Reims,home, 20 ,Yellow card, Junya Ito ,
+473,33,Reims,home, 22 ,Goal, Alexis Flips , Marshall Munetsi 
+474,33,Rennes,away, 42 ,Yellow card, Benjamin Bourigeaud ,
+475,33,Rennes,away, 46 ,Goal, Arthur Theate , Martin Terrier 
+476,33,Rennes,away, 45 ,Substitution, Birger Meling , Adrien Truffert 
+477,33,Rennes,away, 45 ,Substitution, Jérémy Doku , Amine Gouiri 
+478,33,Rennes,away, 59 ,Yellow card, Warmed Omari ,
+479,33,Rennes,away, 64 ,Substitution, Xeka , Flavien Tait 
+480,33,Reims,home, 69 ,Substitution, Kamory Doumbia , Alexis Flips 
+481,33,Reims,home, 74 ,Substitution, Mitchell van Bergen , Arbër Zeneli 
+482,33,Reims,home, 83 ,Yellow card, Folarin Balogun ,
+483,33,Rennes,away, 83 ,Substitution, Kamaldeen Sulemana , Lesley Ugochukwu 
+484,33,Reims,home, 84 ,Goal, Folarin Balogun ,
+485,33,Reims,home, 86 ,Substitution, Noah Holm , Folarin Balogun 
+486,33,Reims,home, 86 ,Substitution, Dion Lopy , Junya Ito 
+487,33,Rennes,away, 90 ,Substitution, Matthis Abline , Martin Terrier 
+488,34,Montpellier,away, 3 ,Goal, Téji Savanier ,
+489,34,Lorient,home, 7 ,Yellow card, Enzo Le Fée ,
+490,34,Montpellier,away, 22 ,Goal, Elye Wahi ,
+491,34,Montpellier,away, 28 ,Yellow card, Léo Leroy ,
+492,34,Lorient,home, 37 ,Substitution, Ibrahima Koné , Julien Ponceau 
+493,34,Lorient,home, 37 ,Substitution, Bonke Innocent , Stéphane Diarra 
+494,34,Montpellier,away, 43 ,Yellow card, Falaye Sacko ,
+495,34,Lorient,home, 50 ,Yellow card, Gédéon Kalulu ,
+496,34,Montpellier,away, 57 ,Yellow card, Jonas Omlin ,
+497,34,Lorient,home, 59 ,Yellow card, Bonke Innocent ,
+498,34,Montpellier,away, 65 ,Substitution, Joris Chotard , Léo Leroy 
+499,34,Lorient,home, 66 ,Substitution, Yoann Cathline , Enzo Le Fée 
+500,34,Montpellier,away, 72 ,Substitution, Valere Germain , Elye Wahi 
+501,34,Montpellier,away, 72 ,Substitution, Béni Makouana , Arnaud Nordin 
+502,34,Lorient,home, 81 ,Substitution, Adil Aouchiche , Laurent Abergel 
+503,34,Lorient,home, 81 ,Substitution, Chrislain Matsima , Julien Laporte 
+504,34,Montpellier,away, 86 ,Substitution, Arnaud Souquet , Stephy Mavididi 
+505,34,Montpellier,away, 90 ,Yellow card, Téji Savanier ,
+506,35,PSG,home, 14 ,Goal, Marquinhos , Neymar 
+507,35,Strasbourg,away, 49 ,Yellow card, Gerzino Nyamsi ,
+508,35,PSG,home, 50 ,Yellow card, Marco Verratti ,
+509,35,Strasbourg,away, 51 ,Own goal, Marquinhos , Own goal 
+510,35,PSG,home, 61 ,Yellow card, Neymar ,
+511,35,PSG,home, 62 ,Second yellow card, Neymar ,
+512,35,Strasbourg,away, 65 ,Substitution, Jean Aholou , Sanjin Prcic 
+513,35,PSG,home, 73 ,Substitution, Carlos Soler , Hugo Ekitike 
+514,35,PSG,home, 73 ,Substitution, Pablo Sarabia , Vitinha 
+515,35,Strasbourg,away, 78 ,Substitution, Habib Diallo , Kevin Gameiro 
+516,35,Strasbourg,away, 78 ,Substitution, Ibrahima Sissoko , Habib Diarra 
+517,35,PSG,home, 79 ,Substitution, Achraf Hakimi , El Bitshiabu 
+518,35,PSG,home, 96 ,Penalty, Kylian Mbappé , Penalty 
+519,35,PSG,home, 97 ,Yellow card, Kylian Mbappé ,
+520,36,Olympique Lyonnais,away, 21 ,Goal, Maxence Caqueret , Alexandre Lacazette 
+521,36,Brest,home, 29 ,Goal, Mathias Pereira Lage ,
+522,36,Olympique Lyonnais,away, 31 ,Yellow card, Rayan Cherki ,
+523,36,Olympique Lyonnais,away, 32 ,Goal, Rayan Cherki , Maxence Caqueret 
+524,36,Brest,home, 34 ,Yellow card, Brendan Chardonnet ,
+525,36,Olympique Lyonnais,away, 35 ,Penalty, Alexandre Lacazette , Penalty 
+526,36,Brest,home, 39 ,Yellow card, Mahdi Camara ,
+527,36,Olympique Lyonnais,away, 44 ,Yellow card, Maxence Caqueret ,
+528,36,Olympique Lyonnais,away, 49 ,Goal, Tetê , Karl Toko Ekambi 
+529,36,Olympique Lyonnais,away, 58 ,Substitution, Johann Lepenant , Corentin Tolisso 
+530,36,Brest,home, 67 ,Substitution, Hugo Magnetti , Mahdi Camara 
+531,36,Brest,home, 67 ,Substitution, Islam Slimani , Mathias Pereira Lage 
+532,36,Olympique Lyonnais,away, 70 ,Substitution, Romain Faivre , Rayan Cherki 
+533,36,Brest,home, 72 ,Goal, Steve Mounie , Romain Del Castillo 
+534,36,Brest,home, 75 ,Substitution, Christophe Hérelle , Noah Fadiga 
+535,36,Brest,home, 76 ,Substitution, Karamoko Dembélé , Franck Honorat 
+536,36,Olympique Lyonnais,away, 81 ,Substitution, Moussa Dembele , Tetê 
+537,36,Olympique Lyonnais,away, 81 ,Substitution, Thiago Mendes , Maxence Caqueret 
+538,36,Brest,home, 84 ,Substitution, Axel Camblan , Romain Del Castillo 
+539,37,Clermont,home, 5 ,Yellow card, Johan Gastien ,
+540,37,Lille,away, 31 ,Yellow card, Benjamin Andre ,
+541,37,Clermont,home, 33 ,Yellow card, Alidu Seidu ,
+542,37,Clermont,home, 47 ,Yellow card, Maximiliano Caufriez ,
+543,37,Lille,away, 68 ,Penalty, Angel Gomes , Penalty 
+544,37,Lille,away, 69 ,Substitution, Jonathan David , Alan Virginius 
+545,37,Clermont,home, 70 ,Substitution, Komnen Andrić , Grejohn Kyei 
+546,37,Clermont,home, 70 ,Substitution, Muhammed Cham , Saifeddine Khaoui 
+547,37,Lille,away, 72 ,Yellow card, Remy Cabella ,
+548,37,Lille,away, 78 ,Substitution, Tim Weah , Edon Zhegrova 
+549,37,Clermont,home, 82 ,Substitution, Maxime Gonalons , Johan Gastien 
+550,37,Clermont,home, 82 ,Substitution, Jérémie Bela , Jim Allevinah 
+551,37,Clermont,home, 87 ,Substitution, Jodel Dossou , Elbasan Rashani 
+552,37,Lille,away, 91 ,Substitution, Mohamed Bayo , Remy Cabella 
+553,37,Clermont,home, 91 ,Second yellow card, Maximiliano Caufriez ,
+554,37,Lille,away, 94 ,Goal, Mohamed Bayo , Jonathan David 
+555,38,Auxerre,home, 30 ,Penalty, Niang , Penalty 
+556,38,Auxerre,home, 34 ,Yellow card, Julian Jeanvier ,
+557,38,Monaco,away, 48 ,Penalty, Wissam Ben Yedder , Penalty 
+558,38,Monaco,away, 45 ,Substitution, Youssouf Fofana , Eliot Matazo 
+559,38,Monaco,away, 45 ,Substitution, Eliesse Ben Seghir , Wissam Ben Yedder 
+560,38,Monaco,away, 45 ,Substitution, Aleksandr Golovin , Takumi Minamino 
+561,38,Monaco,away, 58 ,Goal, Eliesse Ben Seghir , Aleksandr Golovin 
+562,38,Auxerre,home, 60 ,Substitution, Youssouf M'Changama , Mathias Autret 
+563,38,Auxerre,home, 60 ,Substitution, Nuno da Costa , Gaetan Perrin 
+564,38,Auxerre,home, 68 ,Own goal, Youssouf Fofana , Own goal 
+565,38,Monaco,away, 71 ,Substitution, Axel Disasi , Ruben Aguilar 
+566,38,Monaco,away, 77 ,Substitution, Vanderson , Gelson Martins 
+567,38,Auxerre,home, 80 ,Substitution, Gauthier Hein , Niang 
+568,38,Monaco,away, 85 ,Goal, Eliesse Ben Seghir , Ismail Jakobs 
+569,38,Auxerre,home, 86 ,Substitution, Ousmane Camara , Hamza Sakhi 
+570,38,Auxerre,home, 86 ,Substitution, Rayan Raveloson , Lassine Sinayoko 
+571,39,Nantes,away, 15 ,Yellow card, Jean-Charles Castelletto ,
+572,39,Nantes,away, 67 ,Substitution, Fabien Centonze , Sebastien Corchia 
+573,39,Nantes,away, 67 ,Substitution, Ignatius Ganago , Mostafa Mohamed 
+574,39,Troyes,home, 71 ,Substitution, Amar Ahmed Fatah , Wilson Odobert 
+575,39,Nantes,away, 75 ,Substitution, Samuel Moutoussamy , Pedro Chirivella 
+576,39,Nantes,away, 79 ,Yellow card, Fabien Centonze ,
+577,39,Nantes,away, 84 ,Substitution, Charles Traoré , Quentin Merlin 
+578,39,Nantes,away, 84 ,Substitution, Evann Guessand , Moses Simon 
+579,39,Troyes,home, 88 ,Substitution, Jackson Porozo , Yoann Salmier 
+580,40,Ajaccio,home, 40 ,Penalty, Youcef Belaïli , Penalty 
+581,40,Ajaccio,home, 55 ,Yellow card, Mohamed Youssouf ,
+582,40,Angers,away, 68 ,Substitution, Sada Thioub , Adrien Hunou 
+583,40,Ajaccio,home, 71 ,Substitution, Cyrille Bayala , Youcef Belaïli 
+584,40,Ajaccio,home, 77 ,Substitution, Bevic Moussiti-Oko , Yoann Touzghar 
+585,40,Ajaccio,home, 90 ,Substitution, Qazim Laçi , Riad Nouri 
+586,41,Marseille,away, 35 ,Goal, Alexis Sanchez ,
+587,41,Monaco,home, 45 ,Penalty, Wissam Ben Yedder , Penalty 
+588,41,Marseille,away, 62 ,Substitution, Dimitri Payet , Amine Harit 
+589,41,Monaco,home, 72 ,Goal, Kevin Volland , Aleksandr Golovin 
+590,41,Marseille,away, 73 ,Substitution, Bamba Dieng , Jonathan Clauss 
+591,41,Marseille,away, 73 ,Substitution, Cengiz Ünder , Matteo Guendouzi 
+592,41,Monaco,home, 78 ,Substitution, Breel Embolo , Wissam Ben Yedder 
+593,41,Marseille,away, 78 ,Yellow card, Alexis Sanchez ,
+594,41,Monaco,home, 82 ,Yellow card, Breel Embolo ,
+595,41,Marseille,away, 82 ,Substitution, Pape Gueye , Valentin Rongier 
+596,41,Marseille,away, 83 ,Goal, Jordan Veretout , Dimitri Payet 
+597,41,Marseille,away, 83 ,Substitution, Sead Kolasinac , Samuel Gigot 
+598,41,Monaco,home, 85 ,Yellow card, Axel Disasi ,
+599,41,Monaco,home, 95 ,Substitution, Vanderson , Krépin Diatta 
+600,41,Monaco,home, 95 ,Substitution, Ismail Jakobs , Kevin Volland 
+601,41,Monaco,home, 95 ,Yellow card, Vanderson ,
+602,41,Marseille,away, 98 ,Goal, Sead Kolasinac , Dimitri Payet 
+603,42,Lorient,away, 5 ,Goal, Terem Moffi ,
+604,42,Strasbourg,home, 22 ,Yellow card, Jean Aholou ,
+605,42,Lorient,away, 26 ,Yellow card, Bonke Innocent ,
+606,42,Strasbourg,home, 42 ,Yellow card, Adrien Thomasson ,
+607,42,Strasbourg,home, 45 ,Substitution, Thomas Delaine , Maxime Le Marchand 
+608,42,Strasbourg,home, 64 ,Substitution, Habib Diallo , Jean Aholou 
+609,42,Strasbourg,home, 72 ,Substitution, Lebo Mothiba , Adrien Thomasson 
+610,42,Strasbourg,home, 72 ,Substitution, Karol Fila , Ronaël Pierre-Gabriel 
+611,42,Lorient,away, 76 ,Substitution, Chrislain Matsima , Julien Ponceau 
+612,42,Strasbourg,home, 83 ,Substitution, Sanjin Prcic , Dimitri Liénard 
+613,42,Strasbourg,home, 85 ,Yellow card, Jeanricner Bellegarde ,
+614,42,Strasbourg,home, 87 ,Goal, Habib Diallo , Jeanricner Bellegarde 
+615,42,Strasbourg,home, 89 ,Yellow card, Dimitri Liénard ,
+616,43,Angers,away, 34 ,Disallowed goal,Disallowed goal,
+617,43,Lille,home, 36 ,Goal, Tiago Djaló , Remy Cabella 
+618,43,Angers,away, 45 ,Yellow card, Pierrick Capelle ,
+619,43,Lille,home, 62 ,Yellow card, Angel Gomes ,
+620,43,Lille,home, 62 ,Substitution, Carlos Baleba , Angel Gomes 
+621,43,Lille,home, 65 ,Yellow card, Jose Fonte ,
+622,43,Lille,home, 74 ,Red card, Carlos Baleba ,
+623,43,Lille,home, 77 ,Substitution, Jonas Martin , Adam Ounas 
+624,43,Angers,away, 84 ,Substitution, Sada Thioub , Amine Salama 
+625,43,Angers,away, 84 ,Substitution, Waniss Taibi , Nabil Bentaleb 
+626,43,Angers,away, 85 ,Substitution, Antonin Bobichon , Farid El Melali 
+627,43,Lille,home, 87 ,Substitution, Akim Zedadka , Remy Cabella 
+628,43,Lille,home, 87 ,Substitution, Mohamed Bayo , Jonathan David 
+629,43,Lille,home, 94 ,Yellow card, Jonas Martin ,
+630,44,Ajaccio,away, 35 ,Yellow card, Youssouf Kone ,
+631,44,Nantes,home, 37 ,Yellow card, Ludovic Blas ,
+632,44,Ajaccio,away, 46 ,Yellow card, Riad Nouri ,
+633,44,Nantes,home, 46 ,Yellow card, Jean-Charles Castelletto ,
+634,44,Ajaccio,away, 51 ,Yellow card, Oumar Gonzalez ,
+635,44,Ajaccio,away, 57 ,Penalty, Youcef Belaïli , Penalty 
+636,44,Nantes,home, 59 ,Substitution, Ignatius Ganago , Evann Guessand 
+637,44,Nantes,home, 62 ,Yellow card, Andrei Girotto ,
+638,44,Ajaccio,away, 66 ,Goal, Romain Hamouma , Youcef Belaïli 
+639,44,Nantes,home, 70 ,Goal, Ludovic Blas , Mostafa Mohamed 
+640,44,Ajaccio,away, 72 ,Substitution, Cyrille Bayala , Youcef Belaïli 
+641,44,Ajaccio,away, 72 ,Substitution, Bevic Moussiti-Oko , Romain Hamouma 
+642,44,Ajaccio,away, 81 ,Substitution, Thomas Mangani , Mounaïm El Idrissy 
+643,44,Nantes,home, 82 ,Substitution, Dennis Appiah , Sebastien Corchia 
+644,44,Nantes,home, 82 ,Substitution, Samuel Moutoussamy , Quentin Merlin 
+645,44,Nantes,home, 88 ,Substitution, Kader Bamba , Pedro Chirivella 
+646,44,Nantes,home, 89 ,Goal, Moses Simon , Samuel Moutoussamy 
+647,44,Ajaccio,away, 89 ,Substitution, Qazim Laçi , Mathieu Coutadeur 
+648,44,Ajaccio,away, 89 ,Substitution, Mickaël Alphonse , Riad Nouri 
+649,44,Ajaccio,away, 90 ,Yellow card, Vincent Marchetti ,
+650,45,Reims,away, 24 ,Yellow card, Yehvann Diouf ,
+651,45,Montpellier,home, 27 ,Yellow card, Arnaud Souquet ,
+652,45,Montpellier,home, 40 ,Yellow card, Léo Leroy ,
+653,45,Reims,away, 58 ,Substitution, Marshall Munetsi , Kamory Doumbia 
+654,45,Reims,away, 58 ,Substitution, Folarin Balogun , Noah Holm 
+655,45,Montpellier,home, 65 ,Substitution, Arnaud Nordin , Téji Savanier 
+656,45,Montpellier,home, 66 ,Substitution, Faitout Maouassa , Arnaud Souquet 
+657,45,Reims,away, 72 ,Yellow card, Jens Cajuste ,
+658,45,Montpellier,home, 76 ,Substitution, Valere Germain , Stephy Mavididi 
+659,45,Reims,away, 77 ,Substitution, Mitchell van Bergen , Arbër Zeneli 
+660,45,Reims,away, 77 ,Substitution, Thomas Foket , Ibrahim Diakité 
+661,45,Reims,away, 83 ,Substitution, Bradley Locko , Thibault De Smet 
+662,45,Reims,away, 87 ,Goal, Marshall Munetsi , Mitchell van Bergen 
+663,45,Montpellier,home, 89 ,Substitution, Khalil Fayad , Léo Leroy 
+664,45,Montpellier,home, 89 ,Substitution, Sacha Delaye , Maxime Estève 
+665,45,Montpellier,home, 91 ,Goal, Sacha Delaye ,
+666,46,Brest,home, 2 ,Disallowed goal,Disallowed goal,
+667,46,Troyes,away, 34 ,Yellow card, Rominigue Kouamé ,
+668,46,Troyes,away, 36 ,Yellow card, Rony Lopes ,
+669,46,Brest,home, 55 ,Penalty, Romain Del Castillo , Penalty 
+670,46,Troyes,away, 60 ,Own goal, Brendan Chardonnet , Own goal 
+671,46,Troyes,away, 65 ,Substitution, Wilson Odobert , Renaud Ripart 
+672,46,Brest,home, 68 ,Substitution, Steve Mounie , Mathias Pereira Lage 
+673,46,Brest,home, 68 ,Substitution, Christophe Hérelle , Noah Fadiga 
+674,46,Brest,home, 77 ,Penalty, Steve Mounie , Penalty 
+675,46,Brest,home, 78 ,Substitution, Haris Belkebla , Mahdi Camara 
+676,46,Troyes,away, 79 ,Substitution, Tristan Dingomé , Yasser Larouci 
+677,46,Brest,home, 80 ,Yellow card, Christophe Hérelle ,
+678,46,Troyes,away, 80 ,Red card, Mama Baldé ,
+679,46,Troyes,away, 84 ,Substitution, Iké Ugbo , Rony Lopes 
+680,46,Brest,home, 84 ,Substitution, Jérémy Le Douaron , Islam Slimani 
+681,46,Brest,home, 84 ,Substitution, Karamoko Dembélé , Romain Del Castillo 
+682,46,Brest,home, 86 ,Yellow card, Brendan Chardonnet ,
+683,46,Brest,home, 89 ,Yellow card, Marco Bizot ,
+684,47,PSG,home, 11 ,Goal, Kylian Mbappé , Nuno Mendes 
+685,47,PSG,home, 51 ,Goal, Carlos Soler ,
+686,47,Auxerre,away, 57 ,Substitution, Gauthier Hein , Paul Joly 
+687,47,PSG,home, 57 ,Goal, Achraf Hakimi , Carlos Soler 
+688,47,Auxerre,away, 58 ,Substitution, Nuno da Costa , Niang 
+689,47,Auxerre,away, 58 ,Substitution, Gaetan Perrin , Lassine Sinayoko 
+690,47,PSG,home, 61 ,Substitution, Renato Sanches , Carlos Soler 
+691,47,Auxerre,away, 69 ,Substitution, Gaetan Charbonnier , Mathias Autret 
+692,47,PSG,home, 75 ,Substitution, Pablo Sarabia , Lionel Messi 
+693,47,PSG,home, 75 ,Substitution, Hugo Ekitike , Neymar 
+694,47,PSG,home, 75 ,Substitution, Presnel Kimpembe , Sergio Ramos 
+695,47,PSG,home, 81 ,Goal, Renato Sanches , Hugo Ekitike 
+696,47,PSG,home, 82 ,Substitution, Warren Zaïre-Emery , Marco Verratti 
+697,47,Auxerre,away, 84 ,Substitution, Youssouf M'Changama , Hamza Sakhi 
+698,47,PSG,home, 84 ,Goal, Hugo Ekitike ,
+699,48,Rennes,home, 25 ,Goal, Benjamin Bourigeaud ,
+700,48,Toulouse,away, 35 ,Substitution, Moussa Diarra , Kévin Keben 
+701,48,Toulouse,away, 45 ,Substitution, Brecht Dejaegere , Zakaria Aboukhlal 
+702,48,Toulouse,away, 55 ,Goal, Thijs Dallinga , Rasmus Nicolaisen 
+703,48,Rennes,home, 58 ,Goal, Arnaud Kalimuendo ,
+704,48,Toulouse,away, 60 ,Substitution, Ado Onaiwu , Rafael Ratão 
+705,48,Rennes,home, 74 ,Substitution, Xeka , Lovro Majer 
+706,48,Rennes,home, 74 ,Substitution, Flavien Tait , Arnaud Kalimuendo 
+707,48,Toulouse,away, 74 ,Substitution, Veljko Birmančević , Thijs Dallinga 
+708,48,Rennes,home, 80 ,Substitution, Jérémy Doku , Lesley Ugochukwu 
+709,49,Clermont,away, 39 ,Own goal, Salis Abdul Samed , Own goal 
+710,49,Clermont,away, 42 ,Yellow card, Grejohn Kyei ,
+711,49,Clermont,away, 46 ,Yellow card, Johan Gastien ,
+712,49,Lens,home, 60 ,Goal, Wesley Said , Florian Sotoca 
+713,49,Lens,home, 64 ,Substitution, Loïs Openda , Wesley Said 
+714,49,Lens,home, 65 ,Yellow card, Salis Abdul Samed ,
+715,49,Clermont,away, 67 ,Substitution, Jim Allevinah , Grejohn Kyei 
+716,49,Clermont,away, 68 ,Substitution, Baila Diallo , Elbasan Rashani 
+717,49,Lens,home, 68 ,Goal, Seko Fofana , Jonathan Gradit 
+718,49,Lens,home, 74 ,Substitution, Alexis Claude-Maurice , David Pereira da Costa 
+719,49,Clermont,away, 75 ,Substitution, Muhammed Cham , Saifeddine Khaoui 
+720,49,Clermont,away, 85 ,Yellow card, Komnen Andrić ,
+721,49,Clermont,away, 86 ,Substitution, Maxime Gonalons , Johan Gastien 
+722,49,Clermont,away, 86 ,Substitution, Brandon Baiye , Yohann Magnin 
+723,49,Lens,home, 89 ,Substitution, Jean Onana , Florian Sotoca 
+724,49,Lens,home, 90 ,Substitution, Ismaël Boura , Deiver Machado 
+725,50,Nice,away, 22 ,Substitution, Khéphren Thuram , Mario Lemina 
+726,50,Olympique Lyonnais,home, 35 ,Yellow card, Nicolás Tagliafico ,
+727,50,Nice,away, 38 ,Penalty, Nicolas Pepe , Penalty 
+728,50,Nice,away, 62 ,Substitution, Ross Barkley , Sofiane Diop 
+729,50,Olympique Lyonnais,home, 67 ,Substitution, Moussa Dembele , Houssem Aouar 
+730,50,Olympique Lyonnais,home, 67 ,Substitution, Johann Lepenant , Maxence Caqueret 
+731,50,Olympique Lyonnais,home, 77 ,Substitution, Rayan Cherki , Karl Toko Ekambi 
+732,50,Olympique Lyonnais,home, 77 ,Substitution, Romain Faivre , Tetê 
+733,50,Olympique Lyonnais,home, 89 ,Penalty, Alexandre Lacazette , Penalty 
+734,50,Nice,away, 90 ,Substitution, Billal Brahimi , Nicolas Pepe 
+735,51,Marseille,home, 43 ,Goal, Samuel Gigot , Jordan Veretout 
+736,51,Olympique Lyonnais,away, 45 ,Substitution, Karl Toko Ekambi , Moussa Dembele 
+737,51,Olympique Lyonnais,away, 45 ,Substitution, Jeff Reine-Adelaide , Houssem Aouar 
+738,51,Marseille,home, 61 ,Substitution, Sead Kolasinac , Samuel Gigot 
+739,51,Marseille,home, 61 ,Substitution, Matteo Guendouzi , Cengiz Ünder 
+740,51,Olympique Lyonnais,away, 69 ,Substitution, Sinaly Diomandé , Jérôme Boateng 
+741,51,Olympique Lyonnais,away, 76 ,Substitution, Rayan Cherki , Johann Lepenant 
+742,51,Olympique Lyonnais,away, 76 ,Substitution, Tetê , Maxence Caqueret 
+743,51,Marseille,home, 84 ,Substitution, Dimitri Payet , Jordan Veretout 
+744,51,Olympique Lyonnais,away, 90 ,Yellow card, Tetê ,
+745,51,Marseille,home, 90 ,Substitution, S Touré , Nuno Tavares 
+746,51,Marseille,home, 90 ,Substitution, Gerson , Alexis Sanchez 
+747,52,Lille,home, 16 ,Goal, Jose Fonte ,
+748,52,Rennes,away, 36 ,Yellow card, Christopher Wooh ,
+749,52,Lille,home, 44 ,Substitution, Adam Ounas , André Gomes 
+750,52,Lille,home, 54 ,Yellow card, Tiago Djaló ,
+751,52,Lille,home, 57 ,Yellow card, Jonathan Bamba ,
+752,52,Rennes,away, 58 ,Penalty, Benjamin Bourigeaud , Penalty 
+753,52,Rennes,away, 59 ,Substitution, Lovro Majer , Flavien Tait 
+754,52,Lille,home, 74 ,Yellow card, Bafodé Diakité ,
+755,52,Rennes,away, 77 ,Substitution, Birger Meling , Arnaud Kalimuendo 
+756,52,Lille,home, 84 ,Substitution, Alan Virginius , Jonathan Bamba 
+757,52,Lille,home, 84 ,Substitution, Carlos Baleba , Angel Gomes 
+758,52,Rennes,away, 90 ,Red card, Birger Meling ,
+759,52,Lille,home, 93 ,Yellow card, Carlos Baleba ,
+760,53,Monaco,away, 46 ,Goal, Aleksandr Golovin ,
+761,53,Toulouse,home, 54 ,Substitution, Farès Chaïbi , Brecht Dejaegere 
+762,53,Toulouse,home, 55 ,Substitution, Thijs Dallinga , Veljko Birmančević 
+763,53,Monaco,away, 60 ,Goal, Breel Embolo , Takumi Minamino 
+764,53,Toulouse,home, 71 ,Substitution, Ado Onaiwu , Rafael Ratão 
+765,53,Monaco,away, 76 ,Substitution, Wissam Ben Yedder , Breel Embolo 
+766,53,Monaco,away, 77 ,Substitution, Krépin Diatta , Takumi Minamino 
+767,53,Monaco,away, 82 ,Substitution, Ruben Aguilar , Vanderson 
+768,53,Monaco,away, 89 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+769,53,Monaco,away, 89 ,Substitution, Maghnes Akliouche , Kevin Volland 
+770,53,Monaco,away, 93 ,Yellow card, Maghnes Akliouche ,
+771,54,Reims,home, 8 ,Yellow card, Jens Cajuste ,
+772,54,Nantes,away, 30 ,Yellow card, Nicolas Pallois ,
+773,54,Nantes,away, 54 ,Second yellow card, Nicolas Pallois ,
+774,54,Nantes,away, 57 ,Substitution, Ignatius Ganago , Mostafa Mohamed 
+775,54,Nantes,away, 58 ,Yellow card, Ludovic Blas ,
+776,54,Reims,home, 63 ,Substitution, Marshall Munetsi , Jens Cajuste 
+777,54,Reims,home, 72 ,Substitution, Mitchell van Bergen , Arbër Zeneli 
+778,54,Nantes,away, 72 ,Substitution, Samuel Moutoussamy , Fabien Centonze 
+779,54,Nantes,away, 72 ,Substitution, Dennis Appiah , Ludovic Blas 
+780,54,Reims,home, 82 ,Penalty, Folarin Balogun , Penalty 
+781,54,Nantes,away, 84 ,Substitution, Sebastien Corchia , Quentin Merlin 
+782,54,Nantes,away, 84 ,Substitution, Evann Guessand , Moussa Sissoko 
+783,54,Reims,home, 88 ,Substitution, Noah Holm , Kamory Doumbia 
+784,54,Reims,home, 88 ,Substitution, Dion Lopy , Folarin Balogun 
+785,54,Nantes,away, 91 ,Yellow card, Samuel Moutoussamy ,
+786,54,Reims,home, 93 ,Yellow card, Noah Holm ,
+787,55,Nice,home, 45 ,Substitution, Sofiane Diop , Billal Brahimi 
+788,55,Nice,home, 54 ,Goal, Gaetan Laborde , Sofiane Diop 
+789,55,Brest,away, 59 ,Yellow card, Jérémy Le Douaron ,
+790,55,Brest,away, 65 ,Substitution, Taïryk Arconte , Jérémy Le Douaron 
+791,55,Brest,away, 65 ,Substitution, Mathias Pereira Lage , Mahdi Camara 
+792,55,Nice,home, 67 ,Substitution, Khéphren Thuram , Mario Lemina 
+793,55,Brest,away, 76 ,Substitution, Irvin Cardona , Franck Honorat 
+794,55,Brest,away, 76 ,Substitution, Karamoko Dembélé , Romain Del Castillo 
+795,55,Nice,home, 80 ,Substitution, Joe Bryan , Youcef Atal 
+796,55,Nice,home, 86 ,Substitution, Andy Delort , Nicolas Pepe 
+797,55,Nice,home, 86 ,Substitution, Antoine Mendy , Jordan Lotomba 
+798,55,Brest,away, 87 ,Substitution, Axel Camblan , Haris Belkebla 
+799,55,Nice,home, 92 ,Yellow card, Hicham Boudaoui ,
+800,56,Montpellier,away, 10 ,Penalty, Téji Savanier , Penalty 
+801,56,Montpellier,away, 34 ,Yellow card, Nicolas Cozza ,
+802,56,Clermont,home, 41 ,Missed penalty, Komnen Andrić , Missed penalty 
+803,56,Clermont,home, 42 ,Yellow card, Florent Ogier ,
+804,56,Clermont,home, 59 ,Substitution, Muhammed Cham , Yohann Magnin 
+805,56,Clermont,home, 59 ,Substitution, Jodel Dossou , Jérémie Bela 
+806,56,Clermont,home, 62 ,Goal, Komnen Andrić , Elbasan Rashani 
+807,56,Montpellier,away, 65 ,Substitution, Arnaud Souquet , Faitout Maouassa 
+808,56,Montpellier,away, 65 ,Substitution, Joris Chotard , Khalil Fayad 
+809,56,Clermont,home, 70 ,Substitution, Yanis Massolin , Saifeddine Khaoui 
+810,56,Montpellier,away, 71 ,Substitution, Valere Germain , Wahbi Khazri 
+811,56,Clermont,home, 78 ,Missed penalty, Grejohn Kyei , Missed penalty 
+812,56,Clermont,home, 80 ,Substitution, Jim Allevinah , Komnen Andrić 
+813,56,Clermont,home, 80 ,Substitution, Baila Diallo , Elbasan Rashani 
+814,56,Montpellier,away, 81 ,Yellow card, Wahbi Khazri ,
+815,56,Montpellier,away, 84 ,Substitution, Arnaud Nordin , Elye Wahi 
+816,57,PSG,away, 9 ,Goal, Neymar , Hugo Ekitike 
+817,57,Lorient,home, 13 ,Substitution, Vito Mannone , Yvon Mvogo 
+818,57,Lorient,home, 53 ,Goal, Terem Moffi , Enzo Le Fée 
+819,57,Lorient,home, 65 ,Yellow card, Bonke Innocent ,
+820,57,PSG,away, 67 ,Substitution, Renato Sanches , Vitinha 
+821,57,Lorient,home, 73 ,Substitution, Stéphane Diarra , Théo Le Bris 
+822,57,Lorient,home, 73 ,Substitution, Adil Aouchiche , Julien Ponceau 
+823,57,PSG,away, 76 ,Substitution, Carlos Soler , Hugo Ekitike 
+824,57,PSG,away, 76 ,Substitution, Juan Bernat , Nuno Mendes 
+825,57,PSG,away, 78 ,Yellow card, Achraf Hakimi ,
+826,57,PSG,away, 81 ,Goal, Danilo Pereira , Neymar 
+827,57,PSG,away, 85 ,Substitution, Pablo Sarabia , Kylian Mbappé 
+828,57,Lorient,home, 85 ,Substitution, Ibrahima Koné , Bonke Innocent 
+829,57,PSG,away, 85 ,Substitution, Nordi Mukiele , Danilo Pereira 
+830,58,Lens,away, 21 ,Goal, Wesley Said , Florian Sotoca 
+831,58,Lens,away, 51 ,Goal, Facundo Medina , Kevin Danso 
+832,58,Lens,away, 56 ,Substitution, Massadio Haidara , Facundo Medina 
+833,58,Lens,away, 56 ,Substitution, Loïs Openda , Wesley Said 
+834,58,Angers,home, 67 ,Substitution, Abdallah Sima , Amine Salama 
+835,58,Angers,home, 67 ,Substitution, Pierrick Capelle , Azzedine Ounahi 
+836,58,Lens,away, 72 ,Substitution, Alexis Claude-Maurice , David Pereira da Costa 
+837,58,Angers,home, 74 ,Substitution, Himad Abdelli , Adrien Hunou 
+838,58,Angers,home, 74 ,Substitution, Sada Thioub , Farid El Melali 
+839,58,Angers,home, 77 ,Yellow card, Pierrick Capelle ,
+840,58,Lens,away, 84 ,Substitution, Jean Onana , Jonathan Gradit 
+841,58,Lens,away, 85 ,Substitution, Ismaël Boura , Deiver Machado 
+842,58,Lens,away, 86 ,Yellow card, Brice Samba ,
+843,58,Angers,home, 87 ,Goal, Miha Blažič , Nabil Bentaleb 
+844,58,Angers,home, 88 ,Substitution, Waniss Taibi , Batista Mendy 
+845,58,Lens,away, 92 ,Yellow card, Kevin Danso ,
+846,59,Strasbourg,away, 6 ,Goal, Jeanricner Bellegarde ,
+847,59,Strasbourg,away, 17 ,Goal, Kevin Gameiro , Alexander Djiku 
+848,59,Strasbourg,away, 22 ,Yellow card, Ronaël Pierre-Gabriel ,
+849,59,Strasbourg,away, 32 ,Yellow card, Thomas Delaine ,
+850,59,Ajaccio,home, 33 ,Penalty, Youcef Belaïli , Penalty 
+851,59,Ajaccio,home, 34 ,Goal, Mounaïm El Idrissy , Romain Hamouma 
+852,59,Ajaccio,home, 40 ,Penalty, Youcef Belaïli , Penalty 
+853,59,Ajaccio,home, 48 ,Goal, Riad Nouri , Youcef Belaïli 
+854,59,Strasbourg,away, 54 ,Substitution, Dimitri Liénard , Thomas Delaine 
+855,59,Strasbourg,away, 54 ,Substitution, Colin Dagba , Ronaël Pierre-Gabriel 
+856,59,Strasbourg,away, 55 ,Substitution, Lebo Mothiba , Ludovic Ajorque 
+857,59,Strasbourg,away, 62 ,Yellow card, Maxime Le Marchand ,
+858,59,Ajaccio,home, 63 ,Missed penalty, Youcef Belaïli , Missed penalty 
+859,59,Strasbourg,away, 72 ,Substitution, Adrien Thomasson , Sanjin Prcic 
+860,59,Strasbourg,away, 72 ,Substitution, Lucas Perrin , Maxime Le Marchand 
+861,59,Ajaccio,home, 73 ,Substitution, Cyrille Bayala , Youcef Belaïli 
+862,59,Ajaccio,home, 79 ,Red card, Clément Vidal ,
+863,59,Ajaccio,home, 80 ,Substitution, Mickaël Alphonse , Romain Hamouma 
+864,59,Ajaccio,home, 84 ,Substitution, Thomas Mangani , Mathieu Coutadeur 
+865,59,Ajaccio,home, 85 ,Substitution, Yoann Touzghar , Riad Nouri 
+866,59,Strasbourg,away, 92 ,Yellow card, Colin Dagba ,
+867,60,Troyes,home, 17 ,Yellow card, Yoann Salmier ,
+868,60,Troyes,home, 28 ,Goal, Rony Lopes , Mama Baldé 
+869,60,Troyes,home, 60 ,Substitution, Wilson Odobert , Rony Lopes 
+870,60,Troyes,home, 60 ,Substitution, Renaud Ripart , Iké Ugbo 
+871,60,Auxerre,away, 64 ,Substitution, Gaetan Perrin , Gauthier Hein 
+872,60,Troyes,home, 72 ,Yellow card, Renaud Ripart ,
+873,60,Auxerre,away, 75 ,Substitution, Mathias Autret , Nuno da Costa 
+874,60,Troyes,home, 79 ,Substitution, Yasser Larouci , Abdu Conté 
+875,60,Auxerre,away, 82 ,Substitution, Rémy Dugimont , Gaetan Charbonnier 
+876,60,Auxerre,away, 86 ,Goal, Gaetan Perrin , Lassine Sinayoko 
+877,60,Troyes,home, 90 ,Substitution, Andreas Bruus , Thierno Baldé 
+878,61,Olympique Lyonnais,home, 41 ,Yellow card, Damien Da Silva ,
+879,61,Olympique Lyonnais,home, 45 ,Substitution, Johann Lepenant , Damien Da Silva 
+880,61,Lille,away, 45 ,Substitution, Alexsandro Ribeiro , Ismaily 
+881,61,Lille,away, 48 ,Yellow card, Jonathan David ,
+882,61,Olympique Lyonnais,home, 51 ,Yellow card, Johann Lepenant ,
+883,61,Olympique Lyonnais,home, 66 ,Substitution, Jeff Reine-Adelaide , Houssem Aouar 
+884,61,Olympique Lyonnais,home, 66 ,Substitution, Karl Toko Ekambi , Moussa Dembele 
+885,61,Olympique Lyonnais,home, 67 ,Yellow card, Castello Lukeba ,
+886,61,Lille,away, 70 ,Substitution, Jonathan Bamba , Angel Gomes 
+887,61,Lille,away, 70 ,Substitution, Adam Ounas , Tim Weah 
+888,61,Olympique Lyonnais,home, 72 ,Substitution, Romain Faivre , Maxence Caqueret 
+889,61,Olympique Lyonnais,home, 74 ,Goal, Alexandre Lacazette , Nicolás Tagliafico 
+890,61,Lille,away, 86 ,Substitution, Akim Zedadka , Tiago Djaló 
+891,61,Lille,away, 86 ,Substitution, Mohamed Bayo , André Gomes 
+892,61,Olympique Lyonnais,home, 87 ,Substitution, Rayan Cherki , Alexandre Lacazette 
+893,62,Lorient,home, 18 ,Goal, Dango Ouattara , Enzo Le Fée 
+894,62,Nice,away, 45 ,Substitution, Gaetan Laborde , Ross Barkley 
+895,62,Nice,away, 58 ,Yellow card, Mario Lemina ,
+896,62,Lorient,home, 60 ,Substitution, Terem Moffi , Stéphane Diarra 
+897,62,Nice,away, 61 ,Goal, Youcef Atal , Billal Brahimi 
+898,62,Nice,away, 62 ,Substitution, Aaron Ramsey , Mario Lemina 
+899,62,Nice,away, 62 ,Substitution, Jordan Lotomba , Youcef Atal 
+900,62,Nice,away, 69 ,Goal, Gaetan Laborde , Hicham Boudaoui 
+901,62,Lorient,home, 70 ,Substitution, Quentin Boisgard , Julien Ponceau 
+902,62,Lorient,home, 71 ,Substitution, Yoann Cathline , Théo Le Bris 
+903,62,Lorient,home, 84 ,Substitution, Ibrahima Koné , Enzo Le Fée 
+904,62,Lorient,home, 84 ,Substitution, Adil Aouchiche , Bonke Innocent 
+905,62,Nice,away, 88 ,Substitution, Joe Bryan , Hicham Boudaoui 
+906,62,Nice,away, 93 ,Substitution, Khéphren Thuram , Nicolas Pepe 
+907,63,Rennes,home, 15 ,Goal, Martin Terrier , Lovro Majer 
+908,63,Montpellier,away, 23 ,Yellow card, Nicolas Cozza ,
+909,63,Rennes,home, 23 ,Goal, Arnaud Kalimuendo , Benjamin Bourigeaud 
+910,63,Montpellier,away, 64 ,Substitution, Valere Germain , Arnaud Nordin 
+911,63,Montpellier,away, 64 ,Substitution, Enzo Tchato , Arnaud Souquet 
+912,63,Montpellier,away, 72 ,Yellow card, Joris Chotard ,
+913,63,Montpellier,away, 72 ,Substitution, Léo Leroy , Joris Chotard 
+914,63,Rennes,home, 74 ,Substitution, Lesley Ugochukwu , Xeka 
+915,63,Rennes,home, 74 ,Substitution, Flavien Tait , Arnaud Kalimuendo 
+916,63,Montpellier,away, 81 ,Substitution, Mamadou Sakho , Enzo Tchato 
+917,63,Rennes,home, 84 ,Yellow card, Lovro Majer ,
+918,63,Rennes,home, 85 ,Goal, Amine Gouiri , Martin Terrier 
+919,63,Rennes,home, 87 ,Substitution, Jérémy Doku , Amine Gouiri 
+920,63,Rennes,home, 87 ,Substitution, Matthis Abline , Benjamin Bourigeaud 
+921,63,Rennes,home, 88 ,Substitution, Adrien Truffert , Birger Meling 
+922,64,Clermont,away, 32 ,Yellow card, Maximiliano Caufriez ,
+923,64,Clermont,away, 54 ,Goal, Neto Borges , Jérémie Bela 
+924,64,Nantes,home, 58 ,Substitution, Mostafa Mohamed , Samuel Moutoussamy 
+925,64,Nantes,home, 58 ,Substitution, Dennis Appiah , Fabien Centonze 
+926,64,Clermont,away, 66 ,Yellow card, Yohann Magnin ,
+927,64,Nantes,home, 67 ,Substitution, Evann Guessand , Pedro Chirivella 
+928,64,Clermont,away, 69 ,Substitution, Jim Allevinah , Elbasan Rashani 
+929,64,Nantes,home, 73 ,Goal, Mostafa Mohamed , Ignatius Ganago 
+930,64,Clermont,away, 74 ,Substitution, Arial Mendy , Neto Borges 
+931,64,Nantes,home, 84 ,Substitution, Sebastien Corchia , Moses Simon 
+932,64,Nantes,home, 84 ,Substitution, Marcus Coco , Quentin Merlin 
+933,64,Clermont,away, 88 ,Substitution, Grejohn Kyei , Komnen Andrić 
+934,64,Clermont,away, 88 ,Substitution, Muhammed Cham , Saifeddine Khaoui 
+935,65,Angers,away, 19 ,Yellow card, Adrien Hunou ,
+936,65,Monaco,home, 25 ,Yellow card, Malang Sarr ,
+937,65,Monaco,home, 41 ,Missed penalty, Wissam Ben Yedder , Missed penalty 
+938,65,Monaco,home, 47 ,Yellow card, Takumi Minamino ,
+939,65,Monaco,home, 45 ,Substitution, Vanderson , Malang Sarr 
+940,65,Angers,away, 45 ,Substitution, Abdoulaye Bamba , Yann Valery 
+941,65,Monaco,home, 54 ,Goal, Breel Embolo , Vanderson 
+942,65,Monaco,home, 55 ,Substitution, Aleksandr Golovin , Takumi Minamino 
+943,65,Monaco,home, 55 ,Substitution, Caio Henrique , Ismail Jakobs 
+944,65,Angers,away, 57 ,Yellow card, Abdoulaye Bamba ,
+945,65,Angers,away, 68 ,Substitution, Abdallah Sima , Amine Salama 
+946,65,Monaco,home, 68 ,Substitution, Kevin Volland , Breel Embolo 
+947,65,Monaco,home, 70 ,Goal, Aleksandr Golovin , Kevin Volland 
+948,65,Angers,away, 73 ,Substitution, Waniss Taibi , Himad Abdelli 
+949,65,Angers,away, 73 ,Substitution, Farid El Melali , Adrien Hunou 
+950,65,Monaco,home, 73 ,Substitution, Krépin Diatta , Maghnes Akliouche 
+951,65,Monaco,home, 84 ,Yellow card, Axel Disasi ,
+952,65,Angers,away, 85 ,Yellow card, Batista Mendy ,
+953,66,Reims,away, 55 ,Yellow card, Alexis Flips ,
+954,66,Reims,away, 60 ,Substitution, Cheick Keita , Andreaw Gravillon 
+955,66,Reims,away, 61 ,Substitution, Mitchell van Bergen , Arbër Zeneli 
+956,66,Reims,away, 61 ,Substitution, Jens Cajuste , Dion Lopy 
+957,66,Brest,home, 67 ,Substitution, Jérémy Le Douaron , Mathias Pereira Lage 
+958,66,Brest,home, 73 ,Yellow card, Islam Slimani ,
+959,66,Brest,home, 74 ,Substitution, Axel Camblan , Islam Slimani 
+960,66,Brest,home, 74 ,Substitution, Haris Belkebla , Hugo Magnetti 
+961,66,Reims,away, 81 ,Substitution, Nathanaël Mbuku , Kamory Doumbia 
+962,66,Brest,home, 87 ,Substitution, Karamoko Dembélé , Romain Del Castillo 
+963,66,Reims,away, 92 ,Substitution, Noah Holm , Folarin Balogun 
+964,67,Auxerre,home, 8 ,Goal, Hamza Sakhi , Mathias Autret 
+965,67,Auxerre,home, 23 ,Yellow card, Jubal ,
+966,67,Ajaccio,away, 39 ,Yellow card, Clément Vidal ,
+967,67,Auxerre,home, 56 ,Red card, Niang ,
+968,67,Ajaccio,away, 62 ,Red card, Cédric Avinel ,
+969,67,Auxerre,home, 64 ,Substitution, Gauthier Hein , Mathias Autret 
+970,67,Ajaccio,away, 68 ,Substitution, Kevin Spadanuda , Bevic Moussiti-Oko 
+971,67,Ajaccio,away, 68 ,Substitution, Fernand Mayembo , Cyrille Bayala 
+972,67,Ajaccio,away, 76 ,Substitution, Romain Hamouma , Mounaïm El Idrissy 
+973,67,Ajaccio,away, 76 ,Substitution, Thomas Mangani , Mathieu Coutadeur 
+974,67,Ajaccio,away, 80 ,Substitution, Riad Nouri , Youcef Belaïli 
+975,67,Auxerre,home, 82 ,Substitution, Gaetan Perrin , Nuno da Costa 
+976,67,Auxerre,home, 83 ,Substitution, Gaetan Charbonnier , Lassine Sinayoko 
+977,68,Marseille,away, 8 ,Goal, Bamba Dieng , Pau Lopez 
+978,68,Marseille,away, 35 ,Goal, Issa Kaboré , Jonathan Clauss 
+979,68,Strasbourg,home, 45 ,Substitution, Lebo Mothiba , Habib Diallo 
+980,68,Marseille,away, 45 ,Substitution, Valentin Rongier , Jordan Veretout 
+981,68,Marseille,away, 45 ,Substitution, Nuno Tavares , Jonathan Clauss 
+982,68,Marseille,away, 52 ,Yellow card, Bamba Dieng ,
+983,68,Marseille,away, 65 ,Substitution, S Touré , Sead Kolasinac 
+984,68,Strasbourg,home, 66 ,Substitution, Sanjin Prcic , Adrien Thomasson 
+985,68,Strasbourg,home, 66 ,Substitution, Ludovic Ajorque , Jean Aholou 
+986,68,Marseille,away, 70 ,Yellow card, Nuno Tavares ,
+987,68,Marseille,away, 72 ,Substitution, Gerson , Cengiz Ünder 
+988,68,Strasbourg,home, 76 ,Goal, Lebo Mothiba , Jeanricner Bellegarde 
+989,68,Strasbourg,home, 77 ,Substitution, Dimitri Liénard , Thomas Delaine 
+990,68,Strasbourg,home, 77 ,Substitution, Colin Dagba , Ronaël Pierre-Gabriel 
+991,68,Marseille,away, 79 ,Substitution, Amine Harit , Bamba Dieng 
+992,68,Strasbourg,home, 93 ,Goal, Kevin Gameiro ,
+993,69,Troyes,away, 3 ,Goal, Mama Baldé , Rony Lopes 
+994,69,PSG,home, 24 ,Goal, Carlos Soler , Neymar 
+995,69,Troyes,away, 52 ,Goal, Mama Baldé , Wilson Odobert 
+996,69,PSG,home, 55 ,Goal, Lionel Messi , Sergio Ramos 
+997,69,PSG,home, 59 ,Substitution, Marquinhos , Presnel Kimpembe 
+998,69,Troyes,away, 59 ,Yellow card, Jackson Porozo ,
+999,69,PSG,home, 59 ,Substitution, Fabian Ruiz , Vitinha 
+1000,69,PSG,home, 62 ,Goal, Neymar , Lionel Messi 
+1001,69,Troyes,away, 72 ,Substitution, Yasser Larouci , Abdu Conté 
+1002,69,Troyes,away, 72 ,Substitution, Renaud Ripart , Thierno Baldé 
+1003,69,Troyes,away, 75 ,Yellow card, Gauthier Gallon ,
+1004,69,PSG,home, 77 ,Substitution, Renato Sanches , Carlos Soler 
+1005,69,PSG,home, 77 ,Penalty, Kylian Mbappé , Penalty 
+1006,69,Troyes,away, 78 ,Yellow card, Rony Lopes ,
+1007,69,Troyes,away, 81 ,Substitution, Ante Palaversa , Wilson Odobert 
+1008,69,Troyes,away, 81 ,Substitution, Iké Ugbo , Rominigue Kouamé 
+1009,69,PSG,home, 85 ,Substitution, Nuno Mendes , Juan Bernat 
+1010,69,PSG,home, 85 ,Substitution, Pablo Sarabia , Marco Verratti 
+1011,69,Troyes,away, 88 ,Goal, Ante Palaversa , Renaud Ripart 
+1012,69,Troyes,away, 88 ,Substitution, Tristan Dingomé , Xavier Chavalerin 
+1013,70,Lens,home, 50 ,Missed penalty, Seko Fofana , Missed penalty 
+1014,70,Lens,home, 56 ,Substitution, Loïs Openda , Wesley Said 
+1015,70,Lens,home, 56 ,Substitution, Florian Sotoca , Jean Onana 
+1016,70,Lens,home, 60 ,Goal, Loïs Openda , Florian Sotoca 
+1017,70,Lens,home, 67 ,Yellow card, Massadio Haidara ,
+1018,70,Lens,home, 70 ,Substitution, Alexis Claude-Maurice , David da Costa 
+1019,70,Toulouse,away, 72 ,Substitution, Veljko Birmančević , Farès Chaïbi 
+1020,70,Toulouse,away, 72 ,Substitution, Ado Onaiwu , Thijs Dallinga 
+1021,70,Toulouse,away, 80 ,Yellow card, Brecht Dejaegere ,
+1022,70,Toulouse,away, 84 ,Substitution, Yanis Begraoui , Brecht Dejaegere 
+1023,70,Lens,home, 84 ,Substitution, Steven Fortès , Jonathan Gradit 
+1024,70,Lens,home, 84 ,Substitution, Ismaël Boura , Deiver Machado 
+1025,70,Lens,home, 86 ,Goal, Loïs Openda , Alexis Claude-Maurice 
+1026,70,Toulouse,away, 91 ,Substitution, Kévin Keben , Mikkel Desler 
+1027,70,Lens,home, 92 ,Goal, Loïs Openda , Alexis Claude-Maurice 
+1028,70,Lens,home, 93 ,Yellow card, Loïs Openda ,
+1029,71,Monaco,away, 21 ,Yellow card, Eliot Matazo ,
+1030,71,Lille,home, 22 ,Goal, Alexsandro Ribeiro , Adam Ounas 
+1031,71,Monaco,away, 34 ,Goal, Caio Henrique ,
+1032,71,Lille,home, 39 ,Goal, Remy Cabella ,
+1033,71,Monaco,away, 44 ,Goal, Axel Disasi , Wissam Ben Yedder 
+1034,71,Lille,home, 50 ,Yellow card, Jonathan Bamba ,
+1035,71,Monaco,away, 53 ,Goal, Wissam Ben Yedder ,
+1036,71,Monaco,away, 58 ,Yellow card, Benoît Badiashile ,
+1037,71,Lille,home, 62 ,Goal, Remy Cabella , Jonathan David 
+1038,71,Lille,home, 66 ,Substitution, Tim Weah , Adam Ounas 
+1039,71,Lille,home, 71 ,Goal, Jonathan Bamba , Angel Gomes 
+1040,71,Monaco,away, 77 ,Substitution, Kevin Volland , Breel Embolo 
+1041,71,Lille,home, 82 ,Substitution, Carlos Baleba , Angel Gomes 
+1042,71,Monaco,away, 82 ,Substitution, Ismail Jakobs , Krépin Diatta 
+1043,71,Monaco,away, 82 ,Substitution, Jean Lucas , Eliot Matazo 
+1044,71,Lille,home, 89 ,Substitution, Mohamed Bayo , Remy Cabella 
+1045,72,Nice,home, 47 ,Substitution, Youcef Atal , Jordan Lotomba 
+1046,72,Nantes,away, 45 ,Substitution, Fabien Centonze , Dennis Appiah 
+1047,72,Nantes,away, 49 ,Goal, Ignatius Ganago , Moses Simon 
+1048,72,Nice,home, 60 ,Yellow card, Jean Todibo ,
+1049,72,Nice,home, 62 ,Substitution, Hicham Boudaoui , Mattia Viti 
+1050,72,Nice,home, 62 ,Substitution, Aaron Ramsey , Khéphren Thuram 
+1051,72,Nice,home, 62 ,Substitution, Billal Brahimi , Ross Barkley 
+1052,72,Nice,home, 68 ,Yellow card, Joe Bryan ,
+1053,72,Nice,home, 70 ,Substitution, Melvin Bard , Joe Bryan 
+1054,72,Nantes,away, 73 ,Substitution, Mostafa Mohamed , Moses Simon 
+1055,72,Nantes,away, 73 ,Substitution, Jean-Charles Castelletto , Ignatius Ganago 
+1056,72,Nice,home, 81 ,Yellow card, Melvin Bard ,
+1057,72,Nantes,away, 84 ,Yellow card, Moussa Sissoko ,
+1058,72,Nantes,away, 89 ,Substitution, Sebastien Corchia , Moussa Sissoko 
+1059,72,Nantes,away, 89 ,Substitution, Marcus Coco , Ludovic Blas 
+1060,72,Nantes,away, 94 ,Yellow card, Alban Lafont ,
+1061,72,Nice,home, 97 ,Penalty, Nicolas Pepe , Penalty 
+1062,72,Nantes,away, 98 ,Red card, Kader Bamba ,
+1063,72,Nantes,away, 99 ,Yellow card, Samuel Moutoussamy ,
+1064,72,Nantes,away, 100 ,Second yellow card, Alban Lafont ,
+1065,73,Troyes,home, 27 ,Yellow card, Jackson Porozo ,
+1066,73,Troyes,home, 34 ,Own goal, Julien Laporte , Own goal 
+1067,73,Lorient,away, 45 ,Substitution, Yoann Cathline , Ibrahima Koné 
+1068,73,Lorient,away, 50 ,Goal, Stéphane Diarra , Bonke Innocent 
+1069,73,Troyes,home, 61 ,Goal, Rony Lopes ,
+1070,73,Lorient,away, 62 ,Substitution, Quentin Boisgard , Bonke Innocent 
+1071,73,Troyes,home, 64 ,Substitution, Yasser Larouci , Abdu Conté 
+1072,73,Troyes,home, 65 ,Yellow card, Mateusz Lis ,
+1073,73,Lorient,away, 73 ,Substitution, Siriné Doucouré , Stéphane Diarra 
+1074,73,Troyes,home, 74 ,Substitution, Papa Yade , Wilson Odobert 
+1075,73,Troyes,home, 74 ,Substitution, Andreas Bruus , Rony Lopes 
+1076,73,Lorient,away, 81 ,Goal, Quentin Boisgard , Siriné Doucouré 
+1077,73,Troyes,home, 87 ,Substitution, Marlos Moreno , Thierno Baldé 
+1078,73,Troyes,home, 87 ,Substitution, Iké Ugbo , Mama Baldé 
+1079,74,Strasbourg,away, 26 ,Substitution, Lucas Perrin , Alexander Djiku 
+1080,74,Strasbourg,away, 30 ,Yellow card, Dimitri Liénard ,
+1081,74,Toulouse,home, 40 ,Yellow card, Rasmus Nicolaisen ,
+1082,74,Toulouse,home, 44 ,Goal, Anthony Rouault , Rasmus Nicolaisen 
+1083,74,Toulouse,home, 55 ,Goal, Brecht Dejaegere , Mikkel Desler 
+1084,74,Strasbourg,away, 60 ,Substitution, Ronaël Pierre-Gabriel , Colin Dagba 
+1085,74,Strasbourg,away, 60 ,Substitution, Jean Aholou , Adrien Thomasson 
+1086,74,Strasbourg,away, 60 ,Substitution, Lebo Mothiba , Sanjin Prcic 
+1087,74,Strasbourg,away, 65 ,Goal, Lebo Mothiba , Ronaël Pierre-Gabriel 
+1088,74,Toulouse,home, 71 ,Second yellow card, Rasmus Nicolaisen ,
+1089,74,Strasbourg,away, 72 ,Substitution, Thomas Delaine , Dimitri Liénard 
+1090,74,Strasbourg,away, 73 ,Missed penalty, Kevin Gameiro , Missed penalty 
+1091,74,Strasbourg,away, 73 ,Goal, Kevin Gameiro ,
+1092,74,Toulouse,home, 74 ,Substitution, Moussa Diarra , Brecht Dejaegere 
+1093,74,Toulouse,home, 74 ,Substitution, Ado Onaiwu , Farès Chaïbi 
+1094,74,Toulouse,home, 81 ,Substitution, Veljko Birmančević , Rafael Ratão 
+1095,74,Toulouse,home, 94 ,Substitution, Denis Genreau , Branco Van den Boomen 
+1096,75,Reims,home, 25 ,Yellow card, Bradley Locko ,
+1097,75,Reims,home, 28 ,Goal, Folarin Balogun , Arbër Zeneli 
+1098,75,Auxerre,away, 33 ,Goal, Niang , Hamza Sakhi 
+1099,75,Reims,home, 42 ,Yellow card, Azor Matusiwa ,
+1100,75,Auxerre,away, 66 ,Substitution, Gaetan Perrin , Nuno da Costa 
+1101,75,Reims,home, 66 ,Substitution, Jens Cajuste , Dion Lopy 
+1102,75,Reims,home, 72 ,Substitution, Nathanaël Mbuku , Arbër Zeneli 
+1103,75,Reims,home, 72 ,Substitution, Mitchell van Bergen , Kamory Doumbia 
+1104,75,Reims,home, 74 ,Yellow card, Cheick Keita ,
+1105,75,Auxerre,away, 82 ,Substitution, Gauthier Hein , Hamza Sakhi 
+1106,75,Auxerre,away, 83 ,Substitution, Gaetan Charbonnier , Niang 
+1107,75,Reims,home, 87 ,Goal, Junya Ito ,
+1108,75,Auxerre,away, 89 ,Substitution, Rémy Dugimont , Lassine Sinayoko 
+1109,75,Reims,home, 90 ,Substitution, Noah Holm , Folarin Balogun 
+1110,75,Reims,home, 92 ,Yellow card, Yehvann Diouf ,
+1111,76,Brest,away, 15 ,Penalty, Romain Del Castillo , Penalty 
+1112,76,Clermont,home, 24 ,Substitution, Elbasan Rashani , Maxime Gonalons 
+1113,76,Brest,away, 37 ,Yellow card, Islam Slimani ,
+1114,76,Clermont,home, 37 ,Yellow card, Alidu Seidu ,
+1115,76,Clermont,home, 41 ,Yellow card, Yohann Magnin ,
+1116,76,Brest,away, 55 ,Goal, Franck Honorat , Romain Del Castillo 
+1117,76,Clermont,home, 61 ,Substitution, Grejohn Kyei , Yohann Magnin 
+1118,76,Clermont,home, 61 ,Yellow card, Maximiliano Caufriez ,
+1119,76,Brest,away, 62 ,Substitution, Jérémy Le Douaron , Islam Slimani 
+1120,76,Clermont,home, 62 ,Substitution, Jim Allevinah , Neto Borges 
+1121,76,Brest,away, 68 ,Goal, Jérémy Le Douaron , Romain Del Castillo 
+1122,76,Brest,away, 73 ,Substitution, Haris Belkebla , Romain Del Castillo 
+1123,76,Brest,away, 73 ,Substitution, Hugo Magnetti , Mathias Pereira Lage 
+1124,76,Clermont,home, 74 ,Substitution, Yanis Massolin , Johan Gastien 
+1125,76,Clermont,home, 75 ,Substitution, Jodel Dossou , Komnen Andrić 
+1126,76,Brest,away, 82 ,Substitution, Irvin Cardona , Franck Honorat 
+1127,76,Brest,away, 82 ,Substitution, Karamoko Dembélé , Pierre Lees-Melou 
+1128,76,Clermont,home, 89 ,Goal, Jim Allevinah , Muhammed Cham 
+1129,76,Clermont,home, 92 ,Yellow card, Mateusz Wieteska ,
+1130,77,Rennes,away, 43 ,Goal, Amine Gouiri , Benjamin Bourigeaud 
+1131,77,Angers,home, 53 ,Goal, Amine Salama , Adrien Hunou 
+1132,77,Angers,home, 55 ,Yellow card, Yann Valery ,
+1133,77,Rennes,away, 57 ,Yellow card, Flavien Tait ,
+1134,77,Rennes,away, 68 ,Substitution, Désiré Doué , Amine Gouiri 
+1135,77,Rennes,away, 68 ,Substitution, Lovro Majer , Benjamin Bourigeaud 
+1136,77,Angers,home, 69 ,Substitution, Abdallah Sima , Amine Salama 
+1137,77,Angers,home, 76 ,Yellow card, Pierrick Capelle ,
+1138,77,Rennes,away, 77 ,Substitution, Birger Meling , Adrien Truffert 
+1139,77,Rennes,away, 77 ,Substitution, Kamaldeen Sulemana , Martin Terrier 
+1140,77,Angers,home, 85 ,Substitution, Sada Thioub , Yann Valery 
+1141,77,Angers,home, 86 ,Substitution, Farid El Melali , Sofiane Boufal 
+1142,77,Rennes,away, 86 ,Substitution, Matthis Abline , Arnaud Kalimuendo 
+1143,77,Angers,home, 92 ,Yellow card, Ibrahim Amadou ,
+1144,77,Rennes,away, 93 ,Penalty, Lovro Majer , Penalty 
+1145,78,Marseille,home, 14 ,Yellow card, Sead Kolasinac ,
+1146,78,Marseille,home, 22 ,Substitution, Pape Gueye , Sead Kolasinac 
+1147,78,Marseille,home, 23 ,Yellow card, Valentin Rongier ,
+1148,78,Lens,away, 34 ,Yellow card, Florian Sotoca ,
+1149,78,Lens,away, 38 ,Yellow card, Jean Onana ,
+1150,78,Lens,away, 50 ,Yellow card, Massadio Haidara ,
+1151,78,Lens,away, 56 ,Substitution, Wesley Said , Loïs Openda 
+1152,78,Lens,away, 56 ,Substitution, David da Costa , Jean Onana 
+1153,78,Marseille,home, 65 ,Yellow card, Matteo Guendouzi ,
+1154,78,Marseille,home, 76 ,Substitution, Cengiz Ünder , Amine Harit 
+1155,78,Marseille,home, 76 ,Substitution, Bamba Dieng , Alexis Sanchez 
+1156,78,Marseille,home, 76 ,Substitution, Dimitri Payet , Matteo Guendouzi 
+1157,78,Lens,away, 78 ,Goal, David da Costa , Facundo Medina 
+1158,78,Marseille,home, 80 ,Substitution, Issa Kaboré , Jonathan Clauss 
+1159,78,Lens,away, 82 ,Substitution, Ismaël Boura , Deiver Machado 
+1160,79,Olympique Lyonnais,away, 7 ,Yellow card, Houssem Aouar ,
+1161,79,Olympique Lyonnais,away, 33 ,Goal, Houssem Aouar , Alexandre Lacazette 
+1162,79,Montpellier,home, 43 ,Substitution, Bingourou Kamara , Jonas Omlin 
+1163,79,Olympique Lyonnais,away, 49 ,Yellow card, Thiago Mendes ,
+1164,79,Montpellier,home, 55 ,Substitution, Arnaud Souquet , Enzo Tchato 
+1165,79,Montpellier,home, 55 ,Substitution, Arnaud Nordin , Faitout Maouassa 
+1166,79,Montpellier,home, 59 ,Yellow card, Téji Savanier ,
+1167,79,Olympique Lyonnais,away, 59 ,Substitution, Damien Da Silva , Jérôme Boateng 
+1168,79,Olympique Lyonnais,away, 64 ,Substitution, Karl Toko Ekambi , Moussa Dembele 
+1169,79,Olympique Lyonnais,away, 64 ,Substitution, Jeff Reine-Adelaide , Houssem Aouar 
+1170,79,Montpellier,home, 70 ,Goal, Elye Wahi , Jordan Ferri 
+1171,79,Montpellier,home, 74 ,Red card, Stephy Mavididi ,
+1172,79,Olympique Lyonnais,away, 74 ,Red card, Sinaly Diomandé ,
+1173,79,Montpellier,home, 74 ,Yellow card, Elye Wahi ,
+1174,79,Montpellier,home, 82 ,Substitution, Joris Chotard , Jordan Ferri 
+1175,79,Montpellier,home, 82 ,Substitution, Valere Germain , Elye Wahi 
+1176,79,Olympique Lyonnais,away, 90 ,Goal, Alexandre Lacazette , Maxence Caqueret 
+1177,80,PSG,away, 22 ,Yellow card, Marco Verratti ,
+1178,80,PSG,away, 24 ,Goal, Kylian Mbappé , Lionel Messi 
+1179,80,Ajaccio,home, 57 ,Substitution, Romain Hamouma , Bevic Moussiti-Oko 
+1180,80,Ajaccio,home, 57 ,Substitution, Riad Nouri , Cyrille Bayala 
+1181,80,PSG,away, 62 ,Substitution, Vitinha , Renato Sanches 
+1182,80,PSG,away, 71 ,Substitution, Pablo Sarabia , Carlos Soler 
+1183,80,Ajaccio,home, 74 ,Substitution, Mickaël Barreto , Mounaïm El Idrissy 
+1184,80,Ajaccio,home, 74 ,Substitution, Ismaël Diallo , Youssouf Kone 
+1185,80,PSG,away, 78 ,Goal, Lionel Messi , Kylian Mbappé 
+1186,80,PSG,away, 82 ,Goal, Kylian Mbappé , Lionel Messi 
+1187,80,PSG,away, 83 ,Substitution, Hugo Ekitike , Kylian Mbappé 
+1188,80,PSG,away, 83 ,Substitution, El Bitshiabu , Marquinhos 
+1189,80,Ajaccio,home, 83 ,Substitution, Thomas Mangani , Youcef Belaïli 
+1190,80,PSG,away, 83 ,Substitution, Warren Zaïre-Emery , Fabian Ruiz 
+1191,81,PSG,home, 25 ,Substitution, Nordi Mukiele , Danilo Pereira 
+1192,81,Marseille,away, 44 ,Substitution, Samuel Gigot , Eric Bailly 
+1193,81,PSG,home, 47 ,Goal, Neymar , Kylian Mbappé 
+1194,81,Marseille,away, 47 ,Yellow card, Amine Harit ,
+1195,81,Marseille,away, 70 ,Substitution, Issa Kaboré , Nuno Tavares 
+1196,81,Marseille,away, 71 ,Substitution, Cengiz Ünder , Amine Harit 
+1197,81,Marseille,away, 72 ,Red card, Samuel Gigot ,
+1198,81,PSG,home, 74 ,Yellow card, Marquinhos ,
+1199,81,PSG,home, 79 ,Substitution, Pablo Sarabia , Lionel Messi 
+1200,81,Marseille,away, 79 ,Substitution, Bamba Dieng , Alexis Sanchez 
+1201,81,Marseille,away, 79 ,Substitution, Pape Gueye , Jordan Veretout 
+1202,81,PSG,home, 88 ,Substitution, Carlos Soler , Neymar 
+1203,82,Monaco,home, 17 ,Red card, Mohamed Camara ,
+1204,82,Monaco,home, 20 ,Substitution, Eliot Matazo , Wissam Ben Yedder 
+1205,82,Monaco,home, 21 ,Substitution, Krépin Diatta , Takumi Minamino 
+1206,82,Monaco,home, 31 ,Goal, Breel Embolo ,
+1207,82,Monaco,home, 31 ,Missed penalty, Breel Embolo , Missed penalty 
+1208,82,Clermont,away, 48 ,Yellow card, Elbasan Rashani ,
+1209,82,Clermont,away, 53 ,Goal, Komnen Andrić ,
+1210,82,Monaco,home, 61 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+1211,82,Clermont,away, 63 ,Yellow card, Saifeddine Khaoui ,
+1212,82,Clermont,away, 64 ,Substitution, Jim Allevinah , Grejohn Kyei 
+1213,82,Clermont,away, 67 ,Yellow card, Yohann Magnin ,
+1214,82,Clermont,away, 74 ,Substitution, Jodel Dossou , Komnen Andrić 
+1215,82,Monaco,home, 87 ,Yellow card, Ismail Jakobs ,
+1216,82,Clermont,away, 87 ,Yellow card, Alidu Seidu ,
+1217,82,Monaco,home, 91 ,Yellow card, Krépin Diatta ,
+1218,82,Monaco,home, 94 ,Yellow card, Alexander Nübel ,
+1219,83,Ajaccio,away, 16 ,Yellow card, Youssouf Kone ,
+1220,83,Troyes,home, 18 ,Yellow card, Mama Baldé ,
+1221,83,Ajaccio,away, 37 ,Missed penalty, Riad Nouri , Missed penalty 
+1222,83,Troyes,home, 45 ,Substitution, Erik Palmer-Brown , Yasser Larouci 
+1223,83,Ajaccio,away, 45 ,Substitution, Mickaël Barreto , Kevin Spadanuda 
+1224,83,Troyes,home, 53 ,Yellow card, Renaud Ripart ,
+1225,83,Ajaccio,away, 61 ,Substitution, Mickaël Alphonse , Youssouf Kone 
+1226,83,Troyes,home, 65 ,Substitution, Wilson Odobert , Renaud Ripart 
+1227,83,Troyes,home, 65 ,Substitution, Andreas Bruus , Thierno Baldé 
+1228,83,Ajaccio,away, 75 ,Substitution, Youcef Belaïli , Bevic Moussiti-Oko 
+1229,83,Troyes,home, 76 ,Goal, Jackson Porozo , Rony Lopes 
+1230,83,Troyes,home, 82 ,Substitution, Papa Yade , Abdu Conté 
+1231,83,Ajaccio,away, 86 ,Substitution, Thomas Mangani , Mathieu Coutadeur 
+1232,83,Ajaccio,away, 86 ,Substitution, Yanis Cimignani , Riad Nouri 
+1233,83,Troyes,home, 87 ,Substitution, Tristan Dingomé , Mama Baldé 
+1234,83,Ajaccio,away, 88 ,Goal, Mounaïm El Idrissy ,
+1235,84,Rennes,home, 2 ,Yellow card, Xeka ,
+1236,84,Olympique Lyonnais,away, 7 ,Yellow card, Corentin Tolisso ,
+1237,84,Olympique Lyonnais,away, 23 ,Goal, Alexandre Lacazette , Nicolás Tagliafico 
+1238,84,Rennes,home, 34 ,Yellow card, Lorenz Assignon ,
+1239,84,Rennes,home, 38 ,Goal, Martin Terrier , Benjamin Bourigeaud 
+1240,84,Olympique Lyonnais,away, 48 ,Substitution, Jeff Reine-Adelaide , Corentin Tolisso 
+1241,84,Rennes,home, 47 ,Goal, Amine Gouiri , Lorenz Assignon 
+1242,84,Rennes,home, 56 ,Substitution, Lovro Majer , Arnaud Kalimuendo 
+1243,84,Rennes,home, 69 ,Substitution, Désiré Doué , Benjamin Bourigeaud 
+1244,84,Rennes,home, 69 ,Substitution, Birger Meling , Amine Gouiri 
+1245,84,Olympique Lyonnais,away, 71 ,Yellow card, Houssem Aouar ,
+1246,84,Olympique Lyonnais,away, 72 ,Goal, Alexandre Lacazette ,
+1247,84,Olympique Lyonnais,away, 76 ,Substitution, Damien Da Silva , Jérôme Boateng 
+1248,84,Olympique Lyonnais,away, 76 ,Substitution, Romain Faivre , Houssem Aouar 
+1249,84,Rennes,home, 77 ,Goal, Martin Terrier , Adrien Truffert 
+1250,84,Rennes,home, 82 ,Substitution, Matthis Abline , Martin Terrier 
+1251,84,Olympique Lyonnais,away, 85 ,Substitution, Tetê , Malo Gusto 
+1252,84,Olympique Lyonnais,away, 85 ,Substitution, Karl Toko Ekambi , Nicolás Tagliafico 
+1253,85,Nantes,home, 12 ,Missed penalty, Ludovic Blas , Missed penalty 
+1254,85,Brest,away, 18 ,Goal, Noah Fadiga , Mathias Pereira Lage 
+1255,85,Brest,away, 32 ,Yellow card, Pierre Lees-Melou ,
+1256,85,Nantes,home, 35 ,Penalty, Moses Simon , Penalty 
+1257,85,Nantes,home, 36 ,Goal, Ignatius Ganago ,
+1258,85,Brest,away, 40 ,Yellow card, Mathias Pereira Lage ,
+1259,85,Brest,away, 66 ,Substitution, Karamoko Dembélé , Islam Slimani 
+1260,85,Brest,away, 66 ,Substitution, Irvin Cardona , Romain Del Castillo 
+1261,85,Brest,away, 66 ,Substitution, Jérémy Le Douaron , Franck Honorat 
+1262,85,Nantes,home, 67 ,Substitution, Moussa Sissoko , Ignatius Ganago 
+1263,85,Nantes,home, 70 ,Goal, Mostafa Mohamed ,
+1264,85,Brest,away, 73 ,Substitution, Mahdi Camara , Pierre Lees-Melou 
+1265,85,Brest,away, 73 ,Substitution, Hugo Magnetti , Mathias Pereira Lage 
+1266,85,Nantes,home, 84 ,Substitution, Evann Guessand , Mostafa Mohamed 
+1267,85,Nantes,home, 84 ,Substitution, Jean-Charles Castelletto , Dennis Appiah 
+1268,85,Nantes,home, 84 ,Substitution, Sebastien Corchia , Moses Simon 
+1269,85,Nantes,home, 88 ,Goal, Moussa Sissoko , Ludovic Blas 
+1270,85,Nantes,home, 89 ,Substitution, Marcus Coco , Pedro Chirivella 
+1271,86,Nice,away, 20 ,Goal, Andy Delort , Khéphren Thuram 
+1272,86,Nice,away, 40 ,Substitution, Nicolas Pepe , Andy Delort 
+1273,86,Auxerre,home, 42 ,Goal, Nuno da Costa , Mathias Autret 
+1274,86,Nice,away, 64 ,Substitution, Aaron Ramsey , Khéphren Thuram 
+1275,86,Auxerre,home, 72 ,Substitution, Niang , Hamza Sakhi 
+1276,86,Auxerre,home, 79 ,Substitution, Gaetan Perrin , Nuno da Costa 
+1277,86,Nice,away, 84 ,Substitution, Alexis Beka Beka , Mario Lemina 
+1278,86,Nice,away, 84 ,Substitution, Antoine Mendy , Jordan Lotomba 
+1279,86,Auxerre,home, 87 ,Substitution, Rémy Dugimont , Lassine Sinayoko 
+1280,86,Auxerre,home, 87 ,Substitution, Gauthier Hein , Mathias Autret 
+1281,87,Toulouse,home, 10 ,Goal, Brecht Dejaegere , Farès Chaïbi 
+1282,87,Angers,away, 21 ,Yellow card, Souleyman Doumbia ,
+1283,87,Toulouse,home, 31 ,Yellow card, Rasmus Nicolaisen ,
+1284,87,Angers,away, 33 ,Goal, Nabil Bentaleb ,
+1285,87,Toulouse,home, 40 ,Penalty, Branco Van den Boomen , Penalty 
+1286,87,Toulouse,home, 48 ,Yellow card, Zakaria Aboukhlal ,
+1287,87,Angers,away, 54 ,Substitution, Pierrick Capelle , Souleyman Doumbia 
+1288,87,Toulouse,home, 67 ,Goal, Stijn Spierings , Farès Chaïbi 
+1289,87,Angers,away, 68 ,Substitution, Sada Thioub , Yann Valery 
+1290,87,Angers,away, 68 ,Substitution, Azzedine Ounahi , Adrien Hunou 
+1291,87,Toulouse,home, 72 ,Substitution, Thijs Dallinga , Rafael Ratão 
+1292,87,Toulouse,home, 73 ,Yellow card, Farès Chaïbi ,
+1293,87,Toulouse,home, 75 ,Substitution, Moussa Diarra , Brecht Dejaegere 
+1294,87,Angers,away, 76 ,Yellow card, Ibrahim Amadou ,
+1295,87,Angers,away, 80 ,Substitution, Farid El Melali , Abdallah Sima 
+1296,87,Angers,away, 81 ,Substitution, Amine Salama , Sofiane Boufal 
+1297,87,Toulouse,home, 83 ,Substitution, Oliver Zandén , Anthony Rouault 
+1298,87,Toulouse,home, 84 ,Substitution, Veljko Birmančević , Farès Chaïbi 
+1299,87,Toulouse,home, 84 ,Substitution, Denis Genreau , Zakaria Aboukhlal 
+1300,87,Angers,away, 93 ,Goal, Amine Salama , Pierrick Capelle 
+1301,88,Lens,home, 19 ,Yellow card, Facundo Medina ,
+1302,88,Montpellier,away, 19 ,Yellow card, Elye Wahi ,
+1303,88,Montpellier,away, 31 ,Yellow card, Maxime Estève ,
+1304,88,Lens,home, 59 ,Substitution, Jimmy Cabot , Przemysław Frankowski 
+1305,88,Lens,home, 60 ,Substitution, David da Costa , Alexis Claude-Maurice 
+1306,88,Lens,home, 60 ,Substitution, Wesley Said , Loïs Openda 
+1307,88,Montpellier,away, 64 ,Substitution, Faitout Maouassa , Arnaud Nordin 
+1308,88,Montpellier,away, 64 ,Substitution, Wahbi Khazri , Stephy Mavididi 
+1309,88,Lens,home, 65 ,Yellow card, Deiver Machado ,
+1310,88,Lens,home, 67 ,Goal, Wesley Said ,
+1311,88,Montpellier,away, 80 ,Substitution, Valere Germain , Téji Savanier 
+1312,88,Montpellier,away, 80 ,Substitution, Sacha Delaye , Elye Wahi 
+1313,88,Lens,home, 86 ,Substitution, Jean Onana , Seko Fofana 
+1314,88,Montpellier,away, 86 ,Substitution, Axel Gueguin , Joris Chotard 
+1315,88,Lens,home, 92 ,Substitution, Lukasz Poręba , Salis Abdul Samed 
+1316,89,Reims,away, 13 ,Yellow card, Emmanuel Agbadou ,
+1317,89,Lorient,home, 22 ,Yellow card, Julien Ponceau ,
+1318,89,Lorient,home, 25 ,Substitution, Ibrahima Koné , Terem Moffi 
+1319,89,Reims,away, 46 ,Substitution, Kamory Doumbia , Marshall Munetsi 
+1320,89,Reims,away, 48 ,Yellow card, Dion Lopy ,
+1321,89,Reims,away, 46 ,Second yellow card, Dion Lopy ,
+1322,89,Reims,away, 55 ,Substitution, Mitchell van Bergen , Alexis Flips 
+1323,89,Lorient,home, 68 ,Substitution, Stéphane Diarra , Yoann Cathline 
+1324,89,Lorient,home, 68 ,Substitution, Adrian Grbić , Quentin Boisgard 
+1325,89,Reims,away, 87 ,Substitution, Nathanaël Mbuku , Arbër Zeneli 
+1326,89,Reims,away, 91 ,Red card, Emmanuel Agbadou ,
+1327,90,Lille,away, 17 ,Yellow card, Benjamin Andre ,
+1328,90,Strasbourg,home, 19 ,Yellow card, Maxime Le Marchand ,
+1329,90,Strasbourg,home, 22 ,Yellow card, Sanjin Prcic ,
+1330,90,Lille,away, 41 ,Penalty, Jonathan David , Penalty 
+1331,90,Strasbourg,home, 45 ,Substitution, Ismaël Doukouré , Maxime Le Marchand 
+1332,90,Strasbourg,home, 61 ,Substitution, Dimitri Liénard , Thomas Delaine 
+1333,90,Strasbourg,home, 61 ,Substitution, Adrien Thomasson , Ibrahima Sissoko 
+1334,90,Lille,away, 65 ,Substitution, Tim Weah , Adam Ounas 
+1335,90,Strasbourg,home, 71 ,Substitution, Ronaël Pierre-Gabriel , Colin Dagba 
+1336,90,Lille,away, 76 ,Goal, Jonathan David , Tim Weah 
+1337,90,Lille,away, 77 ,Substitution, Carlos Baleba , André Gomes 
+1338,90,Strasbourg,home, 78 ,Substitution, Jean Aholou , Sanjin Prcic 
+1339,90,Lille,away, 80 ,Goal, Remy Cabella , Tim Weah 
+1340,90,Strasbourg,home, 81 ,Yellow card, Gerzino Nyamsi ,
+1341,90,Lille,away, 83 ,Substitution, Alexsandro Ribeiro , Tiago Djaló 
+1342,90,Lille,away, 84 ,Substitution, Edon Zhegrova , Remy Cabella 
+1343,90,Lille,away, 84 ,Substitution, Jonas Martin , Benjamin Andre 
+1344,91,Lens,away, 4 ,Yellow card, Jimmy Cabot ,
+1345,91,Lille,home, 14 ,Yellow card, Jose Fonte ,
+1346,91,Lens,away, 15 ,Missed penalty, Florian Sotoca , Missed penalty 
+1347,91,Lens,away, 36 ,Yellow card, Facundo Medina ,
+1348,91,Lille,home, 37 ,Yellow card, André Gomes ,
+1349,91,Lille,home, 39 ,Yellow card, Benjamin Andre ,
+1350,91,Lens,away, 43 ,Yellow card, Massadio Haidara ,
+1351,91,Lille,home, 44 ,Penalty, Jonathan David , Penalty 
+1352,91,Lens,away, 53 ,Yellow card, Deiver Machado ,
+1353,91,Lens,away, 61 ,Substitution, Przemysław Frankowski , Jimmy Cabot 
+1354,91,Lens,away, 61 ,Substitution, Wesley Said , David Pereira da Costa 
+1355,91,Lens,away, 68 ,Substitution, Alexis Claude-Maurice , Florian Sotoca 
+1356,91,Lille,home, 73 ,Substitution, Tim Weah , Jonathan Bamba 
+1357,91,Lille,home, 74 ,Substitution, Carlos Baleba , André Gomes 
+1358,91,Lens,away, 77 ,Substitution, Ismaël Boura , Deiver Machado 
+1359,91,Lens,away, 77 ,Substitution, Adam Buksa , Massadio Haidara 
+1360,91,Lille,home, 85 ,Substitution, Jonas Martin , Angel Gomes 
+1361,91,Lens,away, 92 ,Yellow card, Przemysław Frankowski ,
+1362,92,Rennes,home, 26 ,Goal, Amine Gouiri ,
+1363,92,Rennes,home, 61 ,Yellow card, Hamari Traore ,
+1364,92,Nantes,away, 71 ,Substitution, Ignatius Ganago , Samuel Moutoussamy 
+1365,92,Rennes,home, 75 ,Substitution, Lesley Ugochukwu , Xeka 
+1366,92,Rennes,home, 75 ,Substitution, Lovro Majer , Arnaud Kalimuendo 
+1367,92,Rennes,home, 79 ,Goal, Martin Terrier , Amine Gouiri 
+1368,92,Nantes,away, 81 ,Substitution, Evann Guessand , Moussa Sissoko 
+1369,92,Nantes,away, 81 ,Substitution, Sebastien Corchia , Dennis Appiah 
+1370,92,Rennes,home, 83 ,Substitution, Désiré Doué , Benjamin Bourigeaud 
+1371,92,Rennes,home, 84 ,Goal, Désiré Doué , Martin Terrier 
+1372,92,Rennes,home, 88 ,Red card, Joe Rodon ,
+1373,92,Rennes,home, 88 ,Substitution, Matthis Abline , Amine Gouiri 
+1374,92,Rennes,home, 88 ,Substitution, Kamaldeen Sulemana , Martin Terrier 
+1375,93,Clermont,home, 10 ,Disallowed goal,Disallowed goal,
+1376,93,Clermont,home, 55 ,Goal, Saifeddine Khaoui , Grejohn Kyei 
+1377,93,Clermont,home, 58 ,Goal, Grejohn Kyei ,
+1378,93,Clermont,home, 62 ,Substitution, Brandon Baiye , Maxime Gonalons 
+1379,93,Auxerre,away, 66 ,Substitution, Lassine Sinayoko , Niang 
+1380,93,Auxerre,away, 66 ,Substitution, Rayan Raveloson , Hamza Sakhi 
+1381,93,Clermont,home, 67 ,Substitution, Florent Ogier , Alidu Seidu 
+1382,93,Clermont,home, 67 ,Substitution, Muhammed Cham , Grejohn Kyei 
+1383,93,Clermont,home, 67 ,Substitution, Komnen Andrić , Elbasan Rashani 
+1384,93,Auxerre,away, 74 ,Substitution, Gaetan Perrin , Gauthier Hein 
+1385,93,Clermont,home, 88 ,Substitution, Jim Allevinah , Saifeddine Khaoui 
+1386,93,Auxerre,away, 90 ,Substitution, Youssouf M'Changama , Birama Toure 
+1387,93,Auxerre,away, 90 ,Substitution, Rémy Dugimont , Mathias Autret 
+1388,93,Auxerre,away, 92 ,Goal, Jubal , Alexandre Coeff 
+1389,94,Nice,home, 2 ,Goal, Mattia Viti , Sofiane Diop 
+1390,94,Nice,home, 37 ,Penalty, Andy Delort , Penalty 
+1391,94,Nice,home, 42 ,Substitution, Jordan Lotomba , Youcef Atal 
+1392,94,Nice,home, 50 ,Goal, Nicolas Pepe , Sofiane Diop 
+1393,94,Nice,home, 56 ,Yellow card, Joe Bryan ,
+1394,94,Troyes,away, 59 ,Substitution, Abdu Conté , Wilson Odobert 
+1395,94,Troyes,away, 60 ,Substitution, Rony Lopes , Erik Palmer-Brown 
+1396,94,Nice,home, 62 ,Substitution, Pablo Rosario , Mario Lemina 
+1397,94,Nice,home, 63 ,Substitution, Ross Barkley , Nicolas Pepe 
+1398,94,Nice,home, 69 ,Substitution, Gaetan Laborde , Andy Delort 
+1399,94,Nice,home, 70 ,Substitution, Melvin Bard , Joe Bryan 
+1400,94,Troyes,away, 76 ,Substitution, Iké Ugbo , Renaud Ripart 
+1401,94,Troyes,away, 77 ,Substitution, Xavier Chavalerin , Rominigue Kouamé 
+1402,94,Troyes,away, 82 ,Goal, Xavier Chavalerin ,
+1403,94,Troyes,away, 83 ,Substitution, Tristan Dingomé , Florian Tardieu 
+1404,94,Troyes,away, 90 ,Goal, Abdu Conté , Iké Ugbo 
+1405,94,Troyes,away, 93 ,Yellow card, Mama Baldé ,
+1406,95,Brest,home, 17 ,Goal, Romain Del Castillo , Jere Uronen 
+1407,95,Brest,home, 21 ,Yellow card, Islam Slimani ,
+1408,95,Lorient,away, 24 ,Goal, Terem Moffi , Laurent Abergel 
+1409,95,Lorient,away, 25 ,Substitution, Quentin Boisgard , Laurent Abergel 
+1410,95,Lorient,away, 53 ,Goal, Terem Moffi ,
+1411,95,Brest,home, 64 ,Yellow card, Romain Del Castillo ,
+1412,95,Brest,home, 67 ,Substitution, Hugo Magnetti , Mahdi Camara 
+1413,95,Brest,home, 67 ,Substitution, Mathias Pereira Lage , Franck Honorat 
+1414,95,Brest,home, 67 ,Yellow card, Franck Honorat ,
+1415,95,Lorient,away, 68 ,Yellow card, Quentin Boisgard ,
+1416,95,Lorient,away, 71 ,Substitution, Chrislain Matsima , Stéphane Diarra 
+1417,95,Lorient,away, 71 ,Substitution, Ibrahima Koné , Yoann Cathline 
+1418,95,Brest,home, 77 ,Substitution, Axel Camblan , Islam Slimani 
+1419,95,Brest,home, 83 ,Substitution, Karamoko Dembélé , Romain Del Castillo 
+1420,95,Brest,home, 83 ,Substitution, Jean Duverne , Noah Fadiga 
+1421,95,Lorient,away, 87 ,Substitution, Bonke Innocent , Julien Ponceau 
+1422,95,Lorient,away, 87 ,Substitution, Siriné Doucouré , Terem Moffi 
+1423,96,Strasbourg,away, 7 ,Goal, Kevin Gameiro , Jeanricner Bellegarde 
+1424,96,Angers,home, 11 ,Goal, Adrien Hunou , Sofiane Boufal 
+1425,96,Angers,home, 32 ,Yellow card, Batista Mendy ,
+1426,96,Strasbourg,away, 33 ,Own goal, Miha Blažič , Own goal 
+1427,96,Strasbourg,away, 45 ,Substitution, Adrien Thomasson , Kevin Gameiro 
+1428,96,Strasbourg,away, 58 ,Goal, Habib Diallo ,
+1429,96,Angers,home, 66 ,Substitution, Amine Salama , Abdallah Sima 
+1430,96,Angers,home, 66 ,Substitution, Ibrahim Amadou , Batista Mendy 
+1431,96,Angers,home, 66 ,Substitution, Himad Abdelli , Azzedine Ounahi 
+1432,96,Strasbourg,away, 76 ,Substitution, Ronaël Pierre-Gabriel , Colin Dagba 
+1433,96,Strasbourg,away, 77 ,Substitution, Habib Diarra , Ibrahima Sissoko 
+1434,96,Strasbourg,away, 80 ,Substitution, Dimitri Liénard , Thomas Delaine 
+1435,96,Angers,home, 86 ,Substitution, Sada Thioub , Adrien Hunou 
+1436,96,Angers,home, 86 ,Substitution, Abdoulaye Bamba , Yann Valery 
+1437,96,Angers,home, 87 ,Goal, Miha Blažič ,
+1438,96,Strasbourg,away, 94 ,Yellow card, Ronaël Pierre-Gabriel ,
+1439,97,Montpellier,home, 10 ,Yellow card, Maxime Estève ,
+1440,97,Monaco,away, 26 ,Yellow card, Caio Henrique ,
+1441,97,Monaco,away, 46 ,Goal, Breel Embolo , Wissam Ben Yedder 
+1442,97,Monaco,away, 45 ,Substitution, Krépin Diatta , Maghnes Akliouche 
+1443,97,Montpellier,home, 62 ,Substitution, Wahbi Khazri , Stephy Mavididi 
+1444,97,Montpellier,home, 62 ,Substitution, Faitout Maouassa , Arnaud Nordin 
+1445,97,Monaco,away, 65 ,Yellow card, Benoît Badiashile ,
+1446,97,Monaco,away, 71 ,Yellow card, Mohamed Camara ,
+1447,97,Monaco,away, 73 ,Substitution, Myron Boadu , Breel Embolo 
+1448,97,Monaco,away, 80 ,Goal, Myron Boadu , Caio Henrique 
+1449,97,Montpellier,home, 82 ,Substitution, Valere Germain , Jordan Ferri 
+1450,97,Montpellier,home, 82 ,Substitution, Khalil Fayad , Joris Chotard 
+1451,97,Montpellier,home, 82 ,Substitution, Falaye Sacko , Enzo Tchato 
+1452,97,Monaco,away, 84 ,Substitution, Ismail Jakobs , Caio Henrique 
+1453,97,Monaco,away, 87 ,Substitution, Takumi Minamino , Wissam Ben Yedder 
+1454,97,Montpellier,home, 88 ,Yellow card, Christopher Jullien ,
+1455,98,Reims,home, 39 ,Yellow card, Marshall Munetsi ,
+1456,98,PSG,away, 41 ,Yellow card, Sergio Ramos ,
+1457,98,PSG,away, 41 ,Red card, Sergio Ramos ,
+1458,98,PSG,away, 42 ,Yellow card, Marco Verratti ,
+1459,98,PSG,away, 45 ,Substitution, Vitinha , Marco Verratti 
+1460,98,PSG,away, 57 ,Substitution, Neymar , Carlos Soler 
+1461,98,Reims,home, 76 ,Substitution, Mitchell van Bergen , Alexis Flips 
+1462,98,Reims,home, 79 ,Substitution, Kamory Doumbia , Arbër Zeneli 
+1463,98,Reims,home, 84 ,Substitution, Nathanaël Mbuku , Dion Lopy 
+1464,98,PSG,away, 88 ,Substitution, Achraf Hakimi , Pablo Sarabia 
+1465,98,Reims,home, 90 ,Yellow card, Andreaw Gravillon ,
+1466,98,PSG,away, 90 ,Yellow card, Achraf Hakimi ,
+1467,98,PSG,away, 92 ,Yellow card, Neymar ,
+1468,98,PSG,away, 92 ,Yellow card, Kylian Mbappé ,
+1469,98,Reims,home, 93 ,Yellow card, Bradley Locko ,
+1470,99,Ajaccio,away, 11 ,Yellow card, Youssouf Kone ,
+1471,99,Marseille,home, 15 ,Penalty, Dimitri Payet , Penalty 
+1472,99,Ajaccio,away, 25 ,Goal, Bevic Moussiti-Oko , Vincent Marchetti 
+1473,99,Marseille,home, 45 ,Substitution, Jordan Veretout , Pape Gueye 
+1474,99,Ajaccio,away, 47 ,Own goal, Leonardo Balerdi , Own goal 
+1475,99,Marseille,home, 56 ,Substitution, Luis Suárez , Gerson 
+1476,99,Marseille,home, 56 ,Substitution, Cengiz Ünder , Dimitri Payet 
+1477,99,Marseille,home, 57 ,Substitution, Amine Harit , Alexis Sanchez 
+1478,99,Ajaccio,away, 60 ,Substitution, Ismaël Diallo , Youssouf Kone 
+1479,99,Ajaccio,away, 74 ,Substitution, Mickaël Alphonse , Cyrille Bayala 
+1480,99,Ajaccio,away, 74 ,Substitution, Jean Botué , Bevic Moussiti-Oko 
+1481,99,Marseille,home, 77 ,Substitution, Bamba Dieng , Issa Kaboré 
+1482,99,Ajaccio,away, 86 ,Yellow card, Oumar Gonzalez ,
+1483,99,Ajaccio,away, 88 ,Substitution, Thomas Mangani , Vincent Marchetti 
+1484,99,Ajaccio,away, 88 ,Substitution, Clément Vidal , Oumar Gonzalez 
+1485,100,Olympique Lyonnais,home, 2 ,Goal, Tetê , Alexandre Lacazette 
+1486,100,Toulouse,away, 4 ,Yellow card, Thijs Dallinga ,
+1487,100,Toulouse,away, 30 ,Yellow card, Zakaria Aboukhlal ,
+1488,100,Toulouse,away, 58 ,Substitution, Rafael Ratão , Thijs Dallinga 
+1489,100,Toulouse,away, 67 ,Goal, Rafael Ratão , Zakaria Aboukhlal 
+1490,100,Olympique Lyonnais,home, 68 ,Substitution, Jeff Reine-Adelaide , Moussa Dembele 
+1491,100,Olympique Lyonnais,home, 68 ,Substitution, Maxence Caqueret , Corentin Tolisso 
+1492,100,Toulouse,away, 77 ,Substitution, Denis Genreau , Brecht Dejaegere 
+1493,100,Olympique Lyonnais,home, 79 ,Substitution, Rayan Cherki , Tetê 
+1494,100,Toulouse,away, 84 ,Substitution, Moussa Diarra , Branco Van den Boomen 
+1495,100,Olympique Lyonnais,home, 88 ,Yellow card, Karl Toko Ekambi ,
+1496,100,Olympique Lyonnais,home, 91 ,Yellow card, Rayan Cherki ,
+1497,101,Olympique Lyonnais,away, 27 ,Yellow card, Nicolás Tagliafico ,
+1498,101,Lens,home, 71 ,Substitution, Wesley Said , Loïs Openda 
+1499,101,Lens,home, 72 ,Substitution, Alexis Claude-Maurice , David da Costa 
+1500,101,Olympique Lyonnais,away, 74 ,Substitution, Sael Kumbedi , Nicolás Tagliafico 
+1501,101,Olympique Lyonnais,away, 74 ,Substitution, Jeff Reine-Adelaide , Rayan Cherki 
+1502,101,Olympique Lyonnais,away, 74 ,Substitution, Bradley Barcola , Alexandre Lacazette 
+1503,101,Lens,home, 78 ,Yellow card, Florian Sotoca ,
+1504,101,Lens,home, 78 ,Substitution, Przemysław Frankowski , Deiver Machado 
+1505,101,Olympique Lyonnais,away, 79 ,Yellow card, Jeff Reine-Adelaide ,
+1506,101,Lens,home, 82 ,Penalty, Florian Sotoca , Penalty 
+1507,101,Lens,home, 87 ,Substitution, Adam Buksa , Florian Sotoca 
+1508,101,Lens,home, 87 ,Substitution, Jean Onana , Seko Fofana 
+1509,101,Lens,home, 89 ,Yellow card, Wesley Said ,
+1510,102,Monaco,home, 2 ,Goal, Breel Embolo ,
+1511,102,Monaco,home, 6 ,Goal, Wissam Ben Yedder , Breel Embolo 
+1512,102,Monaco,home, 28 ,Goal, Wissam Ben Yedder , Aleksandr Golovin 
+1513,102,Nantes,away, 30 ,Substitution, Sebastien Corchia , Jean-Charles Castelletto 
+1514,102,Monaco,home, 45 ,Substitution, Kevin Volland , Breel Embolo 
+1515,102,Nantes,away, 60 ,Yellow card, Andrei Girotto ,
+1516,102,Monaco,home, 62 ,Penalty, Wissam Ben Yedder , Penalty 
+1517,102,Nantes,away, 65 ,Substitution, Mostafa Mohamed , Moses Simon 
+1518,102,Nantes,away, 65 ,Substitution, Ludovic Blas , Ignatius Ganago 
+1519,102,Monaco,home, 66 ,Substitution, Guillermo Maripan , Vanderson 
+1520,102,Monaco,home, 66 ,Substitution, Malang Sarr , Benoît Badiashile 
+1521,102,Nantes,away, 66 ,Substitution, Lohann Doucet , Moussa Sissoko 
+1522,102,Monaco,home, 66 ,Substitution, Takumi Minamino , Aleksandr Golovin 
+1523,102,Monaco,home, 71 ,Substitution, Eliot Matazo , Youssouf Fofana 
+1524,102,Nantes,away, 78 ,Substitution, Kader Bamba , Evann Guessand 
+1525,102,Nantes,away, 79 ,Own goal, Caio Henrique , Own goal 
+1526,103,Montpellier,away, 7 ,Goal, Nicolas Cozza ,
+1527,103,Toulouse,home, 15 ,Yellow card, Mikkel Desler ,
+1528,103,Montpellier,away, 16 ,Yellow card, Jordan Ferri ,
+1529,103,Toulouse,home, 18 ,Goal, Stijn Spierings , Farès Chaïbi 
+1530,103,Toulouse,home, 24 ,Goal, Zakaria Aboukhlal , Branco Van den Boomen 
+1531,103,Toulouse,home, 31 ,Goal, Farès Chaïbi , Branco Van den Boomen 
+1532,103,Montpellier,away, 33 ,Yellow card, Joris Chotard ,
+1533,103,Toulouse,home, 43 ,Yellow card, Issiaga Sylla ,
+1534,103,Toulouse,home, 48 ,Goal, Brecht Dejaegere , Zakaria Aboukhlal 
+1535,103,Montpellier,away, 53 ,Yellow card, Téji Savanier ,
+1536,103,Toulouse,home, 60 ,Second yellow card, Mikkel Desler ,
+1537,103,Toulouse,home, 60 ,Yellow card, Stijn Spierings ,
+1538,103,Montpellier,away, 61 ,Substitution, Stephy Mavididi , Wahbi Khazri 
+1539,103,Montpellier,away, 62 ,Substitution, Valere Germain , Jordan Ferri 
+1540,103,Montpellier,away, 62 ,Substitution, Falaye Sacko , Arnaud Souquet 
+1541,103,Toulouse,home, 63 ,Substitution, Kévin Keben , Brecht Dejaegere 
+1542,103,Montpellier,away, 67 ,Yellow card, Elye Wahi ,
+1543,103,Montpellier,away, 68 ,Goal, Elye Wahi , Joris Chotard 
+1544,103,Toulouse,home, 72 ,Substitution, Denis Genreau , Thijs Dallinga 
+1545,103,Toulouse,home, 72 ,Substitution, Moussa Diarra , Zakaria Aboukhlal 
+1546,103,Toulouse,home, 72 ,Yellow card, Denis Genreau ,
+1547,103,Toulouse,home, 79 ,Substitution, Ado Onaiwu , Farès Chaïbi 
+1548,103,Montpellier,away, 82 ,Substitution, Léo Leroy , Joris Chotard 
+1549,103,Montpellier,away, 82 ,Substitution, Axel Gueguin , Arnaud Nordin 
+1550,104,Reims,away, 12 ,Goal, Folarin Balogun , Junya Ito 
+1551,104,Troyes,home, 19 ,Yellow card, Yoann Salmier ,
+1552,104,Troyes,home, 33 ,Substitution, Wilson Odobert , Lucien Agoumé 
+1553,104,Troyes,home, 51 ,Goal, Wilson Odobert ,
+1554,104,Reims,away, 54 ,Goal, Junya Ito , Alexis Flips 
+1555,104,Reims,away, 56 ,Red card, Junya Ito ,
+1556,104,Troyes,home, 57 ,Yellow card, Gauthier Gallon ,
+1557,104,Reims,away, 64 ,Substitution, Noah Holm , Alexis Flips 
+1558,104,Reims,away, 64 ,Substitution, Martin Adeline , Folarin Balogun 
+1559,104,Troyes,home, 64 ,Substitution, Iké Ugbo , Yoann Salmier 
+1560,104,Troyes,home, 64 ,Substitution, Andreas Bruus , Thierno Baldé 
+1561,104,Reims,away, 73 ,Substitution, Ibrahim Diakité , Mitchell van Bergen 
+1562,104,Reims,away, 79 ,Substitution, Kamory Doumbia , Azor Matusiwa 
+1563,104,Troyes,home, 83 ,Yellow card, Andreas Bruus ,
+1564,104,Troyes,home, 90 ,Goal, Jackson Porozo ,
+1565,104,Reims,away, 95 ,Yellow card, Ibrahim Diakité ,
+1566,104,Reims,away, 97 ,Yellow card, Emmanuel Agbadou ,
+1567,104,Troyes,home, 97 ,Yellow card, Erik Palmer-Brown ,
+1568,105,Auxerre,home, 4 ,Yellow card, Julian Jeanvier ,
+1569,105,Brest,away, 25 ,Yellow card, Islam Slimani ,
+1570,105,Auxerre,home, 52 ,Second yellow card, Julian Jeanvier ,
+1571,105,Auxerre,home, 56 ,Substitution, Dénys Bain , Youssouf M'Changama 
+1572,105,Brest,away, 57 ,Yellow card, Brendan Chardonnet ,
+1573,105,Auxerre,home, 59 ,Yellow card, Niang ,
+1574,105,Brest,away, 64 ,Goal, Islam Slimani ,
+1575,105,Auxerre,home, 65 ,Substitution, Gaetan Perrin , Nuno da Costa 
+1576,105,Brest,away, 73 ,Substitution, Irvin Cardona , Jérémy Le Douaron 
+1577,105,Brest,away, 79 ,Substitution, Romain Del Castillo , Mathias Pereira Lage 
+1578,105,Brest,away, 82 ,Yellow card, Romain Del Castillo ,
+1579,105,Brest,away, 85 ,Yellow card, Marco Bizot ,
+1580,105,Auxerre,home, 86 ,Penalty, Niang , Penalty 
+1581,105,Auxerre,home, 87 ,Substitution, Rayan Raveloson , Hamza Sakhi 
+1582,105,Auxerre,home, 87 ,Substitution, Rémy Dugimont , Niang 
+1583,106,Clermont,away, 11 ,Goal, Grejohn Kyei , Johan Gastien 
+1584,106,Clermont,away, 45 ,Yellow card, Johan Gastien ,
+1585,106,Ajaccio,home, 45 ,Substitution, Riad Nouri , Kevin Spadanuda 
+1586,106,Ajaccio,home, 62 ,Substitution, Thomas Mangani , Vincent Marchetti 
+1587,106,Ajaccio,home, 62 ,Substitution, Bevic Moussiti-Oko , Yoann Touzghar 
+1588,106,Clermont,away, 63 ,Substitution, Elbasan Rashani , Grejohn Kyei 
+1589,106,Ajaccio,home, 64 ,Yellow card, Mickaël Alphonse ,
+1590,106,Ajaccio,home, 70 ,Goal, Cédric Avinel ,
+1591,106,Clermont,away, 71 ,Substitution, Saifeddine Khaoui , Muhammed Cham 
+1592,106,Clermont,away, 71 ,Substitution, Mehdi Zeffane , Johan Gastien 
+1593,106,Ajaccio,home, 71 ,Substitution, Cyrille Bayala , Yanis Cimignani 
+1594,106,Ajaccio,home, 72 ,Substitution, Mohamed Youssouf , Mickaël Alphonse 
+1595,106,Clermont,away, 73 ,Yellow card, Mehdi Zeffane ,
+1596,106,Ajaccio,home, 76 ,Yellow card, Cyrille Bayala ,
+1597,106,Clermont,away, 76 ,Yellow card, Maximiliano Caufriez ,
+1598,106,Clermont,away, 84 ,Substitution, Brandon Baiye , Maxime Gonalons 
+1599,106,Clermont,away, 85 ,Substitution, Jodel Dossou , Komnen Andrić 
+1600,106,Ajaccio,home, 88 ,Yellow card, Ismaël Diallo ,
+1601,106,Clermont,away, 89 ,Goal, Elbasan Rashani , Mateusz Wieteska 
+1602,106,Clermont,away, 91 ,Goal, Jodel Dossou , Saifeddine Khaoui 
+1603,107,Lorient,home, 9 ,Own goal, Bafodé Diakité , Own goal 
+1604,107,Lille,away, 25 ,Yellow card, Angel Gomes ,
+1605,107,Lorient,home, 33 ,Yellow card, Dango Ouattara ,
+1606,107,Lorient,home, 42 ,Yellow card, Laurent Abergel ,
+1607,107,Lille,away, 45 ,Yellow card, Jonas Martin ,
+1608,107,Lille,away, 45 ,Substitution, Remy Cabella , Jonas Martin 
+1609,107,Lille,away, 49 ,Yellow card, Bafodé Diakité ,
+1610,107,Lorient,home, 62 ,Second yellow card, Dango Ouattara ,
+1611,107,Lorient,home, 69 ,Substitution, Théo Le Bris , Stéphane Diarra 
+1612,107,Lorient,home, 69 ,Substitution, Bonke Innocent , Julien Ponceau 
+1613,107,Lille,away, 69 ,Substitution, Akim Zedadka , Bafodé Diakité 
+1614,107,Lille,away, 70 ,Substitution, André Gomes , Angel Gomes 
+1615,107,Lille,away, 78 ,Goal, Jonathan David , Jonathan Bamba 
+1616,107,Lorient,home, 86 ,Substitution, Ibrahima Koné , Terem Moffi 
+1617,107,Lille,away, 86 ,Substitution, Mohamed Bayo , Benjamin Andre 
+1618,107,Lorient,home, 87 ,Goal, Théo Le Bris , Gédéon Kalulu 
+1619,107,Lorient,home, 91 ,Substitution, Chrislain Matsima , Enzo Le Fée 
+1620,108,Nice,away, 27 ,Yellow card, Dante ,
+1621,108,PSG,home, 29 ,Goal, Lionel Messi ,
+1622,108,Nice,away, 47 ,Goal, Gaetan Laborde ,
+1623,108,PSG,home, 59 ,Substitution, Kylian Mbappé , Hugo Ekitike 
+1624,108,PSG,home, 59 ,Substitution, Nuno Mendes , Juan Bernat 
+1625,108,Nice,away, 62 ,Substitution, Khéphren Thuram , Aaron Ramsey 
+1626,108,Nice,away, 62 ,Substitution, Nicolas Pepe , Ross Barkley 
+1627,108,PSG,home, 72 ,Substitution, Renato Sanches , Fabian Ruiz 
+1628,108,Nice,away, 76 ,Substitution, Alexis Beka Beka , Mario Lemina 
+1629,108,Nice,away, 76 ,Substitution, Jordan Lotomba , Youcef Atal 
+1630,108,PSG,home, 83 ,Goal, Kylian Mbappé , Nordi Mukiele 
+1631,108,Nice,away, 83 ,Substitution, Andy Delort , Gaetan Laborde 
+1632,108,PSG,home, 88 ,Substitution, Pablo Sarabia , Lionel Messi 
+1633,108,PSG,home, 88 ,Substitution, Danilo Pereira , Renato Sanches 
+1634,108,PSG,home, 91 ,Yellow card, Pablo Sarabia ,
+1635,109,Strasbourg,home, 19 ,Disallowed goal,Disallowed goal,
+1636,109,Strasbourg,home, 28 ,Red card, Gerzino Nyamsi ,
+1637,109,Rennes,away, 38 ,Goal, Arnaud Kalimuendo , Adrien Truffert 
+1638,109,Strasbourg,home, 45 ,Substitution, Habib Diarra , Ibrahima Sissoko 
+1639,109,Rennes,away, 49 ,Goal, Martin Terrier ,
+1640,109,Rennes,away, 61 ,Goal, Amine Gouiri , Arnaud Kalimuendo 
+1641,109,Rennes,away, 62 ,Substitution, Lovro Majer , Arnaud Kalimuendo 
+1642,109,Strasbourg,home, 62 ,Substitution, Karol Fila , Colin Dagba 
+1643,109,Strasbourg,home, 63 ,Substitution, Lucas Perrin , Sanjin Prcic 
+1644,109,Strasbourg,home, 64 ,Substitution, Thomas Delaine , Dimitri Liénard 
+1645,109,Rennes,away, 71 ,Yellow card, Hamari Traore ,
+1646,109,Strasbourg,home, 72 ,Penalty, Habib Diallo , Penalty 
+1647,109,Rennes,away, 73 ,Substitution, Jérémy Doku , Benjamin Bourigeaud 
+1648,109,Rennes,away, 73 ,Substitution, Birger Meling , Adrien Truffert 
+1649,109,Strasbourg,home, 76 ,Substitution, Nordine Kandil , Kevin Gameiro 
+1650,109,Rennes,away, 82 ,Substitution, Lorenz Assignon , Martin Terrier 
+1651,109,Rennes,away, 82 ,Substitution, Matthis Abline , Amine Gouiri 
+1652,109,Rennes,away, 90 ,Yellow card, Lovro Majer ,
+1653,110,Marseille,away, 35 ,Goal, Jonathan Clauss , Luis Suárez 
+1654,110,Marseille,away, 50 ,Goal, Luis Suárez , Jonathan Clauss 
+1655,110,Marseille,away, 59 ,Goal, Gerson , Jonathan Clauss 
+1656,110,Angers,home, 67 ,Substitution, Amine Salama , Abdallah Sima 
+1657,110,Marseille,away, 67 ,Substitution, Valentin Rongier , Dimitri Payet 
+1658,110,Marseille,away, 67 ,Substitution, Amine Harit , Gerson 
+1659,110,Angers,home, 75 ,Substitution, Ibrahim Amadou , Adrien Hunou 
+1660,110,Angers,home, 75 ,Substitution, Himad Abdelli , Batista Mendy 
+1661,110,Marseille,away, 75 ,Substitution, S Touré , Leonardo Balerdi 
+1662,110,Angers,home, 75 ,Substitution, Sada Thioub , Azzedine Ounahi 
+1663,110,Marseille,away, 76 ,Substitution, Cengiz Ünder , Jonathan Clauss 
+1664,110,Marseille,away, 84 ,Substitution, Bamba Dieng , Luis Suárez 
+1665,110,Angers,home, 85 ,Substitution, Pierrick Capelle , Sofiane Boufal 
+1666,111,PSG,away, 5 ,Goal, Lionel Messi , Neymar 
+1667,111,PSG,away, 39 ,Yellow card, Marco Verratti ,
+1668,111,Olympique Lyonnais,home, 45 ,Substitution, Johann Lepenant , Corentin Tolisso 
+1669,111,PSG,away, 57 ,Substitution, Vitinha , Fabian Ruiz 
+1670,111,PSG,away, 64 ,Substitution, Nordi Mukiele , Marco Verratti 
+1671,111,Olympique Lyonnais,home, 75 ,Substitution, Jeff Reine-Adelaide , Maxence Caqueret 
+1672,111,Olympique Lyonnais,home, 75 ,Substitution, Rayan Cherki , Tetê 
+1673,111,PSG,away, 86 ,Substitution, Carlos Soler , Neymar 
+1674,111,Olympique Lyonnais,home, 87 ,Substitution, Bradley Barcola , Karl Toko Ekambi 
+1675,111,PSG,away, 93 ,Yellow card, Gianluigi Donnarumma ,
+1676,112,Nantes,home, 56 ,Substitution, Sebastien Corchia , Nicolas Pallois 
+1677,112,Lens,away, 65 ,Substitution, Alexis Claude-Maurice , David Pereira da Costa 
+1678,112,Lens,away, 65 ,Substitution, Adam Buksa , Loïs Openda 
+1679,112,Nantes,home, 74 ,Substitution, Ignatius Ganago , Mostafa Mohamed 
+1680,112,Nantes,home, 79 ,Yellow card, Samuel Moutoussamy ,
+1681,112,Lens,away, 81 ,Substitution, Ismaël Boura , Przemysław Frankowski 
+1682,112,Lens,away, 81 ,Substitution, Gael Kakuta , Florian Sotoca 
+1683,112,Nantes,home, 87 ,Substitution, Evann Guessand , Moses Simon 
+1684,112,Lens,away, 92 ,Yellow card, Salis Abdul Samed ,
+1685,113,Nice,home, 1 ,Red card, Jean Todibo ,
+1686,113,Angers,away, 32 ,Yellow card, Cedric Hountondji ,
+1687,113,Angers,away, 40 ,Yellow card, Sofiane Boufal ,
+1688,113,Angers,away, 43 ,Goal, Nabil Bentaleb ,
+1689,113,Nice,home, 45 ,Substitution, Hicham Boudaoui , Gaetan Laborde 
+1690,113,Angers,away, 62 ,Second yellow card, Sofiane Boufal ,
+1691,113,Nice,home, 64 ,Substitution, Alexis Beka Beka , Khéphren Thuram 
+1692,113,Nice,home, 64 ,Substitution, Youcef Atal , Jordan Lotomba 
+1693,113,Nice,home, 64 ,Substitution, Ross Barkley , Sofiane Diop 
+1694,113,Angers,away, 67 ,Substitution, Lois Diony , Abdallah Sima 
+1695,113,Angers,away, 77 ,Substitution, Sada Thioub , Adrien Hunou 
+1696,113,Nice,home, 79 ,Substitution, Billal Brahimi , Nicolas Pepe 
+1697,113,Angers,away, 86 ,Yellow card, Yahia Fofana ,
+1698,113,Angers,away, 88 ,Substitution, Pierrick Capelle , Azzedine Ounahi 
+1699,114,Rennes,away, 7 ,Yellow card, Hamari Traore ,
+1700,114,Rennes,away, 19 ,Yellow card, Désiré Doué ,
+1701,114,Rennes,away, 25 ,Own goal, Matteo Guendouzi , Own goal 
+1702,114,Rennes,away, 44 ,Yellow card, Amine Gouiri ,
+1703,114,Marseille,home, 52 ,Goal, Matteo Guendouzi , Jordan Veretout 
+1704,114,Rennes,away, 61 ,Substitution, Lovro Majer , Désiré Doué 
+1705,114,Rennes,away, 61 ,Substitution, Kamaldeen Sulemana , Amine Gouiri 
+1706,114,Marseille,home, 62 ,Yellow card, Nuno Tavares ,
+1707,114,Rennes,away, 68 ,Yellow card, Kamaldeen Sulemana ,
+1708,114,Marseille,home, 73 ,Substitution, Dimitri Payet , Matteo Guendouzi 
+1709,114,Marseille,home, 73 ,Substitution, Cengiz Ünder , Amine Harit 
+1710,114,Rennes,away, 75 ,Substitution, Jérémy Doku , Benjamin Bourigeaud 
+1711,114,Marseille,home, 85 ,Substitution, Luis Suárez , Alexis Sanchez 
+1712,114,Marseille,home, 85 ,Yellow card, Leonardo Balerdi ,
+1713,114,Rennes,away, 85 ,Substitution, Arnaud Kalimuendo , Martin Terrier 
+1714,114,Marseille,home, 85 ,Substitution, Pape Gueye , Jordan Veretout 
+1715,114,Rennes,away, 85 ,Substitution, Lorenz Assignon , Hamari Traore 
+1716,114,Marseille,home, 90 ,Yellow card, Luis Suárez ,
+1717,115,Clermont,home, 3 ,Goal, Johan Gastien , Muhammed Cham 
+1718,115,Troyes,away, 3 ,Substitution, Renaud Ripart , Rony Lopes 
+1719,115,Troyes,away, 23 ,Goal, Mama Baldé ,
+1720,115,Clermont,home, 31 ,Substitution, Arial Mendy , Jérémie Bela 
+1721,115,Troyes,away, 46 ,Yellow card, Andreas Bruus ,
+1722,115,Troyes,away, 51 ,Yellow card, Lucien Agoumé ,
+1723,115,Troyes,away, 52 ,Yellow card, Papa Yade ,
+1724,115,Troyes,away, 54 ,Goal, Mama Baldé , Wilson Odobert 
+1725,115,Clermont,home, 60 ,Substitution, Grejohn Kyei , Komnen Andrić 
+1726,115,Clermont,home, 60 ,Substitution, Yohann Magnin , Maxime Gonalons 
+1727,115,Troyes,away, 65 ,Substitution, Xavier Chavalerin , Lucien Agoumé 
+1728,115,Troyes,away, 65 ,Substitution, Abdu Conté , Papa Yade 
+1729,115,Clermont,home, 69 ,Substitution, Saifeddine Khaoui , Muhammed Cham 
+1730,115,Clermont,home, 70 ,Substitution, Florent Ogier , Maximiliano Caufriez 
+1731,115,Troyes,away, 83 ,Goal, Renaud Ripart , Mama Baldé 
+1732,115,Troyes,away, 84 ,Substitution, Iké Ugbo , Mama Baldé 
+1733,115,Troyes,away, 84 ,Substitution, Florian Tardieu , Andreas Bruus 
+1734,116,Ajaccio,away, 9 ,Substitution, Ghjuvanni Quilichini , Benjamin Leroy 
+1735,116,Ajaccio,away, 30 ,Yellow card, Ismaël Diallo ,
+1736,116,Brest,home, 33 ,Substitution, Jean Duverne , Noah Fadiga 
+1737,116,Brest,home, 42 ,Yellow card, Jean Duverne ,
+1738,116,Ajaccio,away, 46 ,Yellow card, Romain Hamouma ,
+1739,116,Brest,home, 54 ,Substitution, Irvin Cardona , Mahdi Camara 
+1740,116,Ajaccio,away, 54 ,Substitution, Clément Vidal , Oumar Gonzalez 
+1741,116,Ajaccio,away, 59 ,Substitution, Riad Nouri , Cyrille Bayala 
+1742,116,Ajaccio,away, 59 ,Substitution, Mounaïm El Idrissy , Yoann Touzghar 
+1743,116,Brest,home, 64 ,Yellow card, Achraf Dari ,
+1744,116,Ajaccio,away, 65 ,Goal, Romain Hamouma , Riad Nouri 
+1745,116,Brest,home, 69 ,Substitution, Steve Mounie , Islam Slimani 
+1746,116,Brest,home, 69 ,Substitution, Romain Del Castillo , Mathias Pereira Lage 
+1747,116,Brest,home, 70 ,Substitution, Hugo Magnetti , Pierre Lees-Melou 
+1748,116,Ajaccio,away, 75 ,Substitution, Thomas Mangani , Romain Hamouma 
+1749,117,Monaco,away, 11 ,Substitution, Vanderson , Ruben Aguilar 
+1750,117,Reims,home, 19 ,Yellow card, Maxime Busi ,
+1751,117,Reims,home, 22 ,Red card, Bradley Locko ,
+1752,117,Reims,home, 38 ,Yellow card, Marshall Munetsi ,
+1753,117,Monaco,away, 42 ,Yellow card, Eliot Matazo ,
+1754,117,Reims,home, 46 ,Yellow card, Dion Lopy ,
+1755,117,Reims,home, 45 ,Substitution, Ibrahim Diakité , Arbër Zeneli 
+1756,117,Monaco,away, 45 ,Substitution, Mohamed Camara , Eliot Matazo 
+1757,117,Monaco,away, 47 ,Goal, Aleksandr Golovin , Axel Disasi 
+1758,117,Monaco,away, 50 ,Yellow card, Maghnes Akliouche ,
+1759,117,Reims,home, 53 ,Substitution, Jens Cajuste , Maxime Busi 
+1760,117,Monaco,away, 65 ,Substitution, Takumi Minamino , Aleksandr Golovin 
+1761,117,Monaco,away, 66 ,Substitution, Gelson Martins , Maghnes Akliouche 
+1762,117,Reims,home, 76 ,Substitution, Nathanaël Mbuku , Dion Lopy 
+1763,117,Reims,home, 83 ,Substitution, Noah Holm , Ibrahim Diakité 
+1764,117,Monaco,away, 84 ,Yellow card, Alexander Nübel ,
+1765,117,Monaco,away, 87 ,Goal, Takumi Minamino , Breel Embolo 
+1766,117,Monaco,away, 90 ,Goal, Wissam Ben Yedder , Takumi Minamino 
+1767,118,Lille,home, 5 ,Goal, Jonathan David ,
+1768,118,Lille,home, 44 ,Yellow card, Jose Fonte ,
+1769,118,Toulouse,away, 48 ,Goal, Farès Chaïbi , Thijs Dallinga 
+1770,118,Lille,home, 53 ,Goal, Adam Ounas , Benjamin Andre 
+1771,118,Lille,home, 60 ,Substitution, Jonas Martin , Angel Gomes 
+1772,118,Lille,home, 74 ,Yellow card, Bafodé Diakité ,
+1773,118,Toulouse,away, 76 ,Substitution, Veljko Birmančević , Issiaga Sylla 
+1774,118,Toulouse,away, 76 ,Substitution, Ado Onaiwu , Thijs Dallinga 
+1775,118,Lille,home, 78 ,Substitution, Alan Virginius , Adam Ounas 
+1776,118,Toulouse,away, 82 ,Substitution, Kévin Keben , Mikkel Desler 
+1777,118,Lille,home, 86 ,Substitution, Mohamed Bayo , Jonathan David 
+1778,119,Montpellier,home, 17 ,Goal, Arnaud Nordin , Téji Savanier 
+1779,119,Strasbourg,away, 20 ,Yellow card, Jean Aholou ,
+1780,119,Montpellier,home, 30 ,Yellow card, Joris Chotard ,
+1781,119,Montpellier,home, 41 ,Yellow card, Arnaud Nordin ,
+1782,119,Montpellier,home, 46 ,Disallowed goal,Disallowed goal,
+1783,119,Strasbourg,away, 50 ,Yellow card, Jeanricner Bellegarde ,
+1784,119,Montpellier,home, 64 ,Yellow card, Maxime Estève ,
+1785,119,Montpellier,home, 65 ,Substitution, Valere Germain , Wahbi Khazri 
+1786,119,Strasbourg,away, 69 ,Yellow card, Ismaël Doukouré ,
+1787,119,Strasbourg,away, 70 ,Substitution, Ibrahima Sissoko , Jean Aholou 
+1788,119,Strasbourg,away, 70 ,Substitution, Nordine Kandil , Ronaël Pierre-Gabriel 
+1789,119,Strasbourg,away, 82 ,Substitution, Lebo Mothiba , Habib Diarra 
+1790,119,Montpellier,home, 84 ,Substitution, Sacha Delaye , Elye Wahi 
+1791,119,Montpellier,home, 84 ,Substitution, Khalil Fayad , Arnaud Nordin 
+1792,119,Strasbourg,away, 85 ,Goal, Habib Diallo ,
+1793,119,Strasbourg,away, 94 ,Yellow card, Alexander Djiku ,
+1794,119,Montpellier,home, 94 ,Yellow card, Nicolas Cozza ,
+1795,119,Montpellier,home, 95 ,Penalty, Téji Savanier , Penalty 
+1796,120,Lorient,away, 15 ,Goal, Dango Ouattara , Julien Ponceau 
+1797,120,Lorient,away, 36 ,Goal, Terem Moffi , Montassar Talbi 
+1798,120,Auxerre,home, 40 ,Yellow card, Gideon Mensah ,
+1799,120,Lorient,away, 42 ,Goal, Enzo Le Fée ,
+1800,120,Auxerre,home, 50 ,Goal, Gauthier Hein ,
+1801,120,Lorient,away, 59 ,Yellow card, Gédéon Kalulu ,
+1802,120,Auxerre,home, 61 ,Substitution, Nuno da Costa , Gaetan Perrin 
+1803,120,Auxerre,home, 61 ,Substitution, Lassine Sinayoko , Gauthier Hein 
+1804,120,Lorient,away, 72 ,Substitution, Bonke Innocent , Julien Ponceau 
+1805,120,Lorient,away, 73 ,Substitution, Ibrahima Koné , Terem Moffi 
+1806,120,Auxerre,home, 75 ,Yellow card, Birama Toure ,
+1807,120,Lorient,away, 75 ,Substitution, Théo Le Bris , Stéphane Diarra 
+1808,120,Auxerre,home, 79 ,Substitution, Rémy Dugimont , Niang 
+1809,120,Auxerre,home, 83 ,Yellow card, Rémy Dugimont ,
+1810,120,Auxerre,home, 86 ,Substitution, Youssouf M'Changama , Mathias Autret 
+1811,120,Auxerre,home, 86 ,Substitution, Rayan Raveloson , Hamza Sakhi 
+1812,121,Monaco,home, 55 ,Goal, Benoît Badiashile , Caio Henrique 
+1813,121,Olympique Lyonnais,away, 62 ,Substitution, Moussa Dembele , Maxence Caqueret 
+1814,121,Monaco,home, 63 ,Goal, Guillermo Maripan , Caio Henrique 
+1815,121,Olympique Lyonnais,away, 65 ,Yellow card, Castello Lukeba ,
+1816,121,Monaco,home, 68 ,Substitution, Malang Sarr , Guillermo Maripan 
+1817,121,Monaco,home, 72 ,Substitution, Ruben Aguilar , Vanderson 
+1818,121,Olympique Lyonnais,away, 75 ,Substitution, Rayan Cherki , Thiago Mendes 
+1819,121,Olympique Lyonnais,away, 75 ,Substitution, Jeff Reine-Adelaide , Johann Lepenant 
+1820,121,Olympique Lyonnais,away, 79 ,Yellow card, Alexandre Lacazette ,
+1821,121,Olympique Lyonnais,away, 81 ,Goal, Karl Toko Ekambi , Rayan Cherki 
+1822,121,Olympique Lyonnais,away, 83 ,Substitution, Romain Faivre , Corentin Tolisso 
+1823,121,Monaco,home, 86 ,Yellow card, Aleksandr Golovin ,
+1824,121,Monaco,home, 86 ,Substitution, Wissam Ben Yedder , Breel Embolo 
+1825,121,Monaco,home, 86 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+1826,121,Monaco,home, 87 ,Substitution, Gelson Martins , Krépin Diatta 
+1827,122,Rennes,home, 3 ,Goal, Kamaldeen Sulemana ,
+1828,122,Rennes,home, 12 ,Substitution, Lesley Ugochukwu , Baptiste Santamaría 
+1829,122,Rennes,home, 28 ,Yellow card, Joe Rodon ,
+1830,122,Rennes,home, 45 ,Substitution, Flavien Tait , Kamaldeen Sulemana 
+1831,122,Rennes,home, 60 ,Goal, Amine Gouiri ,
+1832,122,Auxerre,away, 64 ,Substitution, Gaetan Perrin , Mathias Autret 
+1833,122,Rennes,home, 68 ,Goal, Martin Terrier ,
+1834,122,Auxerre,away, 69 ,Substitution, Gauthier Hein , Lassine Sinayoko 
+1835,122,Rennes,home, 74 ,Substitution, Lovro Majer , Désiré Doué 
+1836,122,Rennes,home, 74 ,Substitution, Birger Meling , Martin Terrier 
+1837,122,Auxerre,away, 75 ,Substitution, Rémy Dugimont , Niang 
+1838,122,Auxerre,away, 76 ,Substitution, Youssouf M'Changama , Birama Toure 
+1839,122,Rennes,home, 78 ,Goal, Flavien Tait , Steve Mandanda 
+1840,122,Auxerre,away, 82 ,Yellow card, Hamza Sakhi ,
+1841,122,Rennes,home, 83 ,Substitution, Matthis Abline , Adrien Truffert 
+1842,122,Rennes,home, 85 ,Goal, Matthis Abline ,
+1843,123,Toulouse,home, 31 ,Goal, Zakaria Aboukhlal , Farès Chaïbi 
+1844,123,Reims,away, 45 ,Substitution, Maxime Busi , Bradley Locko 
+1845,123,Reims,away, 45 ,Substitution, Arbër Zeneli , Kamory Doumbia 
+1846,123,Toulouse,home, 56 ,Yellow card, Stijn Spierings ,
+1847,123,Reims,away, 61 ,Red card, Alexis Flips ,
+1848,123,Toulouse,home, 64 ,Substitution, Ado Onaiwu , Thijs Dallinga 
+1849,123,Toulouse,home, 64 ,Substitution, Oliver Zandén , Issiaga Sylla 
+1850,123,Reims,away, 69 ,Substitution, Dion Lopy , Jens Cajuste 
+1851,123,Toulouse,home, 72 ,Substitution, Veljko Birmančević , Farès Chaïbi 
+1852,123,Reims,away, 73 ,Yellow card, Dion Lopy ,
+1853,123,Toulouse,home, 79 ,Substitution, Denis Genreau , Zakaria Aboukhlal 
+1854,123,Toulouse,home, 79 ,Substitution, Kévin Keben , Mikkel Desler 
+1855,123,Reims,away, 80 ,Substitution, Nathanaël Mbuku , Junya Ito 
+1856,123,Reims,away, 88 ,Substitution, Mitchell van Bergen , Andreaw Gravillon 
+1857,123,Reims,away, 90 ,Yellow card, Yunis Abdelhamid ,
+1858,124,Nantes,away, 13 ,Goal, Ignatius Ganago , Quentin Merlin 
+1859,124,Lorient,home, 19 ,Goal, Dango Ouattara ,
+1860,124,Nantes,away, 40 ,Yellow card, Moses Simon ,
+1861,124,Nantes,away, 45 ,Yellow card, Pedro Chirivella ,
+1862,124,Nantes,away, 56 ,Yellow card, Dennis Appiah ,
+1863,124,Lorient,home, 57 ,Substitution, Julien Ponceau , Bonke Innocent 
+1864,124,Lorient,home, 57 ,Substitution, Yoann Cathline , Stéphane Diarra 
+1865,124,Lorient,home, 60 ,Goal, Yoann Cathline , Gédéon Kalulu 
+1866,124,Nantes,away, 61 ,Substitution, Mostafa Mohamed , Pedro Chirivella 
+1867,124,Nantes,away, 61 ,Substitution, Sebastien Corchia , Evann Guessand 
+1868,124,Nantes,away, 62 ,Substitution, Ludovic Blas , Dennis Appiah 
+1869,124,Lorient,home, 72 ,Substitution, Adil Aouchiche , Laurent Abergel 
+1870,124,Lorient,home, 73 ,Substitution, Ibrahima Koné , Terem Moffi 
+1871,124,Lorient,home, 74 ,Goal, Ibrahima Koné , Dango Ouattara 
+1872,124,Lorient,home, 76 ,Yellow card, Julien Laporte ,
+1873,124,Lorient,home, 78 ,Yellow card, Ibrahima Koné ,
+1874,124,Nantes,away, 85 ,Goal, Moses Simon , Ignatius Ganago 
+1875,124,Nantes,away, 89 ,Substitution, Kader Bamba , Andrei Girotto 
+1876,124,Nantes,away, 92 ,Substitution, Lohann Doucet , Moussa Sissoko 
+1877,125,Montpellier,away, 7 ,Goal, Arnaud Nordin , Faitout Maouassa 
+1878,125,Angers,home, 9 ,Goal, Adrien Hunou ,
+1879,125,Montpellier,away, 27 ,Substitution, Wahbi Khazri , Faitout Maouassa 
+1880,125,Angers,home, 40 ,Substitution, Abdoulaye Bamba , Yann Valery 
+1881,125,Montpellier,away, 54 ,Substitution, Maxime Estève , Mamadou Sakho 
+1882,125,Angers,home, 62 ,Substitution, Lois Diony , Abdallah Sima 
+1883,125,Montpellier,away, 66 ,Yellow card, Bingourou Kamara ,
+1884,125,Angers,home, 69 ,Penalty, Sofiane Boufal , Penalty 
+1885,125,Montpellier,away, 73 ,Substitution, Enzo Tchato , Falaye Sacko 
+1886,125,Montpellier,away, 73 ,Substitution, Léo Leroy , Téji Savanier 
+1887,125,Montpellier,away, 73 ,Substitution, Béni Makouana , Joris Chotard 
+1888,125,Angers,home, 80 ,Yellow card, Batista Mendy ,
+1889,125,Montpellier,away, 83 ,Yellow card, Léo Leroy ,
+1890,125,Angers,home, 87 ,Substitution, Sada Thioub , Sofiane Boufal 
+1891,125,Montpellier,away, 92 ,Yellow card, Jordan Ferri ,
+1892,125,Montpellier,away, 93 ,Yellow card, Wahbi Khazri ,
+1893,125,Angers,home, 94 ,Yellow card, Abdoulaye Bamba ,
+1894,126,Ajaccio,home, 31 ,Substitution, Mounaïm El Idrissy , Kevin Spadanuda 
+1895,126,Ajaccio,home, 40 ,Yellow card, Vincent Marchetti ,
+1896,126,Nice,away, 53 ,Yellow card, Jean Todibo ,
+1897,126,Nice,away, 58 ,Yellow card, Dante ,
+1898,126,Nice,away, 61 ,Yellow card, Jordan Lotomba ,
+1899,126,Nice,away, 65 ,Goal, Andy Delort , Khéphren Thuram 
+1900,126,Nice,away, 71 ,Substitution, Ross Barkley , Andy Delort 
+1901,126,Nice,away, 71 ,Substitution, Hicham Boudaoui , Alexis Beka Beka 
+1902,126,Ajaccio,home, 74 ,Substitution, Mickaël Barreto , Romain Hamouma 
+1903,126,Ajaccio,home, 74 ,Substitution, Bevic Moussiti-Oko , Yoann Touzghar 
+1904,126,Nice,away, 80 ,Yellow card, Melvin Bard ,
+1905,126,Ajaccio,home, 81 ,Substitution, Mickaël Alphonse , Ismaël Diallo 
+1906,126,Ajaccio,home, 81 ,Substitution, Qazim Laçi , Mathieu Coutadeur 
+1907,126,Nice,away, 89 ,Yellow card, Ross Barkley ,
+1908,126,Nice,away, 92 ,Substitution, Rares Ilie , Sofiane Diop 
+1909,127,Strasbourg,home, 25 ,Yellow card, Ludovic Ajorque ,
+1910,127,Clermont,away, 26 ,Yellow card, Komnen Andrić ,
+1911,127,Strasbourg,home, 43 ,Yellow card, Maxime Le Marchand ,
+1912,127,Strasbourg,home, 43 ,Yellow card, Matz Sels ,
+1913,127,Strasbourg,home, 45 ,Substitution, Kevin Gameiro , Ludovic Ajorque 
+1914,127,Clermont,away, 60 ,Yellow card, Maximiliano Caufriez ,
+1915,127,Clermont,away, 66 ,Substitution, Jim Allevinah , Jodel Dossou 
+1916,127,Strasbourg,home, 69 ,Substitution, Ibrahima Sissoko , Jean Aholou 
+1917,127,Strasbourg,home, 69 ,Substitution, Ronaël Pierre-Gabriel , Colin Dagba 
+1918,127,Clermont,away, 73 ,Substitution, Saifeddine Khaoui , Muhammed Cham 
+1919,127,Clermont,away, 73 ,Substitution, Grejohn Kyei , Komnen Andrić 
+1920,127,Strasbourg,home, 78 ,Substitution, Lebo Mothiba , Habib Diallo 
+1921,127,Clermont,away, 88 ,Substitution, Elbasan Rashani , Jérémie Bela 
+1922,127,Strasbourg,home, 88 ,Substitution, Nordine Kandil , Habib Diarra 
+1923,127,Strasbourg,home, 89 ,Second yellow card, Maxime Le Marchand ,
+1924,128,Lille,away, 12 ,Goal, Ismaily ,
+1925,128,Marseille,home, 14 ,Yellow card, Leonardo Balerdi ,
+1926,128,Marseille,home, 26 ,Goal, Alexis Sanchez , Cengiz Ünder 
+1927,128,Marseille,home, 28 ,Substitution, Nuno Tavares , Leonardo Balerdi 
+1928,128,Marseille,home, 45 ,Substitution, Eric Bailly , Chancel Mbemba 
+1929,128,Marseille,home, 50 ,Yellow card, Pape Gueye ,
+1930,128,Marseille,home, 57 ,Yellow card, Samuel Gigot ,
+1931,128,Marseille,home, 61 ,Goal, Samuel Gigot , Sead Kolasinac 
+1932,128,Lille,away, 65 ,Substitution, André Gomes , Angel Gomes 
+1933,128,Marseille,home, 67 ,Substitution, S Touré , Samuel Gigot 
+1934,128,Marseille,home, 67 ,Substitution, Jordan Veretout , Amine Harit 
+1935,128,Marseille,home, 68 ,Yellow card, S Touré ,
+1936,128,Marseille,home, 72 ,Yellow card, Nuno Tavares ,
+1937,128,Lille,away, 78 ,Yellow card, Tiago Djaló ,
+1938,128,Lille,away, 78 ,Substitution, Mohamed Bayo , Jonathan David 
+1939,128,Lille,away, 78 ,Substitution, Alan Virginius , Adam Ounas 
+1940,128,Lille,away, 86 ,Substitution, Gabriel Gudmundsson , Akim Zedadka 
+1941,128,Marseille,home, 86 ,Substitution, Gerson , Alexis Sanchez 
+1942,129,Brest,away, 25 ,Yellow card, Pierre Lees-Melou ,
+1943,129,Brest,away, 26 ,Retracted red card,Retracted red card,
+1944,129,PSG,home, 30 ,Goal, Neymar , Lionel Messi 
+1945,129,PSG,home, 40 ,Yellow card, Neymar ,
+1946,129,Brest,away, 46 ,Yellow card, Brendan Chardonnet ,
+1947,129,Brest,away, 62 ,Substitution, Hugo Magnetti , Mahdi Camara 
+1948,129,PSG,home, 62 ,Substitution, Fabian Ruiz , Marco Verratti 
+1949,129,Brest,away, 62 ,Substitution, Achraf Dari , Christophe Hérelle 
+1950,129,PSG,home, 69 ,Yellow card, Presnel Kimpembe ,
+1951,129,Brest,away, 70 ,Missed penalty, Islam Slimani , Missed penalty 
+1952,129,Brest,away, 71 ,Substitution, Jere Uronen , Noah Fadiga 
+1953,129,Brest,away, 71 ,Substitution, Mathias Pereira Lage , Pierre Lees-Melou 
+1954,129,PSG,home, 77 ,Yellow card, Danilo Pereira ,
+1955,129,PSG,home, 78 ,Substitution, Pablo Sarabia , Neymar 
+1956,129,PSG,home, 78 ,Substitution, Nuno Mendes , Juan Bernat 
+1957,129,PSG,home, 78 ,Substitution, Hugo Ekitike , Kylian Mbappé 
+1958,129,PSG,home, 80 ,Yellow card, Nuno Mendes ,
+1959,129,PSG,home, 87 ,Substitution, Marquinhos , Vitinha 
+1960,129,Brest,away, 88 ,Substitution, Irvin Cardona , Haris Belkebla 
+1961,130,Lens,home, 16 ,Substitution, Przemysław Frankowski , Jonathan Gradit 
+1962,130,Lens,home, 39 ,Goal, Kevin Danso , Przemysław Frankowski 
+1963,130,Lens,home, 40 ,Yellow card, Lukasz Poręba ,
+1964,130,Troyes,away, 45 ,Substitution, Wilson Odobert , Iké Ugbo 
+1965,130,Lens,home, 45 ,Substitution, Seko Fofana , Lukasz Poręba 
+1966,130,Troyes,away, 66 ,Substitution, Abdu Conté , Rony Lopes 
+1967,130,Troyes,away, 66 ,Substitution, Papa Yade , Erik Palmer-Brown 
+1968,130,Lens,home, 72 ,Substitution, Alexis Claude-Maurice , David da Costa 
+1969,130,Lens,home, 72 ,Substitution, Adam Buksa , Loïs Openda 
+1970,130,Troyes,away, 77 ,Yellow card, Florian Tardieu ,
+1971,130,Lens,home, 77 ,Yellow card, Jimmy Cabot ,
+1972,130,Troyes,away, 82 ,Substitution, Renaud Ripart , Thierno Baldé 
+1973,130,Troyes,away, 82 ,Substitution, Lucien Agoumé , Florian Tardieu 
+1974,131,Nice,home, 34 ,Substitution, Jordan Lotomba , Youcef Atal 
+1975,131,Monaco,away, 38 ,Yellow card, Mohamed Camara ,
+1976,131,Nice,home, 45 ,Substitution, Pablo Rosario , Khéphren Thuram 
+1977,131,Nice,home, 50 ,Yellow card, Pablo Rosario ,
+1978,131,Nice,home, 55 ,Substitution, Alexis Beka Beka , Aaron Ramsey 
+1979,131,Monaco,away, 65 ,Substitution, Vanderson , Ruben Aguilar 
+1980,131,Monaco,away, 69 ,Goal, Breel Embolo , Caio Henrique 
+1981,131,Nice,home, 76 ,Substitution, Sofiane Diop , Nicolas Pepe 
+1982,131,Nice,home, 76 ,Substitution, Joe Bryan , Melvin Bard 
+1983,131,Monaco,away, 90 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+1984,131,Nice,home, 94 ,Yellow card, Jordan Lotomba ,
+1985,132,Troyes,home, 14 ,Goal, Iké Ugbo , Rony Lopes 
+1986,132,Troyes,home, 27 ,Red card, Yoann Salmier ,
+1987,132,Troyes,home, 34 ,Substitution, Adil Rami , Iké Ugbo 
+1988,132,Rennes,away, 42 ,Yellow card, Baptiste Santamaría ,
+1989,132,Rennes,away, 45 ,Substitution, Désiré Doué , Lovro Majer 
+1990,132,Rennes,away, 45 ,Substitution, Kamaldeen Sulemana , Flavien Tait 
+1991,132,Rennes,away, 48 ,Goal, Baptiste Santamaría , Martin Terrier 
+1992,132,Troyes,home, 61 ,Substitution, Papa Yade , Rony Lopes 
+1993,132,Troyes,home, 61 ,Substitution, Xavier Chavalerin , Yasser Larouci 
+1994,132,Rennes,away, 69 ,Substitution, Birger Meling , Adrien Truffert 
+1995,132,Rennes,away, 69 ,Substitution, Matthis Abline , Amine Gouiri 
+1996,132,Rennes,away, 71 ,Yellow card, Birger Meling ,
+1997,132,Troyes,home, 72 ,Yellow card, Xavier Chavalerin ,
+1998,132,Troyes,home, 83 ,Substitution, Renaud Ripart , Thierno Baldé 
+1999,132,Troyes,home, 83 ,Substitution, Wilson Odobert , Mama Baldé 
+2000,132,Rennes,away, 88 ,Substitution, Lorenz Assignon , Benjamin Bourigeaud 
+2001,132,Troyes,home, 91 ,Yellow card, Gauthier Gallon ,
+2002,133,Reims,home, 33 ,Yellow card, Andreaw Gravillon ,
+2003,133,Lens,away, 45 ,Yellow card, Facundo Medina ,
+2004,133,Reims,home, 46 ,Yellow card, Bradley Locko ,
+2005,133,Lens,away, 56 ,Yellow card, Jonathan Gradit ,
+2006,133,Lens,away, 62 ,Substitution, Jimmy Cabot , Przemysław Frankowski 
+2007,133,Lens,away, 62 ,Substitution, Deiver Machado , Massadio Haidara 
+2008,133,Lens,away, 66 ,Red card, Deiver Machado ,
+2009,133,Lens,away, 70 ,Substitution, Ismaël Boura , David Pereira da Costa 
+2010,133,Reims,home, 71 ,Substitution, Kamory Doumbia , Alexis Flips 
+2011,133,Reims,home, 71 ,Goal, Folarin Balogun , Kamory Doumbia 
+2012,133,Lens,away, 71 ,Substitution, Jean Onana , Lukasz Poręba 
+2013,133,Lens,away, 75 ,Substitution, Alexis Claude-Maurice , Jonathan Gradit 
+2014,133,Lens,away, 82 ,Goal, Loïs Openda , Florian Sotoca 
+2015,133,Reims,home, 83 ,Substitution, Mitchell van Bergen , Bradley Locko 
+2016,134,Clermont,home, 19 ,Yellow card, Grejohn Kyei ,
+2017,134,Clermont,home, 23 ,Yellow card, Mateusz Wieteska ,
+2018,134,Toulouse,away, 45 ,Substitution, Ado Onaiwu , Rafael Ratão 
+2019,134,Clermont,home, 46 ,Goal, Maxime Gonalons ,
+2020,134,Toulouse,away, 59 ,Substitution, Farès Chaïbi , Brecht Dejaegere 
+2021,134,Toulouse,away, 60 ,Substitution, Veljko Birmančević , Thijs Dallinga 
+2022,134,Toulouse,away, 63 ,Yellow card, Issiaga Sylla ,
+2023,134,Clermont,home, 66 ,Yellow card, Johan Gastien ,
+2024,134,Clermont,home, 72 ,Substitution, Komnen Andrić , Grejohn Kyei 
+2025,134,Clermont,home, 72 ,Substitution, Muhammed Cham , Jim Allevinah 
+2026,134,Toulouse,away, 74 ,Substitution, Oliver Zandén , Issiaga Sylla 
+2027,134,Clermont,home, 75 ,Yellow card, Alidu Seidu ,
+2028,134,Clermont,home, 77 ,Substitution, Arial Mendy , Jérémie Bela 
+2029,134,Clermont,home, 77 ,Substitution, Yohann Magnin , Maxime Gonalons 
+2030,134,Clermont,home, 88 ,Substitution, Elbasan Rashani , Jodel Dossou 
+2031,134,Clermont,home, 96 ,Goal, Muhammed Cham ,
+2032,135,Brest,home, 6 ,Goal, Pierre Lees-Melou , Islam Slimani 
+2033,135,Strasbourg,away, 28 ,Penalty, Ludovic Ajorque , Penalty 
+2034,135,Strasbourg,away, 31 ,Red card, Sanjin Prcic ,
+2035,135,Brest,home, 44 ,Yellow card, Lilian Brassier ,
+2036,135,Brest,home, 45 ,Substitution, Brendan Chardonnet , Achraf Dari 
+2037,135,Brest,home, 52 ,Yellow card, Haris Belkebla ,
+2038,135,Brest,home, 57 ,Substitution, Irvin Cardona , Haris Belkebla 
+2039,135,Brest,home, 57 ,Substitution, Youcef Belaïli , Mathias Pereira Lage 
+2040,135,Strasbourg,away, 61 ,Substitution, Ismaël Doukouré , Colin Dagba 
+2041,135,Brest,home, 64 ,Yellow card, Youcef Belaïli ,
+2042,135,Strasbourg,away, 76 ,Substitution, Adrien Thomasson , Jean Aholou 
+2043,135,Brest,home, 76 ,Substitution, Jere Uronen , Lilian Brassier 
+2044,135,Strasbourg,away, 79 ,Yellow card, Ronaël Pierre-Gabriel ,
+2045,135,Strasbourg,away, 84 ,Substitution, Kevin Gameiro , Ludovic Ajorque 
+2046,136,Lorient,away, 35 ,Yellow card, Ibrahima Koné ,
+2047,136,Ajaccio,home, 38 ,Yellow card, Riad Nouri ,
+2048,136,Ajaccio,home, 47 ,Yellow card, Oumar Gonzalez ,
+2049,136,Lorient,away, 51 ,Goal, Dango Ouattara , Enzo Le Fée 
+2050,136,Ajaccio,home, 58 ,Substitution, Yoann Touzghar , Jean Botué 
+2051,136,Ajaccio,home, 58 ,Substitution, Cyrille Bayala , Riad Nouri 
+2052,136,Lorient,away, 63 ,Substitution, Stéphane Diarra , Ibrahima Koné 
+2053,136,Ajaccio,home, 68 ,Yellow card, Mounaïm El Idrissy ,
+2054,136,Ajaccio,home, 70 ,Substitution, Vincent Marchetti , Qazim Laçi 
+2055,136,Ajaccio,home, 70 ,Substitution, Bevic Moussiti-Oko , Mounaïm El Idrissy 
+2056,136,Lorient,away, 71 ,Substitution, Bonke Innocent , Théo Le Bris 
+2057,136,Ajaccio,home, 79 ,Substitution, Yanis Cimignani , Ismaël Diallo 
+2058,136,Lorient,away, 83 ,Substitution, Siriné Doucouré , Dango Ouattara 
+2059,136,Lorient,away, 83 ,Substitution, Darline Yongwa , Terem Moffi 
+2060,136,Ajaccio,home, 94 ,Yellow card, Mohamed Youssouf ,
+2061,137,Lille,away, 16 ,Yellow card, Tiago Djaló ,
+2062,137,Montpellier,home, 20 ,Goal, Elye Wahi , Jordan Ferri 
+2063,137,Lille,away, 35 ,Substitution, Adam Ounas , Edon Zhegrova 
+2064,137,Lille,away, 41 ,Goal, Jonathan David , Remy Cabella 
+2065,137,Montpellier,home, 48 ,Red card, Valere Germain ,
+2066,137,Lille,away, 57 ,Goal, Angel Gomes , Remy Cabella 
+2067,137,Montpellier,home, 58 ,Substitution, Enzo Tchato , Léo Leroy 
+2068,137,Montpellier,home, 58 ,Substitution, Faitout Maouassa , Arnaud Nordin 
+2069,137,Lille,away, 59 ,Substitution, André Gomes , Remy Cabella 
+2070,137,Montpellier,home, 75 ,Substitution, Arnaud Souquet , Mamadou Sakho 
+2071,137,Montpellier,home, 75 ,Substitution, Khalil Fayad , Jordan Ferri 
+2072,137,Lille,away, 80 ,Yellow card, Adam Ounas ,
+2073,137,Montpellier,home, 82 ,Substitution, Béni Makouana , Joris Chotard 
+2074,137,Lille,away, 86 ,Yellow card, André Gomes ,
+2075,137,Lille,away, 94 ,Yellow card, Jonathan David ,
+2076,137,Lille,away, 95 ,Goal, Jonathan David , Jonathan Bamba 
+2077,138,PSG,away, 18 ,Goal, Kylian Mbappé , Lionel Messi 
+2078,138,Nantes,home, 24 ,Red card, Fabio ,
+2079,138,PSG,away, 33 ,Substitution, Renato Sanches , Vitinha 
+2080,138,Nantes,home, 33 ,Yellow card, Nicolas Pallois ,
+2081,138,PSG,away, 47 ,Yellow card, Juan Bernat ,
+2082,138,PSG,away, 45 ,Substitution, Nuno Mendes , Juan Bernat 
+2083,138,PSG,away, 50 ,Yellow card, Marco Verratti ,
+2084,138,PSG,away, 54 ,Goal, Kylian Mbappé , Lionel Messi 
+2085,138,PSG,away, 57 ,Yellow card, Kylian Mbappé ,
+2086,138,PSG,away, 62 ,Substitution, Sergio Ramos , Marco Verratti 
+2087,138,PSG,away, 63 ,Substitution, Neymar , Kylian Mbappé 
+2088,138,Nantes,home, 66 ,Substitution, Sebastien Corchia , Jean-Charles Castelletto 
+2089,138,Nantes,home, 66 ,Substitution, Ignatius Ganago , Evann Guessand 
+2090,138,PSG,away, 68 ,Goal, Nuno Mendes ,
+2091,138,PSG,away, 69 ,Yellow card, Sergio Ramos ,
+2092,138,PSG,away, 71 ,Substitution, Hugo Ekitike , Pablo Sarabia 
+2093,138,Nantes,home, 79 ,Substitution, Lohann Doucet , Samuel Moutoussamy 
+2094,138,Nantes,home, 80 ,Substitution, Marcus Coco , Mostafa Mohamed 
+2095,138,Nantes,home, 85 ,Substitution, Mohamed Achi , Ludovic Blas 
+2096,139,Olympique Lyonnais,home, 31 ,Goal, Karl Toko Ekambi , Thiago Mendes 
+2097,139,Olympique Lyonnais,home, 38 ,Goal, Alexandre Lacazette , Malo Gusto 
+2098,139,Olympique Lyonnais,home, 54 ,Yellow card, Malo Gusto ,
+2099,139,Olympique Lyonnais,home, 56 ,Yellow card, Tetê ,
+2100,139,Olympique Lyonnais,home, 59 ,Goal, Karl Toko Ekambi ,
+2101,139,Olympique Lyonnais,home, 62 ,Goal, Castello Lukeba , Romain Faivre 
+2102,139,Olympique Lyonnais,home, 66 ,Substitution, Moussa Dembele , Alexandre Lacazette 
+2103,139,Olympique Lyonnais,home, 66 ,Substitution, Jeff Reine-Adelaide , Tetê 
+2104,139,Angers,away, 67 ,Yellow card, Sofiane Boufal ,
+2105,139,Angers,away, 69 ,Substitution, Abdallah Sima , Sofiane Boufal 
+2106,139,Angers,away, 69 ,Substitution, Amine Salama , Lois Diony 
+2107,139,Olympique Lyonnais,home, 70 ,Substitution, Damien Da Silva , Thiago Mendes 
+2108,139,Olympique Lyonnais,home, 70 ,Substitution, Henrique , Malo Gusto 
+2109,139,Angers,away, 77 ,Substitution, Sada Thioub , Yann Valery 
+2110,139,Angers,away, 78 ,Substitution, Pierrick Capelle , Azzedine Ounahi 
+2111,139,Olympique Lyonnais,home, 80 ,Substitution, Bradley Barcola , Karl Toko Ekambi 
+2112,139,Angers,away, 84 ,Substitution, Himad Abdelli , Adrien Hunou 
+2113,139,Olympique Lyonnais,home, 88 ,Goal, Moussa Dembele ,
+2114,140,Marseille,away, 7 ,Goal, Gerson ,
+2115,140,Auxerre,home, 39 ,Yellow card, Jubal ,
+2116,140,Marseille,away, 45 ,Substitution, Nuno Tavares , Jonathan Clauss 
+2117,140,Auxerre,home, 57 ,Substitution, Niang , Rayan Raveloson 
+2118,140,Marseille,away, 59 ,Substitution, Alexis Sanchez , Cengiz Ünder 
+2119,140,Marseille,away, 59 ,Substitution, Matteo Guendouzi , Gerson 
+2120,140,Marseille,away, 67 ,Substitution, Pape Gueye , Issa Kaboré 
+2121,140,Auxerre,home, 69 ,Substitution, Gaetan Perrin , Mathias Autret 
+2122,140,Auxerre,home, 69 ,Substitution, Lassine Sinayoko , Gauthier Hein 
+2123,140,Auxerre,home, 78 ,Substitution, Youssouf M'Changama , Nuno da Costa 
+2124,140,Marseille,away, 81 ,Substitution, Amine Harit , Luis Suárez 
+2125,140,Marseille,away, 84 ,Goal, Alexis Sanchez , Matteo Guendouzi 
+2126,140,Marseille,away, 90 ,Yellow card, Amine Harit ,
+2127,141,PSG,away, 37 ,Goal, Neymar , Lionel Messi 
+2128,141,Toulouse,home, 45 ,Substitution, Logan Costa , Rasmus Nicolaisen 
+2129,141,PSG,away, 50 ,Goal, Kylian Mbappé , Lionel Messi 
+2130,141,Toulouse,home, 63 ,Substitution, Farès Chaïbi , Zakaria Aboukhlal 
+2131,141,Toulouse,home, 63 ,Substitution, Issiaga Sylla , Oliver Zandén 
+2132,141,Toulouse,home, 64 ,Yellow card, Rafael Ratão ,
+2133,141,PSG,away, 68 ,Substitution, Renato Sanches , Marco Verratti 
+2134,141,PSG,away, 68 ,Substitution, Hugo Ekitike , Neymar 
+2135,141,Toulouse,home, 76 ,Substitution, Ado Onaiwu , Thijs Dallinga 
+2136,141,Toulouse,home, 76 ,Substitution, Brecht Dejaegere , Branco Van den Boomen 
+2137,141,PSG,away, 83 ,Substitution, Juan Bernat , Nuno Mendes 
+2138,141,PSG,away, 83 ,Substitution, Achraf Hakimi , Lionel Messi 
+2139,141,PSG,away, 90 ,Goal, Juan Bernat ,
+2140,141,PSG,away, 92 ,Substitution, Warren Zaïre-Emery , Vitinha 
+2141,142,Lille,home, 20 ,Goal, Jonathan Bamba , Yusuf Yazıcı 
+2142,142,Nice,away, 22 ,Penalty, Andy Delort , Penalty 
+2143,142,Nice,away, 26 ,Yellow card, Pablo Rosario ,
+2144,142,Nice,away, 29 ,Penalty, Nicolas Pepe , Penalty 
+2145,142,Lille,home, 68 ,Substitution, Mohamed Bayo , Yusuf Yazıcı 
+2146,142,Nice,away, 73 ,Yellow card, Melvin Bard ,
+2147,142,Lille,home, 80 ,Substitution, Gabriel Gudmundsson , Ismaily 
+2148,142,Nice,away, 81 ,Yellow card, Youcef Atal ,
+2149,142,Lille,home, 85 ,Yellow card, Jonathan Bamba ,
+2150,142,Nice,away, 87 ,Substitution, Billal Brahimi , Andy Delort 
+2151,142,Lille,home, 90 ,Substitution, Alan Virginius , Edon Zhegrova 
+2152,142,Nice,away, 91 ,Yellow card, Khéphren Thuram ,
+2153,142,Nice,away, 92 ,Substitution, Alexis Beka Beka , Khéphren Thuram 
+2154,143,Rennes,home, 53 ,Goal, Joe Rodon , Lovro Majer 
+2155,143,Brest,away, 57 ,Goal, Franck Honorat ,
+2156,143,Rennes,home, 60 ,Substitution, Désiré Doué , Lovro Majer 
+2157,143,Rennes,home, 60 ,Substitution, Matthis Abline , Kamaldeen Sulemana 
+2158,143,Rennes,home, 61 ,Yellow card, Lorenz Assignon ,
+2159,143,Rennes,home, 72 ,Substitution, Hamari Traore , Lorenz Assignon 
+2160,143,Brest,away, 73 ,Substitution, Mahdi Camara , Youcef Belaïli 
+2161,143,Rennes,home, 79 ,Substitution, Adrien Truffert , Birger Meling 
+2162,143,Rennes,home, 86 ,Yellow card, Flavien Tait ,
+2163,143,Rennes,home, 89 ,Goal, Martin Terrier , Hamari Traore 
+2164,143,Rennes,home, 91 ,Goal, Désiré Doué , Adrien Truffert 
+2165,144,Clermont,away, 37 ,Substitution, Grejohn Kyei , Komnen Andrić 
+2166,144,Clermont,away, 37 ,Yellow card, Komnen Andrić ,
+2167,144,Marseille,home, 44 ,Yellow card, Valentin Rongier ,
+2168,144,Marseille,home, 45 ,Substitution, Leonardo Balerdi , Samuel Gigot 
+2169,144,Marseille,home, 49 ,Goal, Pape Gueye , Dimitri Payet 
+2170,144,Marseille,home, 58 ,Substitution, Jordan Veretout , Valentin Rongier 
+2171,144,Marseille,home, 59 ,Substitution, Cengiz Ünder , Dimitri Payet 
+2172,144,Clermont,away, 62 ,Substitution, Saifeddine Khaoui , Muhammed Cham 
+2173,144,Clermont,away, 63 ,Substitution, Jim Allevinah , Elbasan Rashani 
+2174,144,Clermont,away, 64 ,Yellow card, Alidu Seidu ,
+2175,144,Marseille,home, 75 ,Substitution, Gerson , Pape Gueye 
+2176,144,Clermont,away, 78 ,Substitution, Jodel Dossou , Jérémie Bela 
+2177,144,Marseille,home, 87 ,Missed penalty, Alexis Sanchez , Missed penalty 
+2178,144,Clermont,away, 87 ,Substitution, Souleymane Cissé , Florent Ogier 
+2179,144,Clermont,away, 88 ,Substitution, Brandon Baiye , Johan Gastien 
+2180,144,Marseille,home, 92 ,Yellow card, Eric Bailly ,
+2181,144,Marseille,home, 95 ,Substitution, S Touré , Jonathan Clauss 
+2182,145,Lens,home, 24 ,Goal, Florian Sotoca , David Pereira da Costa 
+2183,145,Lens,home, 28 ,Goal, Wesley Said , David Pereira da Costa 
+2184,145,Lorient,away, 41 ,Goal, Terem Moffi , Dango Ouattara 
+2185,145,Lens,home, 44 ,Substitution, Loïs Openda , Wesley Said 
+2186,145,Lorient,away, 50 ,Goal, Terem Moffi , Dango Ouattara 
+2187,145,Lens,home, 57 ,Goal, Salis Abdul Samed , Jimmy Cabot 
+2188,145,Lorient,away, 58 ,Yellow card, Dango Ouattara ,
+2189,145,Lorient,away, 59 ,Substitution, Darline Yongwa , Stéphane Diarra 
+2190,145,Lorient,away, 60 ,Yellow card, Laurent Abergel ,
+2191,145,Lens,home, 63 ,Yellow card, Jonathan Gradit ,
+2192,145,Lorient,away, 63 ,Yellow card, Terem Moffi ,
+2193,145,Lens,home, 67 ,Disallowed goal,Disallowed goal,
+2194,145,Lorient,away, 72 ,Substitution, Julien Ponceau , Théo Le Bris 
+2195,145,Lens,home, 77 ,Goal, Florian Sotoca , Deiver Machado 
+2196,145,Lens,home, 78 ,Substitution, Przemysław Frankowski , Jimmy Cabot 
+2197,145,Lens,home, 79 ,Substitution, Gael Kakuta , David Pereira da Costa 
+2198,145,Lorient,away, 83 ,Substitution, Bonke Innocent , Laurent Abergel 
+2199,145,Lorient,away, 84 ,Substitution, Ibrahima Koné , Dango Ouattara 
+2200,145,Lens,home, 86 ,Goal, Loïs Openda , Lukasz Poręba 
+2201,145,Lens,home, 87 ,Substitution, Massadio Haidara , Deiver Machado 
+2202,145,Lens,home, 87 ,Substitution, Christopher Wooh , Lukasz Poręba 
+2203,146,Montpellier,home, 8 ,Substitution, Mamadou Sakho , Théo Sainte-Luce 
+2204,146,Ajaccio,away, 20 ,Yellow card, Romain Hamouma ,
+2205,146,Montpellier,home, 28 ,Goal, Arnaud Nordin , Faitout Maouassa 
+2206,146,Ajaccio,away, 37 ,Second yellow card, Romain Hamouma ,
+2207,146,Montpellier,home, 42 ,Yellow card, Jordan Ferri ,
+2208,146,Montpellier,home, 45 ,Red card, Jonas Omlin ,
+2209,146,Montpellier,home, 47 ,Substitution, Matis Carvalho , Valere Germain 
+2210,146,Ajaccio,away, 50 ,Disallowed goal,Disallowed goal,
+2211,146,Montpellier,home, 52 ,Yellow card, Falaye Sacko ,
+2212,146,Ajaccio,away, 59 ,Substitution, Riad Nouri , Cyrille Bayala 
+2213,146,Ajaccio,away, 62 ,Substitution, Bevic Moussiti-Oko , Jean Botué 
+2214,146,Ajaccio,away, 63 ,Substitution, Mathieu Coutadeur , Vincent Marchetti 
+2215,146,Montpellier,home, 67 ,Substitution, Léo Leroy , Jordan Ferri 
+2216,146,Montpellier,home, 67 ,Substitution, Enzo Tchato , Falaye Sacko 
+2217,146,Montpellier,home, 67 ,Substitution, Arnaud Souquet , Faitout Maouassa 
+2218,146,Ajaccio,away, 72 ,Yellow card, Oumar Gonzalez ,
+2219,146,Ajaccio,away, 75 ,Yellow card, Kevin Spadanuda ,
+2220,146,Montpellier,home, 77 ,Goal, Elye Wahi , Enzo Tchato 
+2221,146,Ajaccio,away, 79 ,Substitution, Yoann Touzghar , Kevin Spadanuda 
+2222,146,Ajaccio,away, 79 ,Substitution, Yanis Cimignani , Mohamed Youssouf 
+2223,147,Monaco,home, 10 ,Goal, Guillermo Maripan , Takumi Minamino 
+2224,147,Monaco,home, 21 ,Yellow card, Guillermo Maripan ,
+2225,147,Troyes,away, 22 ,Penalty, Florian Tardieu , Penalty 
+2226,147,Monaco,home, 44 ,Second yellow card, Guillermo Maripan ,
+2227,147,Troyes,away, 48 ,Goal, Wilson Odobert , Mama Baldé 
+2228,147,Monaco,home, 45 ,Substitution, Benoît Badiashile , Malang Sarr 
+2229,147,Monaco,home, 45 ,Substitution, Ruben Aguilar , Vanderson 
+2230,147,Monaco,home, 45 ,Substitution, Aleksandr Golovin , Takumi Minamino 
+2231,147,Monaco,home, 48 ,Yellow card, Ruben Aguilar ,
+2232,147,Troyes,away, 48 ,Goal, Mama Baldé ,
+2233,147,Monaco,home, 54 ,Substitution, Krépin Diatta , Wissam Ben Yedder 
+2234,147,Troyes,away, 58 ,Yellow card, Erik Palmer-Brown ,
+2235,147,Monaco,home, 63 ,Goal, Youssouf Fofana , Axel Disasi 
+2236,147,Troyes,away, 64 ,Substitution, Yasser Larouci , Papa Yade 
+2237,147,Troyes,away, 64 ,Substitution, Rony Lopes , Renaud Ripart 
+2238,147,Troyes,away, 71 ,Substitution, Iké Ugbo , Mama Baldé 
+2239,147,Troyes,away, 71 ,Substitution, Xavier Chavalerin , Wilson Odobert 
+2240,147,Troyes,away, 78 ,Goal, Yoann Salmier , Xavier Chavalerin 
+2241,147,Monaco,home, 81 ,Substitution, Jean Lucas , Mohamed Camara 
+2242,147,Troyes,away, 85 ,Substitution, Tristan Dingomé , Florian Tardieu 
+2243,148,Olympique Lyonnais,home, 29 ,Goal, Tetê , Karl Toko Ekambi 
+2244,148,Auxerre,away, 57 ,Yellow card, Kays Ruiz-Atil ,
+2245,148,Auxerre,away, 63 ,Substitution, Hamza Sakhi , Youssouf M'Changama 
+2246,148,Auxerre,away, 63 ,Substitution, Gauthier Hein , Lassine Sinayoko 
+2247,148,Auxerre,away, 63 ,Substitution, Gaetan Perrin , Kays Ruiz-Atil 
+2248,148,Olympique Lyonnais,home, 68 ,Substitution, Corentin Tolisso , Romain Faivre 
+2249,148,Olympique Lyonnais,home, 68 ,Substitution, Rayan Cherki , Tetê 
+2250,148,Olympique Lyonnais,home, 72 ,Goal, Karl Toko Ekambi , Rayan Cherki 
+2251,148,Auxerre,away, 77 ,Substitution, Mathias Autret , Rayan Raveloson 
+2252,148,Auxerre,away, 78 ,Substitution, Rémy Dugimont , Nuno da Costa 
+2253,148,Auxerre,away, 80 ,Goal, Mathias Autret , Gaetan Perrin 
+2254,148,Olympique Lyonnais,home, 85 ,Substitution, Bradley Barcola , Karl Toko Ekambi 
+2255,148,Olympique Lyonnais,home, 86 ,Substitution, Moussa Dembele , Alexandre Lacazette 
+2256,148,Auxerre,away, 93 ,Yellow card, Gaetan Perrin ,
+2257,149,Strasbourg,home, 24 ,Substitution, Sanjin Prcic , Dimitri Liénard 
+2258,149,Strasbourg,home, 28 ,Goal, Habib Diallo , Sanjin Prcic 
+2259,149,Nantes,away, 34 ,Yellow card, Samuel Moutoussamy ,
+2260,149,Nantes,away, 61 ,Substitution, Fabio , Sebastien Corchia 
+2261,149,Nantes,away, 61 ,Substitution, Mohamed Achi , Kader Bamba 
+2262,149,Nantes,away, 69 ,Yellow card, Fabio ,
+2263,149,Strasbourg,home, 72 ,Substitution, Ludovic Ajorque , Kevin Gameiro 
+2264,149,Strasbourg,home, 73 ,Substitution, Colin Dagba , Jean Aholou 
+2265,149,Strasbourg,home, 73 ,Substitution, Adrien Thomasson , Habib Diarra 
+2266,149,Nantes,away, 79 ,Substitution, Marcus Coco , Dennis Appiah 
+2267,149,Nantes,away, 79 ,Substitution, Lohann Doucet , Andrei Girotto 
+2268,149,Nantes,away, 85 ,Goal, Mostafa Mohamed , Evann Guessand 
+2269,149,Nantes,away, 88 ,Yellow card, Rémy Descamps ,
+2270,150,Reims,away, 23 ,Goal, Marshall Munetsi , Arbër Zeneli 
+2271,150,Reims,away, 45 ,Goal, Junya Ito , Jens Cajuste 
+2272,150,Angers,home, 45 ,Substitution, Sofiane Boufal , Halid Šabanović 
+2273,150,Angers,home, 45 ,Substitution, Sada Thioub , Waniss Taibi 
+2274,150,Reims,away, 46 ,Yellow card, Marshall Munetsi ,
+2275,150,Reims,away, 58 ,Yellow card, Maxime Busi ,
+2276,150,Angers,home, 59 ,Penalty, Sofiane Boufal , Penalty 
+2277,150,Reims,away, 63 ,Substitution, Folarin Balogun , Arbër Zeneli 
+2278,150,Reims,away, 64 ,Substitution, Martin Adeline , Kamory Doumbia 
+2279,150,Angers,home, 64 ,Substitution, Abdallah Sima , Amine Salama 
+2280,150,Reims,away, 64 ,Yellow card, Jens Cajuste ,
+2281,150,Reims,away, 65 ,Second yellow card, Jens Cajuste ,
+2282,150,Angers,home, 67 ,Goal, Adrien Hunou , Sofiane Boufal 
+2283,150,Reims,away, 68 ,Substitution, Alexis Flips , Junya Ito 
+2284,150,Reims,away, 70 ,Penalty, Folarin Balogun , Penalty 
+2285,150,Angers,home, 78 ,Substitution, Lois Diony , Cedric Hountondji 
+2286,150,Reims,away, 80 ,Yellow card, Martin Adeline ,
+2287,150,Angers,home, 85 ,Yellow card, Sada Thioub ,
+2288,150,Angers,home, 87 ,Substitution, Himad Abdelli , Adrien Hunou 
+2289,150,Reims,away, 89 ,Yellow card, Patrick Pentz ,
+2290,150,Reims,away, 90 ,Goal, Alexis Flips , Folarin Balogun 
+2291,151,PSG,home, 5 ,Yellow card, Neymar ,
+2292,151,Monaco,away, 20 ,Goal, Kevin Volland , Aleksandr Golovin 
+2293,151,Monaco,away, 25 ,Substitution, Maghnes Akliouche , Kevin Volland 
+2294,151,Monaco,away, 40 ,Yellow card, Maghnes Akliouche ,
+2295,151,Monaco,away, 55 ,Yellow card, Mohamed Camara ,
+2296,151,PSG,home, 63 ,Substitution, Danilo Pereira , Renato Sanches 
+2297,151,Monaco,away, 64 ,Substitution, Breel Embolo , Aleksandr Golovin 
+2298,151,Monaco,away, 64 ,Substitution, Takumi Minamino , Maghnes Akliouche 
+2299,151,PSG,home, 70 ,Penalty, Neymar , Penalty 
+2300,151,Monaco,away, 74 ,Substitution, Jean Lucas , Mohamed Camara 
+2301,151,PSG,home, 77 ,Yellow card, Presnel Kimpembe ,
+2302,151,PSG,home, 86 ,Yellow card, Marco Verratti ,
+2303,151,PSG,home, 87 ,Substitution, Pablo Sarabia , Lionel Messi 
+2304,151,PSG,home, 87 ,Substitution, Nordi Mukiele , Marquinhos 
+2305,151,Monaco,away, 91 ,Yellow card, Benoît Badiashile ,
+2306,151,PSG,home, 95 ,Yellow card, Achraf Hakimi ,
+2307,151,Monaco,away, 95 ,Yellow card, Caio Henrique ,
+2308,152,Reims,home, 24 ,Goal, Junya Ito , Maxime Busi 
+2309,152,Reims,home, 45 ,Substitution, Jens Cajuste , Kamory Doumbia 
+2310,152,Olympique Lyonnais,away, 45 ,Substitution, Maxence Caqueret , Jeff Reine-Adelaide 
+2311,152,Olympique Lyonnais,away, 48 ,Yellow card, Maxence Caqueret ,
+2312,152,Reims,home, 60 ,Substitution, Mitchell van Bergen , Folarin Balogun 
+2313,152,Reims,home, 63 ,Red card, Dion Lopy ,
+2314,152,Reims,home, 64 ,Yellow card, Wout Faes ,
+2315,152,Olympique Lyonnais,away, 65 ,Substitution, Rayan Cherki , Corentin Tolisso 
+2316,152,Olympique Lyonnais,away, 65 ,Substitution, Moussa Dembele , Tetê 
+2317,152,Reims,home, 67 ,Substitution, Emmanuel Agbadou , Junya Ito 
+2318,152,Olympique Lyonnais,away, 80 ,Substitution, Bradley Barcola , Thiago Mendes 
+2319,152,Olympique Lyonnais,away, 86 ,Goal, Moussa Dembele , Rayan Cherki 
+2320,153,Angers,away, 11 ,Yellow card, Batista Mendy ,
+2321,153,Troyes,home, 12 ,Goal, Renaud Ripart , Rony Lopes 
+2322,153,Angers,away, 21 ,Second yellow card, Batista Mendy ,
+2323,153,Troyes,home, 31 ,Yellow card, Yoann Salmier ,
+2324,153,Troyes,home, 45 ,Yellow card, Adil Rami ,
+2325,153,Troyes,home, 47 ,Disallowed goal,Disallowed goal,
+2326,153,Angers,away, 45 ,Substitution, Abdoulaye Bamba , Souleyman Doumbia 
+2327,153,Angers,away, 45 ,Substitution, Ilyés Chetti , Miha Blažič 
+2328,153,Troyes,home, 59 ,Substitution, Wilson Odobert , Rony Lopes 
+2329,153,Troyes,home, 59 ,Substitution, Mama Baldé , Iké Ugbo 
+2330,153,Troyes,home, 61 ,Goal, Mama Baldé , Rominigue Kouamé 
+2331,153,Angers,away, 66 ,Substitution, Waniss Taibi , Pierrick Capelle 
+2332,153,Angers,away, 66 ,Substitution, Amine Salama , Sofiane Boufal 
+2333,153,Angers,away, 67 ,Own goal, Erik Palmer-Brown , Own goal 
+2334,153,Troyes,home, 69 ,Substitution, Papa Yade , Renaud Ripart 
+2335,153,Troyes,home, 69 ,Substitution, Tristan Dingomé , Yasser Larouci 
+2336,153,Angers,away, 71 ,Yellow card, Waniss Taibi ,
+2337,153,Angers,away, 81 ,Substitution, Abdallah Sima , Sada Thioub 
+2338,153,Troyes,home, 82 ,Goal, Wilson Odobert , Papa Yade 
+2339,153,Troyes,home, 84 ,Substitution, Xavier Chavalerin , Florian Tardieu 
+2340,154,Marseille,away, 10 ,Goal, Alexis Sanchez , Jonathan Clauss 
+2341,154,Marseille,away, 37 ,Goal, Nuno Tavares , Matteo Guendouzi 
+2342,154,Marseille,away, 42 ,Goal, Alexis Sanchez ,
+2343,154,Nice,home, 45 ,Substitution, Aaron Ramsey , Alexis Claude-Maurice 
+2344,154,Nice,home, 45 ,Substitution, Billal Brahimi , Rares Ilie 
+2345,154,Nice,home, 57 ,Yellow card, Alexis Beka Beka ,
+2346,154,Marseille,away, 58 ,Substitution, Eric Bailly , Sead Kolasinac 
+2347,154,Nice,home, 58 ,Substitution, Khéphren Thuram , Alexis Beka Beka 
+2348,154,Nice,home, 58 ,Substitution, Youcef Atal , Melvin Bard 
+2349,154,Marseille,away, 68 ,Substitution, Luis Suárez , Alexis Sanchez 
+2350,154,Marseille,away, 68 ,Substitution, Cédric Bakambu , Dimitri Payet 
+2351,154,Marseille,away, 71 ,Yellow card, Nuno Tavares ,
+2352,154,Marseille,away, 78 ,Substitution, Pape Gueye , Nuno Tavares 
+2353,154,Marseille,away, 78 ,Substitution, Issa Kaboré , Jonathan Clauss 
+2354,154,Nice,home, 78 ,Substitution, Calvin Stengs , Andy Delort 
+2355,155,Lorient,home, 15 ,Yellow card, Gédéon Kalulu ,
+2356,155,Clermont,away, 22 ,Yellow card, Neto Borges ,
+2357,155,Lorient,home, 24 ,Penalty, Terem Moffi , Penalty 
+2358,155,Clermont,away, 39 ,Yellow card, Maxime Gonalons ,
+2359,155,Lorient,home, 41 ,Goal, Terem Moffi , Julien Ponceau 
+2360,155,Clermont,away, 48 ,Second yellow card, Neto Borges ,
+2361,155,Clermont,away, 50 ,Substitution, Arial Mendy , Saifeddine Khaoui 
+2362,155,Clermont,away, 62 ,Goal, Muhammed Cham , Komnen Andrić 
+2363,155,Clermont,away, 68 ,Substitution, Jérémie Bela , Alidu Seidu 
+2364,155,Clermont,away, 68 ,Substitution, Yohann Magnin , Komnen Andrić 
+2365,155,Clermont,away, 68 ,Substitution, Jean Billong , Maxime Gonalons 
+2366,155,Clermont,away, 71 ,Substitution, Grejohn Kyei , Jim Allevinah 
+2367,155,Lorient,home, 73 ,Substitution, Théo Le Bris , Julien Ponceau 
+2368,155,Lorient,home, 73 ,Substitution, Ibrahima Koné , Terem Moffi 
+2369,155,Lorient,home, 81 ,Substitution, Bonke Innocent , Enzo Le Fée 
+2370,155,Lorient,home, 91 ,Substitution, Stéphane Diarra , Armand Laurienté 
+2371,156,Montpellier,away, 6 ,Goal, Faitout Maouassa , Elye Wahi 
+2372,156,Montpellier,away, 10 ,Goal, Elye Wahi , Wahbi Khazri 
+2373,156,Montpellier,away, 11 ,Goal, Wahbi Khazri , Falaye Sacko 
+2374,156,Montpellier,away, 25 ,Goal, Nicolas Cozza ,
+2375,156,Montpellier,away, 31 ,Goal, Elye Wahi , Faitout Maouassa 
+2376,156,Brest,home, 45 ,Substitution, Mahdi Camara , Lilian Brassier 
+2377,156,Brest,home, 45 ,Substitution, Franck Honorat , Hugo Magnetti 
+2378,156,Brest,home, 45 ,Substitution, Islam Slimani , Jérémy Le Douaron 
+2379,156,Brest,home, 50 ,Red card, Pierre Lees-Melou ,
+2380,156,Montpellier,away, 54 ,Substitution, Valere Germain , Wahbi Khazri 
+2381,156,Montpellier,away, 55 ,Substitution, Maxime Estève , Nicolas Cozza 
+2382,156,Montpellier,away, 62 ,Yellow card, Arnaud Nordin ,
+2383,156,Montpellier,away, 64 ,Goal, Valere Germain , Théo Sainte-Luce 
+2384,156,Montpellier,away, 68 ,Substitution, Léo Leroy , Arnaud Nordin 
+2385,156,Brest,home, 68 ,Substitution, Karamoko Dembélé , Youcef Belaïli 
+2386,156,Montpellier,away, 68 ,Substitution, Arnaud Souquet , Faitout Maouassa 
+2387,156,Montpellier,away, 71 ,Yellow card, Léo Leroy ,
+2388,156,Montpellier,away, 80 ,Substitution, Béni Makouana , Elye Wahi 
+2389,156,Montpellier,away, 84 ,Goal, Valere Germain , Falaye Sacko 
+2390,156,Brest,home, 85 ,Substitution, Jere Uronen , Mathias Pereira Lage 
+2391,157,Toulouse,away, 15 ,Goal, Zakaria Aboukhlal , Branco Van den Boomen 
+2392,157,Toulouse,away, 37 ,Yellow card, Branco Van den Boomen ,
+2393,157,Toulouse,away, 45 ,Yellow card, Brecht Dejaegere ,
+2394,157,Nantes,home, 45 ,Substitution, Mostafa Mohamed , Marcus Coco 
+2395,157,Toulouse,away, 45 ,Substitution, Ado Onaiwu , Yanis Begraoui 
+2396,157,Nantes,home, 45 ,Substitution, Ludovic Blas , Samuel Moutoussamy 
+2397,157,Nantes,home, 50 ,Goal, Evann Guessand , Moses Simon 
+2398,157,Nantes,home, 55 ,Goal, Mostafa Mohamed , Evann Guessand 
+2399,157,Toulouse,away, 59 ,Substitution, Oliver Zandén , Rafael Ratão 
+2400,157,Nantes,home, 59 ,Substitution, Sebastien Corchia , Fabio 
+2401,157,Nantes,home, 61 ,Goal, Moses Simon , Mostafa Mohamed 
+2402,157,Toulouse,away, 69 ,Substitution, Farès Chaïbi , Brecht Dejaegere 
+2403,157,Nantes,home, 73 ,Substitution, Dennis Appiah , Quentin Merlin 
+2404,157,Toulouse,away, 79 ,Substitution, Kévin Keben , Mikkel Desler 
+2405,157,Nantes,home, 80 ,Substitution, Lohann Doucet , Moses Simon 
+2406,157,Toulouse,away, 87 ,Yellow card, Rasmus Nicolaisen ,
+2407,158,Rennes,away, 43 ,Yellow card, Désiré Doué ,
+2408,158,Rennes,away, 61 ,Substitution, Gaetan Laborde , Jérémy Doku 
+2409,158,Lens,home, 66 ,Goal, Seko Fofana , Jonathan Gradit 
+2410,158,Lens,home, 70 ,Goal, Loïs Openda , Florian Sotoca 
+2411,158,Rennes,away, 71 ,Substitution, Kamaldeen Sulemana , Benjamin Bourigeaud 
+2412,158,Lens,home, 76 ,Substitution, Ignatius Ganago , Loïs Openda 
+2413,158,Lens,home, 77 ,Substitution, Wesley Said , David da Costa 
+2414,158,Rennes,away, 82 ,Substitution, Matthis Abline , Désiré Doué 
+2415,158,Rennes,away, 82 ,Substitution, Birger Meling , Adrien Truffert 
+2416,158,Lens,home, 83 ,Substitution, Patrick Berg , Florian Sotoca 
+2417,158,Lens,home, 87 ,Substitution, Jimmy Cabot , Przemysław Frankowski 
+2418,158,Lens,home, 88 ,Substitution, Massadio Haidara , Deiver Machado 
+2419,158,Rennes,away, 91 ,Goal, Gaetan Laborde ,
+2420,159,Strasbourg,away, 25 ,Yellow card, Jeanricner Bellegarde ,
+2421,159,Auxerre,home, 29 ,Goal, Gaetan Perrin , Lassine Sinayoko 
+2422,159,Strasbourg,away, 64 ,Substitution, Ronaël Pierre-Gabriel , Maxime Le Marchand 
+2423,159,Strasbourg,away, 65 ,Substitution, Habib Diarra , Ismaël Doukouré 
+2424,159,Auxerre,home, 69 ,Substitution, Youssouf M'Changama , Gaetan Perrin 
+2425,159,Auxerre,home, 69 ,Substitution, Rémy Dugimont , Mathias Autret 
+2426,159,Strasbourg,away, 72 ,Substitution, Habib Diallo , Jeanricner Bellegarde 
+2427,159,Auxerre,home, 77 ,Substitution, Rayan Raveloson , Gauthier Hein 
+2428,159,Strasbourg,away, 78 ,Substitution, Jean Aholou , Thomas Delaine 
+2429,160,Lille,away, 17 ,Goal, Yusuf Yazıcı ,
+2430,160,Lille,away, 43 ,Goal, Jonathan Bamba , Ismaily 
+2431,160,Lille,away, 51 ,Yellow card, Bafodé Diakité ,
+2432,160,Lille,away, 57 ,Yellow card, Edon Zhegrova ,
+2433,160,Ajaccio,home, 62 ,Substitution, Riad Nouri , Kevin Spadanuda 
+2434,160,Ajaccio,home, 63 ,Substitution, Mohamed Youssouf , Mickaël Alphonse 
+2435,160,Ajaccio,home, 63 ,Substitution, Jean Botué , Mounaïm El Idrissy 
+2436,160,Lille,away, 67 ,Goal, Tiago Djaló ,
+2437,160,Lille,away, 70 ,Substitution, Gabriel Gudmundsson , Edon Zhegrova 
+2438,160,Lille,away, 70 ,Substitution, Jonas Martin , Yusuf Yazıcı 
+2439,160,Ajaccio,home, 71 ,Yellow card, Thomas Mangani ,
+2440,160,Lille,away, 71 ,Yellow card, Angel Gomes ,
+2441,160,Ajaccio,home, 73 ,Yellow card, Oumar Gonzalez ,
+2442,160,Ajaccio,home, 74 ,Substitution, Qazim Laçi , Vincent Marchetti 
+2443,160,Ajaccio,home, 74 ,Substitution, Bevic Moussiti-Oko , Romain Hamouma 
+2444,160,Lille,away, 77 ,Substitution, Akim Zedadka , Ismaily 
+2445,160,Lille,away, 80 ,Substitution, Leny Yoro , Tiago Djaló 
+2446,160,Ajaccio,home, 84 ,Goal, Cyrille Bayala ,
+2447,160,Ajaccio,home, 86 ,Yellow card, Cyrille Bayala ,
+2448,160,Lille,away, 90 ,Missed penalty, Jonathan David , Missed penalty 
+2449,161,PSG,away, 1 ,Goal, Kylian Mbappé , Lionel Messi 
+2450,161,PSG,away, 27 ,Goal, Lionel Messi , Nuno Mendes 
+2451,161,PSG,away, 34 ,Yellow card, Sergio Ramos ,
+2452,161,Lille,home, 39 ,Yellow card, Benjamin Andre ,
+2453,161,PSG,away, 39 ,Goal, Achraf Hakimi , Neymar 
+2454,161,PSG,away, 43 ,Goal, Neymar ,
+2455,161,PSG,away, 52 ,Goal, Neymar , Achraf Hakimi 
+2456,161,Lille,home, 54 ,Goal, Jonathan Bamba ,
+2457,161,Lille,home, 58 ,Substitution, Edon Zhegrova , Yusuf Yazıcı 
+2458,161,Lille,home, 58 ,Substitution, Jonas Martin , Benjamin Andre 
+2459,161,Lille,home, 58 ,Substitution, Alan Virginius , Gabriel Gudmundsson 
+2460,161,PSG,away, 63 ,Substitution, Renato Sanches , Marco Verratti 
+2461,161,PSG,away, 63 ,Substitution, Juan Bernat , Nuno Mendes 
+2462,161,PSG,away, 66 ,Goal, Kylian Mbappé , Neymar 
+2463,161,Lille,home, 71 ,Substitution, Tiago Djaló , Alexsandro Ribeiro 
+2464,161,PSG,away, 81 ,Substitution, Danilo Pereira , Sergio Ramos 
+2465,161,PSG,away, 81 ,Substitution, Nordi Mukiele , Achraf Hakimi 
+2466,161,Lille,home, 83 ,Yellow card, Jonathan David ,
+2467,161,PSG,away, 84 ,Substitution, Leandro Paredes , Vitinha 
+2468,161,PSG,away, 87 ,Goal, Kylian Mbappé , Neymar 
+2469,162,Rennes,home, 18 ,Goal, Martin Terrier , Adrien Truffert 
+2470,162,Rennes,home, 46 ,Yellow card, Loïc Badé ,
+2471,162,Ajaccio,away, 50 ,Yellow card, Mounaïm El Idrissy ,
+2472,162,Ajaccio,away, 50 ,Missed penalty, Thomas Mangani , Missed penalty 
+2473,162,Ajaccio,away, 45 ,Substitution, Kevin Spadanuda , Yanis Cimignani 
+2474,162,Ajaccio,away, 45 ,Substitution, Riad Nouri , Cyrille Bayala 
+2475,162,Ajaccio,away, 57 ,Goal, Mounaïm El Idrissy , Thomas Mangani 
+2476,162,Rennes,home, 62 ,Goal, Arthur Theate , Loïc Badé 
+2477,162,Rennes,home, 63 ,Substitution, Désiré Doué , Benjamin Bourigeaud 
+2478,162,Rennes,home, 63 ,Substitution, Jérémy Doku , Arnaud Kalimuendo 
+2479,162,Rennes,home, 73 ,Substitution, Kamaldeen Sulemana , Gaetan Laborde 
+2480,162,Ajaccio,away, 76 ,Substitution, Qazim Laçi , Thomas Mangani 
+2481,162,Ajaccio,away, 79 ,Yellow card, Fernand Mayembo ,
+2482,162,Rennes,home, 81 ,Yellow card, Romain Salin ,
+2483,162,Rennes,home, 81 ,Second yellow card, Romain Salin ,
+2484,162,Rennes,home, 82 ,Yellow card, Baptiste Santamaría ,
+2485,162,Ajaccio,away, 83 ,Substitution, Clément Vidal , Fernand Mayembo 
+2486,162,Rennes,home, 86 ,Substitution, Lesley Ugochukwu , Flavien Tait 
+2487,162,Rennes,home, 86 ,Substitution, Matthis Abline , Martin Terrier 
+2488,162,Rennes,home, 86 ,Yellow card, Désiré Doué ,
+2489,162,Rennes,home, 91 ,Red card, Lesley Ugochukwu ,
+2490,162,Ajaccio,away, 93 ,Substitution, Mathieu Coutadeur , Vincent Marchetti 
+2491,163,Lorient,away, 2 ,Goal, Armand Laurienté ,
+2492,163,Lorient,away, 22 ,Yellow card, Enzo Le Fée ,
+2493,163,Toulouse,home, 31 ,Goal, Rafael Ratão ,
+2494,163,Lorient,away, 41 ,Missed penalty, Terem Moffi , Missed penalty 
+2495,163,Toulouse,home, 43 ,Yellow card, Thijs Dallinga ,
+2496,163,Toulouse,home, 64 ,Goal, Thijs Dallinga ,
+2497,163,Toulouse,home, 65 ,Substitution, Rhys Healey , Thijs Dallinga 
+2498,163,Toulouse,home, 65 ,Substitution, Ado Onaiwu , Rafael Ratão 
+2499,163,Lorient,away, 68 ,Substitution, Ibrahima Koné , Terem Moffi 
+2500,163,Lorient,away, 68 ,Substitution, Julien Ponceau , Théo Le Bris 
+2501,163,Lorient,away, 68 ,Substitution, Stéphane Diarra , Dango Ouattara 
+2502,163,Toulouse,home, 72 ,Yellow card, Branco Van den Boomen ,
+2503,163,Toulouse,home, 76 ,Substitution, Kévin Keben , Moussa Diarra 
+2504,163,Lorient,away, 80 ,Penalty, Ibrahima Koné , Penalty 
+2505,163,Toulouse,home, 86 ,Substitution, Denis Genreau , Brecht Dejaegere 
+2506,163,Lorient,away, 89 ,Substitution, Quentin Boisgard , Enzo Le Fée 
+2507,163,Lorient,away, 89 ,Substitution, Adrian Grbić , Armand Laurienté 
+2508,164,Auxerre,away, 5 ,Yellow card, Nuno da Costa ,
+2509,164,Montpellier,home, 39 ,Goal, Mamadou Sakho , Arnaud Nordin 
+2510,164,Auxerre,away, 43 ,Yellow card, Paul Joly ,
+2511,164,Auxerre,away, 48 ,Substitution, Alexandre Coeff , Julian Jeanvier 
+2512,164,Auxerre,away, 45 ,Substitution, Niang , Gauthier Hein 
+2513,164,Montpellier,home, 46 ,Red card, Khalil Fayad ,
+2514,164,Auxerre,away, 51 ,Red card, Niang ,
+2515,164,Montpellier,home, 63 ,Substitution, Faitout Maouassa , Elye Wahi 
+2516,164,Auxerre,away, 65 ,Substitution, Youssouf M'Changama , Hamza Sakhi 
+2517,164,Auxerre,away, 65 ,Substitution, Rémy Dugimont , Gaetan Perrin 
+2518,164,Auxerre,away, 70 ,Goal, Nuno da Costa , Rémy Dugimont 
+2519,164,Montpellier,home, 73 ,Yellow card, Mamadou Sakho ,
+2520,164,Auxerre,away, 75 ,Penalty, Mathias Autret , Penalty 
+2521,164,Montpellier,home, 76 ,Substitution, Enzo Tchato , Falaye Sacko 
+2522,164,Auxerre,away, 82 ,Substitution, Rayan Raveloson , Mathias Autret 
+2523,164,Montpellier,home, 83 ,Substitution, Béni Makouana , Mamadou Sakho 
+2524,164,Montpellier,home, 83 ,Substitution, Maxime Estève , Arnaud Nordin 
+2525,164,Montpellier,home, 84 ,Substitution, Valere Germain , Wahbi Khazri 
+2526,164,Auxerre,away, 88 ,Second yellow card, Nuno da Costa ,
+2527,164,Montpellier,home, 94 ,Red card, Téji Savanier ,
+2528,165,Clermont,home, 6 ,Goal, Saifeddine Khaoui ,
+2529,165,Nice,away, 57 ,Substitution, Youcef Atal , Calvin Stengs 
+2530,165,Nice,away, 57 ,Substitution, Andy Delort , Billal Brahimi 
+2531,165,Nice,away, 57 ,Substitution, Melvin Bard , Jordan Lotomba 
+2532,165,Clermont,home, 60 ,Yellow card, Maxime Gonalons ,
+2533,165,Nice,away, 61 ,Yellow card, Jean Todibo ,
+2534,165,Nice,away, 65 ,Substitution, Aaron Ramsey , Pablo Rosario 
+2535,165,Clermont,home, 70 ,Substitution, Jason Berthomier , Muhammed Cham 
+2536,165,Clermont,home, 70 ,Substitution, Yohann Magnin , Maxime Gonalons 
+2537,165,Nice,away, 72 ,Substitution, Alexis Claude-Maurice , Khéphren Thuram 
+2538,165,Nice,away, 80 ,Red card, Mario Lemina ,
+2539,165,Nice,away, 82 ,Second yellow card, Jean Todibo ,
+2540,165,Clermont,home, 83 ,Substitution, Jérémie Bela , Saifeddine Khaoui 
+2541,165,Clermont,home, 84 ,Substitution, Grejohn Kyei , Komnen Andrić 
+2542,166,Brest,away, 10 ,Goal, Jérémy Le Douaron , Youcef Belaïli 
+2543,166,Angers,home, 34 ,Red card, Halid Šabanović ,
+2544,166,Brest,away, 38 ,Goal, Jérémy Le Douaron ,
+2545,166,Angers,home, 42 ,Substitution, Abdoulaye Bamba , Adrien Hunou 
+2546,166,Angers,home, 47 ,Yellow card, Sada Thioub ,
+2547,166,Angers,home, 49 ,Yellow card, Lois Diony ,
+2548,166,Angers,home, 61 ,Substitution, Sofiane Boufal , Pierrick Capelle 
+2549,166,Angers,home, 62 ,Substitution, Waniss Taibi , Sada Thioub 
+2550,166,Angers,home, 62 ,Substitution, Amine Salama , Lois Diony 
+2551,166,Brest,away, 65 ,Goal, Achraf Dari , Youcef Belaïli 
+2552,166,Brest,away, 66 ,Substitution, Franck Honorat , Youcef Belaïli 
+2553,166,Angers,home, 70 ,Goal, Sofiane Boufal , Amine Salama 
+2554,166,Brest,away, 86 ,Substitution, Irvin Cardona , Jérémy Le Douaron 
+2555,166,Brest,away, 86 ,Substitution, Karamoko Dembélé , Mathias Pereira Lage 
+2556,166,Angers,home, 87 ,Substitution, Antonin Bobichon , Azzedine Ounahi 
+2557,166,Brest,away, 90 ,Substitution, Hianga Mbock , Hugo Magnetti 
+2558,167,Reims,away, 14 ,Yellow card, Maxime Busi ,
+2559,167,Strasbourg,home, 40 ,Yellow card, Alexander Djiku ,
+2560,167,Strasbourg,home, 48 ,Goal, Alexander Djiku , Adrien Thomasson 
+2561,167,Reims,away, 62 ,Substitution, Arbër Zeneli , Dion Lopy 
+2562,167,Strasbourg,home, 64 ,Substitution, Ludovic Ajorque , Habib Diallo 
+2563,167,Strasbourg,home, 64 ,Substitution, Ronaël Pierre-Gabriel , Dimitri Liénard 
+2564,167,Reims,away, 70 ,Yellow card, Marshall Munetsi ,
+2565,167,Reims,away, 77 ,Substitution, Alexis Flips , Kamory Doumbia 
+2566,167,Strasbourg,home, 77 ,Substitution, Jean Aholou , Adrien Thomasson 
+2567,167,Reims,away, 77 ,Substitution, Jens Cajuste , Maxime Busi 
+2568,167,Strasbourg,home, 78 ,Substitution, Habib Diarra , Thomas Delaine 
+2569,167,Reims,away, 81 ,Goal, Folarin Balogun , Alexis Flips 
+2570,167,Reims,away, 88 ,Yellow card, Jens Cajuste ,
+2571,167,Strasbourg,home, 88 ,Substitution, Lebo Mothiba , Kevin Gameiro 
+2572,167,Reims,away, 93 ,Yellow card, Wout Faes ,
+2573,167,Reims,away, 94 ,Substitution, El Touré , Junya Ito 
+2574,168,Marseille,home, 53 ,Substitution, Luis Suárez , Gerson 
+2575,168,Marseille,home, 55 ,Yellow card, Valentin Rongier ,
+2576,168,Nantes,away, 59 ,Yellow card, Evann Guessand ,
+2577,168,Marseille,home, 60 ,Yellow card, Samuel Gigot ,
+2578,168,Nantes,away, 62 ,Substitution, Mostafa Mohamed , Evann Guessand 
+2579,168,Nantes,away, 62 ,Substitution, Dennis Appiah , Fabio 
+2580,168,Marseille,home, 65 ,Substitution, Sead Kolasinac , Leonardo Balerdi 
+2581,168,Marseille,home, 65 ,Substitution, Cengiz Ünder , Alexis Sanchez 
+2582,168,Marseille,home, 65 ,Substitution, Dimitri Payet , Matteo Guendouzi 
+2583,168,Marseille,home, 70 ,Goal, Chancel Mbemba ,
+2584,168,Marseille,home, 76 ,Yellow card, Pau Lopez ,
+2585,168,Marseille,home, 76 ,Second yellow card, Samuel Gigot ,
+2586,168,Nantes,away, 78 ,Penalty, Ludovic Blas , Penalty 
+2587,168,Marseille,home, 82 ,Own goal, Nicolas Pallois , Own goal 
+2588,168,Marseille,home, 83 ,Substitution, Duje Caleta Car , Cengiz Ünder 
+2589,168,Nantes,away, 87 ,Substitution, Marcus Coco , Andrei Girotto 
+2590,168,Nantes,away, 87 ,Substitution, Lohann Doucet , Pedro Chirivella 
+2591,168,Marseille,home, 94 ,Yellow card, Jordan Veretout ,
+2592,169,Lens,away, 7 ,Goal, Loïs Openda , David da Costa 
+2593,169,Lens,away, 38 ,Goal, Deiver Machado ,
+2594,169,Monaco,home, 40 ,Yellow card, Breel Embolo ,
+2595,169,Monaco,home, 41 ,Goal, Benoît Badiashile , Caio Henrique 
+2596,169,Monaco,home, 45 ,Substitution, Mohamed Camara , Eliot Matazo 
+2597,169,Lens,away, 55 ,Penalty, Seko Fofana , Penalty 
+2598,169,Monaco,home, 56 ,Substitution, Aleksandr Golovin , Takumi Minamino 
+2599,169,Monaco,home, 58 ,Yellow card, Vanderson ,
+2600,169,Monaco,home, 67 ,Substitution, Ismail Jakobs , Caio Henrique 
+2601,169,Monaco,home, 68 ,Yellow card, Wissam Ben Yedder ,
+2602,169,Monaco,home, 72 ,Second yellow card, Vanderson ,
+2603,169,Lens,away, 75 ,Substitution, Ignatius Ganago , Loïs Openda 
+2604,169,Lens,away, 75 ,Substitution, Wesley Said , David da Costa 
+2605,169,Monaco,home, 76 ,Substitution, Malang Sarr , Jean Lucas 
+2606,169,Lens,away, 78 ,Goal, Wesley Said , Seko Fofana 
+2607,169,Lens,away, 81 ,Substitution, Jimmy Cabot , Przemysław Frankowski 
+2608,169,Lens,away, 81 ,Substitution, Massadio Haidara , Deiver Machado 
+2609,169,Lens,away, 88 ,Substitution, Patrick Berg , Seko Fofana 
+2610,170,Olympique Lyonnais,home, 3 ,Goal, Alexandre Lacazette ,
+2611,170,Troyes,away, 39 ,Penalty, Florian Tardieu , Penalty 
+2612,170,Olympique Lyonnais,home, 47 ,Goal, Nicolás Tagliafico , Tetê 
+2613,170,Olympique Lyonnais,home, 49 ,Goal, Tetê ,
+2614,170,Troyes,away, 51 ,Yellow card, Rominigue Kouamé ,
+2615,170,Troyes,away, 59 ,Substitution, Xavier Chavalerin , Mama Baldé 
+2616,170,Troyes,away, 60 ,Substitution, Tristan Dingomé , Yasser Larouci 
+2617,170,Olympique Lyonnais,home, 63 ,Substitution, Jeff Reine-Adelaide , Corentin Tolisso 
+2618,170,Troyes,away, 72 ,Substitution, Renaud Ripart , Thierno Baldé 
+2619,170,Troyes,away, 72 ,Substitution, Kyliane Dong , Iké Ugbo 
+2620,170,Olympique Lyonnais,home, 73 ,Substitution, Maxence Caqueret , Johann Lepenant 
+2621,170,Olympique Lyonnais,home, 73 ,Substitution, Henrique , Malo Gusto 
+2622,170,Olympique Lyonnais,home, 75 ,Goal, Tetê ,
+2623,170,Olympique Lyonnais,home, 86 ,Substitution, Rayan Cherki , Lucas Paquetá 
+2624,170,Olympique Lyonnais,home, 86 ,Substitution, Romain Faivre , Tetê 
+2625,171,Lorient,home, 6 ,Goal, Enzo Le Fée ,
+2626,171,Olympique Lyonnais,away, 23 ,Yellow card, Thiago Mendes ,
+2627,171,Olympique Lyonnais,away, 28 ,Goal, Alexandre Lacazette , Tetê 
+2628,171,Lorient,home, 33 ,Goal, Terem Moffi , Dango Ouattara 
+2629,171,Lorient,home, 44 ,Yellow card, Stéphane Diarra ,
+2630,171,Olympique Lyonnais,away, 45 ,Substitution, Damien Da Silva , Thiago Mendes 
+2631,171,Olympique Lyonnais,away, 45 ,Substitution, Moussa Dembele , Romain Faivre 
+2632,171,Olympique Lyonnais,away, 45 ,Substitution, Corentin Tolisso , Johann Lepenant 
+2633,171,Lorient,home, 49 ,Goal, Dango Ouattara , Gédéon Kalulu 
+2634,171,Olympique Lyonnais,away, 55 ,Yellow card, Damien Da Silva ,
+2635,171,Lorient,home, 66 ,Substitution, Théo Le Bris , Stéphane Diarra 
+2636,171,Olympique Lyonnais,away, 75 ,Substitution, Rayan Cherki , Karl Toko Ekambi 
+2637,171,Olympique Lyonnais,away, 75 ,Substitution, Bradley Barcola , Tetê 
+2638,171,Olympique Lyonnais,away, 84 ,Yellow card, Moussa Dembele ,
+2639,171,Lorient,home, 92 ,Substitution, Ibrahima Koné , Terem Moffi 
+2640,172,Marseille,away, 17 ,Yellow card, Arek Milik ,
+2641,172,Marseille,away, 38 ,Goal, Nuno Tavares , Jonathan Clauss 
+2642,172,Brest,home, 45 ,Substitution, Youcef Belaïli , Mathias Pereira Lage 
+2643,172,Marseille,away, 45 ,Substitution, Alexis Sanchez , Cengiz Ünder 
+2644,172,Brest,home, 51 ,Yellow card, Youcef Belaïli ,
+2645,172,Marseille,away, 57 ,Yellow card, Gerson ,
+2646,172,Brest,home, 61 ,Goal, Pierre Lees-Melou ,
+2647,172,Marseille,away, 65 ,Yellow card, Valentin Rongier ,
+2648,172,Marseille,away, 69 ,Substitution, Jordan Veretout , Valentin Rongier 
+2649,172,Marseille,away, 69 ,Substitution, Cédric Bakambu , Gerson 
+2650,172,Marseille,away, 69 ,Substitution, Dimitri Payet , Arek Milik 
+2651,172,Marseille,away, 74 ,Yellow card, Matteo Guendouzi ,
+2652,172,Brest,home, 76 ,Substitution, Hianga Mbock , Hugo Magnetti 
+2653,172,Brest,home, 77 ,Substitution, Irvin Cardona , Jérémy Le Douaron 
+2654,172,Marseille,away, 82 ,Substitution, Sead Kolasinac , Nuno Tavares 
+2655,172,Brest,home, 86 ,Substitution, Karamoko Dembélé , Franck Honorat 
+2656,173,Strasbourg,away, 34 ,Yellow card, Gerzino Nyamsi ,
+2657,173,Nice,home, 35 ,Penalty, Andy Delort , Penalty 
+2658,173,Strasbourg,away, 46 ,Yellow card, Maxime Le Marchand ,
+2659,173,Strasbourg,away, 47 ,Yellow card, Thomas Delaine ,
+2660,173,Strasbourg,away, 55 ,Goal, Kevin Gameiro , Adrien Thomasson 
+2661,173,Strasbourg,away, 62 ,Substitution, Sanjin Prcic , Thomas Delaine 
+2662,173,Strasbourg,away, 67 ,Yellow card, Adrien Thomasson ,
+2663,173,Nice,home, 68 ,Substitution, Billal Brahimi , Calvin Stengs 
+2664,173,Nice,home, 68 ,Substitution, Aaron Ramsey , Amine Gouiri 
+2665,173,Nice,home, 68 ,Substitution, Pablo Rosario , Mario Lemina 
+2666,173,Strasbourg,away, 75 ,Substitution, Lucas Perrin , Alexander Djiku 
+2667,173,Nice,home, 76 ,Substitution, Youcef Atal , Rares Ilie 
+2668,173,Nice,home, 77 ,Yellow card, Pablo Rosario ,
+2669,173,Strasbourg,away, 81 ,Substitution, Ludovic Ajorque , Kevin Gameiro 
+2670,173,Strasbourg,away, 81 ,Substitution, Habib Diarra , Jean Aholou 
+2671,173,Strasbourg,away, 82 ,Substitution, Marvin Senaya , Jeanricner Bellegarde 
+2672,173,Nice,home, 91 ,Substitution, Flavius Daniliuc , Jordan Lotomba 
+2673,174,Reims,home, 7 ,Yellow card, Folarin Balogun ,
+2674,174,Clermont,away, 21 ,Yellow card, Florent Ogier ,
+2675,174,Reims,home, 23 ,Penalty, Kamory Doumbia , Penalty 
+2676,174,Clermont,away, 29 ,Yellow card, Yohann Magnin ,
+2677,174,Reims,home, 30 ,Penalty, Folarin Balogun , Penalty 
+2678,174,Clermont,away, 35 ,Yellow card, Johan Gastien ,
+2679,174,Reims,home, 47 ,Red card, Emmanuel Agbadou ,
+2680,174,Clermont,away, 51 ,Penalty, Komnen Andrić , Penalty 
+2681,174,Reims,home, 51 ,Yellow card, Mitchell van Bergen ,
+2682,174,Reims,home, 53 ,Substitution, Dion Lopy , Kamory Doumbia 
+2683,174,Clermont,away, 62 ,Goal, Komnen Andrić , Florent Ogier 
+2684,174,Reims,home, 63 ,Substitution, Martin Adeline , Folarin Balogun 
+2685,174,Clermont,away, 64 ,Substitution, Jérémie Bela , Elbasan Rashani 
+2686,174,Reims,home, 64 ,Substitution, El Touré , Maxime Busi 
+2687,174,Reims,home, 71 ,Yellow card, Andreaw Gravillon ,
+2688,174,Clermont,away, 72 ,Goal, Muhammed Cham , Johan Gastien 
+2689,174,Clermont,away, 75 ,Substitution, Saifeddine Khaoui , Jim Allevinah 
+2690,174,Clermont,away, 75 ,Substitution, Grejohn Kyei , Komnen Andrić 
+2691,174,Reims,home, 76 ,Substitution, Junya Ito , Azor Matusiwa 
+2692,174,Clermont,away, 77 ,Goal, Jérémie Bela , Saifeddine Khaoui 
+2693,174,Clermont,away, 89 ,Substitution, Jason Berthomier , Muhammed Cham 
+2694,174,Clermont,away, 89 ,Substitution, Brandon Baiye , Johan Gastien 
+2695,175,Ajaccio,home, 35 ,Yellow card, Oumar Gonzalez ,
+2696,175,Ajaccio,home, 37 ,Yellow card, Thomas Mangani ,
+2697,175,Ajaccio,home, 42 ,Yellow card, Cyrille Bayala ,
+2698,175,Ajaccio,home, 59 ,Yellow card, Vincent Marchetti ,
+2699,175,Ajaccio,home, 66 ,Substitution, Yanis Cimignani , Mickaël Barreto 
+2700,175,Ajaccio,home, 66 ,Substitution, Kevin Spadanuda , Bevic Moussiti-Oko 
+2701,175,Ajaccio,home, 66 ,Substitution, Riad Nouri , Cyrille Bayala 
+2702,175,Lens,away, 75 ,Yellow card, Florian Sotoca ,
+2703,175,Lens,away, 76 ,Substitution, Jimmy Cabot , Przemysław Frankowski 
+2704,175,Lens,away, 76 ,Substitution, Wesley Said , David da Costa 
+2705,175,Lens,away, 76 ,Substitution, Ignatius Ganago , Loïs Openda 
+2706,175,Ajaccio,home, 79 ,Yellow card, Mounaïm El Idrissy ,
+2707,175,Ajaccio,home, 85 ,Substitution, Qazim Laçi , Thomas Mangani 
+2708,175,Lens,away, 85 ,Substitution, Massadio Haidara , Deiver Machado 
+2709,175,Ajaccio,home, 86 ,Substitution, Cédric Avinel , Oumar Gonzalez 
+2710,175,Lens,away, 93 ,Yellow card, Kevin Danso ,
+2711,176,Auxerre,home, 4 ,Goal, Julian Jeanvier , Jubal 
+2712,176,Angers,away, 7 ,Yellow card, Batista Mendy ,
+2713,176,Auxerre,home, 10 ,Own goal, Cedric Hountondji , Own goal 
+2714,176,Auxerre,home, 17 ,Yellow card, Gaetan Charbonnier ,
+2715,176,Angers,away, 22 ,Goal, Lois Diony , Sada Thioub 
+2716,176,Auxerre,home, 31 ,Yellow card, Lassine Sinayoko ,
+2717,176,Auxerre,home, 37 ,Yellow card, Paul Joly ,
+2718,176,Auxerre,home, 45 ,Substitution, Nuno da Costa , Gaetan Charbonnier 
+2719,176,Auxerre,home, 57 ,Second yellow card, Lassine Sinayoko ,
+2720,176,Angers,away, 61 ,Yellow card, Azzedine Ounahi ,
+2721,176,Auxerre,home, 66 ,Disallowed goal,Disallowed goal,
+2722,176,Auxerre,home, 68 ,Yellow card, Nuno da Costa ,
+2723,176,Angers,away, 69 ,Substitution, Pierrick Capelle , Batista Mendy 
+2724,176,Angers,away, 69 ,Substitution, Amine Salama , Sada Thioub 
+2725,176,Angers,away, 70 ,Substitution, Sofiane Boufal , Adrien Hunou 
+2726,176,Auxerre,home, 73 ,Substitution, Youssouf M'Changama , Gauthier Hein 
+2727,176,Angers,away, 77 ,Goal, Amine Salama , Sofiane Boufal 
+2728,176,Angers,away, 78 ,Substitution, Ilyés Chetti , Souleyman Doumbia 
+2729,176,Angers,away, 83 ,Yellow card, Halid Šabanović ,
+2730,176,Angers,away, 83 ,Substitution, Antonin Bobichon , Azzedine Ounahi 
+2731,176,Auxerre,home, 85 ,Substitution, Gaetan Perrin , Mathias Autret 
+2732,177,Toulouse,away, 30 ,Yellow card, Thijs Dallinga ,
+2733,177,Toulouse,away, 36 ,Own goal, Yasser Larouci , Own goal 
+2734,177,Troyes,home, 42 ,Yellow card, Rominigue Kouamé ,
+2735,177,Toulouse,away, 54 ,Goal, Rafael Ratão , Zakaria Aboukhlal 
+2736,177,Troyes,home, 59 ,Substitution, Adil Rami , Renaud Ripart 
+2737,177,Troyes,home, 59 ,Substitution, Kyliane Dong , Xavier Chavalerin 
+2738,177,Troyes,home, 59 ,Substitution, Iké Ugbo , Jackson Porozo 
+2739,177,Toulouse,away, 68 ,Substitution, Rhys Healey , Thijs Dallinga 
+2740,177,Troyes,home, 74 ,Yellow card, Florian Tardieu ,
+2741,177,Toulouse,away, 76 ,Substitution, Denis Genreau , Brecht Dejaegere 
+2742,177,Toulouse,away, 76 ,Substitution, Ado Onaiwu , Rafael Ratão 
+2743,177,Troyes,home, 83 ,Substitution, Thierno Baldé , Andreas Bruus 
+2744,177,Troyes,home, 83 ,Substitution, Wilson Odobert , Yoann Salmier 
+2745,177,Toulouse,away, 85 ,Goal, Rhys Healey , Ado Onaiwu 
+2746,177,Toulouse,away, 86 ,Substitution, Moussa Diarra , Zakaria Aboukhlal 
+2747,178,PSG,home, 23 ,Missed penalty, Kylian Mbappé , Missed penalty 
+2748,178,PSG,home, 39 ,Own goal, Falaye Sacko , Own goal 
+2749,178,PSG,home, 43 ,Penalty, Neymar , Penalty 
+2750,178,PSG,home, 51 ,Goal, Neymar ,
+2751,178,Montpellier,away, 58 ,Goal, Wahbi Khazri ,
+2752,178,PSG,home, 60 ,Yellow card, Presnel Kimpembe ,
+2753,178,Montpellier,away, 63 ,Yellow card, Elye Wahi ,
+2754,178,PSG,home, 66 ,Yellow card, Vitinha ,
+2755,178,PSG,home, 69 ,Goal, Kylian Mbappé ,
+2756,178,PSG,home, 70 ,Substitution, Leandro Paredes , Vitinha 
+2757,178,Montpellier,away, 70 ,Substitution, Arnaud Souquet , Faitout Maouassa 
+2758,178,Montpellier,away, 78 ,Substitution, Valere Germain , Wahbi Khazri 
+2759,178,Montpellier,away, 78 ,Substitution, Mamadou Sakho , Elye Wahi 
+2760,178,PSG,home, 85 ,Disallowed goal,Disallowed goal,
+2761,178,PSG,home, 86 ,Substitution, Renato Sanches , Marco Verratti 
+2762,178,PSG,home, 86 ,Substitution, Nordi Mukiele , Achraf Hakimi 
+2763,178,PSG,home, 86 ,Substitution, Pablo Sarabia , Kylian Mbappé 
+2764,178,Montpellier,away, 86 ,Substitution, Léo Leroy , Joris Chotard 
+2765,178,Montpellier,away, 86 ,Substitution, Khalil Fayad , Téji Savanier 
+2766,178,PSG,home, 87 ,Goal, Renato Sanches , Nuno Mendes 
+2767,178,PSG,home, 90 ,Substitution, Hugo Ekitike , Neymar 
+2768,178,Montpellier,away, 92 ,Goal, Enzo Tchato , Khalil Fayad 
+2769,179,Monaco,home, 15 ,Red card, Youssouf Fofana ,
+2770,179,Monaco,home, 17 ,Substitution, Soungoutou Magassa , Wissam Ben Yedder 
+2771,179,Rennes,away, 21 ,Yellow card, Joe Rodon ,
+2772,179,Rennes,away, 23 ,Yellow card, Arthur Theate ,
+2773,179,Rennes,away, 31 ,Yellow card, Steve Mandanda ,
+2774,179,Monaco,home, 33 ,Missed penalty, Axel Disasi , Missed penalty 
+2775,179,Rennes,away, 45 ,Substitution, Dogan Alemdar , Steve Mandanda 
+2776,179,Rennes,away, 52 ,Substitution, Arnaud Kalimuendo , Lovro Majer 
+2777,179,Rennes,away, 59 ,Goal, Gaetan Laborde , Benjamin Bourigeaud 
+2778,179,Monaco,home, 64 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+2779,179,Monaco,home, 72 ,Goal, Breel Embolo ,
+2780,179,Rennes,away, 76 ,Substitution, Jérémy Doku , Gaetan Laborde 
+2781,179,Rennes,away, 76 ,Substitution, Désiré Doué , Flavien Tait 
+2782,179,Rennes,away, 80 ,Substitution, Kamaldeen Sulemana , Benjamin Bourigeaud 
+2783,179,Monaco,home, 81 ,Substitution, Gelson Martins , Krépin Diatta 
+2784,179,Monaco,home, 82 ,Substitution, Benoît Badiashile , Vanderson 
+2785,180,Lille,away, 14 ,Yellow card, Akim Zedadka ,
+2786,180,Lille,away, 18 ,Yellow card, Tiago Djaló ,
+2787,180,Lille,away, 18 ,Yellow card, Jose Fonte ,
+2788,180,Nantes,home, 28 ,Goal, Moses Simon , Andrei Girotto 
+2789,180,Lille,away, 37 ,Yellow card, Benjamin Andre ,
+2790,180,Lille,away, 45 ,Substitution, Ismaily , Tiago Djaló 
+2791,180,Lille,away, 45 ,Substitution, Bafodé Diakité , Akim Zedadka 
+2792,180,Nantes,home, 59 ,Substitution, Fabio , Marcus Coco 
+2793,180,Lille,away, 76 ,Goal, Ismaily , Jonathan David 
+2794,180,Lille,away, 77 ,Substitution, Gabriel Gudmundsson , Mohamed Bayo 
+2795,180,Nantes,home, 79 ,Substitution, Evann Guessand , Mostafa Mohamed 
+2796,180,Lille,away, 85 ,Substitution, Jonas Martin , Angel Gomes 
+2797,180,Nantes,home, 90 ,Yellow card, Andrei Girotto ,
+2798,180,Nantes,home, 91 ,Substitution, Dennis Appiah , Quentin Merlin 
+2799,181,Marseille,home, 13 ,Own goal, Wout Faes , Own goal 
+2800,181,Marseille,home, 46 ,Goal, Nuno Tavares , Leonardo Balerdi 
+2801,181,Reims,away, 45 ,Substitution, Kamory Doumbia , Arbër Zeneli 
+2802,181,Marseille,home, 59 ,Yellow card, Samuel Gigot ,
+2803,181,Marseille,home, 62 ,Substitution, Jordan Veretout , Cengiz Ünder 
+2804,181,Marseille,home, 62 ,Substitution, Luis Suárez , Arek Milik 
+2805,181,Reims,away, 64 ,Substitution, Folarin Balogun , El Touré 
+2806,181,Marseille,home, 75 ,Goal, Luis Suárez ,
+2807,181,Marseille,home, 77 ,Substitution, Dimitri Payet , Gerson 
+2808,181,Reims,away, 77 ,Substitution, Alexis Flips , Andreaw Gravillon 
+2809,181,Marseille,home, 77 ,Substitution, Cédric Bakambu , Matteo Guendouzi 
+2810,181,Reims,away, 80 ,Substitution, Martin Adeline , Marshall Munetsi 
+2811,181,Marseille,home, 83 ,Substitution, Sead Kolasinac , Jonathan Clauss 
+2812,181,Reims,away, 84 ,Goal, Folarin Balogun ,
+2813,181,Marseille,home, 94 ,Goal, Luis Suárez , Cédric Bakambu 
+2814,182,Rennes,home, 62 ,Yellow card, Adrien Truffert ,
+2815,182,Lorient,away, 65 ,Own goal, Arthur Theate , Own goal 
+2816,182,Lorient,away, 67 ,Substitution, Théo Le Bris , Bonke Innocent 
+2817,182,Rennes,home, 68 ,Substitution, Sehrou Guirassy , Lovro Majer 
+2818,182,Rennes,home, 73 ,Substitution, Kamaldeen Sulemana , Benjamin Bourigeaud 
+2819,182,Rennes,home, 73 ,Substitution, Désiré Doué , Flavien Tait 
+2820,182,Rennes,home, 73 ,Substitution, Jérémy Doku , Gaetan Laborde 
+2821,182,Lorient,away, 75 ,Yellow card, Vincent Le Goff ,
+2822,182,Lorient,away, 84 ,Substitution, Ibrahima Koné , Terem Moffi 
+2823,182,Rennes,home, 87 ,Yellow card, Arthur Theate ,
+2824,182,Rennes,home, 87 ,Yellow card, Hamari Traore ,
+2825,182,Lorient,away, 90 ,Substitution, Stéphane Diarra , Armand Laurienté 
+2826,183,Montpellier,home, 3 ,Goal, Théo Sainte-Luce , Faitout Maouassa 
+2827,183,Troyes,away, 12 ,Penalty, Florian Tardieu , Penalty 
+2828,183,Montpellier,home, 15 ,Goal, Téji Savanier ,
+2829,183,Troyes,away, 17 ,Goal, Mama Baldé , Andreas Bruus 
+2830,183,Montpellier,home, 30 ,Substitution, Béni Makouana , Stephy Mavididi 
+2831,183,Montpellier,home, 52 ,Yellow card, Béni Makouana ,
+2832,183,Montpellier,home, 78 ,Substitution, Léo Leroy , Faitout Maouassa 
+2833,183,Montpellier,home, 79 ,Substitution, Maxime Estève , Mamadou Sakho 
+2834,183,Montpellier,home, 79 ,Substitution, Nicolas Cozza , Théo Sainte-Luce 
+2835,183,Montpellier,home, 81 ,Goal, Téji Savanier , Nicolas Cozza 
+2836,183,Troyes,away, 84 ,Substitution, Kyliane Dong , Yasser Larouci 
+2837,183,Montpellier,home, 84 ,Substitution, Arnaud Souquet , Elye Wahi 
+2838,183,Troyes,away, 89 ,Substitution, Wilson Odobert , Erik Palmer-Brown 
+2839,184,Lille,home, 1 ,Goal, Benjamin Andre , Jonathan David 
+2840,184,Lille,home, 3 ,Goal, Jonathan David , Remy Cabella 
+2841,184,Lille,home, 39 ,Goal, Jonathan David , Remy Cabella 
+2842,184,Auxerre,away, 44 ,Yellow card, Julian Jeanvier ,
+2843,184,Lille,home, 58 ,Yellow card, Angel Gomes ,
+2844,184,Lille,home, 64 ,Goal, Akim Zedadka , Jonathan Bamba 
+2845,184,Auxerre,away, 68 ,Goal, Gaetan Charbonnier , Quentin Bernard 
+2846,184,Lille,home, 73 ,Yellow card, Tiago Djaló ,
+2847,184,Auxerre,away, 75 ,Substitution, Lassine Sinayoko , Youssouf M'Changama 
+2848,184,Lille,home, 75 ,Substitution, Bafodé Diakité , Tiago Djaló 
+2849,184,Auxerre,away, 75 ,Substitution, Gaetan Perrin , Mathias Autret 
+2850,184,Lille,home, 84 ,Substitution, Yusuf Yazıcı , Mohamed Bayo 
+2851,184,Lille,home, 84 ,Substitution, Carlos Baleba , Angel Gomes 
+2852,184,Lille,home, 89 ,Substitution, Edon Zhegrova , Jonathan Bamba 
+2853,185,Lens,home, 27 ,Goal, Florian Sotoca ,
+2854,185,Brest,away, 31 ,Yellow card, Pierre Lees-Melou ,
+2855,185,Lens,home, 33 ,Missed penalty, Florian Sotoca , Missed penalty 
+2856,185,Lens,home, 37 ,Yellow card, David Pereira da Costa ,
+2857,185,Brest,away, 40 ,Substitution, Jean Duverne , Noah Fadiga 
+2858,185,Brest,away, 43 ,Yellow card, Youcef Belaïli ,
+2859,185,Lens,home, 62 ,Goal, Florian Sotoca , Przemysław Frankowski 
+2860,185,Brest,away, 62 ,Yellow card, Lilian Brassier ,
+2861,185,Lens,home, 65 ,Goal, Florian Sotoca , Seko Fofana 
+2862,185,Brest,away, 66 ,Goal, Haris Belkebla , Franck Honorat 
+2863,185,Lens,home, 68 ,Substitution, Wesley Said , David Pereira da Costa 
+2864,185,Brest,away, 70 ,Yellow card, Brendan Chardonnet ,
+2865,185,Brest,away, 74 ,Substitution, Hugo Magnetti , Youcef Belaïli 
+2866,185,Brest,away, 74 ,Substitution, Romain Del Castillo , Irvin Cardona 
+2867,185,Brest,away, 74 ,Substitution, Achraf Dari , Christophe Hérelle 
+2868,185,Lens,home, 76 ,Substitution, Jimmy Cabot , Przemysław Frankowski 
+2869,185,Lens,home, 76 ,Substitution, Ignatius Ganago , Loïs Openda 
+2870,185,Lens,home, 77 ,Substitution, Patrick Berg , Florian Sotoca 
+2871,185,Lens,home, 78 ,Yellow card, Kevin Danso ,
+2872,185,Brest,away, 82 ,Penalty, Romain Del Castillo , Penalty 
+2873,185,Lens,home, 83 ,Substitution, Massadio Haidara , Deiver Machado 
+2874,185,Brest,away, 87 ,Substitution, Jérémy Le Douaron , Pierre Lees-Melou 
+2875,186,Nantes,away, 37 ,Yellow card, Moussa Sissoko ,
+2876,186,Angers,home, 42 ,Yellow card, Pierrick Capelle ,
+2877,186,Angers,home, 53 ,Yellow card, Souleyman Doumbia ,
+2878,186,Nantes,away, 60 ,Yellow card, Quentin Merlin ,
+2879,186,Angers,home, 63 ,Substitution, Amine Salama , Lois Diony 
+2880,186,Angers,home, 63 ,Substitution, Marin Jakoliš , Sada Thioub 
+2881,186,Nantes,away, 70 ,Substitution, Fabio , Dennis Appiah 
+2882,186,Nantes,away, 71 ,Substitution, Mostafa Mohamed , Evann Guessand 
+2883,186,Nantes,away, 78 ,Substitution, Samuel Moutoussamy , Ludovic Blas 
+2884,186,Nantes,away, 78 ,Substitution, Sebastien Corchia , Marcus Coco 
+2885,186,Angers,home, 79 ,Yellow card, Cedric Hountondji ,
+2886,186,Angers,home, 81 ,Substitution, Waniss Taibi , Pierrick Capelle 
+2887,186,Nantes,away, 84 ,Yellow card, Sebastien Corchia ,
+2888,187,Toulouse,home, 20 ,Goal, Thijs Dallinga , Branco Van den Boomen 
+2889,187,Nice,away, 63 ,Yellow card, Pablo Rosario ,
+2890,187,Nice,away, 63 ,Substitution, Mario Lemina , Pablo Rosario 
+2891,187,Nice,away, 64 ,Substitution, Rares Ilie , Alexis Beka Beka 
+2892,187,Nice,away, 65 ,Yellow card, Dante ,
+2893,187,Toulouse,home, 66 ,Substitution, Zakaria Aboukhlal , Rafael Ratão 
+2894,187,Toulouse,home, 69 ,Substitution, Denis Genreau , Farès Chaïbi 
+2895,187,Nice,away, 70 ,Substitution, Billal Brahimi , Amine Gouiri 
+2896,187,Nice,away, 77 ,Substitution, Aaron Ramsey , Calvin Stengs 
+2897,187,Nice,away, 78 ,Goal, Aaron Ramsey , Billal Brahimi 
+2898,187,Toulouse,home, 79 ,Substitution, Kévin Keben , Mikkel Desler 
+2899,187,Toulouse,home, 79 ,Substitution, Rhys Healey , Thijs Dallinga 
+2900,187,Toulouse,home, 86 ,Yellow card, Kévin Keben ,
+2901,188,PSG,away, 9 ,Goal, Neymar , Lionel Messi 
+2902,188,PSG,away, 13 ,Yellow card, Vitinha ,
+2903,188,PSG,away, 26 ,Goal, Achraf Hakimi , Neymar 
+2904,188,Clermont,home, 38 ,Yellow card, Jim Allevinah ,
+2905,188,PSG,away, 38 ,Goal, Marquinhos , Neymar 
+2906,188,PSG,away, 67 ,Substitution, Leandro Paredes , Vitinha 
+2907,188,PSG,away, 67 ,Substitution, Nordi Mukiele , Sergio Ramos 
+2908,188,Clermont,home, 67 ,Yellow card, Maxime Gonalons ,
+2909,188,Clermont,home, 73 ,Substitution, Yohann Magnin , Muhammed Cham 
+2910,188,Clermont,home, 73 ,Substitution, Jodel Dossou , Jim Allevinah 
+2911,188,PSG,away, 78 ,Substitution, Juan Bernat , Nuno Mendes 
+2912,188,PSG,away, 78 ,Substitution, Hugo Ekitike , Pablo Sarabia 
+2913,188,PSG,away, 80 ,Goal, Lionel Messi , Neymar 
+2914,188,Clermont,home, 81 ,Substitution, Saifeddine Khaoui , Elbasan Rashani 
+2915,188,PSG,away, 82 ,Substitution, Warren Zaïre-Emery , Marco Verratti 
+2916,188,Clermont,home, 85 ,Substitution, Brandon Baiye , Maxime Gonalons 
+2917,188,PSG,away, 86 ,Goal, Lionel Messi , Leandro Paredes 
+2918,189,Monaco,away, 43 ,Goal, Krépin Diatta , Axel Disasi 
+2919,189,Strasbourg,home, 45 ,Substitution, Thomas Delaine , Ronaël Pierre-Gabriel 
+2920,189,Monaco,away, 53 ,Goal, Sofiane Diop ,
+2921,189,Strasbourg,home, 65 ,Goal, Habib Diallo , Thomas Delaine 
+2922,189,Monaco,away, 66 ,Substitution, Maghnes Akliouche , Sofiane Diop 
+2923,189,Strasbourg,home, 66 ,Substitution, Jean Aholou , Jeanricner Bellegarde 
+2924,189,Strasbourg,home, 66 ,Substitution, Maxime Le Marchand , Lucas Perrin 
+2925,189,Strasbourg,home, 66 ,Substitution, Kevin Gameiro , Ludovic Ajorque 
+2926,189,Monaco,away, 73 ,Substitution, Vanderson , Gelson Martins 
+2927,189,Monaco,away, 80 ,Yellow card, Youssouf Fofana ,
+2928,189,Strasbourg,home, 82 ,Substitution, Dany Jean , Dimitri Liénard 
+2929,189,Monaco,away, 83 ,Yellow card, Krépin Diatta ,
+2930,189,Monaco,away, 87 ,Substitution, Eliot Matazo , Krépin Diatta 
+2931,189,Strasbourg,home, 93 ,Disallowed goal,Disallowed goal,
+2932,190,Olympique Lyonnais,home, 12 ,Goal, Tetê , Alexandre Lacazette 
+2933,190,Ajaccio,away, 20 ,Yellow card, Cédric Avinel ,
+2934,190,Olympique Lyonnais,home, 22 ,Penalty, Alexandre Lacazette , Penalty 
+2935,190,Olympique Lyonnais,home, 27 ,Red card, Anthony Lopes ,
+2936,190,Olympique Lyonnais,home, 30 ,Substitution, Remy Riou , Houssem Aouar 
+2937,190,Ajaccio,away, 31 ,Penalty, Thomas Mangani , Penalty 
+2938,190,Olympique Lyonnais,home, 33 ,Yellow card, Alexandre Lacazette ,
+2939,190,Ajaccio,away, 33 ,Yellow card, Romain Hamouma ,
+2940,190,Ajaccio,away, 34 ,Yellow card, Mounaïm El Idrissy ,
+2941,190,Ajaccio,away, 41 ,Yellow card, Ismaël Diallo ,
+2942,190,Ajaccio,away, 49 ,Second yellow card, Romain Hamouma ,
+2943,190,Ajaccio,away, 71 ,Substitution, Kevin Spadanuda , Cyrille Bayala 
+2944,190,Ajaccio,away, 71 ,Substitution, Yanis Cimignani , Riad Nouri 
+2945,190,Ajaccio,away, 71 ,Substitution, Bevic Moussiti-Oko , Mounaïm El Idrissy 
+2946,190,Olympique Lyonnais,home, 75 ,Substitution, Bradley Barcola , Karl Toko Ekambi 
+2947,190,Olympique Lyonnais,home, 75 ,Substitution, Corentin Tolisso , Lucas Paquetá 
+2948,190,Ajaccio,away, 89 ,Substitution, Mathieu Coutadeur , Vincent Marchetti 
+2949,190,Olympique Lyonnais,home, 89 ,Substitution, Rayan Cherki , Tetê 
+2950,190,Ajaccio,away, 89 ,Substitution, Qazim Laçi , Thomas Mangani 
+2951,190,Ajaccio,away, 93 ,Yellow card, Kevin Spadanuda ,

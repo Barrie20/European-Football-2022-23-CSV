@@ -1,0 +1,2240 @@
+event_id,match_id,team,event_team,event_time,event_type,action_player_1,action_player_2
+1,1,Sparta,home, 12 ,Substitution, Younes Namli , Koki Saito 
+2,1,Sparta,home, 45 ,Substitution, Dirk Abels , Shurandy Sambo 
+3,1,Sparta,home, 57 ,Substitution, Jonathan de Guzman , Vito van Crooy 
+4,1,Waalwijk,away, 63 ,Substitution, Kevin Felida , Pelle Clement 
+5,1,Waalwijk,away, 63 ,Substitution, Saïd Bakari , Julian Lelieveld 
+6,1,Waalwijk,away, 71 ,Substitution, Mika Biereth , Iliass Bel Hassani 
+7,1,Waalwijk,away, 81 ,Substitution, Michiel Kramer , Mats Seuntjens 
+8,1,Waalwijk,away, 81 ,Substitution, Florian Jozefzoon , Yassin Oukili 
+9,1,Sparta,home, 91 ,Substitution, Mohammed Tahiri , Sven Mijnans 
+10,1,Sparta,home, 91 ,Substitution, Mike Eerdhuijzen , Younes Namli 
+11,2,Emmen,home, 19 ,Yellow card, Richairo Živković ,
+12,2,Emmen,home, 24 ,Goal, Lucas Bernadou ,
+13,2,PSV,away, 29 ,Yellow card, Johan Bakayoko ,
+14,2,PSV,away, 43 ,Red card, Mauro Júnior ,
+15,2,Emmen,home, 46 ,Substitution, Ole Romeny , Rui Mendes 
+16,2,PSV,away, 46 ,Substitution, Philipp Max , Johan Bakayoko 
+17,2,Emmen,home, 64 ,Yellow card, Mohamed Bouchouari ,
+18,2,PSV,away, 70 ,Yellow card, Ibrahim Sangaré ,
+19,2,PSV,away, 70 ,Yellow card, Jordan Teze ,
+20,2,PSV,away, 75 ,Substitution, Phillipp Mwene , Jordan Teze 
+21,2,PSV,away, 76 ,Substitution, Joey Veerman , Guus Til 
+22,2,PSV,away, 76 ,Substitution, Fodé Fofana , Anwar El Ghazi 
+23,2,Emmen,home, 81 ,Substitution, Jari Vlak , Ahmed El Messaoudi 
+24,2,PSV,away, 81 ,Yellow card, Philipp Max ,
+25,2,PSV,away, 89 ,Substitution, Yorbe Vertessen , Érick Gutiérrez 
+26,2,Emmen,home, 95 ,Yellow card, Ole Romeny ,
+27,3,AZ,home, 4 ,Goal, Dani de Wit , Jens Odgaard 
+28,3,Fortuna,away, 11 ,Penalty, Burak Yilmaz , Penalty 
+29,3,AZ,home, 24 ,Own goal, Navarro Ximo , Own goal 
+30,3,AZ,home, 34 ,Substitution, Djordje Mihailovic , Dani de Wit 
+31,3,AZ,home, 41 ,Yellow card, Zinho Vanheusden ,
+32,3,AZ,home, 45 ,Substitution, Maxim Dekker , Zinho Vanheusden 
+33,3,AZ,home, 56 ,Goal, Vangelis Pavlidis , Yukinari Sugawara 
+34,3,Fortuna,away, 62 ,Substitution, Úmaro Embaló , Navarro Ximo 
+35,3,Fortuna,away, 62 ,Substitution, Paul Gladon , Tijjani Noslin 
+36,3,Fortuna,away, 62 ,Substitution, Oguzhan Özyakup , Deroy Duarte 
+37,3,Fortuna,away, 63 ,Substitution, George Cox , Remy Vita 
+38,3,Fortuna,away, 78 ,Substitution, Thomas Buitink , Inigo Cordoba 
+39,3,AZ,home, 90 ,Substitution, Mees de Wit , Milos Kerkez 
+40,3,AZ,home, 90 ,Substitution, Zico Buurmeester , Jordy Clasie 
+41,4,Twente,home, 46 ,Goal, Václav Černý , Ramiz Zerrouki 
+42,4,Utrecht,away, 50 ,Yellow card, Taylor Booth ,
+43,4,Twente,home, 61 ,Substitution, Sem Steijn , Michel Vlap 
+44,4,Twente,home, 62 ,Substitution, Alfons Sampsted , Joshua Brenet 
+45,4,Twente,home, 64 ,Goal, Virgil Misidjan , Gijs Smal 
+46,4,Utrecht,away, 70 ,Substitution, Naoki Maeda , Amin Younes 
+47,4,Twente,home, 78 ,Substitution, Julio Pleguezuelo , Mees Hilgers 
+48,4,Twente,home, 78 ,Substitution, Anass Salah-Eddine , Mathias Kjølø 
+49,4,Twente,home, 80 ,Yellow card, Anass Salah-Eddine ,
+50,4,Utrecht,away, 80 ,Substitution, Mark van der Maarel , Hidde ter Avest 
+51,4,Utrecht,away, 81 ,Substitution, Anastasios Douvikas , Othmane Boussaid 
+52,4,Twente,home, 89 ,Substitution, Daan Rots , Václav Černý 
+53,5,Ajax,away, 8 ,Yellow card, Kenneth Taylor ,
+54,5,Feyenoord,home, 24 ,Yellow card, Alireza Jahanbakhsh ,
+55,5,Ajax,away, 24 ,Yellow card, Jurriën Timber ,
+56,5,Feyenoord,home, 34 ,Goal, Igor Paixão , Quilindschy Hartman 
+57,5,Ajax,away, 39 ,Yellow card, Edson Álvarez ,
+58,5,Ajax,away, 45 ,Substitution, Steven Bergwijn , Francisco Conceição 
+59,5,Feyenoord,home, 55 ,Yellow card, Orkun Kökcü ,
+60,5,Feyenoord,home, 60 ,Yellow card, Marcus Pedersen ,
+61,5,Ajax,away, 71 ,Goal, Davy Klaassen , Steven Bergwijn 
+62,5,Feyenoord,home, 74 ,Substitution, Santiago Giménez , Danilo 
+63,5,Feyenoord,home, 74 ,Substitution, Javairô Dilrosun , Igor Paixão 
+64,5,Ajax,away, 74 ,Substitution, Brian Brobbey , Steven Berghuis 
+65,5,Feyenoord,home, 79 ,Yellow card, Mats Wieffer ,
+66,5,Ajax,away, 80 ,Yellow card, Davy Klaassen ,
+67,5,Feyenoord,home, 81 ,Substitution, Oussama Idrissi , Alireza Jahanbakhsh 
+68,5,Feyenoord,home, 81 ,Substitution, Quinten Timber , Sebastian Szymański 
+69,5,Ajax,away, 92 ,Substitution, Owen Wijndal , Jurriën Timber 
+70,6,Heerenveen,home, 5 ,Goal, Amin Sarr , Andries Noppert 
+71,6,Groningen,away, 40 ,Goal, Florian Krüger , Ricardo Pepi 
+72,6,Groningen,away, 45 ,Substitution, Tomás Suslov , Johan Hove 
+73,6,Groningen,away, 63 ,Substitution, Aimar Sher , Luciano Valente 
+74,6,Groningen,away, 66 ,Yellow card, Liam van Gelderen ,
+75,6,Heerenveen,home, 70 ,Substitution, Sydney van Hooijdonk , Simon Olsson 
+76,6,Groningen,away, 72 ,Yellow card, Mads Sørensen ,
+77,6,Groningen,away, 76 ,Yellow card, Tomás Suslov ,
+78,6,Groningen,away, 80 ,Substitution, Mike te Wierik , Thijmen Blokzijl 
+79,6,Groningen,away, 80 ,Substitution, Damil Dankerlui , Liam van Gelderen 
+80,6,Heerenveen,home, 81 ,Goal, Pelle van Amersfoort , Thom Haye 
+81,6,Heerenveen,home, 82 ,Goal, Amin Sarr , Mats Köhlert 
+82,6,Heerenveen,home, 88 ,Substitution, Tibor Halilović , Antoine Colassin 
+83,6,Heerenveen,home, 93 ,Substitution, Timo Zaal , Anas Tahiri 
+84,6,Heerenveen,home, 93 ,Substitution, Alex Timossi Andersson , Amin Sarr 
+85,7,Sparta,away, 9 ,Goal, Tobias Lauritsen , Sven Mijnans 
+86,7,Sparta,away, 18 ,Goal, Koki Saito , Sven Mijnans 
+87,7,Cambuur,home, 45 ,Substitution, Roberts Uldriķis , Tom Boere 
+88,7,Cambuur,home, 45 ,Substitution, Mitchel Paulissen , Jamie Jacobs 
+89,7,Sparta,away, 51 ,Penalty, Vito van Crooy , Penalty 
+90,7,Cambuur,home, 53 ,Yellow card, Doke Schmidt ,
+91,7,Cambuur,home, 58 ,Substitution, Sai Van Wermeskerken , Doke Schmidt 
+92,7,Sparta,away, 60 ,Substitution, Jeremy van Mullem , Koki Saito 
+93,7,Cambuur,home, 74 ,Substitution, Milan Smit , Silvester van der Water 
+94,7,Cambuur,home, 75 ,Substitution, Vincent Pichel , Mees Hoedemakers 
+95,7,Sparta,away, 81 ,Substitution, Younes Namli , Sven Mijnans 
+96,7,Sparta,away, 88 ,Substitution, Mike Eerdhuijzen , Vito van Crooy 
+97,7,Sparta,away, 88 ,Substitution, Elias Melkersen , Tobias Lauritsen 
+98,8,Vitesse,away, 23 ,Yellow card, Mitchell Dijks ,
+99,8,PSV,home, 23 ,Missed penalty, Luuk de Jong , Missed penalty 
+100,8,PSV,home, 31 ,Substitution, Johan Bakayoko , Luuk de Jong 
+101,8,PSV,home, 48 ,Goal, Guus Til , Johan Bakayoko 
+102,8,Vitesse,away, 66 ,Substitution, Miliano Jonathans , Million Manhoef 
+103,8,Vitesse,away, 66 ,Substitution, Bartosz Białek , Mohamed Sankoh 
+104,8,PSV,home, 73 ,Substitution, Mauro Júnior , Phillipp Mwene 
+105,8,Vitesse,away, 76 ,Substitution, Nikolai Frederiksen , Mitchell Dijks 
+106,8,Vitesse,away, 76 ,Substitution, Gabriel Vidović , Enzo Cornelisse 
+107,8,PSV,home, 88 ,Substitution, Yorbe Vertessen , Xavi Simons 
+108,8,Vitesse,away, 93 ,Red card, Kjell Scherpen ,
+109,8,Vitesse,away, 95 ,Substitution, Daan Reiziger , Carlens Arcus 
+110,9,NEC,home, 12 ,Penalty, Landry Dimata , Penalty 
+111,9,NEC,home, 35 ,Goal, Landry Dimata , Elayis Tavşan 
+112,9,Emmen,away, 44 ,Goal, Richairo Živković , Keziah Veendorp 
+113,9,NEC,home, 52 ,Goal, Ibrahim Cissoko , Elayis Tavşan 
+114,9,Emmen,away, 59 ,Yellow card, Richairo Živković ,
+115,9,Emmen,away, 67 ,Substitution, Lucas Bernadou , Jeroen Veldmate 
+116,9,Emmen,away, 72 ,Substitution, Jasin Assehnoun , Ole Romeny 
+117,9,Emmen,away, 72 ,Substitution, Rui Mendes , Jari Vlak 
+118,9,NEC,home, 75 ,Substitution, Anthony Musaba , Ibrahim Cissoko 
+119,9,NEC,home, 84 ,Substitution, Ilias Bronkhorst , Calvin Verdonk 
+120,9,Emmen,away, 85 ,Substitution, Azzeddine Toufiqui , Mark Diemers 
+121,9,NEC,home, 92 ,Substitution, Pedro Marques , Landry Dimata 
+122,9,NEC,home, 92 ,Substitution, Andri Baldursson , Mikkel Duelund 
+123,10,Excelsior,home, 18 ,Own goal, Damon Mirani , Own goal 
+124,10,Volendam,away, 68 ,Yellow card, Brian Plat ,
+125,10,Volendam,away, 71 ,Substitution, Daryl van Mieghem , Damon Mirani 
+126,10,Volendam,away, 71 ,Substitution, Henk Veerman , Bilal Ould-Chikh 
+127,10,Excelsior,home, 75 ,Yellow card, Redouan El Yaakoubi ,
+128,10,Excelsior,home, 77 ,Substitution, Maxime Awoudja , Couhaib Driouech 
+129,10,Excelsior,home, 77 ,Substitution, Peer Koopmeiners , Adrian Fein 
+130,10,Excelsior,home, 80 ,Goal, Marouan Azarkan , Julian Baas 
+131,10,Volendam,away, 80 ,Substitution, Achraf Douiri , Benaissa Benamar 
+132,10,Excelsior,home, 86 ,Substitution, Mike van Duinen , Marouan Azarkan 
+133,10,Excelsior,home, 91 ,Substitution, Nikolas Agrafiotis , Reda Kharchouch 
+134,11,Cambuur,away, 4 ,Yellow card, João Virginia ,
+135,11,Emmen,home, 59 ,Substitution, Lucas Bernadou , Lorenzo Burnet 
+136,11,Emmen,home, 65 ,Substitution, Rui Mendes , Ole Romeny 
+137,11,Cambuur,away, 67 ,Substitution, Remco Balk , Michael Breij 
+138,11,Cambuur,away, 75 ,Substitution, Roberts Uldriķis , Tom Boere 
+139,11,Cambuur,away, 75 ,Substitution, Mitchel Paulissen , Robin Maulun 
+140,11,Emmen,home, 79 ,Substitution, Michaël Heylen , Jeroen Veldmate 
+141,11,Emmen,home, 79 ,Substitution, Ben Scholte , Richairo Živković 
+142,11,Emmen,home, 79 ,Substitution, Jasin Assehnoun , Ahmed El Messaoudi 
+143,12,Feyenoord,away, 19 ,Goal, Igor Paixão , Mats Wieffer 
+144,12,Feyenoord,away, 30 ,Goal, Orkun Kökcü , Igor Paixão 
+145,12,Groningen,home, 58 ,Substitution, Tomás Suslov , Florian Krüger 
+146,12,Groningen,home, 59 ,Substitution, Thom van Bergen , Liam van Gelderen 
+147,12,Feyenoord,away, 62 ,Substitution, Mohamed Taabouni , Sebastian Szymański 
+148,12,Groningen,home, 66 ,Yellow card, Luciano Valente ,
+149,12,Feyenoord,away, 72 ,Substitution, Santiago Giménez , Danilo 
+150,12,Groningen,home, 74 ,Substitution, Ramon Lundqvist , Luciano Valente 
+151,12,Feyenoord,away, 81 ,Substitution, Patrik Wålemark , Alireza Jahanbakhsh 
+152,12,Feyenoord,away, 82 ,Substitution, Oussama Idrissi , Igor Paixão 
+153,12,Feyenoord,away, 91 ,Goal, Santiago Giménez , Quilindschy Hartman 
+154,13,PSV,away, 38 ,Yellow card, Érick Gutiérrez ,
+155,13,Fortuna,home, 46 ,Goal, Inigo Cordoba ,
+156,13,Fortuna,home, 56 ,Red card, Dogan Erdoğan ,
+157,13,PSV,away, 60 ,Substitution, Guus Til , Érick Gutiérrez 
+158,13,PSV,away, 60 ,Substitution, Joey Veerman , Anwar El Ghazi 
+159,13,Fortuna,home, 63 ,Substitution, Úmaro Embaló , Oguzhan Özyakup 
+160,13,PSV,away, 65 ,Goal, Xavi Simons , Jordan Teze 
+161,13,Fortuna,home, 74 ,Substitution, Tijjani Noslin , Remy Vita 
+162,13,PSV,away, 76 ,Goal, Ibrahim Sangaré ,
+163,13,Fortuna,home, 83 ,Substitution, Paul Gladon , Stipe Radić 
+164,13,PSV,away, 89 ,Substitution, André Ramalho , Armando Obispo 
+165,13,PSV,away, 89 ,Substitution, Ismael Saibari , Xavi Simons 
+166,13,PSV,away, 91 ,Yellow card, Noni Madueke ,
+167,13,Fortuna,home, 99 ,Penalty, Burak Yilmaz , Penalty 
+168,14,Utrecht,away, 3 ,Own goal, Willum Willumsson , Own goal 
+169,14,Go Ahead Eagles,home, 10 ,Goal, Bobby Adekanye ,
+170,14,Utrecht,away, 13 ,Goal, Sander van de Streek ,
+171,14,Utrecht,away, 20 ,Substitution, Luuk Brouwers , Jens Toornstra 
+172,14,Go Ahead Eagles,home, 26 ,Yellow card, Willum Willumsson ,
+173,14,Go Ahead Eagles,home, 31 ,Yellow card, Tesfaldet Tekie ,
+174,14,Go Ahead Eagles,home, 56 ,Yellow card, Jamal Amofa ,
+175,14,Go Ahead Eagles,home, 67 ,Substitution, Federico Mattiello , Tesfaldet Tekie 
+176,14,Go Ahead Eagles,home, 67 ,Substitution, Sylla Sow , Gerrit Nauber 
+177,14,Utrecht,away, 67 ,Substitution, Othmane Boussaid , Amin Younes 
+178,14,Go Ahead Eagles,home, 74 ,Substitution, Rashaan Fernandes , Bobby Adekanye 
+179,14,Utrecht,away, 84 ,Substitution, Hidde ter Avest , Sander van de Streek 
+180,14,Utrecht,away, 85 ,Substitution, Anastasios Douvikas , Taylor Booth 
+181,14,Go Ahead Eagles,home, 85 ,Substitution, Finn Stokkers , Enric Llansana 
+182,14,Utrecht,away, 88 ,Yellow card, Sean Klaiber ,
+183,14,Go Ahead Eagles,home, 90 ,Goal, Sylla Sow ,
+184,15,Vitesse,home, 23 ,Yellow card, Maximilian Wittek ,
+185,15,NEC,away, 23 ,Red card, Oussama Tannane ,
+186,15,NEC,away, 65 ,Yellow card, Lasse Schone ,
+187,15,NEC,away, 71 ,Substitution, Anthony Musaba , Elayis Tavşan 
+188,15,Vitesse,home, 72 ,Substitution, Nikolai Frederiksen , Bartosz Białek 
+189,15,Vitesse,home, 72 ,Substitution, Miliano Jonathans , Million Manhoef 
+190,15,NEC,away, 80 ,Substitution, Joris Kramer , Philippe Sandler 
+191,15,NEC,away, 81 ,Yellow card, Dirk Proper ,
+192,15,NEC,away, 84 ,Substitution, Calvin Verdonk , Magnus Mattsson 
+193,15,Vitesse,home, 84 ,Substitution, Simon van Duivenbooden , Mitchell Dijks 
+194,15,NEC,away, 87 ,Yellow card, Calvin Verdonk ,
+195,15,NEC,away, 88 ,Yellow card, Souffian El Karouani ,
+196,15,Vitesse,home, 91 ,Substitution, Mohamed Sankoh , Kacper Kozłowski 
+197,16,Sparta,home, 23 ,Yellow card, Jeremy van Mullem ,
+198,16,Excelsior,away, 72 ,Substitution, Peer Koopmeiners , Julian Baas 
+199,16,Excelsior,away, 81 ,Substitution, Mike van Duinen , Reda Kharchouch 
+200,16,Sparta,home, 82 ,Substitution, Younes Namli , Jeremy van Mullem 
+201,16,Excelsior,away, 82 ,Substitution, Lazaros Lamprou , Marouan Azarkan 
+202,16,Sparta,home, 88 ,Substitution, Dirk Abels , Koki Saito 
+203,16,Excelsior,away, 90 ,Yellow card, Mike van Duinen ,
+204,16,Sparta,home, 91 ,Goal, Joshua Kitolano , Tobias Lauritsen 
+205,16,Sparta,home, 92 ,Substitution, Omar Rekik , Joshua Kitolano 
+206,16,Sparta,home, 92 ,Substitution, Mike Eerdhuijzen , Sven Mijnans 
+207,16,Excelsior,away, 93 ,Substitution, Nikolas Agrafiotis , Adrian Fein 
+208,16,Excelsior,away, 93 ,Substitution, Serano Seymor , Couhaib Driouech 
+209,17,Twente,away, 13 ,Yellow card, Alfons Sampsted ,
+210,17,Ajax,home, 35 ,Red card, Devyne Rensch ,
+211,17,Twente,away, 51 ,Yellow card, Ricky van Wolfswinkel ,
+212,17,Ajax,home, 45 ,Substitution, Mohammed Kudus , Brian Brobbey 
+213,17,Ajax,home, 55 ,Yellow card, Dušan Tadić ,
+214,17,Twente,away, 61 ,Yellow card, Ramiz Zerrouki ,
+215,17,Twente,away, 66 ,Substitution, Daan Rots , Virgil Misidjan 
+216,17,Twente,away, 67 ,Substitution, Joshua Brenet , Alfons Sampsted 
+217,17,Twente,away, 67 ,Substitution, Christos Tzolis , Václav Černý 
+218,17,Ajax,home, 71 ,Substitution, Steven Bergwijn , Francisco Conceição 
+219,17,Twente,away, 73 ,Yellow card, Christos Tzolis ,
+220,17,Twente,away, 77 ,Substitution, Mathias Kjølø , Michal Sadílek 
+221,17,Twente,away, 85 ,Substitution, Manfred Ugalde , Michel Vlap 
+222,18,Volendam,home, 31 ,Yellow card, Derry Murkin ,
+223,18,Waalwijk,away, 63 ,Goal, Mats Seuntjens ,
+224,18,Volendam,home, 66 ,Substitution, Brian Plat , Oskar Buur 
+225,18,Volendam,home, 66 ,Substitution, Daryl van Mieghem , Damon Mirani 
+226,18,Volendam,home, 69 ,Goal, Xavier Mbuyamba , Carel Eiting 
+227,18,Waalwijk,away, 72 ,Substitution, Roy Kuijpers , Mika Biereth 
+228,18,Volendam,home, 77 ,Substitution, Henk Veerman , Robert Mühren 
+229,18,Waalwijk,away, 81 ,Substitution, Zakaria Bakkali , Dario Van Den Buijs 
+230,18,Volendam,home, 81 ,Goal, Florent Da Silva , Gaetano Oristanio 
+231,18,Waalwijk,away, 81 ,Substitution, Michiel Kramer , Pelle Clement 
+232,18,Volendam,home, 84 ,Substitution, Josh Flint , Gaetano Oristanio 
+233,19,AZ,away, 33 ,Goal, Dani de Wit , Jens Odgaard 
+234,19,AZ,away, 46 ,Goal, Tijjani Reijnders , Yukinari Sugawara 
+235,19,AZ,away, 54 ,Yellow card, Yukinari Sugawara ,
+236,19,AZ,away, 59 ,Yellow card, Tijjani Reijnders ,
+237,19,Heerenveen,home, 60 ,Substitution, Antoine Colassin , Sydney van Hooijdonk 
+238,19,Heerenveen,home, 60 ,Substitution, Tibor Halilović , Anas Tahiri 
+239,19,AZ,away, 68 ,Yellow card, Jesper Karlsson ,
+240,19,Heerenveen,home, 69 ,Missed penalty, Amin Sarr , Missed penalty 
+241,19,AZ,away, 71 ,Substitution, Zinho Vanheusden , Sam Beukema 
+242,19,Heerenveen,home, 71 ,Substitution, Syb van Ottele , Joost van Aken 
+243,19,AZ,away, 81 ,Substitution, Håkon Evjen , Jens Odgaard 
+244,19,Heerenveen,home, 81 ,Substitution, Rami Kaib , Pelle van Amersfoort 
+245,19,Heerenveen,home, 81 ,Substitution, Rami Al Hajj , Simon Olsson 
+246,19,AZ,away, 88 ,Substitution, Myron van Brederode , Jesper Karlsson 
+247,19,AZ,away, 89 ,Substitution, Mayckel Lahdo , Vangelis Pavlidis 
+248,20,Excelsior,home, 37 ,Yellow card, Marouan Azarkan ,
+249,20,Groningen,away, 40 ,Yellow card, Liam van Gelderen ,
+250,20,Excelsior,home, 59 ,Yellow card, Couhaib Driouech ,
+251,20,Groningen,away, 61 ,Yellow card, Tomás Suslov ,
+252,20,Groningen,away, 65 ,Substitution, Joey Pelupessy , Liam van Gelderen 
+253,20,Excelsior,home, 68 ,Substitution, Reda Kharchouch , Mike van Duinen 
+254,20,Excelsior,home, 69 ,Goal, Redouan El Yaakoubi , Julian Baas 
+255,20,Excelsior,home, 75 ,Substitution, Serano Seymor , Sven Nieuwpoort 
+256,20,Groningen,away, 76 ,Substitution, Florian Krüger , Luciano Valente 
+257,20,Groningen,away, 76 ,Substitution, Yahya Kalley , Tomás Suslov 
+258,20,Groningen,away, 81 ,Yellow card, Isak Määttä ,
+259,20,Excelsior,home, 86 ,Substitution, Maxime Awoudja , Nathan Tjoe-A-On 
+260,20,Groningen,away, 86 ,Substitution, Ramon Lundqvist , Thom van Bergen 
+261,20,Excelsior,home, 87 ,Substitution, Lazaros Lamprou , Marouan Azarkan 
+262,21,Volendam,away, 8 ,Goal, Bilal Ould-Chikh , Derry Murkin 
+263,21,Volendam,away, 9 ,Goal, Robert Mühren , Xavier Mbuyamba 
+264,21,Cambuur,home, 26 ,Yellow card, Daniël van Kaam ,
+265,21,Cambuur,home, 30 ,Substitution, Doke Schmidt , Marco Tol 
+266,21,Cambuur,home, 30 ,Substitution, Floris Smand , Sai Van Wermeskerken 
+267,21,Cambuur,home, 45 ,Substitution, Milan Smit , Michael Breij 
+268,21,Cambuur,home, 54 ,Yellow card, Silvester van der Water ,
+269,21,Volendam,away, 58 ,Substitution, Joey Antonioli , Bilal Ould-Chikh 
+270,21,Volendam,away, 58 ,Substitution, Brian Plat , Oskar Buur 
+271,21,Cambuur,home, 69 ,Substitution, Robin Maulun , Daniël van Kaam 
+272,21,Cambuur,home, 73 ,Yellow card, Alex Bangura ,
+273,21,Volendam,away, 73 ,Substitution, Henk Veerman , Robert Mühren 
+274,21,Volendam,away, 74 ,Goal, Henk Veerman , Carel Eiting 
+275,21,Cambuur,home, 75 ,Substitution, Remco Balk , Leon Bergsma 
+276,21,Volendam,away, 77 ,Yellow card, Gaetano Oristanio ,
+277,21,Volendam,away, 81 ,Substitution, Walid Ould-Chikh , Gaetano Oristanio 
+278,22,Ajax,away, 38 ,Goal, Davy Klaassen , Dušan Tadić 
+279,22,Ajax,away, 50 ,Yellow card, Jorge Sánchez ,
+280,22,NEC,home, 52 ,Goal, Landry Dimata , Oussama Tannane 
+281,22,Ajax,away, 58 ,Yellow card, Devyne Rensch ,
+282,22,Ajax,away, 69 ,Yellow card, Francisco Conceição ,
+283,22,Ajax,away, 72 ,Substitution, Lorenzo Lucca , Brian Brobbey 
+284,22,Ajax,away, 79 ,Substitution, Kian Fitz-Jim , Kenneth Taylor 
+285,22,NEC,home, 84 ,Substitution, Ibrahim Cissoko , Magnus Mattsson 
+286,22,NEC,home, 87 ,Substitution, Pedro Marques , Landry Dimata 
+287,22,NEC,home, 87 ,Substitution, Anthony Musaba , Elayis Tavşan 
+288,22,NEC,home, 88 ,Yellow card, Iván Márquez ,
+289,22,Ajax,away, 91 ,Substitution, Christian Rasmussen , Francisco Conceição 
+290,22,NEC,home, 92 ,Substitution, Mikkel Duelund , Oussama Tannane 
+291,23,Utrecht,home, 3 ,Goal, Jens Toornstra , Bas Dost 
+292,23,Feyenoord,away, 33 ,Substitution, Oussama Idrissi , Igor Paixão 
+293,23,Feyenoord,away, 46 ,Yellow card, Oussama Idrissi ,
+294,23,Utrecht,home, 46 ,Yellow card, Mike Van der Hoorn ,
+295,23,Feyenoord,away, 59 ,Substitution, Santiago Giménez , Danilo 
+296,23,Feyenoord,away, 59 ,Substitution, Mats Wieffer , Jacob Rasmussen 
+297,23,Feyenoord,away, 59 ,Substitution, Alireza Jahanbakhsh , Javairô Dilrosun 
+298,23,Utrecht,home, 60 ,Yellow card, Mark van der Maarel ,
+299,23,Utrecht,home, 68 ,Substitution, Anastasios Douvikas , Bas Dost 
+300,23,Utrecht,home, 69 ,Substitution, Luuk Brouwers , Sander van de Streek 
+301,23,Feyenoord,away, 78 ,Substitution, Ezequiel Bullaude , Marcos López 
+302,23,Utrecht,home, 81 ,Substitution, Amin Younes , Othmane Boussaid 
+303,23,Utrecht,home, 82 ,Substitution, Daishawn Redan , Taylor Booth 
+304,23,Feyenoord,away, 90 ,Goal, Alireza Jahanbakhsh , Ezequiel Bullaude 
+305,23,Utrecht,home, 93 ,Substitution, Naoki Maeda , Jens Toornstra 
+306,24,Sparta,away, 45 ,Yellow card, Bart Vriends ,
+307,24,PSV,home, 51 ,Yellow card, Noni Madueke ,
+308,24,Sparta,away, 52 ,Yellow card, Vito van Crooy ,
+309,24,PSV,home, 68 ,Substitution, Guus Til , Xavi Simons 
+310,24,PSV,home, 68 ,Substitution, Érick Gutiérrez , Joey Veerman 
+311,24,Sparta,away, 70 ,Yellow card, Arno Verschueren ,
+312,24,PSV,home, 85 ,Substitution, Marco van Ginkel , Philipp Max 
+313,24,Sparta,away, 86 ,Substitution, Aaron Meijers , Mica Pinto 
+314,24,Sparta,away, 88 ,Substitution, Mike Eerdhuijzen , Arno Verschueren 
+315,25,Fortuna,home, 4 ,Yellow card, George Cox ,
+316,25,Go Ahead Eagles,away, 17 ,Yellow card, Bobby Adekanye ,
+317,25,Go Ahead Eagles,away, 21 ,Goal, Bas Kuipers , Bobby Adekanye 
+318,25,Go Ahead Eagles,away, 44 ,Goal, Bobby Adekanye , Enric Llansana 
+319,25,Fortuna,home, 45 ,Substitution, Thomas Buitink , Úmaro Embaló 
+320,25,Fortuna,home, 45 ,Substitution, Remy Vita , George Cox 
+321,25,Fortuna,home, 56 ,Yellow card, Thomas Buitink ,
+322,25,Go Ahead Eagles,away, 64 ,Substitution, Rashaan Fernandes , Bobby Adekanye 
+323,25,Fortuna,home, 68 ,Substitution, Tijjani Noslin , Paul Gladon 
+324,25,Fortuna,home, 68 ,Substitution, Deroy Duarte , Oguzhan Özyakup 
+325,25,Go Ahead Eagles,away, 71 ,Substitution, Jamal Amofa , Bas Kuipers 
+326,25,Fortuna,home, 77 ,Substitution, Tunahan Taşçı , Inigo Cordoba 
+327,25,Go Ahead Eagles,away, 80 ,Yellow card, Enric Llansana ,
+328,25,Go Ahead Eagles,away, 86 ,Substitution, José Fontán , Oliver Edvardsen 
+329,25,Go Ahead Eagles,away, 87 ,Substitution, Finn Stokkers , Isac Lidberg 
+330,25,Fortuna,home, 91 ,Yellow card, Tunahan Taşçı ,
+331,25,Fortuna,home, 94 ,Yellow card, Burak Yilmaz ,
+332,26,Vitesse,away, 34 ,Yellow card, Gabriel Vidović ,
+333,26,AZ,home, 42 ,Yellow card, Yukinari Sugawara ,
+334,26,AZ,home, 61 ,Substitution, Håkon Evjen , Djordje Mihailovic 
+335,26,Vitesse,away, 71 ,Substitution, Enzo Cornelisse , Mitchell Dijks 
+336,26,AZ,home, 77 ,Goal, Vangelis Pavlidis , Jens Odgaard 
+337,26,Vitesse,away, 82 ,Substitution, Romaric Yapi , Bartosz Białek 
+338,26,Vitesse,away, 82 ,Substitution, Nikolai Frederiksen , Gabriel Vidović 
+339,26,Vitesse,away, 82 ,Substitution, Mohamed Sankoh , Million Manhoef 
+340,26,AZ,home, 83 ,Substitution, Riechedly Bazoer , Jens Odgaard 
+341,26,Vitesse,away, 87 ,Goal, Mohamed Sankoh , Carlens Arcus 
+342,26,AZ,home, 88 ,Substitution, Myron van Brederode , Jesper Karlsson 
+343,26,AZ,home, 93 ,Yellow card, Mees de Wit ,
+344,27,Heerenveen,away, 26 ,Yellow card, Thom Haye ,
+345,27,Waalwijk,home, 40 ,Yellow card, Shawn Adewoye ,
+346,27,Waalwijk,home, 69 ,Substitution, Saïd Bakari , Julian Lelieveld 
+347,27,Waalwijk,home, 69 ,Substitution, Zakaria Bakkali , Mika Biereth 
+348,27,Heerenveen,away, 70 ,Substitution, Pelle van Amersfoort , Rami Al Hajj 
+349,27,Waalwijk,home, 79 ,Substitution, Sebbe Augustijns , Mats Seuntjens 
+350,27,Waalwijk,home, 87 ,Substitution, Kevin Felida , Yassin Oukili 
+351,27,Waalwijk,home, 87 ,Substitution, Roy Kuijpers , Pelle Clement 
+352,27,Heerenveen,away, 88 ,Substitution, Tibor Halilović , Simon Olsson 
+353,27,Heerenveen,away, 88 ,Substitution, Joost van Aken , Sven van Beek 
+354,27,Heerenveen,away, 88 ,Substitution, Antoine Colassin , Sydney van Hooijdonk 
+355,28,Twente,home, 5 ,Goal, Ricky van Wolfswinkel ,
+356,28,Twente,home, 31 ,Yellow card, Mees Hilgers ,
+357,28,Emmen,away, 60 ,Substitution, Jasin Assehnoun , Ole Romeny 
+358,28,Twente,home, 62 ,Substitution, Michel Vlap , Alfons Sampsted 
+359,28,Twente,home, 62 ,Substitution, Joshua Brenet , Sem Steijn 
+360,28,Twente,home, 67 ,Goal, Michal Sadílek , Virgil Misidjan 
+361,28,Twente,home, 72 ,Substitution, Julio Pleguezuelo , Mees Hilgers 
+362,28,Emmen,away, 73 ,Substitution, Lucas Bernadou , Jari Vlak 
+363,28,Emmen,away, 73 ,Substitution, Ahmed El Messaoudi , Mark Diemers 
+364,28,Twente,home, 78 ,Substitution, Mathias Kjølø , Ramiz Zerrouki 
+365,28,Twente,home, 79 ,Substitution, Daan Rots , Václav Černý 
+366,28,Emmen,away, 80 ,Substitution, Julius Dirksen , Lorenzo Burnet 
+367,28,Emmen,away, 80 ,Substitution, Michaël Heylen , Jeroen Veldmate 
+368,28,Emmen,away, 87 ,Yellow card, Jasin Assehnoun ,
+369,28,Emmen,away, 91 ,Yellow card, Michaël Heylen ,
+370,29,Vitesse,away, 7 ,Yellow card, Ryan Flamingo ,
+371,29,Go Ahead Eagles,home, 8 ,Goal, Philippe Rommens ,
+372,29,Go Ahead Eagles,home, 20 ,Goal, Philippe Rommens ,
+373,29,Vitesse,away, 49 ,Goal, Matús Bero , Maximilian Wittek 
+374,29,Vitesse,away, 59 ,Yellow card, Sondre Trondstad ,
+375,29,Vitesse,away, 62 ,Yellow card, Maximilian Wittek ,
+376,29,Vitesse,away, 64 ,Yellow card, Kacper Kozłowski ,
+377,29,Vitesse,away, 67 ,Substitution, Nikolai Frederiksen , Million Manhoef 
+378,29,Vitesse,away, 67 ,Substitution, Tomás Hájek , Gabriel Vidović 
+379,29,Vitesse,away, 67 ,Substitution, Simon van Duivenbooden , Romaric Yapi 
+380,29,Go Ahead Eagles,home, 70 ,Substitution, Finn Stokkers , Bobby Adekanye 
+381,29,Go Ahead Eagles,home, 70 ,Substitution, Enric Llansana , Evert Linthorst 
+382,29,Go Ahead Eagles,home, 81 ,Substitution, Gerrit Nauber , Isac Lidberg 
+383,29,Go Ahead Eagles,home, 85 ,Yellow card, Enric Llansana ,
+384,29,Vitesse,away, 86 ,Substitution, Miliano Jonathans , Carlens Arcus 
+385,29,Go Ahead Eagles,home, 89 ,Substitution, Sylla Sow , Oliver Edvardsen 
+386,29,Vitesse,away, 90 ,Yellow card, Miliano Jonathans ,
+387,29,Vitesse,away, 92 ,Yellow card, Matús Bero ,
+388,29,Vitesse,away, 93 ,Goal, Simon van Duivenbooden ,
+389,30,Excelsior,away, 4 ,Goal, Kenzo Goudmijn , Marouan Azarkan 
+390,30,Feyenoord,home, 11 ,Goal, Sebastian Szymański , Javairô Dilrosun 
+391,30,Excelsior,away, 19 ,Yellow card, Mike van Duinen ,
+392,30,Feyenoord,home, 20 ,Goal, Orkun Kökcü ,
+393,30,Feyenoord,home, 26 ,Yellow card, Igor Paixão ,
+394,30,Feyenoord,home, 28 ,Substitution, Patrik Wålemark , Igor Paixão 
+395,30,Feyenoord,home, 47 ,Yellow card, Quilindschy Hartman ,
+396,30,Feyenoord,home, 50 ,Goal, Sebastian Szymański , Javairô Dilrosun 
+397,30,Feyenoord,home, 61 ,Substitution, Marcos López , Quilindschy Hartman 
+398,30,Feyenoord,home, 61 ,Substitution, Danilo , Santiago Giménez 
+399,30,Feyenoord,home, 66 ,Goal, Orkun Kökcü ,
+400,30,Excelsior,away, 69 ,Substitution, Lazaros Lamprou , Mike van Duinen 
+401,30,Excelsior,away, 69 ,Substitution, Adrian Fein , Joshua Eijgenraam 
+402,30,Feyenoord,home, 69 ,Substitution, Alireza Jahanbakhsh , Sebastian Szymański 
+403,30,Feyenoord,home, 69 ,Substitution, Mats Wieffer , Quinten Timber 
+404,30,Excelsior,away, 74 ,Yellow card, Julian Baas ,
+405,30,Excelsior,away, 76 ,Substitution, Jacky Donkor , Marouan Azarkan 
+406,30,Excelsior,away, 76 ,Substitution, Reda Kharchouch , Kenzo Goudmijn 
+407,30,Feyenoord,home, 78 ,Goal, Patrik Wålemark ,
+408,30,Excelsior,away, 83 ,Yellow card, Jacky Donkor ,
+409,31,Cambuur,away, 10 ,Goal, Jamie Jacobs , Alex Bangura 
+410,31,Heerenveen,home, 33 ,Yellow card, Sven van Beek ,
+411,31,Heerenveen,home, 33 ,Yellow card, Sydney van Hooijdonk ,
+412,31,Heerenveen,home, 36 ,Goal, Amin Sarr , Anas Tahiri 
+413,31,Cambuur,away, 38 ,Yellow card, Leon Bergsma ,
+414,31,Cambuur,away, 68 ,Substitution, Remco Balk , Silvester van der Water 
+415,31,Heerenveen,home, 79 ,Substitution, Rami Kaib , Rami Al Hajj 
+416,31,Heerenveen,home, 81 ,Goal, Anas Tahiri ,
+417,31,Heerenveen,home, 82 ,Yellow card, Anas Tahiri ,
+418,31,Cambuur,away, 83 ,Substitution, Roberts Uldriķis , Calvin Mac-Intosch 
+419,31,Cambuur,away, 83 ,Substitution, Michael Breij , Jamie Jacobs 
+420,31,Cambuur,away, 88 ,Substitution, David Sambissa , Leon Bergsma 
+421,31,Cambuur,away, 90 ,Yellow card, Alex Bangura ,
+422,31,Heerenveen,home, 91 ,Substitution, Joost van Aken , Mats Köhlert 
+423,31,Heerenveen,home, 93 ,Substitution, Antoine Colassin , Simon Olsson 
+424,32,Fortuna,away, 17 ,Yellow card, Inigo Cordoba ,
+425,32,Groningen,home, 45 ,Goal, Ricardo Pepi , Ragnar Oratmangoen 
+426,32,Fortuna,away, 48 ,Substitution, Tijjani Noslin , Remy Vita 
+427,32,Groningen,home, 49 ,Yellow card, Radinio Balker ,
+428,32,Fortuna,away, 58 ,Substitution, Paul Gladon , Cole Bassett 
+429,32,Fortuna,away, 58 ,Substitution, Úmaro Embaló , Inigo Cordoba 
+430,32,Groningen,home, 62 ,Substitution, Tomás Suslov , Daleho Irandust 
+431,32,Groningen,home, 62 ,Substitution, Cyril Ngonge , Ragnar Oratmangoen 
+432,32,Groningen,home, 68 ,Substitution, Joey Pelupessy , Luciano Valente 
+433,32,Fortuna,away, 72 ,Yellow card, Úmaro Embaló ,
+434,32,Fortuna,away, 78 ,Goal, Paul Gladon , Ivo Pinto 
+435,32,Fortuna,away, 84 ,Goal, Paul Gladon , Úmaro Embaló 
+436,32,Groningen,home, 87 ,Substitution, Damil Dankerlui , Neraysho Kasanwirjo 
+437,32,Groningen,home, 89 ,Yellow card, Mike te Wierik ,
+438,32,Groningen,home, 91 ,Goal, Florian Krüger , Cyril Ngonge 
+439,32,Fortuna,away, 93 ,Substitution, Deroy Duarte , Arianit Ferati 
+440,32,Fortuna,away, 95 ,Goal, Tijjani Noslin , George Cox 
+441,32,Fortuna,away, 96 ,Yellow card, Tijjani Noslin ,
+442,33,Waalwijk,away, 4 ,Penalty, Dario Van Den Buijs , Penalty 
+443,33,Waalwijk,away, 11 ,Red card, Iliass Bel Hassani ,
+444,33,NEC,home, 36 ,Yellow card, Souffian El Karouani ,
+445,33,NEC,home, 38 ,Penalty, Landry Dimata , Penalty 
+446,33,Waalwijk,away, 45 ,Substitution, Roy Kuijpers , Florian Jozefzoon 
+447,33,NEC,home, 50 ,Goal, Souffian El Karouani ,
+448,33,Waalwijk,away, 58 ,Yellow card, Juriën Gaari ,
+449,33,NEC,home, 67 ,Substitution, Calvin Verdonk , Ibrahim Cissoko 
+450,33,NEC,home, 67 ,Substitution, Elayis Tavşan , Souffian El Karouani 
+451,33,Waalwijk,away, 67 ,Substitution, Zakaria Bakkali , Yassin Oukili 
+452,33,Waalwijk,away, 67 ,Substitution, Saïd Bakari , Dario Van Den Buijs 
+453,33,NEC,home, 73 ,Goal, Magnus Mattsson ,
+454,33,NEC,home, 76 ,Substitution, Pedro Marques , Landry Dimata 
+455,33,NEC,home, 76 ,Substitution, Joris Kramer , Philippe Sandler 
+456,33,Waalwijk,away, 77 ,Substitution, Patrick Vroegh , Pelle Clement 
+457,33,NEC,home, 78 ,Goal, Pedro Marques , Joris Kramer 
+458,33,NEC,home, 83 ,Substitution, Jordy Bruijn , Magnus Mattsson 
+459,33,NEC,home, 88 ,Goal, Elayis Tavşan , Oussama Tannane 
+460,33,Waalwijk,away, 91 ,Yellow card, Vurnon Anita ,
+461,33,NEC,home, 92 ,Goal, Pedro Marques , Jordy Bruijn 
+462,34,AZ,away, 18 ,Goal, Vangelis Pavlidis , Jesper Karlsson 
+463,34,AZ,away, 38 ,Yellow card, Yukinari Sugawara ,
+464,34,PSV,home, 45 ,Substitution, Jarrad Branthwaite , André Ramalho 
+465,34,PSV,home, 45 ,Substitution, Anwar El Ghazi , Érick Gutiérrez 
+466,34,PSV,home, 56 ,Disallowed goal,Disallowed goal,
+467,34,PSV,home, 66 ,Substitution, Noni Madueke , Xavi Simons 
+468,34,PSV,home, 74 ,Substitution, Guus Til , Anwar El Ghazi 
+469,34,AZ,away, 81 ,Substitution, Mees de Wit , Jesper Karlsson 
+470,34,AZ,away, 86 ,Yellow card, Milos Kerkez ,
+471,34,AZ,away, 87 ,Substitution, Mayckel Lahdo , Vangelis Pavlidis 
+472,34,AZ,away, 87 ,Substitution, Riechedly Bazoer , Milos Kerkez 
+473,35,Emmen,home, 6 ,Goal, Jeroen Veldmate ,
+474,35,Ajax,away, 8 ,Goal, Kenneth Taylor , Dušan Tadić 
+475,35,Ajax,away, 21 ,Goal, Kenneth Taylor , Dušan Tadić 
+476,35,Ajax,away, 25 ,Goal, Steven Bergwijn , Kenneth Taylor 
+477,35,Ajax,away, 45 ,Substitution, Daley Blind , Calvin Bassey 
+478,35,Ajax,away, 45 ,Substitution, Mohammed Kudus , Brian Brobbey 
+479,35,Emmen,home, 58 ,Goal, Richairo Živković , Lucas Bernadou 
+480,35,Ajax,away, 58 ,Substitution, Davy Klaassen , Kenneth Taylor 
+481,35,Emmen,home, 74 ,Yellow card, Jasin Assehnoun ,
+482,35,Emmen,home, 75 ,Substitution, Ahmed El Messaoudi , Jasin Assehnoun 
+483,35,Ajax,away, 82 ,Substitution, Florian Grillitsch , Steven Berghuis 
+484,35,Emmen,home, 84 ,Goal, Mohamed Bouchouari , Lucas Bernadou 
+485,35,Ajax,away, 86 ,Substitution, Lorenzo Lucca , Owen Wijndal 
+486,35,Ajax,away, 87 ,Yellow card, Florian Grillitsch ,
+487,35,Emmen,home, 89 ,Substitution, Jari Vlak , Ahmed El Messaoudi 
+488,35,Emmen,home, 95 ,Yellow card, Rui Mendes ,
+489,36,Utrecht,away, 14 ,Goal, Taylor Booth ,
+490,36,Volendam,home, 45 ,Substitution, Walid Ould-Chikh , Oskar Buur 
+491,36,Utrecht,away, 52 ,Yellow card, Sander van de Streek ,
+492,36,Utrecht,away, 56 ,Substitution, Othmane Boussaid , Taylor Booth 
+493,36,Volendam,home, 57 ,Yellow card, Lequincio Zeefuik ,
+494,36,Utrecht,away, 64 ,Substitution, Amin Younes , Daishawn Redan 
+495,36,Volendam,home, 64 ,Substitution, Benaissa Benamar , Brian Plat 
+496,36,Volendam,home, 64 ,Substitution, Henk Veerman , Lequincio Zeefuik 
+497,36,Utrecht,away, 73 ,Goal, Bas Dost , Othmane Boussaid 
+498,36,Utrecht,away, 84 ,Goal, Sander van de Streek , Othmane Boussaid 
+499,36,Utrecht,away, 91 ,Substitution, Hidde ter Avest , Sean Klaiber 
+500,36,Utrecht,away, 91 ,Substitution, Can Bozdoğan , Jens Toornstra 
+501,36,Utrecht,away, 91 ,Substitution, Naoki Maeda , Sander van de Streek 
+502,36,Utrecht,away, 92 ,Goal, Can Bozdoğan , Amin Younes 
+503,37,Sparta,home, 60 ,Yellow card, Arno Verschueren ,
+504,37,Sparta,home, 62 ,Yellow card, Jeremy van Mullem ,
+505,37,Twente,away, 63 ,Goal, Sem Steijn , Ricky van Wolfswinkel 
+506,37,Twente,away, 64 ,Substitution, Daan Rots , Václav Černý 
+507,37,Twente,away, 64 ,Substitution, Denilho Cleonise , Virgil Misidjan 
+508,37,Sparta,home, 68 ,Substitution, Koki Saito , Jeremy van Mullem 
+509,37,Sparta,home, 69 ,Substitution, Mike Eerdhuijzen , Adil Auassar 
+510,37,Sparta,home, 71 ,Goal, Arno Verschueren , Mike Eerdhuijzen 
+511,37,Twente,away, 81 ,Substitution, Manfred Ugalde , Ricky van Wolfswinkel 
+512,37,Sparta,home, 91 ,Substitution, Dirk Abels , Arno Verschueren 
+513,38,PSV,away, 23 ,Goal, Luuk de Jong , Cody Gakpo 
+514,38,Ajax,home, 34 ,Yellow card, Edson Álvarez ,
+515,38,PSV,away, 34 ,Yellow card, Armando Obispo ,
+516,38,PSV,away, 50 ,Goal, Érick Gutiérrez ,
+517,38,PSV,away, 62 ,Substitution, Jordan Teze , Philipp Max 
+518,38,PSV,away, 62 ,Substitution, Anwar El Ghazi , Joey Veerman 
+519,38,PSV,away, 63 ,Yellow card, Luuk de Jong ,
+520,38,Ajax,home, 66 ,Substitution, Kenneth Taylor , Devyne Rensch 
+521,38,Ajax,home, 71 ,Yellow card, Steven Berghuis ,
+522,38,Ajax,home, 81 ,Substitution, Lorenzo Lucca , Dušan Tadić 
+523,38,PSV,away, 81 ,Substitution, Yorbe Vertessen , Luuk de Jong 
+524,38,Ajax,home, 81 ,Substitution, Davy Klaassen , Mohammed Kudus 
+525,38,PSV,away, 81 ,Substitution, Guus Til , Xavi Simons 
+526,38,Ajax,home, 83 ,Goal, Lorenzo Lucca , Steven Berghuis 
+527,38,PSV,away, 87 ,Substitution, Jarrad Branthwaite , Cody Gakpo 
+528,38,PSV,away, 88 ,Yellow card, Guus Til ,
+529,39,AZ,away, 9 ,Goal, Jesper Karlsson , Yukinari Sugawara 
+530,39,Waalwijk,home, 22 ,Yellow card, Vurnon Anita ,
+531,39,Waalwijk,home, 32 ,Goal, Iliass Bel Hassani , Julian Lelieveld 
+532,39,AZ,away, 54 ,Substitution, Vangelis Pavlidis , Maxim Dekker 
+533,39,AZ,away, 54 ,Substitution, Peer Koopmeiners , Riechedly Bazoer 
+534,39,AZ,away, 65 ,Yellow card, Jordy Clasie ,
+535,39,AZ,away, 74 ,Substitution, Mees de Wit , Milos Kerkez 
+536,39,Waalwijk,home, 79 ,Substitution, Zakaria Bakkali , Dario Van Den Buijs 
+537,39,AZ,away, 83 ,Yellow card, Mees de Wit ,
+538,39,Waalwijk,home, 84 ,Substitution, Saïd Bakari , Pelle Clement 
+539,39,Waalwijk,home, 87 ,Goal, Zakaria Bakkali , Thierry Lutonda 
+540,39,Waalwijk,home, 90 ,Substitution, Roy Kuijpers , Julen Lobete 
+541,39,Waalwijk,home, 90 ,Substitution, Lars Nieuwpoort , Iliass Bel Hassani 
+542,39,Waalwijk,home, 92 ,Goal, Zakaria Bakkali ,
+543,39,AZ,away, 96 ,Yellow card, Jesper Karlsson ,
+544,40,Feyenoord,away, 16 ,Goal, Danilo , Javairô Dilrosun 
+545,40,Volendam,home, 38 ,Yellow card, Brian Plat ,
+546,40,Feyenoord,away, 38 ,Yellow card, Quilindschy Hartman ,
+547,40,Feyenoord,away, 43 ,Goal, Sebastian Szymański , Danilo 
+548,40,Volendam,home, 45 ,Substitution, Bilal Ould-Chikh , Ibrahim El Kadiri 
+549,40,Volendam,home, 57 ,Substitution, Lequincio Zeefuik , Robert Mühren 
+550,40,Feyenoord,away, 61 ,Substitution, Marcos López , Quilindschy Hartman 
+551,40,Feyenoord,away, 61 ,Substitution, Patrik Wålemark , Igor Paixão 
+552,40,Volendam,home, 64 ,Substitution, Jordi Blom , Daryl van Mieghem 
+553,40,Feyenoord,away, 71 ,Substitution, Santiago Giménez , Danilo 
+554,40,Volendam,home, 71 ,Substitution, Oskar Buur , Xavier Mbuyamba 
+555,40,Feyenoord,away, 72 ,Substitution, Mats Wieffer , Quinten Timber 
+556,40,Volendam,home, 80 ,Substitution, Deron Payne , Dean James 
+557,40,Volendam,home, 80 ,Substitution, Henk Veerman , Gaetano Oristanio 
+558,40,Volendam,home, 88 ,Yellow card, Bilal Ould-Chikh ,
+559,40,Feyenoord,away, 95 ,Yellow card, Gernot Trauner ,
+560,41,Twente,home, 18 ,Yellow card, Mees Hilgers ,
+561,41,Twente,home, 34 ,Penalty, Ricky van Wolfswinkel , Penalty 
+562,41,Go Ahead Eagles,away, 37 ,Yellow card, Bobby Adekanye ,
+563,41,Twente,home, 46 ,Yellow card, Robin Pröpper ,
+564,41,Twente,home, 57 ,Substitution, Luca Everink , Joshua Brenet 
+565,41,Go Ahead Eagles,away, 59 ,Substitution, Sylla Sow , Bobby Adekanye 
+566,41,Go Ahead Eagles,away, 60 ,Substitution, Tesfaldet Tekie , Evert Linthorst 
+567,41,Go Ahead Eagles,away, 60 ,Substitution, Finn Stokkers , Isac Lidberg 
+568,41,Twente,home, 71 ,Substitution, Mathias Kjølø , Sem Steijn 
+569,41,Twente,home, 72 ,Substitution, Daan Rots , Václav Černý 
+570,41,Go Ahead Eagles,away, 86 ,Yellow card, Finn Stokkers ,
+571,41,Twente,home, 86 ,Substitution, Anass Salah-Eddine , Virgil Misidjan 
+572,41,Go Ahead Eagles,away, 86 ,Substitution, Rashaan Fernandes , Philippe Rommens 
+573,41,Twente,home, 87 ,Substitution, Julio Pleguezuelo , Michel Vlap 
+574,41,Go Ahead Eagles,away, 87 ,Substitution, Gerrit Nauber , Jay Idzes 
+575,41,Twente,home, 91 ,Yellow card, Luca Everink ,
+576,41,Go Ahead Eagles,away, 92 ,Penalty, Willum Willumsson , Penalty 
+577,41,Twente,home, 92 ,Yellow card, Ramiz Zerrouki ,
+578,42,Groningen,away, 40 ,Goal, Florian Krüger , Ricardo Pepi 
+579,42,Groningen,away, 46 ,Yellow card, Luciano Valente ,
+580,42,Utrecht,home, 46 ,Yellow card, Sean Klaiber ,
+581,42,Utrecht,home, 57 ,Substitution, Amin Younes , Daishawn Redan 
+582,42,Utrecht,home, 57 ,Substitution, Othmane Boussaid , Luuk Brouwers 
+583,42,Utrecht,home, 62 ,Goal, Taylor Booth , Sander van de Streek 
+584,42,Utrecht,home, 67 ,Yellow card, Modibo Sagnan ,
+585,42,Utrecht,home, 68 ,Substitution, Bas Dost , Anastasios Douvikas 
+586,42,Utrecht,home, 79 ,Yellow card, Taylor Booth ,
+587,42,Groningen,away, 80 ,Substitution, Ramon Lundqvist , Luciano Valente 
+588,42,Groningen,away, 80 ,Substitution, Yahya Kalley , Florian Krüger 
+589,42,Groningen,away, 80 ,Substitution, Ragnar Oratmangoen , Isak Määttä 
+590,42,Utrecht,home, 84 ,Goal, Sander van de Streek , Amin Younes 
+591,42,Groningen,away, 89 ,Substitution, Cyril Ngonge , Damil Dankerlui 
+592,42,Utrecht,home, 89 ,Substitution, Ruben Kluivert , Taylor Booth 
+593,43,Heerenveen,away, 58 ,Goal, Milan van Ewijk , Paweł Bochniewicz 
+594,43,Excelsior,home, 61 ,Substitution, Mike van Duinen , Reda Kharchouch 
+595,43,Excelsior,home, 61 ,Substitution, Couhaib Driouech , Lazaros Lamprou 
+596,43,Excelsior,home, 63 ,Substitution, Adrian Fein , Yassin Ayoub 
+597,43,Excelsior,home, 71 ,Disallowed goal,Disallowed goal,
+598,43,Heerenveen,away, 82 ,Substitution, Joost van Aken , Rami Al Hajj 
+599,43,Excelsior,home, 85 ,Substitution, Maxime Awoudja , Nathan Tjoe-A-On 
+600,43,Excelsior,home, 85 ,Substitution, Nikolas Agrafiotis , Kenzo Goudmijn 
+601,43,Heerenveen,away, 87 ,Substitution, Syb van Ottele , Paweł Bochniewicz 
+602,43,Heerenveen,away, 90 ,Substitution, Antoine Colassin , Sydney van Hooijdonk 
+603,43,Heerenveen,away, 96 ,Yellow card, Antoine Colassin ,
+604,44,Emmen,away, 44 ,Yellow card, Lorenzo Burnet ,
+605,44,Emmen,away, 57 ,Substitution, Jasin Assehnoun , Ole Romeny 
+606,44,Emmen,away, 58 ,Goal, Richairo Živković , Keziah Veendorp 
+607,44,Fortuna,home, 62 ,Substitution, Cole Bassett , Mats Seuntjens 
+608,44,Fortuna,home, 62 ,Substitution, Tijjani Noslin , Úmaro Embaló 
+609,44,Emmen,away, 73 ,Disallowed goal,Disallowed goal,
+610,44,Fortuna,home, 75 ,Substitution, Remy Vita , George Cox 
+611,44,Fortuna,home, 75 ,Substitution, Arianit Ferati , Navarro Ximo 
+612,44,Emmen,away, 82 ,Substitution, Metehan Güçlü , Richairo Živković 
+613,44,Emmen,away, 83 ,Substitution, Fernando Pacheco , Rui Mendes 
+614,44,Fortuna,home, 83 ,Substitution, Tunahan Taşçı , Inigo Cordoba 
+615,44,Fortuna,home, 85 ,Yellow card, Rodrigo Guth ,
+616,44,Fortuna,home, 91 ,Yellow card, Dogan Erdoğan ,
+617,44,Emmen,away, 93 ,Substitution, Julius Dirksen , Lorenzo Burnet 
+618,44,Emmen,away, 93 ,Substitution, Jari Vlak , Lucas Bernadou 
+619,45,Vitesse,home, 7 ,Yellow card, Sondre Trondstad ,
+620,45,Vitesse,home, 17 ,Substitution, Ferro , Melle Meulensteen 
+621,45,Sparta,away, 61 ,Substitution, Jeremy van Mullem , Koki Saito 
+622,45,Sparta,away, 69 ,Goal, Tobias Lauritsen , Vito van Crooy 
+623,45,Sparta,away, 72 ,Goal, Sven Mijnans , Arno Verschueren 
+624,45,Vitesse,home, 73 ,Substitution, Romaric Yapi , Kacper Kozłowski 
+625,45,Vitesse,home, 73 ,Substitution, Million Manhoef , Gabriel Vidović 
+626,45,Vitesse,home, 73 ,Substitution, Nikolai Frederiksen , Simon van Duivenbooden 
+627,45,Vitesse,home, 82 ,Substitution, Miliano Jonathans , Sondre Trondstad 
+628,45,Sparta,away, 83 ,Substitution, Jason Eyenga-Lokilo , Vito van Crooy 
+629,45,Sparta,away, 88 ,Goal, Tobias Lauritsen , Arno Verschueren 
+630,45,Sparta,away, 89 ,Substitution, Mario Engels , Tobias Lauritsen 
+631,45,Sparta,away, 89 ,Substitution, Mike Eerdhuijzen , Sven Mijnans 
+632,45,Sparta,away, 91 ,Goal, Arno Verschueren , Mario Engels 
+633,46,Cambuur,home, 23 ,Substitution, Sai Van Wermeskerken , Doke Schmidt 
+634,46,NEC,away, 44 ,Goal, Lasse Schone , Magnus Mattsson 
+635,46,Cambuur,home, 58 ,Substitution, Jamie Jacobs , Daniël van Kaam 
+636,46,Cambuur,home, 58 ,Substitution, Tom Boere , Roberts Uldriķis 
+637,46,NEC,away, 68 ,Substitution, Jordy Bruijn , Landry Dimata 
+638,46,NEC,away, 68 ,Substitution, Pedro Marques , Ibrahim Cissoko 
+639,46,Cambuur,home, 74 ,Substitution, David Sambissa , Michael Breij 
+640,46,Cambuur,home, 74 ,Substitution, Milan Smit , Silvester van der Water 
+641,46,Cambuur,home, 76 ,Yellow card, Tom Boere ,
+642,46,NEC,away, 79 ,Substitution, Joris Kramer , Philippe Sandler 
+643,46,NEC,away, 86 ,Substitution, Terry Sanniez , Magnus Mattsson 
+644,47,Feyenoord,home, 4 ,Goal, Quilindschy Hartman ,
+645,47,Feyenoord,home, 45 ,Yellow card, Gernot Trauner ,
+646,47,Feyenoord,home, 59 ,Substitution, Patrik Wålemark , Javairô Dilrosun 
+647,47,Feyenoord,home, 59 ,Substitution, Santiago Giménez , Danilo 
+648,47,Cambuur,away, 62 ,Substitution, Felix Mambimbi , Silvester van der Water 
+649,47,Cambuur,away, 62 ,Substitution, David Sambissa , Remco Balk 
+650,47,Feyenoord,home, 71 ,Substitution, Mats Wieffer , Quinten Timber 
+651,47,Feyenoord,home, 71 ,Substitution, Alireza Jahanbakhsh , Igor Paixão 
+652,47,Cambuur,away, 78 ,Yellow card, Calvin Mac-Intosch ,
+653,47,Feyenoord,home, 78 ,Yellow card, Patrik Wålemark ,
+654,47,Cambuur,away, 79 ,Substitution, Michael Breij , Calvin Mac-Intosch 
+655,47,Cambuur,away, 79 ,Substitution, Tom Boere , Jamie Jacobs 
+656,47,Feyenoord,home, 88 ,Substitution, Marcos López , Quilindschy Hartman 
+657,47,Cambuur,away, 88 ,Substitution, Roberts Uldriķis , Mees Hoedemakers 
+658,47,Feyenoord,home, 92 ,Yellow card, Orkun Kökcü ,
+659,48,Ajax,home, 6 ,Goal, Dušan Tadić , Steven Bergwijn 
+660,48,Vitesse,away, 25 ,Goal, Million Manhoef , Maximilian Wittek 
+661,48,Ajax,home, 59 ,Substitution, Francisco Conceição , Davy Klaassen 
+662,48,Ajax,home, 59 ,Substitution, Brian Brobbey , Mohammed Kudus 
+663,48,Ajax,home, 59 ,Substitution, Daley Blind , Owen Wijndal 
+664,48,Vitesse,away, 62 ,Substitution, Tomás Hájek , Gabriel Vidović 
+665,48,Ajax,home, 72 ,Substitution, Jorge Sánchez , Devyne Rensch 
+666,48,Vitesse,away, 74 ,Goal, Million Manhoef , Matús Bero 
+667,48,Vitesse,away, 75 ,Substitution, Ferro , Maximilian Wittek 
+668,48,Vitesse,away, 75 ,Substitution, Mohamed Sankoh , Million Manhoef 
+669,48,Vitesse,away, 75 ,Substitution, Toni Domgjoni , Romaric Yapi 
+670,48,Ajax,home, 78 ,Substitution, Lorenzo Lucca , Steven Bergwijn 
+671,48,Ajax,home, 79 ,Goal, Lorenzo Lucca , Daley Blind 
+672,48,Vitesse,away, 84 ,Yellow card, Daan Reiziger ,
+673,48,Ajax,home, 90 ,Yellow card, Francisco Conceição ,
+674,48,Vitesse,away, 97 ,Substitution, Gyan de Regt , Kacper Kozłowski 
+675,49,AZ,home, 14 ,Red card, Dani de Wit ,
+676,49,AZ,home, 20 ,Goal, Jens Odgaard , Yukinari Sugawara 
+677,49,Volendam,away, 26 ,Yellow card, Xavier Mbuyamba ,
+678,49,AZ,home, 40 ,Goal, Tijjani Reijnders , Jesper Karlsson 
+679,49,Volendam,away, 45 ,Yellow card, Gaetano Oristanio ,
+680,49,Volendam,away, 45 ,Substitution, Henk Veerman , Walid Ould-Chikh 
+681,49,Volendam,away, 48 ,Goal, Henk Veerman , Ibrahim El Kadiri 
+682,49,AZ,home, 61 ,Substitution, Riechedly Bazoer , Jesper Karlsson 
+683,49,AZ,home, 61 ,Substitution, Vangelis Pavlidis , Jens Odgaard 
+684,49,Volendam,away, 69 ,Substitution, Dean James , Ibrahim El Kadiri 
+685,49,AZ,home, 72 ,Substitution, Peer Koopmeiners , Yukinari Sugawara 
+686,49,AZ,home, 80 ,Substitution, Mees de Wit , Milos Kerkez 
+687,49,AZ,home, 84 ,Yellow card, Jordy Clasie ,
+688,49,Volendam,away, 85 ,Substitution, Benaissa Benamar , Brian Plat 
+689,49,Volendam,away, 85 ,Substitution, Lequincio Zeefuik , Daryl van Mieghem 
+690,49,AZ,home, 94 ,Yellow card, Pantelis Hatzidiakos ,
+691,50,PSV,home, 18 ,Goal, Anwar El Ghazi , Cody Gakpo 
+692,50,PSV,home, 38 ,Disallowed goal,Disallowed goal,
+693,50,NEC,away, 38 ,Yellow card, Lasse Schone ,
+694,50,NEC,away, 46 ,Yellow card, Philippe Sandler ,
+695,50,PSV,home, 50 ,Penalty, Luuk de Jong , Penalty 
+696,50,PSV,home, 61 ,Substitution, Noni Madueke , Anwar El Ghazi 
+697,50,NEC,away, 62 ,Substitution, Landry Dimata , Philippe Sandler 
+698,50,PSV,home, 62 ,Substitution, Guus Til , Luuk de Jong 
+699,50,NEC,away, 62 ,Substitution, Joris Kramer , Calvin Verdonk 
+700,50,PSV,home, 62 ,Substitution, Ibrahim Sangaré , Joey Veerman 
+701,50,NEC,away, 71 ,Substitution, Ibrahim Cissoko , Dirk Proper 
+702,50,NEC,away, 71 ,Substitution, Jordy Bruijn , Elayis Tavşan 
+703,50,PSV,home, 83 ,Substitution, Richard Ledezma , Xavi Simons 
+704,50,PSV,home, 84 ,Goal, Noni Madueke , Cody Gakpo 
+705,50,PSV,home, 85 ,Substitution, Jarrad Branthwaite , Phillipp Mwene 
+706,51,Waalwijk,away, 6 ,Yellow card, Julian Lelieveld ,
+707,51,Twente,home, 20 ,Disallowed goal,Disallowed goal,
+708,51,Twente,home, 34 ,Goal, Sem Steijn , Václav Černý 
+709,51,Twente,home, 45 ,Goal, Sem Steijn , Gijs Smal 
+710,51,Waalwijk,away, 45 ,Substitution, Saïd Bakari , Julian Lelieveld 
+711,51,Waalwijk,away, 45 ,Substitution, Zakaria Bakkali , Patrick Vroegh 
+712,51,Twente,home, 46 ,Yellow card, Robin Pröpper ,
+713,51,Twente,home, 66 ,Substitution, Mathias Kjølø , Sem Steijn 
+714,51,Twente,home, 76 ,Substitution, Denilho Cleonise , Virgil Misidjan 
+715,51,Twente,home, 76 ,Substitution, Daan Rots , Václav Černý 
+716,51,Waalwijk,away, 76 ,Substitution, Roy Kuijpers , Dario Van Den Buijs 
+717,51,Waalwijk,away, 82 ,Substitution, Florian Jozefzoon , Julen Lobete 
+718,51,Waalwijk,away, 82 ,Substitution, Sebbe Augustijns , Pelle Clement 
+719,51,Waalwijk,away, 85 ,Yellow card, Sebbe Augustijns ,
+720,51,Twente,home, 89 ,Goal, Ricky van Wolfswinkel ,
+721,51,Twente,home, 91 ,Substitution, Manfred Ugalde , Ricky van Wolfswinkel 
+722,51,Twente,home, 91 ,Substitution, Casper Staring , Michel Vlap 
+723,52,Emmen,home, 65 ,Substitution, Jari Vlak , Jeroen Veldmate 
+724,52,Emmen,home, 65 ,Substitution, Julius Dirksen , Lucas Bernadou 
+725,52,Emmen,home, 66 ,Yellow card, Jari Vlak ,
+726,52,Groningen,away, 68 ,Substitution, Ramon Lundqvist , Ragnar Oratmangoen 
+727,52,Groningen,away, 68 ,Substitution, Damil Dankerlui , Florian Krüger 
+728,52,Emmen,home, 78 ,Substitution, Ben Scholte , Ole Romeny 
+729,52,Emmen,home, 78 ,Substitution, Jasin Assehnoun , Mark Diemers 
+730,52,Emmen,home, 87 ,Substitution, Fernando Pacheco , Lorenzo Burnet 
+731,52,Groningen,away, 97 ,Yellow card, Neraysho Kasanwirjo ,
+732,53,Excelsior,away, 34 ,Yellow card, Yassin Ayoub ,
+733,53,Go Ahead Eagles,home, 39 ,Goal, Willum Willumsson , Bobby Adekanye 
+734,53,Go Ahead Eagles,home, 41 ,Goal, Bobby Adekanye , Willum Willumsson 
+735,53,Excelsior,away, 45 ,Substitution, Maxime Awoudja , Serano Seymor 
+736,53,Excelsior,away, 45 ,Substitution, Nathan Tjoe-A-On , Nathangelo Markelo 
+737,53,Excelsior,away, 53 ,Yellow card, Julian Baas ,
+738,53,Go Ahead Eagles,home, 60 ,Goal, Isac Lidberg , Jamal Amofa 
+739,53,Excelsior,away, 65 ,Substitution, Adrian Fein , Yassin Ayoub 
+740,53,Go Ahead Eagles,home, 66 ,Substitution, Enric Llansana , Evert Linthorst 
+741,53,Excelsior,away, 70 ,Yellow card, Reda Kharchouch ,
+742,53,Excelsior,away, 72 ,Goal, Lazaros Lamprou , Julian Baas 
+743,53,Excelsior,away, 73 ,Substitution, Mike van Duinen , Lazaros Lamprou 
+744,53,Go Ahead Eagles,home, 80 ,Substitution, Martijn Berden , Oliver Edvardsen 
+745,53,Go Ahead Eagles,home, 80 ,Substitution, Finn Stokkers , Bobby Adekanye 
+746,53,Excelsior,away, 81 ,Substitution, Couhaib Driouech , Marouan Azarkan 
+747,53,Excelsior,away, 90 ,Yellow card, Kenzo Goudmijn ,
+748,54,Sparta,home, 18 ,Yellow card, Bart Vriends ,
+749,54,Fortuna,away, 19 ,Goal, Tijjani Noslin , Ivo Pinto 
+750,54,Sparta,home, 26 ,Goal, Arno Verschueren , Sven Mijnans 
+751,54,Fortuna,away, 45 ,Substitution, Rodrigo Guth , Dimitrios Siovas 
+752,54,Fortuna,away, 53 ,Yellow card, Navarro Ximo ,
+753,54,Sparta,home, 54 ,Penalty, Vito van Crooy , Penalty 
+754,54,Fortuna,away, 58 ,Substitution, Dogan Erdoğan , Arianit Ferati 
+755,54,Fortuna,away, 59 ,Substitution, Úmaro Embaló , Tijjani Noslin 
+756,54,Sparta,home, 65 ,Substitution, Dirk Abels , Shurandy Sambo 
+757,54,Sparta,home, 65 ,Substitution, Jeremy van Mullem , Koki Saito 
+758,54,Fortuna,away, 72 ,Yellow card, Burak Yilmaz ,
+759,54,Sparta,home, 76 ,Substitution, Aaron Meijers , Mica Pinto 
+760,54,Fortuna,away, 76 ,Substitution, Paul Gladon , Inigo Cordoba 
+761,54,Sparta,home, 80 ,Substitution, Mario Engels , Tobias Lauritsen 
+762,54,Sparta,home, 83 ,Goal, Arno Verschueren , Vito van Crooy 
+763,54,Fortuna,away, 89 ,Substitution, Cole Bassett , Navarro Ximo 
+764,54,Sparta,home, 94 ,Substitution, Jason Eyenga-Lokilo , Arno Verschueren 
+765,54,Sparta,home, 94 ,Substitution, Mike Eerdhuijzen , Sven Mijnans 
+766,55,Heerenveen,home, 33 ,Goal, Sydney van Hooijdonk , Mats Köhlert 
+767,55,Utrecht,away, 44 ,Goal, Anastasios Douvikas , Jens Toornstra 
+768,55,Heerenveen,home, 46 ,Yellow card, Anas Tahiri ,
+769,55,Utrecht,away, 58 ,Yellow card, Jens Toornstra ,
+770,55,Utrecht,away, 63 ,Substitution, Othmane Boussaid , Daishawn Redan 
+771,55,Utrecht,away, 64 ,Substitution, Hidde ter Avest , Sean Klaiber 
+772,55,Utrecht,away, 66 ,Goal, Modibo Sagnan ,
+773,55,Heerenveen,home, 73 ,Substitution, Alex Timossi Andersson , Simon Olsson 
+774,55,Heerenveen,home, 73 ,Substitution, Antoine Colassin , Rami Al Hajj 
+775,55,Heerenveen,home, 73 ,Substitution, Tibor Halilović , Anas Tahiri 
+776,55,Utrecht,away, 77 ,Yellow card, Luuk Brouwers ,
+777,55,Utrecht,away, 77 ,Yellow card, Sander van de Streek ,
+778,55,Heerenveen,home, 81 ,Yellow card, Thom Haye ,
+779,55,Utrecht,away, 87 ,Yellow card, Othmane Boussaid ,
+780,55,Utrecht,away, 89 ,Substitution, Ruben Kluivert , Jens Toornstra 
+781,55,Utrecht,away, 92 ,Substitution, Can Bozdoğan , Sander van de Streek 
+782,56,Heerenveen,away, 8 ,Yellow card, Thom Haye ,
+783,56,Volendam,home, 21 ,Disallowed goal,Disallowed goal,
+784,56,Heerenveen,away, 24 ,Goal, Sydney van Hooijdonk ,
+785,56,Volendam,home, 43 ,Goal, Robert Mühren , Carel Eiting 
+786,56,Volendam,home, 52 ,Yellow card, Benaissa Benamar ,
+787,56,Heerenveen,away, 45 ,Substitution, Rami Al Hajj , Tibor Halilović 
+788,56,Heerenveen,away, 45 ,Substitution, Anas Tahiri , Syb van Ottele 
+789,56,Heerenveen,away, 50 ,Yellow card, Simon Olsson ,
+790,56,Heerenveen,away, 58 ,Yellow card, Paweł Bochniewicz ,
+791,56,Volendam,home, 62 ,Substitution, Imran Nazih , Walid Ould-Chikh 
+792,56,Volendam,home, 62 ,Substitution, Bilal Ould-Chikh , Gaetano Oristanio 
+793,56,Volendam,home, 67 ,Substitution, Brian Plat , Benaissa Benamar 
+794,56,Volendam,home, 71 ,Yellow card, Daryl van Mieghem ,
+795,56,Volendam,home, 77 ,Substitution, Jordi Blom , Ibrahim El Kadiri 
+796,56,Volendam,home, 77 ,Substitution, Lequincio Zeefuik , Daryl van Mieghem 
+797,56,Heerenveen,away, 85 ,Goal, Mats Köhlert , Thom Haye 
+798,56,Heerenveen,away, 87 ,Goal, Amin Sarr , Sydney van Hooijdonk 
+799,56,Heerenveen,away, 90 ,Substitution, Hussein Ali , Simon Olsson 
+800,56,Heerenveen,away, 90 ,Substitution, Rami Kaib , Amin Sarr 
+801,57,Utrecht,home, 6 ,Goal, Daishawn Redan , Taylor Booth 
+802,57,Sparta,away, 45 ,Substitution, Shurandy Sambo , Dirk Abels 
+803,57,Utrecht,home, 48 ,Goal, Anastasios Douvikas , Taylor Booth 
+804,57,Utrecht,home, 67 ,Substitution, Othmane Boussaid , Taylor Booth 
+805,57,Utrecht,home, 72 ,Substitution, Bas Dost , Daishawn Redan 
+806,57,Sparta,away, 72 ,Substitution, Koki Saito , Jeremy van Mullem 
+807,57,Utrecht,home, 72 ,Substitution, Can Bozdoğan , Sander van de Streek 
+808,57,Sparta,away, 72 ,Substitution, Mike Eerdhuijzen , Adil Auassar 
+809,57,Utrecht,home, 75 ,Substitution, Ruben Kluivert , Mike Van der Hoorn 
+810,57,Utrecht,home, 80 ,Goal, Sean Klaiber , Jens Toornstra 
+811,57,Sparta,away, 84 ,Goal, Joshua Kitolano , Mica Pinto 
+812,57,Sparta,away, 86 ,Substitution, Mario Engels , Bart Vriends 
+813,57,Sparta,away, 93 ,Yellow card, Vito van Crooy ,
+814,57,Sparta,away, 95 ,Yellow card, Mike Eerdhuijzen ,
+815,58,NEC,home, 3 ,Goal, Oussama Tannane , Pedro Marques 
+816,58,Go Ahead Eagles,away, 9 ,Goal, Isac Lidberg , José Fontán 
+817,58,Go Ahead Eagles,away, 41 ,Goal, Bobby Adekanye ,
+818,58,NEC,home, 45 ,Substitution, Elayis Tavşan , Terry Sanniez 
+819,58,NEC,home, 47 ,Yellow card, Iván Márquez ,
+820,58,Go Ahead Eagles,away, 50 ,Goal, Oliver Edvardsen , Bobby Adekanye 
+821,58,NEC,home, 62 ,Substitution, Landry Dimata , Pedro Marques 
+822,58,NEC,home, 62 ,Substitution, Ibrahim Cissoko , Mikkel Duelund 
+823,58,NEC,home, 67 ,Yellow card, Oussama Tannane ,
+824,58,Go Ahead Eagles,away, 71 ,Substitution, Martijn Berden , Bobby Adekanye 
+825,58,NEC,home, 75 ,Substitution, Philippe Sandler , Calvin Verdonk 
+826,58,NEC,home, 78 ,Goal, Magnus Mattsson ,
+827,58,NEC,home, 79 ,Yellow card, Souffian El Karouani ,
+828,58,NEC,home, 83 ,Substitution, Ilias Bronkhorst , Iván Márquez 
+829,58,Go Ahead Eagles,away, 84 ,Substitution, Sylla Sow , Isac Lidberg 
+830,58,Go Ahead Eagles,away, 84 ,Substitution, Enric Llansana , Evert Linthorst 
+831,58,Go Ahead Eagles,away, 90 ,Substitution, Gerrit Nauber , Oliver Edvardsen 
+832,58,Go Ahead Eagles,away, 93 ,Yellow card, Mats Deijl ,
+833,58,NEC,home, 95 ,Goal, Philippe Sandler , Oussama Tannane 
+834,59,Twente,away, 3 ,Yellow card, Virgil Misidjan ,
+835,59,Twente,away, 21 ,Substitution, Anass Salah-Eddine , Gijs Smal 
+836,59,Cambuur,home, 29 ,Yellow card, Silvester van der Water ,
+837,59,Cambuur,home, 32 ,Yellow card, Doke Schmidt ,
+838,59,Cambuur,home, 35 ,Yellow card, Roberts Uldriķis ,
+839,59,Twente,away, 62 ,Yellow card, Joshua Brenet ,
+840,59,Cambuur,home, 63 ,Substitution, Remco Balk , Felix Mambimbi 
+841,59,Cambuur,home, 63 ,Substitution, Jamie Jacobs , Mees Hoedemakers 
+842,59,Twente,away, 67 ,Substitution, Sem Steijn , Mathias Kjølø 
+843,59,Twente,away, 72 ,Substitution, Denilho Cleonise , Virgil Misidjan 
+844,59,Cambuur,home, 78 ,Substitution, Milan Smit , Roberts Uldriķis 
+845,59,Cambuur,home, 78 ,Substitution, David Sambissa , Silvester van der Water 
+846,59,Twente,away, 85 ,Substitution, Manfred Ugalde , Daan Rots 
+847,59,Cambuur,home, 92 ,Substitution, Sai Van Wermeskerken , Alex Bangura 
+848,59,Twente,away, 97 ,Penalty, Ricky van Wolfswinkel , Penalty 
+849,60,Groningen,home, 39 ,Goal, Ricardo Pepi ,
+850,60,Groningen,home, 43 ,Goal, Radinio Balker , Laros Duarte 
+851,60,Groningen,home, 46 ,Goal, Cyril Ngonge ,
+852,60,PSV,away, 48 ,Goal, Ibrahim Sangaré , Cody Gakpo 
+853,60,PSV,away, 45 ,Substitution, Noni Madueke , Anwar El Ghazi 
+854,60,PSV,away, 56 ,Substitution, Luuk de Jong , Joey Veerman 
+855,60,Groningen,home, 64 ,Substitution, Joey Pelupessy , Luciano Valente 
+856,60,Groningen,home, 64 ,Substitution, Ragnar Oratmangoen , Paulos Abraham 
+857,60,PSV,away, 69 ,Substitution, Mauro Júnior , Philipp Max 
+858,60,PSV,away, 76 ,Goal, Guus Til , Cody Gakpo 
+859,60,Groningen,home, 83 ,Substitution, Ramon Lundqvist , Florian Krüger 
+860,60,Groningen,home, 83 ,Substitution, Damil Dankerlui , Cyril Ngonge 
+861,60,Groningen,home, 87 ,Substitution, Marin Šverko , Isak Määttä 
+862,60,Groningen,home, 92 ,Goal, Joey Pelupessy , Damil Dankerlui 
+863,61,Excelsior,home, 6 ,Goal, Siebe Horemans , Marouan Azarkan 
+864,61,AZ,away, 27 ,Yellow card, Sam Beukema ,
+865,61,Excelsior,home, 32 ,Goal, Marouan Azarkan , Lazaros Lamprou 
+866,61,AZ,away, 38 ,Substitution, Yusuf Barası , Myron van Brederode 
+867,61,AZ,away, 38 ,Substitution, Yukinari Sugawara , Maxim Dekker 
+868,61,AZ,away, 48 ,Goal, Yukinari Sugawara , Tijjani Reijnders 
+869,61,Excelsior,home, 59 ,Yellow card, Adrian Fein ,
+870,61,Excelsior,home, 68 ,Substitution, Mike van Duinen , Marouan Azarkan 
+871,61,Excelsior,home, 68 ,Substitution, Joshua Eijgenraam , Adrian Fein 
+872,61,Excelsior,home, 68 ,Substitution, Couhaib Driouech , Lazaros Lamprou 
+873,61,Excelsior,home, 73 ,Substitution, Maxime Awoudja , Serano Seymor 
+874,61,AZ,away, 74 ,Substitution, Riechedly Bazoer , Dani de Wit 
+875,61,Excelsior,home, 80 ,Yellow card, Nathangelo Markelo ,
+876,61,AZ,away, 82 ,Substitution, Mayckel Lahdo , Jesper Karlsson 
+877,62,Emmen,away, 8 ,Disallowed goal,Disallowed goal,
+878,62,Vitesse,home, 26 ,Goal, Gabriel Vidović ,
+879,62,Vitesse,home, 42 ,Yellow card, Carlens Arcus ,
+880,62,Emmen,away, 45 ,Yellow card, Julius Dirksen ,
+881,62,Vitesse,home, 46 ,Goal, Maximilian Wittek ,
+882,62,Emmen,away, 45 ,Substitution, Richairo Živković , Ahmed El Messaoudi 
+883,62,Emmen,away, 45 ,Substitution, Michaël Heylen , Julius Dirksen 
+884,62,Emmen,away, 68 ,Goal, Mark Diemers , Rui Mendes 
+885,62,Emmen,away, 73 ,Substitution, Ben Scholte , Jari Vlak 
+886,62,Vitesse,home, 78 ,Substitution, Romaric Yapi , Gabriel Vidović 
+887,62,Vitesse,home, 78 ,Substitution, Million Manhoef , Kacper Kozłowski 
+888,62,Emmen,away, 84 ,Substitution, Jasin Assehnoun , Ole Romeny 
+889,62,Emmen,away, 84 ,Substitution, Azzeddine Toufiqui , Rui Mendes 
+890,62,Vitesse,home, 87 ,Substitution, Thomas Buitink , Bartosz Białek 
+891,62,Emmen,away, 93 ,Yellow card, Richairo Živković ,
+892,63,Waalwijk,home, 2 ,Yellow card, Juriën Gaari ,
+893,63,Waalwijk,home, 12 ,Disallowed goal,Disallowed goal,
+894,63,Waalwijk,home, 18 ,Yellow card, Yassin Oukili ,
+895,63,Ajax,away, 22 ,Goal, Steven Berghuis , Steven Bergwijn 
+896,63,Waalwijk,home, 40 ,Goal, Pelle Clement , Michiel Kramer 
+897,63,Ajax,away, 43 ,Yellow card, Daley Blind ,
+898,63,Ajax,away, 45 ,Substitution, Florian Grillitsch , Edson Álvarez 
+899,63,Waalwijk,home, 45 ,Substitution, Saïd Bakari , Julian Lelieveld 
+900,63,Ajax,away, 45 ,Substitution, Owen Wijndal , Daley Blind 
+901,63,Ajax,away, 53 ,Goal, Steven Berghuis ,
+902,63,Ajax,away, 55 ,Yellow card, Florian Grillitsch ,
+903,63,Waalwijk,home, 58 ,Yellow card, Shawn Adewoye ,
+904,63,Ajax,away, 62 ,Goal, Brian Brobbey , Jurriën Timber 
+905,63,Waalwijk,home, 69 ,Substitution, Julen Lobete , Iliass Bel Hassani 
+906,63,Waalwijk,home, 70 ,Substitution, Patrick Vroegh , Pelle Clement 
+907,63,Waalwijk,home, 77 ,Substitution, Roy Kuijpers , Yassin Oukili 
+908,63,Waalwijk,home, 77 ,Substitution, Zakaria Bakkali , Dario Van Den Buijs 
+909,63,Ajax,away, 81 ,Goal, Brian Brobbey , Steven Berghuis 
+910,63,Ajax,away, 82 ,Substitution, Mohammed Kudus , Steven Bergwijn 
+911,63,Ajax,away, 82 ,Substitution, Lorenzo Lucca , Brian Brobbey 
+912,63,Ajax,away, 86 ,Substitution, Francisco Conceição , Davy Klaassen 
+913,63,Waalwijk,home, 91 ,Substitution, Florian Jozefzoon , Michiel Kramer 
+914,64,Fortuna,away, 9 ,Goal, Inigo Cordoba ,
+915,64,Feyenoord,home, 45 ,Substitution, Marcos López , Jacob Rasmussen 
+916,64,Feyenoord,home, 45 ,Substitution, Patrik Wålemark , Marcus Pedersen 
+917,64,Feyenoord,home, 45 ,Substitution, Danilo , Santiago Giménez 
+918,64,Feyenoord,home, 46 ,Goal, Javairô Dilrosun , Quinten Timber 
+919,64,Fortuna,away, 61 ,Substitution, Remy Vita , Úmaro Embaló 
+920,64,Fortuna,away, 68 ,Substitution, Arianit Ferati , Inigo Cordoba 
+921,64,Feyenoord,home, 75 ,Substitution, Igor Paixão , Quinten Timber 
+922,64,Feyenoord,home, 80 ,Substitution, Noah Naujoks , Javairô Dilrosun 
+923,64,Fortuna,away, 90 ,Substitution, Paul Gladon , Mats Seuntjens 
+924,64,Fortuna,away, 90 ,Substitution, Cole Bassett , Oguzhan Özyakup 
+925,64,Fortuna,away, 95 ,Yellow card, Burak Yilmaz ,
+926,65,Ajax,home, 15 ,Goal, Jorge Sánchez ,
+927,65,Ajax,home, 26 ,Goal, Steven Berghuis , Calvin Bassey 
+928,65,Ajax,home, 44 ,Goal, Brian Brobbey , Dušan Tadić 
+929,65,Excelsior,away, 45 ,Substitution, Joshua Eijgenraam , Nathangelo Markelo 
+930,65,Ajax,home, 45 ,Substitution, Owen Wijndal , Daley Blind 
+931,65,Ajax,home, 59 ,Goal, Brian Brobbey , Steven Bergwijn 
+932,65,Ajax,home, 64 ,Goal, Dušan Tadić ,
+933,65,Excelsior,away, 70 ,Substitution, Lazaros Lamprou , Mike van Duinen 
+934,65,Excelsior,away, 70 ,Substitution, Adrian Fein , Kenzo Goudmijn 
+935,65,Ajax,home, 74 ,Substitution, Mohammed Kudus , Steven Berghuis 
+936,65,Ajax,home, 74 ,Substitution, Francisco Conceição , Dušan Tadić 
+937,65,Ajax,home, 75 ,Goal, Steven Bergwijn , Owen Wijndal 
+938,65,Ajax,home, 78 ,Substitution, Youri Baas , Jorge Sánchez 
+939,65,Excelsior,away, 79 ,Substitution, Marouan Azarkan , Couhaib Driouech 
+940,65,Ajax,home, 81 ,Goal, Mohammed Kudus ,
+941,65,Ajax,home, 84 ,Substitution, Lorenzo Lucca , Brian Brobbey 
+942,65,Excelsior,away, 84 ,Substitution, Nikolas Agrafiotis , Reda Kharchouch 
+943,65,Excelsior,away, 90 ,Goal, Nikolas Agrafiotis , Marouan Azarkan 
+944,66,Feyenoord,away, 3 ,Yellow card, Gernot Trauner ,
+945,66,AZ,home, 8 ,Yellow card, Jordy Clasie ,
+946,66,AZ,home, 26 ,Goal, Jens Odgaard , Pantelis Hatzidiakos 
+947,66,Feyenoord,away, 31 ,Penalty, Orkun Kökcü , Penalty 
+948,66,Feyenoord,away, 56 ,Goal, Sebastian Szymański , Jacob Rasmussen 
+949,66,Feyenoord,away, 66 ,Substitution, Marcos López , Dávid Hancko 
+950,66,AZ,home, 69 ,Substitution, Mayckel Lahdo , Yukinari Sugawara 
+951,66,AZ,home, 69 ,Substitution, Myron van Brederode , Jesper Karlsson 
+952,66,AZ,home, 74 ,Substitution, Riechedly Bazoer , Jens Odgaard 
+953,66,Feyenoord,away, 76 ,Substitution, Danilo , Santiago Giménez 
+954,66,Feyenoord,away, 82 ,Goal, Danilo , Orkun Kökcü 
+955,66,Feyenoord,away, 85 ,Substitution, Alireza Jahanbakhsh , Javairô Dilrosun 
+956,66,Feyenoord,away, 85 ,Substitution, Mats Wieffer , Quinten Timber 
+957,66,Feyenoord,away, 86 ,Substitution, Patrik Wålemark , Sebastian Szymański 
+958,66,AZ,home, 93 ,Yellow card, Riechedly Bazoer ,
+959,67,PSV,home, 8 ,Goal, Xavi Simons , Joey Veerman 
+960,67,Utrecht,away, 24 ,Goal, Sander van de Streek ,
+961,67,Utrecht,away, 29 ,Yellow card, Sean Klaiber ,
+962,67,PSV,home, 33 ,Goal, Guus Til , Philipp Max 
+963,67,PSV,home, 38 ,Goal, Guus Til , Cody Gakpo 
+964,67,Utrecht,away, 41 ,Yellow card, Bas Dost ,
+965,67,Utrecht,away, 45 ,Substitution, Mike Van der Hoorn , Modibo Sagnan 
+966,67,Utrecht,away, 45 ,Substitution, Rocco Shein , Jens Toornstra 
+967,67,Utrecht,away, 45 ,Substitution, Anastasios Douvikas , Bas Dost 
+968,67,Utrecht,away, 55 ,Yellow card, Mark van der Maarel ,
+969,67,PSV,home, 60 ,Goal, Xavi Simons ,
+970,67,PSV,home, 62 ,Substitution, Anwar El Ghazi , Xavi Simons 
+971,67,PSV,home, 62 ,Substitution, Richard Ledezma , Joey Veerman 
+972,67,Utrecht,away, 74 ,Substitution, Othmane Boussaid , Taylor Booth 
+973,67,PSV,home, 75 ,Substitution, Jordan Teze , André Ramalho 
+974,67,PSV,home, 75 ,Substitution, Johan Bakayoko , Guus Til 
+975,67,PSV,home, 77 ,Substitution, Ki Hoever , Philipp Max 
+976,67,Utrecht,away, 83 ,Substitution, Daishawn Redan , Moussa Sylla 
+977,67,PSV,home, 86 ,Goal, Anwar El Ghazi , Ki Hoever 
+978,67,PSV,home, 89 ,Goal, Anwar El Ghazi , Ki Hoever 
+979,68,Groningen,away, 16 ,Substitution, Luciano Valente , Tomás Suslov 
+980,68,Twente,home, 25 ,Yellow card, Virgil Misidjan ,
+981,68,Groningen,away, 45 ,Substitution, Paulos Abraham , Cyril Ngonge 
+982,68,Groningen,away, 45 ,Substitution, Ragnar Oratmangoen , Florian Krüger 
+983,68,Twente,home, 48 ,Goal, Virgil Misidjan , Ricky van Wolfswinkel 
+984,68,Twente,home, 55 ,Goal, Joshua Brenet , Ricky van Wolfswinkel 
+985,68,Groningen,away, 66 ,Substitution, Yahya Kalley , Isak Määttä 
+986,68,Twente,home, 76 ,Substitution, Julio Pleguezuelo , Mees Hilgers 
+987,68,Twente,home, 76 ,Substitution, Sem Steijn , Mathias Kjølø 
+988,68,Twente,home, 77 ,Substitution, Denilho Cleonise , Daan Rots 
+989,68,Groningen,away, 80 ,Substitution, Ramon Lundqvist , Joey Pelupessy 
+990,68,Twente,home, 84 ,Goal, Ricky van Wolfswinkel ,
+991,68,Twente,home, 85 ,Substitution, Manfred Ugalde , Ricky van Wolfswinkel 
+992,68,Groningen,away, 88 ,Yellow card, Yahya Kalley ,
+993,68,Groningen,away, 92 ,Yellow card, Mike te Wierik ,
+994,69,Sparta,home, 7 ,Goal, Dirk Abels , Sven Mijnans 
+995,69,NEC,away, 25 ,Yellow card, Souffian El Karouani ,
+996,69,Sparta,home, 29 ,Goal, Jonathan de Guzman , Koki Saito 
+997,69,NEC,away, 57 ,Substitution, Pedro Marques , Magnus Mattsson 
+998,69,NEC,away, 62 ,Yellow card, Oussama Tannane ,
+999,69,Sparta,home, 68 ,Substitution, Vito van Crooy , Koki Saito 
+1000,69,NEC,away, 71 ,Substitution, Mikkel Duelund , Dirk Proper 
+1001,69,NEC,away, 71 ,Substitution, Ibrahim Cissoko , Souffian El Karouani 
+1002,69,Sparta,home, 79 ,Yellow card, Vito van Crooy ,
+1003,69,NEC,away, 79 ,Yellow card, Calvin Verdonk ,
+1004,69,Sparta,home, 82 ,Substitution, Jeremy van Mullem , Jonathan de Guzman 
+1005,69,Sparta,home, 85 ,Yellow card, Tobias Lauritsen ,
+1006,69,Sparta,home, 90 ,Substitution, Omar Rekik , Sven Mijnans 
+1007,69,Sparta,home, 91 ,Substitution, Mario Engels , Tobias Lauritsen 
+1008,70,Vitesse,away, 20 ,Goal, Ryan Flamingo , Maximilian Wittek 
+1009,70,Vitesse,away, 25 ,Yellow card, Matús Bero ,
+1010,70,Cambuur,home, 45 ,Substitution, Mees Hoedemakers , Jamie Jacobs 
+1011,70,Vitesse,away, 55 ,Substitution, Daan Reiziger , Kjell Scherpen 
+1012,70,Cambuur,home, 63 ,Substitution, David Sambissa , Felix Mambimbi 
+1013,70,Cambuur,home, 63 ,Substitution, Milan Smit , Roberts Uldriķis 
+1014,70,Cambuur,home, 71 ,Substitution, Michael Breij , Daniël van Kaam 
+1015,70,Vitesse,away, 74 ,Goal, Kacper Kozłowski ,
+1016,70,Vitesse,away, 75 ,Substitution, Enzo Cornelisse , Kacper Kozłowski 
+1017,70,Vitesse,away, 75 ,Substitution, Romaric Yapi , Bartosz Białek 
+1018,70,Cambuur,home, 79 ,Substitution, Remco Balk , Leon Bergsma 
+1019,70,Vitesse,away, 82 ,Goal, Sondre Trondstad ,
+1020,70,Vitesse,away, 87 ,Substitution, Thomas Buitink , Gabriel Vidović 
+1021,71,Go Ahead Eagles,home, 30 ,Yellow card, Bobby Adekanye ,
+1022,71,Heerenveen,away, 52 ,Goal, Thom Haye , Mats Köhlert 
+1023,71,Go Ahead Eagles,home, 63 ,Substitution, Sylla Sow , Isac Lidberg 
+1024,71,Go Ahead Eagles,home, 63 ,Substitution, Finn Stokkers , Bobby Adekanye 
+1025,71,Go Ahead Eagles,home, 74 ,Yellow card, Enric Llansana ,
+1026,71,Heerenveen,away, 75 ,Substitution, Antoine Colassin , Simon Olsson 
+1027,71,Heerenveen,away, 80 ,Substitution, Anas Tahiri , Tibor Halilović 
+1028,71,Go Ahead Eagles,home, 80 ,Substitution, Gerrit Nauber , Mats Deijl 
+1029,71,Go Ahead Eagles,home, 80 ,Substitution, Tesfaldet Tekie , Enric Llansana 
+1030,71,Heerenveen,away, 87 ,Yellow card, Thom Haye ,
+1031,71,Go Ahead Eagles,home, 92 ,Goal, Finn Stokkers ,
+1032,72,Fortuna,home, 30 ,Yellow card, Úmaro Embaló ,
+1033,72,Fortuna,home, 32 ,Yellow card, Navarro Ximo ,
+1034,72,Fortuna,home, 38 ,Yellow card, Oguzhan Özyakup ,
+1035,72,Fortuna,home, 45 ,Substitution, Remy Vita , Inigo Cordoba 
+1036,72,Waalwijk,away, 60 ,Substitution, Patrick Vroegh , Dario Van Den Buijs 
+1037,72,Waalwijk,away, 60 ,Substitution, Roy Kuijpers , Iliass Bel Hassani 
+1038,72,Waalwijk,away, 70 ,Substitution, Mika Biereth , Julen Lobete 
+1039,72,Waalwijk,away, 70 ,Substitution, Yassin Oukili , Pelle Clement 
+1040,72,Waalwijk,away, 71 ,Yellow card, Roy Kuijpers ,
+1041,72,Fortuna,home, 73 ,Substitution, Tunahan Taşçı , Úmaro Embaló 
+1042,72,Fortuna,home, 79 ,Substitution, Paul Gladon , Mats Seuntjens 
+1043,72,Fortuna,home, 79 ,Substitution, Dogan Erdoğan , Arianit Ferati 
+1044,72,Waalwijk,away, 83 ,Substitution, Luuk Wouters , Thierry Lutonda 
+1045,72,Fortuna,home, 88 ,Substitution, Cole Bassett , Oguzhan Özyakup 
+1046,72,Waalwijk,away, 97 ,Yellow card, Michiel Kramer ,
+1047,73,Emmen,home, 5 ,Substitution, Michaël Heylen , Lucas Bernadou 
+1048,73,Volendam,away, 45 ,Substitution, Achraf Douiri , Oskar Buur 
+1049,73,Volendam,away, 45 ,Substitution, Walid Ould-Chikh , Brian Plat 
+1050,73,Volendam,away, 56 ,Substitution, Daryl van Mieghem , Bilal Ould-Chikh 
+1051,73,Volendam,away, 63 ,Substitution, Henk Veerman , Ibrahim El Kadiri 
+1052,73,Volendam,away, 64 ,Goal, Walid Ould-Chikh , Carel Eiting 
+1053,73,Emmen,home, 67 ,Goal, Ahmed El Messaoudi , Rui Mendes 
+1054,73,Emmen,home, 74 ,Substitution, Richairo Živković , Ahmed El Messaoudi 
+1055,73,Volendam,away, 75 ,Substitution, Lequincio Zeefuik , Benaissa Benamar 
+1056,73,Emmen,home, 87 ,Substitution, Jasin Assehnoun , Ole Romeny 
+1057,73,Volendam,away, 88 ,Yellow card, Achraf Douiri ,
+1058,74,Fortuna,away, 16 ,Substitution, Mats Seuntjens , Ivo Pinto 
+1059,74,Vitesse,home, 32 ,Goal, Bartosz Białek , Matús Bero 
+1060,74,Fortuna,away, 40 ,Goal, Arianit Ferati , Inigo Cordoba 
+1061,74,Vitesse,home, 51 ,Yellow card, Tomás Hájek ,
+1062,74,Vitesse,home, 55 ,Yellow card, Maximilian Wittek ,
+1063,74,Vitesse,home, 58 ,Yellow card, Ryan Flamingo ,
+1064,74,Vitesse,home, 59 ,Yellow card, Matús Bero ,
+1065,74,Fortuna,away, 61 ,Yellow card, Oguzhan Özyakup ,
+1066,74,Vitesse,home, 67 ,Substitution, Kacper Kozłowski , Ryan Flamingo 
+1067,74,Vitesse,home, 67 ,Substitution, Million Manhoef , Nikolai Frederiksen 
+1068,74,Vitesse,home, 67 ,Substitution, Melle Meulensteen , Tomás Hájek 
+1069,74,Fortuna,away, 80 ,Substitution, Tijjani Noslin , Úmaro Embaló 
+1070,74,Fortuna,away, 80 ,Goal, Remy Vita ,
+1071,74,Fortuna,away, 80 ,Substitution, Remy Vita , Inigo Cordoba 
+1072,74,Vitesse,home, 83 ,Substitution, Gyan de Regt , Gabriel Vidović 
+1073,74,Fortuna,away, 88 ,Substitution, Roel Janssen , Arianit Ferati 
+1074,74,Fortuna,away, 88 ,Substitution, Cole Bassett , Oguzhan Özyakup 
+1075,75,PSV,away, 41 ,Substitution, Érick Gutiérrez , Ismael Saibari 
+1076,75,PSV,away, 42 ,Substitution, Anwar El Ghazi , Yorbe Vertessen 
+1077,75,Heerenveen,home, 52 ,Yellow card, Syb van Ottele ,
+1078,75,Heerenveen,home, 70 ,Substitution, Tibor Halilović , Simon Olsson 
+1079,75,PSV,away, 75 ,Goal, Cody Gakpo , Joey Veerman 
+1080,75,Heerenveen,home, 79 ,Substitution, Alex Timossi Andersson , Syb van Ottele 
+1081,75,Heerenveen,home, 79 ,Substitution, Antoine Colassin , Anas Tahiri 
+1082,75,Heerenveen,home, 89 ,Yellow card, Antoine Colassin ,
+1083,75,PSV,away, 90 ,Substitution, Richard Ledezma , Xavi Simons 
+1084,76,Feyenoord,home, 30 ,Yellow card, Orkun Kökcü ,
+1085,76,Twente,away, 41 ,Yellow card, Joshua Brenet ,
+1086,76,Feyenoord,home, 43 ,Goal, Orkun Kökcü ,
+1087,76,Twente,away, 47 ,Red card, Václav Černý ,
+1088,76,Twente,away, 45 ,Substitution, Julio Pleguezuelo , Mees Hilgers 
+1089,76,Twente,away, 45 ,Substitution, Daan Rots , Michel Vlap 
+1090,76,Twente,away, 58 ,Substitution, Christos Tzolis , Virgil Misidjan 
+1091,76,Twente,away, 58 ,Substitution, Wout Brama , Mathias Kjølø 
+1092,76,Feyenoord,home, 61 ,Substitution, Patrik Wålemark , Javairô Dilrosun 
+1093,76,Feyenoord,home, 64 ,Goal, Dávid Hancko ,
+1094,76,Twente,away, 66 ,Substitution, Anass Salah-Eddine , Christos Tzolis 
+1095,76,Feyenoord,home, 68 ,Substitution, Igor Paixão , Orkun Kökcü 
+1096,76,Feyenoord,home, 73 ,Yellow card, Igor Paixão ,
+1097,76,Feyenoord,home, 79 ,Substitution, Danilo , Santiago Giménez 
+1098,76,Feyenoord,home, 79 ,Substitution, Mats Wieffer , Marcus Pedersen 
+1099,77,AZ,away, 31 ,Goal, Myron van Brederode ,
+1100,77,Utrecht,home, 34 ,Yellow card, Luuk Brouwers ,
+1101,77,Utrecht,home, 56 ,Substitution, Arthur Zagré , Naoki Maeda 
+1102,77,Utrecht,home, 56 ,Substitution, Moussa Sylla , Luuk Brouwers 
+1103,77,AZ,away, 61 ,Substitution, Riechedly Bazoer , Jens Odgaard 
+1104,77,AZ,away, 61 ,Substitution, Jesper Karlsson , Myron van Brederode 
+1105,77,AZ,away, 62 ,Substitution, Zinho Vanheusden , Maxim Dekker 
+1106,77,AZ,away, 68 ,Goal, Yukinari Sugawara , Pantelis Hatzidiakos 
+1107,77,Utrecht,home, 74 ,Substitution, Anastasios Douvikas , Daishawn Redan 
+1108,77,Utrecht,home, 74 ,Substitution, Rocco Shein , Sander van de Streek 
+1109,77,Utrecht,home, 77 ,Yellow card, Modibo Sagnan ,
+1110,77,Utrecht,home, 82 ,Substitution, Nick Viergever , Modibo Sagnan 
+1111,77,AZ,away, 87 ,Substitution, Mees de Wit , Milos Kerkez 
+1112,77,AZ,away, 88 ,Substitution, Mayckel Lahdo , Dani de Wit 
+1113,77,Utrecht,home, 93 ,Goal, Moussa Sylla ,
+1114,78,Cambuur,away, 63 ,Substitution, David Sambissa , Silvester van der Water 
+1115,78,Cambuur,away, 63 ,Substitution, Michael Breij , Jamie Jacobs 
+1116,78,Go Ahead Eagles,home, 64 ,Substitution, Finn Stokkers , Isac Lidberg 
+1117,78,Go Ahead Eagles,home, 64 ,Substitution, Tesfaldet Tekie , Evert Linthorst 
+1118,78,Go Ahead Eagles,home, 66 ,Yellow card, Tesfaldet Tekie ,
+1119,78,Go Ahead Eagles,home, 70 ,Yellow card, Oliver Edvardsen ,
+1120,78,Cambuur,away, 73 ,Substitution, Roberts Uldriķis , Tom Boere 
+1121,78,Cambuur,away, 73 ,Substitution, Felix Mambimbi , Remco Balk 
+1122,78,Go Ahead Eagles,home, 79 ,Substitution, Martijn Berden , Bobby Adekanye 
+1123,78,Go Ahead Eagles,home, 79 ,Substitution, Sylla Sow , Oliver Edvardsen 
+1124,78,Cambuur,away, 89 ,Substitution, Jasper ter Heide , Mitchel Paulissen 
+1125,78,Go Ahead Eagles,home, 91 ,Substitution, Gerrit Nauber , Jamal Amofa 
+1126,79,Excelsior,away, 22 ,Yellow card, Serano Seymor ,
+1127,79,Excelsior,away, 29 ,Substitution, Joshua Eijgenraam , Yassin Ayoub 
+1128,79,NEC,home, 35 ,Disallowed goal,Disallowed goal,
+1129,79,Excelsior,away, 45 ,Substitution, Lazaros Lamprou , Marouan Azarkan 
+1130,79,NEC,home, 59 ,Goal, Landry Dimata , Oussama Tannane 
+1131,79,Excelsior,away, 70 ,Substitution, Reda Kharchouch , Couhaib Driouech 
+1132,79,Excelsior,away, 74 ,Yellow card, Julian Baas ,
+1133,79,NEC,home, 78 ,Substitution, Pedro Marques , Landry Dimata 
+1134,79,NEC,home, 81 ,Yellow card, Iván Márquez ,
+1135,79,Excelsior,away, 81 ,Substitution, Maxime Awoudja , Serano Seymor 
+1136,79,Excelsior,away, 81 ,Substitution, Jacky Donkor , Kenzo Goudmijn 
+1137,79,NEC,home, 84 ,Substitution, Mikkel Duelund , Dirk Proper 
+1138,79,Excelsior,away, 88 ,Goal, Lazaros Lamprou ,
+1139,79,NEC,home, 89 ,Yellow card, Oussama Tannane ,
+1140,79,Excelsior,away, 90 ,Yellow card, Mike van Duinen ,
+1141,80,Sparta,home, 13 ,Goal, Vito van Crooy , Mica Pinto 
+1142,80,Sparta,home, 21 ,Yellow card, Dirk Abels ,
+1143,80,Emmen,away, 45 ,Substitution, Mohamed Bouchouari , Lucas Bernadou 
+1144,80,Emmen,away, 45 ,Substitution, Ahmed El Messaoudi , Richairo Živković 
+1145,80,Sparta,home, 47 ,Yellow card, Tobias Lauritsen ,
+1146,80,Emmen,away, 51 ,Goal, Ole Romeny , Mohamed Bouchouari 
+1147,80,Emmen,away, 61 ,Yellow card, Miguel Araujo ,
+1148,80,Emmen,away, 69 ,Second yellow card, Miguel Araujo ,
+1149,80,Sparta,home, 77 ,Substitution, Koki Saito , Younes Namli 
+1150,80,Sparta,home, 77 ,Substitution, Joshua Kitolano , Jonathan de Guzman 
+1151,80,Emmen,away, 77 ,Substitution, Michaël Heylen , Rui Mendes 
+1152,80,Sparta,home, 79 ,Disallowed goal,Disallowed goal,
+1153,80,Sparta,home, 82 ,Goal, Bart Vriends , Vito van Crooy 
+1154,80,Sparta,home, 85 ,Substitution, Mario Engels , Dirk Abels 
+1155,80,Emmen,away, 85 ,Substitution, Jasin Assehnoun , Jeroen Veldmate 
+1156,80,Sparta,home, 85 ,Substitution, Jeremy van Mullem , Tobias Lauritsen 
+1157,80,Emmen,away, 91 ,Substitution, Julius Dirksen , Lorenzo Burnet 
+1158,80,Sparta,home, 92 ,Yellow card, Arno Verschueren ,
+1159,80,Sparta,home, 95 ,Substitution, Omar Rekik , Arno Verschueren 
+1160,80,Sparta,home, 96 ,Goal, Mario Engels , Sven Mijnans 
+1161,80,Sparta,home, 96 ,Yellow card, Mario Engels ,
+1162,80,Emmen,away, 98 ,Yellow card, Jasin Assehnoun ,
+1163,81,Ajax,away, 17 ,Penalty, Dušan Tadić , Penalty 
+1164,81,Ajax,away, 39 ,Goal, Calvin Bassey , Steven Berghuis 
+1165,81,Volendam,home, 45 ,Substitution, Benaissa Benamar , Oskar Buur 
+1166,81,Volendam,home, 60 ,Substitution, Henk Veerman , Robert Mühren 
+1167,81,Volendam,home, 60 ,Substitution, Daryl van Mieghem , Achraf Douiri 
+1168,81,Ajax,away, 61 ,Substitution, Brian Brobbey , Mohammed Kudus 
+1169,81,Ajax,away, 61 ,Substitution, Davy Klaassen , Dušan Tadić 
+1170,81,Ajax,away, 64 ,Goal, Brian Brobbey , Jurriën Timber 
+1171,81,Volendam,home, 70 ,Substitution, Lequincio Zeefuik , Gaetano Oristanio 
+1172,81,Ajax,away, 73 ,Substitution, Florian Grillitsch , Devyne Rensch 
+1173,81,Ajax,away, 73 ,Substitution, Francisco Conceição , Steven Bergwijn 
+1174,81,Volendam,home, 74 ,Goal, Lequincio Zeefuik ,
+1175,81,Ajax,away, 81 ,Yellow card, Francisco Conceição ,
+1176,81,Ajax,away, 82 ,Substitution, Youri Baas , Kenneth Taylor 
+1177,81,Volendam,home, 84 ,Yellow card, Carel Eiting ,
+1178,81,Volendam,home, 86 ,Goal, Carel Eiting , Ibrahim El Kadiri 
+1179,81,Ajax,away, 87 ,Yellow card, Davy Klaassen ,
+1180,81,Volendam,home, 88 ,Yellow card, Brian Plat ,
+1181,81,Ajax,away, 95 ,Yellow card, Brian Brobbey ,
+1182,81,Ajax,away, 96 ,Goal, Davy Klaassen , Francisco Conceição 
+1183,82,Groningen,home, 14 ,Penalty, Ricardo Pepi , Penalty 
+1184,82,Groningen,home, 35 ,Yellow card, Mike te Wierik ,
+1185,82,Groningen,home, 36 ,Red card, Radinio Balker ,
+1186,82,Waalwijk,away, 38 ,Penalty, Dario Van Den Buijs , Penalty 
+1187,82,Groningen,home, 39 ,Substitution, Nordin Musampa , Ragnar Oratmangoen 
+1188,82,Waalwijk,away, 53 ,Substitution, Mika Biereth , Thierry Lutonda 
+1189,82,Waalwijk,away, 61 ,Goal, Mika Biereth , Julian Lelieveld 
+1190,82,Waalwijk,away, 73 ,Substitution, Patrick Vroegh , Pelle Clement 
+1191,82,Waalwijk,away, 74 ,Substitution, Zakaria Bakkali , Julen Lobete 
+1192,82,Groningen,home, 76 ,Goal, Ricardo Pepi , Florian Krüger 
+1193,82,Waalwijk,away, 80 ,Goal, Mika Biereth , Iliass Bel Hassani 
+1194,82,Waalwijk,away, 82 ,Substitution, Yassin Oukili , Iliass Bel Hassani 
+1195,82,Waalwijk,away, 82 ,Substitution, Saïd Bakari , Roy Kuijpers 
+1196,82,Waalwijk,away, 83 ,Yellow card, Mika Biereth ,
+1197,82,Waalwijk,away, 83 ,Yellow card, Yassin Oukili ,
+1198,82,Groningen,home, 85 ,Substitution, Cyril Ngonge , Florian Krüger 
+1199,82,Groningen,home, 85 ,Substitution, Luciano Valente , Joey Pelupessy 
+1200,83,Emmen,home, 74 ,Yellow card, Mark Diemers ,
+1201,83,Heerenveen,away, 76 ,Substitution, Antoine Colassin , Sydney van Hooijdonk 
+1202,83,Heerenveen,away, 76 ,Substitution, Tibor Halilović , Simon Olsson 
+1203,83,Emmen,home, 78 ,Substitution, Ahmed El Messaoudi , Mark Diemers 
+1204,83,Emmen,home, 83 ,Substitution, Mohamed Bouchouari , Ole Romeny 
+1205,83,Emmen,home, 83 ,Substitution, Jasin Assehnoun , Richairo Živković 
+1206,83,Emmen,home, 86 ,Substitution, Fernando Pacheco , Lucas Bernadou 
+1207,84,Waalwijk,home, 10 ,Goal, Michiel Kramer , Iliass Bel Hassani 
+1208,84,Sparta,away, 35 ,Goal, Arno Verschueren , Tobias Lauritsen 
+1209,84,Waalwijk,home, 42 ,Substitution, Roy Kuijpers , Michiel Kramer 
+1210,84,Waalwijk,home, 45 ,Substitution, Patrick Vroegh , Dario Van Den Buijs 
+1211,84,Waalwijk,home, 60 ,Goal, Iliass Bel Hassani , Roy Kuijpers 
+1212,84,Sparta,away, 62 ,Red card, Shurandy Sambo ,
+1213,84,Sparta,away, 65 ,Substitution, Dirk Abels , Jonathan de Guzman 
+1214,84,Waalwijk,home, 67 ,Yellow card, Iliass Bel Hassani ,
+1215,84,Waalwijk,home, 72 ,Substitution, Zakaria Bakkali , Iliass Bel Hassani 
+1216,84,Sparta,away, 75 ,Goal, Arno Verschueren , Vito van Crooy 
+1217,84,Sparta,away, 78 ,Substitution, Joshua Kitolano , Younes Namli 
+1218,84,Waalwijk,home, 86 ,Substitution, Mika Biereth , Pelle Clement 
+1219,84,Sparta,away, 87 ,Substitution, Omar Rekik , Sven Mijnans 
+1220,84,Sparta,away, 88 ,Substitution, Jeremy van Mullem , Arno Verschueren 
+1221,84,Waalwijk,home, 90 ,Yellow card, Shawn Adewoye ,
+1222,85,Excelsior,home, 19 ,Yellow card, Siebe Horemans ,
+1223,85,Utrecht,away, 31 ,Goal, Sander van de Streek , Can Bozdoğan 
+1224,85,Utrecht,away, 39 ,Yellow card, Can Bozdoğan ,
+1225,85,Utrecht,away, 57 ,Substitution, Luuk Brouwers , Jens Toornstra 
+1226,85,Utrecht,away, 58 ,Substitution, Arthur Zagré , Amin Younes 
+1227,85,Utrecht,away, 68 ,Substitution, Hidde ter Avest , Sean Klaiber 
+1228,85,Utrecht,away, 68 ,Substitution, Moussa Sylla , Naoki Maeda 
+1229,85,Excelsior,home, 69 ,Substitution, Reda Kharchouch , Marouan Azarkan 
+1230,85,Excelsior,home, 69 ,Substitution, Lazaros Lamprou , Couhaib Driouech 
+1231,85,Excelsior,home, 78 ,Substitution, Jacky Donkor , Kenzo Goudmijn 
+1232,85,Utrecht,away, 80 ,Substitution, Daishawn Redan , Sander van de Streek 
+1233,85,Excelsior,home, 83 ,Substitution, Maxime Awoudja , Nathan Tjoe-A-On 
+1234,85,Excelsior,home, 90 ,Yellow card, Redouan El Yaakoubi ,
+1235,86,NEC,home, 7 ,Yellow card, Magnus Mattsson ,
+1236,86,Feyenoord,away, 23 ,Goal, Quinten Timber , Danilo 
+1237,86,Feyenoord,away, 31 ,Yellow card, Gernot Trauner ,
+1238,86,NEC,home, 37 ,Goal, Iván Márquez , Oussama Tannane 
+1239,86,Feyenoord,away, 62 ,Substitution, Sebastian Szymański , Oussama Idrissi 
+1240,86,Feyenoord,away, 62 ,Substitution, Lutsharel Geertruida , Marcus Pedersen 
+1241,86,Feyenoord,away, 62 ,Substitution, Santiago Giménez , Danilo 
+1242,86,Feyenoord,away, 63 ,Yellow card, Sebastian Szymański ,
+1243,86,Feyenoord,away, 64 ,Yellow card, Alireza Jahanbakhsh ,
+1244,86,NEC,home, 68 ,Substitution, Ibrahim Cissoko , Landry Dimata 
+1245,86,NEC,home, 68 ,Substitution, Mikkel Duelund , Magnus Mattsson 
+1246,86,Feyenoord,away, 74 ,Substitution, Igor Paixão , Alireza Jahanbakhsh 
+1247,86,Feyenoord,away, 78 ,Yellow card, Javairô Dilrosun ,
+1248,86,Feyenoord,away, 80 ,Substitution, Ezequiel Bullaude , Javairô Dilrosun 
+1249,86,Feyenoord,away, 84 ,Yellow card, Quinten Timber ,
+1250,86,NEC,home, 93 ,Substitution, Pedro Marques , Oussama Tannane 
+1251,86,Feyenoord,away, 95 ,Yellow card, Santiago Giménez ,
+1252,87,Fortuna,home, 12 ,Substitution, Dogan Erdoğan , Deroy Duarte 
+1253,87,Fortuna,home, 33 ,Goal, Úmaro Embaló ,
+1254,87,Volendam,away, 39 ,Red card, Bilal Ould-Chikh ,
+1255,87,Fortuna,home, 44 ,Goal, Oguzhan Özyakup , Ivo Pinto 
+1256,87,Volendam,away, 45 ,Substitution, Henk Veerman , Daryl van Mieghem 
+1257,87,Volendam,away, 61 ,Substitution, Walid Ould-Chikh , Benaissa Benamar 
+1258,87,Fortuna,home, 68 ,Yellow card, Arianit Ferati ,
+1259,87,Fortuna,home, 71 ,Substitution, Remy Vita , Úmaro Embaló 
+1260,87,Fortuna,home, 71 ,Substitution, Tunahan Taşçı , Inigo Cordoba 
+1261,87,Volendam,away, 71 ,Substitution, Lequincio Zeefuik , Robert Mühren 
+1262,87,Fortuna,home, 81 ,Substitution, Vasilis Sourlis , Oguzhan Özyakup 
+1263,87,Fortuna,home, 81 ,Substitution, Cole Bassett , Arianit Ferati 
+1264,88,Twente,home, 37 ,Goal, Joshua Brenet , Václav Černý 
+1265,88,Twente,home, 49 ,Yellow card, Robin Pröpper ,
+1266,88,Vitesse,away, 52 ,Yellow card, Maximilian Wittek ,
+1267,88,Vitesse,away, 67 ,Substitution, Nikolai Frederiksen , Maximilian Wittek 
+1268,88,Twente,home, 74 ,Goal, Virgil Misidjan , Mathias Kjølø 
+1269,88,Twente,home, 75 ,Substitution, Sem Steijn , Michel Vlap 
+1270,88,Twente,home, 75 ,Substitution, Christos Tzolis , Václav Černý 
+1271,88,Vitesse,away, 81 ,Substitution, Romaric Yapi , Bartosz Białek 
+1272,88,Vitesse,away, 81 ,Substitution, Thomas Buitink , Million Manhoef 
+1273,88,Vitesse,away, 82 ,Substitution, Gabriel Vidović , Kacper Kozłowski 
+1274,88,Twente,home, 83 ,Substitution, Manfred Ugalde , Ricky van Wolfswinkel 
+1275,88,Twente,home, 83 ,Substitution, Julio Pleguezuelo , Mees Hilgers 
+1276,88,Twente,home, 87 ,Substitution, Wout Brama , Mathias Kjølø 
+1277,88,Twente,home, 93 ,Goal, Gijs Smal ,
+1278,89,Go Ahead Eagles,away, 23 ,Yellow card, Jamal Amofa ,
+1279,89,Ajax,home, 45 ,Goal, Davy Klaassen , Dušan Tadić 
+1280,89,Go Ahead Eagles,away, 45 ,Substitution, Gerrit Nauber , Jamal Amofa 
+1281,89,Ajax,home, 63 ,Substitution, Edson Álvarez , Florian Grillitsch 
+1282,89,Go Ahead Eagles,away, 63 ,Substitution, Finn Stokkers , Isac Lidberg 
+1283,89,Ajax,home, 63 ,Substitution, Steven Bergwijn , Lucas Ocampos 
+1284,89,Go Ahead Eagles,away, 72 ,Substitution, Martijn Berden , Bobby Adekanye 
+1285,89,Go Ahead Eagles,away, 78 ,Goal, Willum Willumsson , Finn Stokkers 
+1286,89,Ajax,home, 82 ,Substitution, Steven Berghuis , Davy Klaassen 
+1287,89,Ajax,home, 82 ,Substitution, Lorenzo Lucca , Jurriën Timber 
+1288,89,Ajax,home, 83 ,Substitution, Mohammed Kudus , Brian Brobbey 
+1289,89,Go Ahead Eagles,away, 89 ,Substitution, José Fontán , Oliver Edvardsen 
+1290,89,Ajax,home, 95 ,Yellow card, Lorenzo Lucca ,
+1291,90,AZ,away, 3 ,Goal, Dani de Wit ,
+1292,90,Groningen,home, 12 ,Substitution, Damil Dankerlui , Liam van Gelderen 
+1293,90,AZ,away, 19 ,Goal, Jesper Karlsson , Tijjani Reijnders 
+1294,90,AZ,away, 38 ,Substitution, Riechedly Bazoer , Dani de Wit 
+1295,90,Groningen,home, 42 ,Goal, Ricardo Pepi , Neraysho Kasanwirjo 
+1296,90,AZ,away, 45 ,Substitution, Mayckel Lahdo , Jesper Karlsson 
+1297,90,AZ,away, 61 ,Goal, Milos Kerkez , Tijjani Reijnders 
+1298,90,Groningen,home, 63 ,Substitution, Cyril Ngonge , Ragnar Oratmangoen 
+1299,90,AZ,away, 77 ,Substitution, Peer Koopmeiners , Myron van Brederode 
+1300,90,Groningen,home, 80 ,Yellow card, Joey Pelupessy ,
+1301,90,Groningen,home, 81 ,Substitution, Ramon Lundqvist , Ricardo Pepi 
+1302,90,Groningen,home, 82 ,Substitution, Nordin Musampa , Laros Duarte 
+1303,90,Groningen,home, 82 ,Substitution, Luciano Valente , Isak Määttä 
+1304,90,AZ,away, 84 ,Yellow card, Milos Kerkez ,
+1305,90,AZ,away, 85 ,Goal, Mayckel Lahdo , Peer Koopmeiners 
+1306,90,AZ,away, 89 ,Substitution, Zinho Vanheusden , Milos Kerkez 
+1307,91,Cambuur,home, 54 ,Goal, Silvester van der Water , Tom Boere 
+1308,91,PSV,away, 60 ,Substitution, Sávio , Ismael Saibari 
+1309,91,PSV,away, 60 ,Substitution, Yorbe Vertessen , Xavi Simons 
+1310,91,PSV,away, 63 ,Yellow card, Philipp Max ,
+1311,91,PSV,away, 68 ,Substitution, Fredrik Oppegård , Philipp Max 
+1312,91,PSV,away, 69 ,Substitution, Érick Gutiérrez , Joey Veerman 
+1313,91,Cambuur,home, 70 ,Substitution, Calvin Mac-Intosch , Marco Tol 
+1314,91,Cambuur,home, 71 ,Substitution, David Sambissa , Silvester van der Water 
+1315,91,Cambuur,home, 80 ,Substitution, Felix Mambimbi , Remco Balk 
+1316,91,PSV,away, 80 ,Substitution, Richard Ledezma , Ibrahim Sangaré 
+1317,91,Cambuur,home, 84 ,Goal, Mitchel Paulissen , Felix Mambimbi 
+1318,91,Cambuur,home, 88 ,Substitution, Michael Breij , Mitchel Paulissen 
+1319,91,Cambuur,home, 90 ,Goal, Sai Van Wermeskerken ,
+1320,92,Ajax,away, 12 ,Goal, Mohammed Kudus , Kenneth Taylor 
+1321,92,Ajax,away, 26 ,Yellow card, Kenneth Taylor ,
+1322,92,AZ,home, 40 ,Goal, Mees de Wit ,
+1323,92,AZ,home, 42 ,Yellow card, Milos Kerkez ,
+1324,92,AZ,home, 47 ,Substitution, Maxim Dekker , Bruno Martins Indi 
+1325,92,AZ,home, 49 ,Yellow card, Jens Odgaard ,
+1326,92,AZ,home, 51 ,Goal, Jens Odgaard , Pantelis Hatzidiakos 
+1327,92,Ajax,away, 45 ,Substitution, Davy Klaassen , Kenneth Taylor 
+1328,92,Ajax,away, 63 ,Substitution, Brian Brobbey , Devyne Rensch 
+1329,92,Ajax,away, 77 ,Yellow card, Edson Álvarez ,
+1330,92,Ajax,away, 81 ,Substitution, Lorenzo Lucca , Mohammed Kudus 
+1331,92,Ajax,away, 82 ,Substitution, Lucas Ocampos , Steven Bergwijn 
+1332,92,AZ,home, 85 ,Substitution, Mayckel Lahdo , Jens Odgaard 
+1333,92,AZ,home, 85 ,Substitution, Riechedly Bazoer , Mees de Wit 
+1334,92,AZ,home, 87 ,Yellow card, Tijjani Reijnders ,
+1335,93,Twente,away, 2 ,Goal, Virgil Misidjan ,
+1336,93,Twente,away, 14 ,Yellow card, Gijs Smal ,
+1337,93,Twente,away, 15 ,Yellow card, Robin Pröpper ,
+1338,93,Heerenveen,home, 28 ,Goal, Milan van Ewijk , Amin Sarr 
+1339,93,Heerenveen,home, 36 ,Goal, Paweł Bochniewicz , Anas Tahiri 
+1340,93,Heerenveen,home, 55 ,Yellow card, Anas Tahiri ,
+1341,93,Heerenveen,home, 62 ,Substitution, Rami Al Hajj , Antoine Colassin 
+1342,93,Twente,away, 65 ,Substitution, Manfred Ugalde , Mathias Kjølø 
+1343,93,Heerenveen,home, 69 ,Missed penalty, Amin Sarr , Missed penalty 
+1344,93,Twente,away, 75 ,Substitution, Daan Rots , Virgil Misidjan 
+1345,93,Twente,away, 76 ,Substitution, Julio Pleguezuelo , Robin Pröpper 
+1346,93,Heerenveen,home, 79 ,Yellow card, Rami Kaib ,
+1347,93,Heerenveen,home, 84 ,Substitution, Hussein Ali , Rami Kaib 
+1348,93,Heerenveen,home, 84 ,Substitution, Syb van Ottele , Sydney van Hooijdonk 
+1349,93,Twente,away, 89 ,Substitution, Denilho Cleonise , Václav Černý 
+1350,93,Twente,away, 89 ,Substitution, Wout Brama , Michel Vlap 
+1351,93,Heerenveen,home, 96 ,Yellow card, Syb van Ottele ,
+1352,94,Feyenoord,away, 3 ,Goal, Oussama Idrissi , Alireza Jahanbakhsh 
+1353,94,PSV,home, 16 ,Goal, Jarrad Branthwaite , Cody Gakpo 
+1354,94,PSV,home, 25 ,Goal, Cody Gakpo , Xavi Simons 
+1355,94,Feyenoord,away, 42 ,Goal, Danilo ,
+1356,94,PSV,home, 47 ,Goal, Guus Til , Cody Gakpo 
+1357,94,Feyenoord,away, 56 ,Substitution, Patrik Wålemark , Alireza Jahanbakhsh 
+1358,94,Feyenoord,away, 56 ,Substitution, Igor Paixão , Oussama Idrissi 
+1359,94,Feyenoord,away, 56 ,Substitution, Santiago Giménez , Danilo 
+1360,94,PSV,home, 62 ,Yellow card, Guus Til ,
+1361,94,Feyenoord,away, 71 ,Substitution, Sebastian Szymański , Javairô Dilrosun 
+1362,94,Feyenoord,away, 73 ,Goal, Orkun Kökcü , Marcos López 
+1363,94,PSV,home, 74 ,Substitution, Johan Bakayoko , Xavi Simons 
+1364,94,PSV,home, 74 ,Substitution, Érick Gutiérrez , Guus Til 
+1365,94,Feyenoord,away, 78 ,Yellow card, Orkun Kökcü ,
+1366,94,PSV,home, 83 ,Goal, Armando Obispo , Cody Gakpo 
+1367,94,PSV,home, 85 ,Substitution, André Ramalho , Armando Obispo 
+1368,94,Feyenoord,away, 85 ,Substitution, Ezequiel Bullaude , Marcos López 
+1369,94,PSV,home, 93 ,Substitution, Phillipp Mwene , Joey Veerman 
+1370,94,PSV,home, 95 ,Yellow card, Johan Bakayoko ,
+1371,95,Go Ahead Eagles,home, 31 ,Goal, Oliver Edvardsen , Willum Willumsson 
+1372,95,Emmen,away, 46 ,Yellow card, Keziah Veendorp ,
+1373,95,Emmen,away, 45 ,Substitution, Mohamed Bouchouari , Keziah Veendorp 
+1374,95,Go Ahead Eagles,home, 57 ,Goal, Oliver Edvardsen , Mats Deijl 
+1375,95,Go Ahead Eagles,home, 64 ,Yellow card, Evert Linthorst ,
+1376,95,Go Ahead Eagles,home, 70 ,Substitution, Martijn Berden , Bobby Adekanye 
+1377,95,Go Ahead Eagles,home, 70 ,Substitution, Sylla Sow , Willum Willumsson 
+1378,95,Emmen,away, 71 ,Substitution, Jasin Assehnoun , Lorenzo Burnet 
+1379,95,Emmen,away, 71 ,Substitution, Julius Dirksen , Jari Vlak 
+1380,95,Emmen,away, 71 ,Substitution, Fernando Pacheco , Richairo Živković 
+1381,95,Emmen,away, 76 ,Yellow card, Lucas Bernadou ,
+1382,95,Go Ahead Eagles,home, 79 ,Substitution, Tesfaldet Tekie , Oliver Edvardsen 
+1383,95,Go Ahead Eagles,home, 85 ,Disallowed goal,Disallowed goal,
+1384,95,Emmen,away, 87 ,Substitution, Michaël Heylen , Lucas Bernadou 
+1385,95,Go Ahead Eagles,home, 94 ,Yellow card, Jamal Amofa ,
+1386,96,Excelsior,away, 47 ,Yellow card, Yassin Ayoub ,
+1387,96,Fortuna,home, 55 ,Substitution, Úmaro Embaló , Tijjani Noslin 
+1388,96,Fortuna,home, 55 ,Substitution, Oguzhan Özyakup , Deroy Duarte 
+1389,96,Excelsior,away, 56 ,Substitution, Lazaros Lamprou , Adrian Fein 
+1390,96,Fortuna,home, 61 ,Substitution, Remy Vita , Inigo Cordoba 
+1391,96,Fortuna,home, 66 ,Yellow card, Mats Seuntjens ,
+1392,96,Excelsior,away, 68 ,Substitution, Joshua Eijgenraam , Yassin Ayoub 
+1393,96,Fortuna,home, 73 ,Substitution, Roel Janssen , Dimitrios Siovas 
+1394,96,Fortuna,home, 77 ,Second yellow card, Mats Seuntjens ,
+1395,96,Fortuna,home, 78 ,Yellow card, Burak Yilmaz ,
+1396,96,Excelsior,away, 81 ,Substitution, Reda Kharchouch , Mike van Duinen 
+1397,96,Excelsior,away, 82 ,Substitution, Nathangelo Markelo , Couhaib Driouech 
+1398,96,Excelsior,away, 84 ,Yellow card, Joshua Eijgenraam ,
+1399,96,Fortuna,home, 87 ,Goal, Remy Vita ,
+1400,96,Excelsior,away, 90 ,Yellow card, Reda Kharchouch ,
+1401,96,Fortuna,home, 93 ,Yellow card, Ivor Pandur ,
+1402,97,Cambuur,away, 8 ,Red card, Mees Hoedemakers ,
+1403,97,Cambuur,away, 13 ,Substitution, Daniël van Kaam , Felix Mambimbi 
+1404,97,Cambuur,away, 17 ,Goal, Jamie Jacobs ,
+1405,97,Waalwijk,home, 22 ,Yellow card, Julen Lobete ,
+1406,97,Cambuur,away, 22 ,Yellow card, Mitchel Paulissen ,
+1407,97,Cambuur,away, 31 ,Yellow card, Jamie Jacobs ,
+1408,97,Waalwijk,home, 32 ,Penalty, Michiel Kramer , Penalty 
+1409,97,Cambuur,away, 46 ,Red card, Alex Bangura ,
+1410,97,Waalwijk,home, 45 ,Substitution, Florian Jozefzoon , Dario Van Den Buijs 
+1411,97,Waalwijk,home, 45 ,Substitution, Roy Kuijpers , Julen Lobete 
+1412,97,Cambuur,away, 45 ,Substitution, David Sambissa , Silvester van der Water 
+1413,97,Cambuur,away, 45 ,Substitution, Michael Breij , Tom Boere 
+1414,97,Waalwijk,home, 57 ,Yellow card, Julian Lelieveld ,
+1415,97,Waalwijk,home, 60 ,Substitution, Zakaria Bakkali , Thierry Lutonda 
+1416,97,Cambuur,away, 68 ,Substitution, Calvin Mac-Intosch , Leon Bergsma 
+1417,97,Waalwijk,home, 71 ,Substitution, Mika Biereth , Julian Lelieveld 
+1418,97,Waalwijk,home, 77 ,Own goal, Marco Tol , Own goal 
+1419,97,Waalwijk,home, 82 ,Goal, Zakaria Bakkali , Shawn Adewoye 
+1420,97,Cambuur,away, 83 ,Substitution, Remco Balk , Mitchel Paulissen 
+1421,97,Waalwijk,home, 84 ,Substitution, Patrick Vroegh , Pelle Clement 
+1422,97,Waalwijk,home, 86 ,Goal, Iliass Bel Hassani , Vurnon Anita 
+1423,97,Waalwijk,home, 89 ,Goal, Michiel Kramer , Vurnon Anita 
+1424,98,Volendam,away, 21 ,Goal, Robert Mühren ,
+1425,98,Volendam,away, 37 ,Substitution, Achraf Douiri , Brian Plat 
+1426,98,Vitesse,home, 48 ,Goal, Bartosz Białek , Kacper Kozłowski 
+1427,98,Volendam,away, 62 ,Yellow card, Filip Stanković ,
+1428,98,Vitesse,home, 62 ,Yellow card, Bartosz Białek ,
+1429,98,Volendam,away, 64 ,Substitution, Henk Veerman , Bilal Ould-Chikh 
+1430,98,Volendam,away, 64 ,Substitution, Ibrahim El Kadiri , Daryl van Mieghem 
+1431,98,Vitesse,home, 71 ,Substitution, Million Manhoef , Kacper Kozłowski 
+1432,98,Vitesse,home, 76 ,Substitution, Nikolai Frederiksen , Gabriel Vidović 
+1433,98,Vitesse,home, 78 ,Yellow card, Enzo Cornelisse ,
+1434,98,Vitesse,home, 85 ,Substitution, Romaric Yapi , Bartosz Białek 
+1435,98,Vitesse,home, 85 ,Substitution, Thomas Buitink , Enzo Cornelisse 
+1436,98,Volendam,away, 87 ,Substitution, Oskar Buur , Robert Mühren 
+1437,98,Volendam,away, 87 ,Substitution, Walid Ould-Chikh , Gaetano Oristanio 
+1438,99,Sparta,home, 19 ,Disallowed goal,Disallowed goal,
+1439,99,Groningen,away, 28 ,Yellow card, Radinio Balker ,
+1440,99,Groningen,away, 61 ,Goal, Ricardo Pepi , Isak Määttä 
+1441,99,Groningen,away, 65 ,Substitution, Florian Krüger , Ricardo Pepi 
+1442,99,Sparta,home, 73 ,Goal, Sven Mijnans , Vito van Crooy 
+1443,99,Groningen,away, 73 ,Substitution, Neraysho Kasanwirjo , Isak Määttä 
+1444,99,Sparta,home, 76 ,Substitution, Younes Namli , Koki Saito 
+1445,99,Sparta,home, 76 ,Substitution, Jeremy van Mullem , Jonathan de Guzman 
+1446,99,Groningen,away, 79 ,Yellow card, Marin Šverko ,
+1447,99,Groningen,away, 84 ,Yellow card, Michael Verrips ,
+1448,99,Sparta,home, 90 ,Penalty, Vito van Crooy , Penalty 
+1449,99,Sparta,home, 90 ,Substitution, Arno Verschueren , Sven Mijnans 
+1450,99,Sparta,home, 90 ,Substitution, Mario Engels , Tobias Lauritsen 
+1451,99,Groningen,away, 91 ,Substitution, Ramon Lundqvist , Liam van Gelderen 
+1452,99,Sparta,home, 92 ,Substitution, Mike Eerdhuijzen , Vito van Crooy 
+1453,100,Utrecht,home, 40 ,Yellow card, Djevencio van der Kust ,
+1454,100,Utrecht,home, 45 ,Substitution, Django Warmerdam , Djevencio van der Kust 
+1455,100,Utrecht,home, 63 ,Substitution, Daishawn Redan , Anastasios Douvikas 
+1456,100,Utrecht,home, 64 ,Substitution, Sander van de Streek , Moussa Sylla 
+1457,100,Utrecht,home, 71 ,Yellow card, Can Bozdoğan ,
+1458,100,NEC,away, 73 ,Yellow card, Lasse Schone ,
+1459,100,Utrecht,home, 73 ,Substitution, Sean Klaiber , Hidde ter Avest 
+1460,100,NEC,away, 76 ,Substitution, Terry Sanniez , Magnus Mattsson 
+1461,100,NEC,away, 82 ,Substitution, Andri Baldursson , Dirk Proper 
+1462,100,NEC,away, 86 ,Substitution, Pedro Marques , Landry Dimata 
+1463,100,NEC,away, 86 ,Substitution, Ibrahim Cissoko , Elayis Tavşan 
+1464,100,Utrecht,home, 89 ,Substitution, Luuk Brouwers , Can Bozdoğan 
+1465,100,Utrecht,home, 90 ,Yellow card, Othmane Boussaid ,
+1466,101,Feyenoord,home, 5 ,Goal, Orkun Kökcü , Javairô Dilrosun 
+1467,101,Sparta,away, 33 ,Substitution, Koki Saito , Tobias Lauritsen 
+1468,101,Feyenoord,home, 35 ,Goal, Javairô Dilrosun , Oussama Idrissi 
+1469,101,Feyenoord,home, 63 ,Substitution, Igor Paixão , Oussama Idrissi 
+1470,101,Feyenoord,home, 64 ,Substitution, Santiago Giménez , Danilo 
+1471,101,Sparta,away, 64 ,Substitution, Jason Eyenga-Lokilo , Jonathan de Guzman 
+1472,101,Sparta,away, 64 ,Substitution, Aaron Meijers , Mica Pinto 
+1473,101,Feyenoord,home, 73 ,Goal, Santiago Giménez , Igor Paixão 
+1474,101,Feyenoord,home, 74 ,Substitution, Mats Wieffer , Javairô Dilrosun 
+1475,101,Feyenoord,home, 84 ,Substitution, Ezequiel Bullaude , Orkun Kökcü 
+1476,101,Feyenoord,home, 84 ,Substitution, Mimeirhel Benita , Marcus Pedersen 
+1477,101,Sparta,away, 89 ,Substitution, Patrick Brouwer , Younes Namli 
+1478,102,AZ,home, 33 ,Substitution, Mayckel Lahdo , Håkon Evjen 
+1479,102,Twente,away, 41 ,Substitution, Wout Brama , Mathias Kjølø 
+1480,102,AZ,home, 46 ,Yellow card, Jordy Clasie ,
+1481,102,AZ,home, 54 ,Goal, Jens Odgaard ,
+1482,102,Twente,away, 58 ,Substitution, Virgil Misidjan , Christos Tzolis 
+1483,102,Twente,away, 58 ,Substitution, Daan Rots , Michel Vlap 
+1484,102,AZ,home, 61 ,Substitution, Yukinari Sugawara , Pantelis Hatzidiakos 
+1485,102,AZ,home, 61 ,Substitution, Mees de Wit , Myron van Brederode 
+1486,102,AZ,home, 78 ,Substitution, Riechedly Bazoer , Jens Odgaard 
+1487,102,Twente,away, 79 ,Substitution, Manfred Ugalde , Václav Černý 
+1488,102,AZ,home, 79 ,Substitution, Yusuf Barası , Dani de Wit 
+1489,102,Twente,away, 81 ,Goal, Manfred Ugalde , Joshua Brenet 
+1490,102,Twente,away, 89 ,Yellow card, Mees Hilgers ,
+1491,102,Twente,away, 92 ,Yellow card, Virgil Misidjan ,
+1492,103,Waalwijk,away, 23 ,Yellow card, Juriën Gaari ,
+1493,103,Waalwijk,away, 45 ,Yellow card, Shawn Adewoye ,
+1494,103,PSV,home, 45 ,Substitution, Philipp Max , Phillipp Mwene 
+1495,103,PSV,home, 58 ,Substitution, Guus Til , Ismael Saibari 
+1496,103,PSV,home, 58 ,Substitution, Jarrad Branthwaite , Ki Hoever 
+1497,103,Waalwijk,away, 62 ,Substitution, Zakaria Bakkali , Julen Lobete 
+1498,103,PSV,home, 64 ,Yellow card, Érick Gutiérrez ,
+1499,103,PSV,home, 71 ,Substitution, Sávio , Érick Gutiérrez 
+1500,103,Waalwijk,away, 74 ,Yellow card, Dario Van Den Buijs ,
+1501,103,Waalwijk,away, 75 ,Substitution, Yassin Oukili , Juriën Gaari 
+1502,103,Waalwijk,away, 82 ,Substitution, Hans Mulder , Saïd Bakari 
+1503,103,PSV,home, 82 ,Substitution, Yorbe Vertessen , Anwar El Ghazi 
+1504,103,Waalwijk,away, 85 ,Yellow card, Michiel Kramer ,
+1505,103,Waalwijk,away, 88 ,Substitution, Patrick Vroegh , Pelle Clement 
+1506,103,Waalwijk,away, 94 ,Yellow card, Etienne Vaessen ,
+1507,103,PSV,home, 96 ,Penalty, Cody Gakpo , Penalty 
+1508,104,Cambuur,home, 19 ,Yellow card, Remco Balk ,
+1509,104,Cambuur,home, 29 ,Substitution, Felix Mambimbi , Remco Balk 
+1510,104,Groningen,away, 45 ,Substitution, Ricardo Pepi , Florian Krüger 
+1511,104,Groningen,away, 45 ,Substitution, Liam van Gelderen , Neraysho Kasanwirjo 
+1512,104,Cambuur,home, 45 ,Substitution, Calvin Mac-Intosch , Floris Smand 
+1513,104,Groningen,away, 61 ,Substitution, Marin Šverko , Luciano Valente 
+1514,104,Cambuur,home, 62 ,Substitution, David Sambissa , Silvester van der Water 
+1515,104,Cambuur,home, 62 ,Substitution, Michael Breij , Daniël van Kaam 
+1516,104,Groningen,away, 64 ,Yellow card, Tomás Suslov ,
+1517,104,Groningen,away, 71 ,Goal, Tomás Suslov , Ricardo Pepi 
+1518,104,Groningen,away, 75 ,Yellow card, Marin Šverko ,
+1519,104,Cambuur,home, 75 ,Yellow card, Michael Breij ,
+1520,104,Cambuur,home, 78 ,Substitution, Tom Boere , Marco Tol 
+1521,104,Groningen,away, 87 ,Substitution, Damil Dankerlui , Paulos Abraham 
+1522,104,Groningen,away, 89 ,Disallowed goal,Disallowed goal,
+1523,104,Groningen,away, 89 ,Yellow card, Damil Dankerlui ,
+1524,104,Groningen,away, 96 ,Substitution, Daleho Irandust , Tomás Suslov 
+1525,104,Groningen,away, 97 ,Yellow card, Daleho Irandust ,
+1526,105,Utrecht,home, 45 ,Substitution, Sean Klaiber , Hidde ter Avest 
+1527,105,Utrecht,home, 45 ,Substitution, Can Bozdoğan , Luuk Brouwers 
+1528,105,Vitesse,away, 56 ,Substitution, Mohamed Sankoh , Gabriel Vidović 
+1529,105,Vitesse,away, 56 ,Substitution, Million Manhoef , Kacper Kozłowski 
+1530,105,Utrecht,home, 78 ,Substitution, Ruben Kluivert , Modibo Sagnan 
+1531,105,Utrecht,home, 78 ,Substitution, Django Warmerdam , Djevencio van der Kust 
+1532,105,Vitesse,away, 79 ,Yellow card, Maximilian Wittek ,
+1533,105,Utrecht,home, 84 ,Goal, Bas Dost ,
+1534,105,Utrecht,home, 85 ,Substitution, Sander van de Streek , Othmane Boussaid 
+1535,105,Vitesse,away, 86 ,Substitution, Nikolai Frederiksen , Enzo Cornelisse 
+1536,105,Vitesse,away, 89 ,Substitution, Ferro , Sondre Trondstad 
+1537,106,Emmen,away, 24 ,Yellow card, Rui Mendes ,
+1538,106,Emmen,away, 45 ,Goal, Ole Romeny ,
+1539,106,Excelsior,home, 45 ,Substitution, Serano Seymor , Sven Nieuwpoort 
+1540,106,Emmen,away, 58 ,Yellow card, Jari Vlak ,
+1541,106,Emmen,away, 59 ,Substitution, Ahmed El Messaoudi , Jari Vlak 
+1542,106,Excelsior,home, 61 ,Goal, Nathan Tjoe-A-On , Kenzo Goudmijn 
+1543,106,Excelsior,home, 67 ,Yellow card, Adrian Fein ,
+1544,106,Excelsior,home, 69 ,Substitution, Lazaros Lamprou , Adrian Fein 
+1545,106,Excelsior,home, 75 ,Substitution, Raphaël Eyongo , Mike van Duinen 
+1546,106,Emmen,away, 81 ,Substitution, Jeff Hardeveld , Lorenzo Burnet 
+1547,106,Emmen,away, 82 ,Substitution, Jasin Assehnoun , Richairo Živković 
+1548,106,Excelsior,home, 86 ,Substitution, Joshua Eijgenraam , Yassin Ayoub 
+1549,106,Excelsior,home, 87 ,Substitution, Nathangelo Markelo , Nathan Tjoe-A-On 
+1550,106,Emmen,away, 93 ,Substitution, Michaël Heylen , Jeff Hardeveld 
+1551,106,Excelsior,home, 95 ,Goal, Serano Seymor , Lazaros Lamprou 
+1552,107,Ajax,home, 4 ,Goal, Davy Klaassen , Dušan Tadić 
+1553,107,Heerenveen,away, 15 ,Yellow card, Sven van Beek ,
+1554,107,Ajax,home, 16 ,Goal, Kenneth Taylor , Dušan Tadić 
+1555,107,Ajax,home, 45 ,Yellow card, Edson Álvarez ,
+1556,107,Ajax,home, 45 ,Substitution, Jorge Sánchez , Devyne Rensch 
+1557,107,Ajax,home, 48 ,Goal, Mohammed Kudus ,
+1558,107,Ajax,home, 59 ,Goal, Mohammed Kudus , Jorge Sánchez 
+1559,107,Ajax,home, 60 ,Substitution, Florian Grillitsch , Edson Álvarez 
+1560,107,Ajax,home, 61 ,Substitution, Brian Brobbey , Steven Bergwijn 
+1561,107,Heerenveen,away, 66 ,Substitution, Amin Sarr , Sydney van Hooijdonk 
+1562,107,Heerenveen,away, 67 ,Substitution, Antoine Colassin , Alex Timossi Andersson 
+1563,107,Ajax,home, 67 ,Substitution, Steven Berghuis , Kenneth Taylor 
+1564,107,Ajax,home, 70 ,Goal, Brian Brobbey , Dušan Tadić 
+1565,107,Heerenveen,away, 71 ,Yellow card, Paweł Bochniewicz ,
+1566,107,Heerenveen,away, 72 ,Substitution, Rami Al Hajj , Simon Olsson 
+1567,107,Ajax,home, 72 ,Substitution, Lucas Ocampos , Mohammed Kudus 
+1568,108,Fortuna,away, 37 ,Substitution, Remy Vita , Tijjani Noslin 
+1569,108,Fortuna,away, 45 ,Substitution, Mats Seuntjens , Inigo Cordoba 
+1570,108,Fortuna,away, 55 ,Yellow card, Deroy Duarte ,
+1571,108,NEC,home, 61 ,Substitution, Ibrahim Cissoko , Mikkel Duelund 
+1572,108,Fortuna,away, 62 ,Substitution, Oguzhan Özyakup , Ivo Pinto 
+1573,108,Fortuna,away, 71 ,Goal, Oguzhan Özyakup , Burak Yilmaz 
+1574,108,Fortuna,away, 76 ,Yellow card, Arianit Ferati ,
+1575,108,Fortuna,away, 80 ,Substitution, Dogan Erdoğan , Paul Gladon 
+1576,108,Fortuna,away, 80 ,Substitution, Roel Janssen , Arianit Ferati 
+1577,108,NEC,home, 81 ,Substitution, Magnus Mattsson , Dirk Proper 
+1578,108,NEC,home, 81 ,Substitution, Pedro Marques , Souffian El Karouani 
+1579,108,Fortuna,away, 85 ,Yellow card, Dogan Erdoğan ,
+1580,108,Fortuna,away, 87 ,Yellow card, Oguzhan Özyakup ,
+1581,108,Fortuna,away, 89 ,Second yellow card, Dogan Erdoğan ,
+1582,108,Fortuna,away, 93 ,Yellow card, Dimitrios Siovas ,
+1583,108,NEC,home, 95 ,Goal, Pedro Marques , Landry Dimata 
+1584,109,Go Ahead Eagles,away, 14 ,Substitution, Sylla Sow , Enric Llansana 
+1585,109,Go Ahead Eagles,away, 23 ,Goal, Bobby Adekanye ,
+1586,109,Volendam,home, 31 ,Goal, Carel Eiting ,
+1587,109,Go Ahead Eagles,away, 32 ,Yellow card, Jeffrey de Lange ,
+1588,109,Go Ahead Eagles,away, 44 ,Yellow card, Jay Idzes ,
+1589,109,Volendam,home, 44 ,Yellow card, Benaissa Benamar ,
+1590,109,Go Ahead Eagles,away, 45 ,Substitution, Jamal Amofa , Justin Bakker 
+1591,109,Volendam,home, 59 ,Substitution, Walid Ould-Chikh , Benaissa Benamar 
+1592,109,Volendam,home, 64 ,Yellow card, Gaetano Oristanio ,
+1593,109,Go Ahead Eagles,away, 65 ,Yellow card, Evert Linthorst ,
+1594,109,Volendam,home, 70 ,Substitution, Henk Veerman , Daryl van Mieghem 
+1595,109,Go Ahead Eagles,away, 70 ,Substitution, Willum Willumsson , Bobby Adekanye 
+1596,109,Volendam,home, 74 ,Substitution, Ibrahim El Kadiri , Gaetano Oristanio 
+1597,109,Go Ahead Eagles,away, 77 ,Goal, Bas Kuipers ,
+1598,109,Go Ahead Eagles,away, 82 ,Goal, Bas Kuipers ,
+1599,109,Volendam,home, 86 ,Yellow card, Derry Murkin ,
+1600,109,Go Ahead Eagles,away, 87 ,Substitution, Federico Mattiello , Oliver Edvardsen 
+1601,109,Volendam,home, 97 ,Goal, Robert Mühren , Carel Eiting 
+1602,109,Go Ahead Eagles,away, 99 ,Substitution, Gerrit Nauber , Sylla Sow 
+1603,110,Vitesse,away, 12 ,Disallowed goal,Disallowed goal,
+1604,110,Groningen,home, 45 ,Substitution, Yahya Kalley , Paulos Abraham 
+1605,110,Groningen,home, 45 ,Substitution, Liam van Gelderen , Isak Määttä 
+1606,110,Vitesse,away, 69 ,Substitution, Million Manhoef , Gabriel Vidović 
+1607,110,Groningen,home, 69 ,Substitution, Daleho Irandust , Cyril Ngonge 
+1608,110,Groningen,home, 69 ,Substitution, Luciano Valente , Tomás Suslov 
+1609,110,Vitesse,away, 77 ,Goal, Matús Bero , Carlens Arcus 
+1610,110,Groningen,home, 79 ,Yellow card, Luciano Valente ,
+1611,110,Groningen,home, 80 ,Substitution, Marin Šverko , Radinio Balker 
+1612,110,Vitesse,away, 81 ,Substitution, Romaric Yapi , Kacper Kozłowski 
+1613,110,Vitesse,away, 82 ,Yellow card, Ryan Flamingo ,
+1614,110,Vitesse,away, 92 ,Yellow card, Carlens Arcus ,
+1615,111,AZ,away, 5 ,Yellow card, Håkon Evjen ,
+1616,111,AZ,away, 21 ,Goal, Jens Odgaard , Jordy Clasie 
+1617,111,AZ,away, 27 ,Goal, Dani de Wit ,
+1618,111,AZ,away, 34 ,Goal, Tijjani Reijnders , Håkon Evjen 
+1619,111,Emmen,home, 45 ,Substitution, Julius Dirksen , Jeroen Veldmate 
+1620,111,Emmen,home, 60 ,Substitution, Jeff Hardeveld , Lorenzo Burnet 
+1621,111,Emmen,home, 60 ,Substitution, Ahmed El Messaoudi , Jari Vlak 
+1622,111,AZ,away, 63 ,Substitution, Yukinari Sugawara , Pantelis Hatzidiakos 
+1623,111,AZ,away, 63 ,Substitution, Mayckel Lahdo , Myron van Brederode 
+1624,111,AZ,away, 71 ,Substitution, Yusuf Barası , Jens Odgaard 
+1625,111,AZ,away, 71 ,Substitution, Peer Koopmeiners , Jordy Clasie 
+1626,111,Emmen,home, 77 ,Substitution, Jasin Assehnoun , Ole Romeny 
+1627,111,Emmen,home, 79 ,Substitution, Fernando Pacheco , Mark Diemers 
+1628,111,AZ,away, 80 ,Yellow card, Sam Beukema ,
+1629,111,AZ,away, 81 ,Substitution, Mees de Wit , Dani de Wit 
+1630,112,Heerenveen,home, 62 ,Red card, Tibor Halilović ,
+1631,112,NEC,away, 63 ,Substitution, Ibrahim Cissoko , Calvin Verdonk 
+1632,112,Heerenveen,home, 64 ,Substitution, Simon Olsson , Sydney van Hooijdonk 
+1633,112,NEC,away, 76 ,Substitution, Jordy Bruijn , Dirk Proper 
+1634,112,Heerenveen,home, 79 ,Yellow card, Thom Haye ,
+1635,112,NEC,away, 84 ,Substitution, Pedro Marques , Mikkel Duelund 
+1636,112,NEC,away, 87 ,Yellow card, Souffian El Karouani ,
+1637,112,Heerenveen,home, 87 ,Substitution, Rami Kaib , Mats Köhlert 
+1638,112,Heerenveen,home, 88 ,Substitution, Hussein Ali , Thom Haye 
+1639,113,Excelsior,away, 6 ,Substitution, Julian Baas , Marouan Azarkan 
+1640,113,Excelsior,away, 15 ,Goal, Julian Baas , Nathan Tjoe-A-On 
+1641,113,Waalwijk,home, 38 ,Goal, Shawn Adewoye , Florian Jozefzoon 
+1642,113,Excelsior,away, 43 ,Goal, Redouan El Yaakoubi , Julian Baas 
+1643,113,Waalwijk,home, 49 ,Yellow card, Juriën Gaari ,
+1644,113,Waalwijk,home, 45 ,Substitution, Julen Lobete , Florian Jozefzoon 
+1645,113,Waalwijk,home, 50 ,Goal, Pelle Clement , Julian Lelieveld 
+1646,113,Waalwijk,home, 55 ,Substitution, Saïd Bakari , Juriën Gaari 
+1647,113,Waalwijk,home, 60 ,Goal, Thierry Lutonda , Julen Lobete 
+1648,113,Excelsior,away, 67 ,Substitution, Raphaël Eyongo , Mike van Duinen 
+1649,113,Excelsior,away, 67 ,Substitution, Joshua Eijgenraam , Adrian Fein 
+1650,113,Excelsior,away, 68 ,Substitution, Lazaros Lamprou , Yassin Ayoub 
+1651,113,Waalwijk,home, 77 ,Substitution, Yassin Oukili , Iliass Bel Hassani 
+1652,113,Waalwijk,home, 80 ,Goal, Vurnon Anita , Dario Van Den Buijs 
+1653,113,Excelsior,away, 81 ,Yellow card, Joshua Eijgenraam ,
+1654,113,Waalwijk,home, 83 ,Substitution, Sebbe Augustijns , Vurnon Anita 
+1655,113,Waalwijk,home, 83 ,Substitution, Kevin Felida , Pelle Clement 
+1656,113,Waalwijk,home, 91 ,Goal, Michiel Kramer , Julen Lobete 
+1657,114,Go Ahead Eagles,home, 3 ,Own goal, Patrik Wålemark , Own goal 
+1658,114,Go Ahead Eagles,home, 13 ,Goal, Isac Lidberg , Bobby Adekanye 
+1659,114,Feyenoord,away, 24 ,Goal, Danilo , Patrik Wålemark 
+1660,114,Feyenoord,away, 42 ,Goal, Danilo , Patrik Wålemark 
+1661,114,Go Ahead Eagles,home, 45 ,Substitution, Sylla Sow , Evert Linthorst 
+1662,114,Feyenoord,away, 45 ,Substitution, Mimeirhel Benita , Marcus Pedersen 
+1663,114,Go Ahead Eagles,home, 52 ,Substitution, Jahnoah Markelo , Bobby Adekanye 
+1664,114,Feyenoord,away, 56 ,Goal, Javairô Dilrosun , Sebastian Szymański 
+1665,114,Feyenoord,away, 69 ,Substitution, Quilindschy Hartman , Fredrik Bjørkan 
+1666,114,Feyenoord,away, 74 ,Substitution, Oussama Idrissi , Danilo 
+1667,114,Feyenoord,away, 74 ,Substitution, Alireza Jahanbakhsh , Patrik Wålemark 
+1668,114,Feyenoord,away, 79 ,Goal, Sebastian Szymański , Alireza Jahanbakhsh 
+1669,114,Feyenoord,away, 85 ,Substitution, Jacob Rasmussen , Dávid Hancko 
+1670,114,Go Ahead Eagles,home, 96 ,Goal, Oliver Edvardsen ,
+1671,115,Sparta,home, 14 ,Goal, Vito van Crooy , Nick Olij 
+1672,115,Volendam,away, 45 ,Substitution, Walid Ould-Chikh , Achraf Douiri 
+1673,115,Volendam,away, 60 ,Substitution, Bilal Ould-Chikh , Daryl van Mieghem 
+1674,115,Volendam,away, 61 ,Substitution, Gaetano Oristanio , Robert Mühren 
+1675,115,Sparta,home, 65 ,Substitution, Sven Mijnans , Arno Verschueren 
+1676,115,Sparta,home, 66 ,Substitution, Koki Saito , Younes Namli 
+1677,115,Sparta,home, 68 ,Goal, Tobias Lauritsen , Mica Pinto 
+1678,115,Sparta,home, 72 ,Goal, Tobias Lauritsen , Koki Saito 
+1679,115,Sparta,home, 73 ,Substitution, Jeremy van Mullem , Jonathan de Guzman 
+1680,115,Sparta,home, 76 ,Substitution, Adil Auassar , Mike Eerdhuijzen 
+1681,115,Volendam,away, 79 ,Substitution, Lequincio Zeefuik , Ibrahim El Kadiri 
+1682,115,Sparta,home, 85 ,Goal, Sven Mijnans , Koki Saito 
+1683,115,Volendam,away, 87 ,Substitution, Imran Nazih , Carel Eiting 
+1684,116,Twente,home, 17 ,Goal, Václav Černý , Gijs Smal 
+1685,116,Twente,home, 24 ,Goal, Václav Černý ,
+1686,116,Twente,home, 27 ,Yellow card, Robin Pröpper ,
+1687,116,PSV,away, 55 ,Goal, Guus Til ,
+1688,116,PSV,away, 55 ,Substitution, Anwar El Ghazi , Johan Bakayoko 
+1689,116,PSV,away, 55 ,Substitution, Yorbe Vertessen , Guus Til 
+1690,116,PSV,away, 56 ,Substitution, Phillipp Mwene , Jordan Teze 
+1691,116,Twente,home, 61 ,Substitution, Virgil Misidjan , Václav Černý 
+1692,116,Twente,home, 62 ,Substitution, Wout Brama , Daan Rots 
+1693,116,PSV,away, 74 ,Yellow card, Philipp Max ,
+1694,116,PSV,away, 76 ,Yellow card, Ibrahim Sangaré ,
+1695,116,PSV,away, 76 ,Substitution, Ki Hoever , Philipp Max 
+1696,116,PSV,away, 87 ,Substitution, Sávio , Ibrahim Sangaré 
+1697,116,Twente,home, 93 ,Substitution, Denilho Cleonise , Christos Tzolis 
+1698,117,Ajax,home, 35 ,Goal, Steven Bergwijn ,
+1699,117,Ajax,home, 40 ,Goal, Steven Bergwijn , Davy Klaassen 
+1700,117,Ajax,home, 44 ,Yellow card, Edson Álvarez ,
+1701,117,Cambuur,away, 44 ,Yellow card, Mitchel Paulissen ,
+1702,117,Cambuur,away, 44 ,Yellow card, Remco Balk ,
+1703,117,Ajax,home, 45 ,Substitution, Mohammed Kudus , Brian Brobbey 
+1704,117,Cambuur,away, 45 ,Substitution, Felix Mambimbi , Remco Balk 
+1705,117,Ajax,home, 45 ,Substitution, Kenneth Taylor , Edson Álvarez 
+1706,117,Ajax,home, 53 ,Goal, Devyne Rensch , Kenneth Taylor 
+1707,117,Cambuur,away, 58 ,Substitution, Doke Schmidt , Sai Van Wermeskerken 
+1708,117,Ajax,home, 61 ,Substitution, Francisco Conceição , Steven Bergwijn 
+1709,117,Ajax,home, 64 ,Goal, Mohammed Kudus , Calvin Bassey 
+1710,117,Cambuur,away, 66 ,Substitution, Silvester van der Water , Jasper ter Heide 
+1711,117,Cambuur,away, 66 ,Substitution, Tom Boere , Roberts Uldriķis 
+1712,117,Ajax,home, 79 ,Substitution, Jorge Sánchez , Jurriën Timber 
+1713,117,Ajax,home, 80 ,Substitution, Lucas Ocampos , Dušan Tadić 
+1714,117,Cambuur,away, 87 ,Substitution, David Sambissa , Michael Breij 
+1715,118,Fortuna,home, 45 ,Substitution, Arianit Ferati , Dogan Erdoğan 
+1716,118,Utrecht,away, 62 ,Substitution, Anastasios Douvikas , Daishawn Redan 
+1717,118,Utrecht,away, 62 ,Substitution, Sean Klaiber , Hidde ter Avest 
+1718,118,Utrecht,away, 64 ,Goal, Bas Dost , Moussa Sylla 
+1719,118,Fortuna,home, 67 ,Goal, Rodrigo Guth , Mats Seuntjens 
+1720,118,Fortuna,home, 71 ,Yellow card, Mickael Tirpan ,
+1721,118,Utrecht,away, 71 ,Penalty, Anastasios Douvikas , Penalty 
+1722,118,Fortuna,home, 74 ,Substitution, Cole Bassett , George Cox 
+1723,118,Utrecht,away, 77 ,Goal, Anastasios Douvikas , Sean Klaiber 
+1724,118,Utrecht,away, 81 ,Yellow card, Jens Toornstra ,
+1725,118,Fortuna,home, 82 ,Penalty, Burak Yilmaz , Penalty 
+1726,118,Utrecht,away, 83 ,Yellow card, Mark van der Maarel ,
+1727,118,Utrecht,away, 86 ,Goal, Anastasios Douvikas , Bas Dost 
+1728,118,Utrecht,away, 89 ,Substitution, Amin Younes , Othmane Boussaid 
+1729,118,Utrecht,away, 89 ,Substitution, Django Warmerdam , Djevencio van der Kust 
+1730,118,Fortuna,home, 97 ,Goal, Tijjani Noslin , Deroy Duarte 
+1731,119,AZ,away, 12 ,Yellow card, Milos Kerkez ,
+1732,119,Cambuur,home, 23 ,Yellow card, Mitchel Paulissen ,
+1733,119,AZ,away, 45 ,Substitution, Jens Odgaard , Vangelis Pavlidis 
+1734,119,AZ,away, 45 ,Substitution, Mees de Wit , Milos Kerkez 
+1735,119,Cambuur,home, 55 ,Red card, Jamie Jacobs ,
+1736,119,Cambuur,home, 58 ,Substitution, Michael Breij , David Sambissa 
+1737,119,AZ,away, 64 ,Substitution, Yukinari Sugawara , Pantelis Hatzidiakos 
+1738,119,AZ,away, 64 ,Substitution, Mayckel Lahdo , Myron van Brederode 
+1739,119,Cambuur,home, 78 ,Substitution, Milan Smit , Roberts Uldriķis 
+1740,119,Cambuur,home, 78 ,Substitution, Silvester van der Water , Mitchel Paulissen 
+1741,119,Cambuur,home, 84 ,Substitution, Jasper ter Heide , Remco Balk 
+1742,119,AZ,away, 88 ,Substitution, Yusuf Barası , Håkon Evjen 
+1743,119,AZ,away, 90 ,Goal, Jordy Clasie , Mayckel Lahdo 
+1744,120,Volendam,home, 45 ,Yellow card, Achraf Douiri ,
+1745,120,Twente,away, 45 ,Substitution, Max Bruns , Robin Pröpper 
+1746,120,Volendam,home, 45 ,Substitution, Dean James , Achraf Douiri 
+1747,120,Twente,away, 45 ,Substitution, Michel Vlap , Sem Steijn 
+1748,120,Volendam,home, 58 ,Substitution, Walid Ould-Chikh , Henk Veerman 
+1749,120,Volendam,home, 61 ,Yellow card, Daryl van Mieghem ,
+1750,120,Volendam,home, 71 ,Substitution, Ibrahim El Kadiri , Bilal Ould-Chikh 
+1751,120,Twente,away, 71 ,Substitution, Václav Černý , Christos Tzolis 
+1752,120,Twente,away, 71 ,Substitution, Virgil Misidjan , Daan Rots 
+1753,120,Volendam,home, 76 ,Substitution, Lequincio Zeefuik , Robert Mühren 
+1754,120,Twente,away, 76 ,Substitution, Luca Everink , Joshua Brenet 
+1755,120,Volendam,home, 83 ,Goal, Lequincio Zeefuik , Daryl van Mieghem 
+1756,120,Twente,away, 85 ,Substitution, Manfred Ugalde , Michel Vlap 
+1757,121,PSV,away, 2 ,Goal, Joey Veerman ,
+1758,121,PSV,away, 29 ,Goal, Ibrahim Sangaré , Cody Gakpo 
+1759,121,PSV,away, 45 ,Goal, Ibrahim Sangaré , Cody Gakpo 
+1760,121,PSV,away, 45 ,Substitution, Érick Gutiérrez , Ibrahim Sangaré 
+1761,121,PSV,away, 45 ,Substitution, Carlos Vinícius , Ismael Saibari 
+1762,121,Excelsior,home, 54 ,Substitution, Mike van Duinen , Marouan Azarkan 
+1763,121,PSV,away, 55 ,Goal, Xavi Simons , Érick Gutiérrez 
+1764,121,PSV,away, 59 ,Goal, Cody Gakpo ,
+1765,121,PSV,away, 61 ,Substitution, Guus Til , Armando Obispo 
+1766,121,PSV,away, 61 ,Substitution, Jarrad Branthwaite , Cody Gakpo 
+1767,121,Excelsior,home, 63 ,Substitution, Nathangelo Markelo , Sven Nieuwpoort 
+1768,121,Excelsior,home, 63 ,Substitution, Adrian Fein , Yassin Ayoub 
+1769,121,Excelsior,home, 63 ,Substitution, Julian Baas , Reda Kharchouch 
+1770,121,PSV,away, 68 ,Yellow card, Guus Til ,
+1771,121,Excelsior,home, 74 ,Goal, Siebe Horemans , Julian Baas 
+1772,121,PSV,away, 75 ,Substitution, Sávio , Johan Bakayoko 
+1773,121,PSV,away, 84 ,Goal, Xavi Simons , Sávio 
+1774,121,Excelsior,home, 85 ,Substitution, Jacky Donkor , Couhaib Driouech 
+1775,122,Ajax,away, 10 ,Goal, Steven Berghuis , Edson Álvarez 
+1776,122,Ajax,away, 35 ,Yellow card, Jurriën Timber ,
+1777,122,Ajax,away, 36 ,Yellow card, Devyne Rensch ,
+1778,122,Ajax,away, 38 ,Substitution, Jorge Sánchez , Devyne Rensch 
+1779,122,Ajax,away, 46 ,Goal, Brian Brobbey , Steven Berghuis 
+1780,122,Utrecht,home, 54 ,Yellow card, Othmane Boussaid ,
+1781,122,Ajax,away, 57 ,Substitution, Youri Baas , Daley Blind 
+1782,122,Utrecht,home, 59 ,Substitution, Taylor Booth , Othmane Boussaid 
+1783,122,Utrecht,home, 69 ,Substitution, Anastasios Douvikas , Daishawn Redan 
+1784,122,Ajax,away, 70 ,Yellow card, Dušan Tadić ,
+1785,122,Utrecht,home, 78 ,Substitution, Django Warmerdam , Djevencio van der Kust 
+1786,122,Utrecht,home, 78 ,Substitution, Rocco Shein , Luuk Brouwers 
+1787,122,Utrecht,home, 78 ,Substitution, Ruben Kluivert , Mark van der Maarel 
+1788,122,Ajax,away, 85 ,Substitution, Davy Klaassen , Steven Berghuis 
+1789,122,Ajax,away, 85 ,Substitution, Mohammed Kudus , Brian Brobbey 
+1790,122,Ajax,away, 86 ,Substitution, Lisandro Magallán , Jurriën Timber 
+1791,122,Utrecht,home, 88 ,Yellow card, Bas Dost ,
+1792,123,Heerenveen,home, 22 ,Goal, Sydney van Hooijdonk ,
+1793,123,Heerenveen,home, 44 ,Goal, Milan van Ewijk ,
+1794,123,Fortuna,away, 45 ,Substitution, Paul Gladon , Cole Bassett 
+1795,123,Fortuna,away, 45 ,Substitution, Tijjani Noslin , Inigo Cordoba 
+1796,123,Fortuna,away, 66 ,Substitution, Arianit Ferati , Dogan Erdoğan 
+1797,123,Heerenveen,home, 75 ,Substitution, Simon Olsson , Tibor Halilović 
+1798,123,Heerenveen,home, 75 ,Substitution, Rami Kaib , Mats Köhlert 
+1799,123,Heerenveen,home, 81 ,Substitution, Alex Timossi Andersson , Sydney van Hooijdonk 
+1800,123,Heerenveen,home, 83 ,Yellow card, Joost van Aken ,
+1801,123,Fortuna,away, 84 ,Penalty, Burak Yilmaz , Penalty 
+1802,123,Fortuna,away, 84 ,Substitution, Remy Vita , Mickael Tirpan 
+1803,123,Fortuna,away, 91 ,Yellow card, Burak Yilmaz ,
+1804,124,Emmen,away, 45 ,Substitution, Lorenzo Burnet , Jeff Hardeveld 
+1805,124,Feyenoord,home, 60 ,Goal, Quinten Timber , Dávid Hancko 
+1806,124,Feyenoord,home, 63 ,Substitution, Santiago Giménez , Danilo 
+1807,124,Emmen,away, 65 ,Substitution, Jasin Assehnoun , Jari Vlak 
+1808,124,Feyenoord,home, 72 ,Substitution, Sebastian Szymański , Orkun Kökcü 
+1809,124,Feyenoord,home, 72 ,Substitution, Oussama Idrissi , Patrik Wålemark 
+1810,124,Emmen,away, 83 ,Substitution, Michaël Heylen , Miguel Araujo 
+1811,124,Feyenoord,home, 84 ,Substitution, Alireza Jahanbakhsh , Javairô Dilrosun 
+1812,124,Feyenoord,home, 84 ,Substitution, Quilindschy Hartman , Dávid Hancko 
+1813,124,Feyenoord,home, 85 ,Goal, Santiago Giménez , Alireza Jahanbakhsh 
+1814,124,Emmen,away, 87 ,Substitution, Fernando Pacheco , Richairo Živković 
+1815,124,Feyenoord,home, 88 ,Goal, Jacob Rasmussen , Santiago Giménez 
+1816,124,Feyenoord,home, 92 ,Goal, Sebastian Szymański ,
+1817,125,Waalwijk,away, 35 ,Goal, Florian Jozefzoon , Patrick Vroegh 
+1818,125,Waalwijk,away, 45 ,Yellow card, Yassin Oukili ,
+1819,125,Waalwijk,away, 45 ,Substitution, Luuk Wouters , Thierry Lutonda 
+1820,125,Waalwijk,away, 50 ,Goal, Iliass Bel Hassani ,
+1821,125,Vitesse,home, 55 ,Substitution, Kacper Kozłowski , Ferro 
+1822,125,Vitesse,home, 55 ,Substitution, Mohamed Sankoh , Thomas Buitink 
+1823,125,Waalwijk,away, 56 ,Substitution, Pelle Clement , Yassin Oukili 
+1824,125,Vitesse,home, 61 ,Penalty, Matús Bero , Penalty 
+1825,125,Vitesse,home, 71 ,Goal, Ryan Flamingo , Maximilian Wittek 
+1826,125,Waalwijk,away, 72 ,Substitution, Saïd Bakari , Iliass Bel Hassani 
+1827,125,Waalwijk,away, 72 ,Substitution, Julen Lobete , Florian Jozefzoon 
+1828,125,Vitesse,home, 73 ,Yellow card, Romaric Yapi ,
+1829,125,Waalwijk,away, 80 ,Substitution, Vurnon Anita , Patrick Vroegh 
+1830,125,Vitesse,home, 83 ,Substitution, Romaric Yapi , Nikolai Frederiksen 
+1831,126,Sparta,away, 18 ,Goal, Tobias Lauritsen ,
+1832,126,Go Ahead Eagles,home, 45 ,Substitution, Evert Linthorst , Oliver Edvardsen 
+1833,126,Go Ahead Eagles,home, 56 ,Red card, Rashaan Fernandes ,
+1834,126,Sparta,away, 57 ,Yellow card, Shurandy Sambo ,
+1835,126,Go Ahead Eagles,home, 66 ,Substitution, Jahnoah Markelo , Bobby Adekanye 
+1836,126,Sparta,away, 68 ,Substitution, Jason Eyenga-Lokilo , Vito van Crooy 
+1837,126,Sparta,away, 79 ,Substitution, Jeremy van Mullem , Jonathan de Guzman 
+1838,126,Sparta,away, 79 ,Substitution, Arno Verschueren , Younes Namli 
+1839,126,Sparta,away, 79 ,Substitution, Dirk Abels , Shurandy Sambo 
+1840,126,Go Ahead Eagles,home, 86 ,Substitution, Pim Saathof , Jamal Amofa 
+1841,126,Sparta,away, 88 ,Yellow card, Mica Pinto ,
+1842,126,Go Ahead Eagles,home, 92 ,Yellow card, Justin Bakker ,
+1843,126,Sparta,away, 94 ,Substitution, Mario Engels , Sven Mijnans 
+1844,127,Groningen,away, 58 ,Yellow card, Tomás Suslov ,
+1845,127,NEC,home, 63 ,Yellow card, Oussama Tannane ,
+1846,127,Groningen,away, 63 ,Yellow card, Neraysho Kasanwirjo ,
+1847,127,NEC,home, 67 ,Substitution, Pedro Marques , Jordy Bruijn 
+1848,127,Groningen,away, 75 ,Goal, Laros Duarte ,
+1849,127,NEC,home, 79 ,Substitution, Ibrahim Cissoko , Dirk Proper 
+1850,127,NEC,home, 88 ,Goal, Ibrahim Cissoko , Oussama Tannane 
+1851,127,Groningen,away, 90 ,Substitution, Romano Postema , Cyril Ngonge 
+1852,127,NEC,home, 93 ,Yellow card, Elayis Tavşan ,
+1853,128,AZ,home, 31 ,Yellow card, Dani de Wit ,
+1854,128,NEC,away, 54 ,Goal, Iván Márquez , Oussama Tannane 
+1855,128,AZ,home, 57 ,Goal, Jens Odgaard , Pantelis Hatzidiakos 
+1856,128,NEC,away, 68 ,Substitution, Jordy Bruijn , Pedro Marques 
+1857,128,NEC,away, 76 ,Substitution, Landry Dimata , Elayis Tavşan 
+1858,128,AZ,home, 79 ,Substitution, Yukinari Sugawara , Pantelis Hatzidiakos 
+1859,128,AZ,home, 79 ,Substitution, Mayckel Lahdo , Myron van Brederode 
+1860,128,AZ,home, 83 ,Substitution, Yusuf Barası , Jens Odgaard 
+1861,128,NEC,away, 83 ,Substitution, Calvin Verdonk , Mikkel Duelund 
+1862,128,AZ,home, 88 ,Substitution, Mees de Wit , Milos Kerkez 
+1863,128,NEC,away, 93 ,Yellow card, Pedro Marques ,
+1864,128,NEC,away, 94 ,Yellow card, Jordy Bruijn ,
+1865,129,Twente,home, 1 ,Goal, Denilho Cleonise ,
+1866,129,Twente,home, 8 ,Goal, Christos Tzolis , Ricky van Wolfswinkel 
+1867,129,Excelsior,away, 24 ,Disallowed goal,Disallowed goal,
+1868,129,Twente,home, 60 ,Substitution, Wout Brama , Ricky van Wolfswinkel 
+1869,129,Excelsior,away, 60 ,Substitution, Mike van Duinen , Reda Kharchouch 
+1870,129,Twente,home, 60 ,Substitution, Václav Černý , Denilho Cleonise 
+1871,129,Excelsior,away, 60 ,Substitution, Adrian Fein , Joshua Eijgenraam 
+1872,129,Twente,home, 62 ,Goal, Václav Černý , Gijs Smal 
+1873,129,Twente,home, 69 ,Substitution, Daan Rots , Christos Tzolis 
+1874,129,Twente,home, 70 ,Substitution, Anass Salah-Eddine , Gijs Smal 
+1875,129,Excelsior,away, 71 ,Substitution, Jacky Donkor , Yassin Ayoub 
+1876,129,Excelsior,away, 80 ,Substitution, Nathangelo Markelo , Nathan Tjoe-A-On 
+1877,129,Excelsior,away, 80 ,Substitution, Raphaël Eyongo , Kenzo Goudmijn 
+1878,129,Twente,home, 84 ,Substitution, Luca Everink , Ramiz Zerrouki 
+1879,129,Twente,home, 93 ,Goal, Václav Černý ,
+1880,130,PSV,home, 1 ,Goal, Xavi Simons ,
+1881,130,PSV,home, 25 ,Penalty, Cody Gakpo , Penalty 
+1882,130,Volendam,away, 29 ,Yellow card, Brian Plat ,
+1883,130,PSV,home, 39 ,Goal, Cody Gakpo , Philipp Max 
+1884,130,Volendam,away, 40 ,Goal, Henk Veerman , Damon Mirani 
+1885,130,PSV,home, 45 ,Substitution, André Ramalho , Armando Obispo 
+1886,130,PSV,home, 47 ,Own goal, Brian Plat , Own goal 
+1887,130,PSV,home, 51 ,Goal, Cody Gakpo , Joey Veerman 
+1888,130,PSV,home, 55 ,Substitution, Ki Hoever , Jordan Teze 
+1889,130,PSV,home, 55 ,Substitution, Érick Gutiérrez , Joey Veerman 
+1890,130,Volendam,away, 60 ,Substitution, Ibrahim El Kadiri , Daryl van Mieghem 
+1891,130,Volendam,away, 62 ,Yellow card, Bilal Ould-Chikh ,
+1892,130,PSV,home, 63 ,Substitution, Sávio , Cody Gakpo 
+1893,130,PSV,home, 67 ,Goal, Xavi Simons , Sávio 
+1894,130,Volendam,away, 69 ,Substitution, Achraf Douiri , Brian Plat 
+1895,130,Volendam,away, 69 ,Substitution, Walid Ould-Chikh , Robert Mühren 
+1896,130,Volendam,away, 69 ,Substitution, Imran Nazih , Carel Eiting 
+1897,130,PSV,home, 69 ,Substitution, Yorbe Vertessen , Xavi Simons 
+1898,130,PSV,home, 79 ,Goal, Johan Bakayoko ,
+1899,130,Volendam,away, 81 ,Yellow card, Walid Ould-Chikh ,
+1900,131,Waalwijk,home, 27 ,Yellow card, Iliass Bel Hassani ,
+1901,131,Feyenoord,away, 45 ,Substitution, Patrik Wålemark , Oussama Idrissi 
+1902,131,Feyenoord,away, 45 ,Substitution, Jens Toornstra , Orkun Kökcü 
+1903,131,Waalwijk,home, 57 ,Substitution, Florian Jozefzoon , Lennerd Daneels 
+1904,131,Waalwijk,home, 57 ,Substitution, Vurnon Anita , Iliass Bel Hassani 
+1905,131,Feyenoord,away, 68 ,Penalty, Danilo , Penalty 
+1906,131,Feyenoord,away, 70 ,Substitution, Marcus Pedersen , Sebastian Szymański 
+1907,131,Waalwijk,home, 76 ,Substitution, Pelle Clement , Thierry Lutonda 
+1908,131,Feyenoord,away, 77 ,Substitution, Mohamed Taabouni , Quilindschy Hartman 
+1909,131,Waalwijk,home, 83 ,Substitution, Julen Lobete , Yassin Oukili 
+1910,131,Waalwijk,home, 84 ,Substitution, Roy Kuijpers , Dario Van Den Buijs 
+1911,131,Feyenoord,away, 88 ,Substitution, Santiago Giménez , Danilo 
+1912,131,Waalwijk,home, 89 ,Yellow card, Juriën Gaari ,
+1913,132,Sparta,home, 14 ,Yellow card, Jonathan de Guzman ,
+1914,132,Ajax,away, 32 ,Yellow card, Edson Álvarez ,
+1915,132,Ajax,away, 37 ,Goal, Steven Bergwijn , Daley Blind 
+1916,132,Sparta,home, 45 ,Substitution, Younes Namli , Vito van Crooy 
+1917,132,Ajax,away, 65 ,Substitution, Davy Klaassen , Steven Berghuis 
+1918,132,Sparta,home, 67 ,Substitution, Dirk Abels , Shurandy Sambo 
+1919,132,Ajax,away, 73 ,Substitution, Mohammed Kudus , Brian Brobbey 
+1920,132,Sparta,home, 78 ,Substitution, Mario Engels , Jason Eyenga-Lokilo 
+1921,132,Sparta,home, 87 ,Substitution, Mike Eerdhuijzen , Jonathan de Guzman 
+1922,132,Sparta,home, 88 ,Substitution, Charles Brym , Adil Auassar 
+1923,133,Groningen,home, 3 ,Own goal, Jeffrey de Lange , Own goal 
+1924,133,Groningen,home, 7 ,Yellow card, Mike te Wierik ,
+1925,133,Groningen,home, 57 ,Substitution, Yahya Kalley , Isak Määttä 
+1926,133,Groningen,home, 57 ,Substitution, Tomás Suslov , Ragnar Oratmangoen 
+1927,133,Groningen,home, 57 ,Substitution, Romano Postema , Ramon Lundqvist 
+1928,133,Go Ahead Eagles,away, 63 ,Substitution, Bobby Adekanye , Rashaan Fernandes 
+1929,133,Go Ahead Eagles,away, 85 ,Substitution, Aventis Aventisian , Enric Llansana 
+1930,133,Groningen,home, 85 ,Substitution, Luciano Valente , Laros Duarte 
+1931,133,Go Ahead Eagles,away, 90 ,Yellow card, José Fontán ,
+1932,133,Groningen,home, 91 ,Yellow card, Yahya Kalley ,
+1933,133,Go Ahead Eagles,away, 95 ,Yellow card, Philippe Rommens ,
+1934,134,Utrecht,away, 10 ,Goal, Anastasios Douvikas ,
+1935,134,Emmen,home, 27 ,Goal, Ole Romeny , Mark Diemers 
+1936,134,Utrecht,away, 34 ,Goal, Bas Dost , Can Bozdoğan 
+1937,134,Utrecht,away, 45 ,Substitution, Djevencio van der Kust , Modibo Sagnan 
+1938,134,Emmen,home, 59 ,Goal, Rui Mendes ,
+1939,134,Utrecht,away, 68 ,Substitution, Taylor Booth , Can Bozdoğan 
+1940,134,Utrecht,away, 68 ,Substitution, Moussa Sylla , Anastasios Douvikas 
+1941,134,Emmen,home, 74 ,Substitution, Azzeddine Toufiqui , Mark Diemers 
+1942,134,Emmen,home, 74 ,Substitution, Jasin Assehnoun , Richairo Živković 
+1943,134,Emmen,home, 74 ,Substitution, Michaël Heylen , Jeroen Veldmate 
+1944,134,Emmen,home, 79 ,Goal, Jari Vlak , Rui Mendes 
+1945,134,Utrecht,away, 82 ,Substitution, Mimoun Mahi , Daishawn Redan 
+1946,134,Utrecht,away, 83 ,Substitution, Rocco Shein , Luuk Brouwers 
+1947,134,Emmen,home, 88 ,Substitution, Fernando Pacheco , Ole Romeny 
+1948,135,Fortuna,home, 10 ,Goal, Burak Yilmaz , Inigo Cordoba 
+1949,135,Cambuur,away, 19 ,Yellow card, Mees Hoedemakers ,
+1950,135,Cambuur,away, 37 ,Substitution, David Sambissa , Remco Balk 
+1951,135,Cambuur,away, 37 ,Substitution, Michael Breij , Jamie Jacobs 
+1952,135,Cambuur,away, 45 ,Substitution, Sai Van Wermeskerken , Doke Schmidt 
+1953,135,Cambuur,away, 47 ,Goal, Michael Breij , Milan Smit 
+1954,135,Fortuna,home, 55 ,Yellow card, Mats Seuntjens ,
+1955,135,Fortuna,home, 60 ,Substitution, Tijjani Noslin , Inigo Cordoba 
+1956,135,Fortuna,home, 60 ,Substitution, Cole Bassett , Paul Gladon 
+1957,135,Cambuur,away, 75 ,Substitution, Jasper ter Heide , Mitchel Paulissen 
+1958,135,Fortuna,home, 76 ,Substitution, Ivo Pinto , Mickael Tirpan 
+1959,135,Cambuur,away, 79 ,Goal, Mees Hoedemakers ,
+1960,135,Fortuna,home, 80 ,Substitution, Dogan Erdoğan , Dimitrios Siovas 
+1961,135,Fortuna,home, 82 ,Yellow card, Dogan Erdoğan ,
+1962,135,Cambuur,away, 87 ,Goal, Mees Hoedemakers , David Sambissa 
+1963,135,Fortuna,home, 91 ,Yellow card, Arianit Ferati ,
+1964,135,Cambuur,away, 92 ,Goal, Jasper ter Heide , Michael Breij 
+1965,136,Heerenveen,away, 5 ,Goal, Sydney van Hooijdonk , Amin Sarr 
+1966,136,Vitesse,home, 33 ,Substitution, Mohamed Sankoh , Tomás Hájek 
+1967,136,Heerenveen,away, 36 ,Yellow card, Anas Tahiri ,
+1968,136,Vitesse,home, 36 ,Yellow card, Toni Domgjoni ,
+1969,136,Vitesse,home, 43 ,Yellow card, Maximilian Wittek ,
+1970,136,Heerenveen,away, 48 ,Goal, Amin Sarr , Anas Tahiri 
+1971,136,Vitesse,home, 64 ,Substitution, Daan Huisman , Melle Meulensteen 
+1972,136,Heerenveen,away, 69 ,Yellow card, Thom Haye ,
+1973,136,Heerenveen,away, 71 ,Substitution, Simon Olsson , Tibor Halilović 
+1974,136,Heerenveen,away, 72 ,Goal, Sydney van Hooijdonk , Amin Sarr 
+1975,136,Heerenveen,away, 77 ,Goal, Sydney van Hooijdonk , Amin Sarr 
+1976,136,Heerenveen,away, 79 ,Substitution, Alex Timossi Andersson , Sydney van Hooijdonk 
+1977,136,Heerenveen,away, 79 ,Substitution, Syb van Ottele , Anas Tahiri 
+1978,136,Heerenveen,away, 79 ,Substitution, Rami Kaib , Thom Haye 
+1979,136,Vitesse,home, 81 ,Substitution, Thomas Buitink , Million Manhoef 
+1980,136,Vitesse,home, 81 ,Substitution, Ryan Flamingo , Nikolai Frederiksen 
+1981,136,Heerenveen,away, 82 ,Substitution, Rami Al Hajj , Amin Sarr 
+1982,136,Vitesse,home, 86 ,Yellow card, Matús Bero ,
+1983,137,Sparta,home, 1 ,Goal, Vito van Crooy , Younes Namli 
+1984,137,Sparta,home, 36 ,Yellow card, Arno Verschueren ,
+1985,137,AZ,away, 38 ,Yellow card, Bruno Martins Indi ,
+1986,137,Sparta,home, 38 ,Yellow card, Vito van Crooy ,
+1987,137,AZ,away, 38 ,Yellow card, Dani de Wit ,
+1988,137,AZ,away, 46 ,Penalty, Vangelis Pavlidis , Penalty 
+1989,137,Sparta,home, 45 ,Substitution, Jeremy van Mullem , Arno Verschueren 
+1990,137,Sparta,home, 45 ,Substitution, Joshua Kitolano , Jason Eyenga-Lokilo 
+1991,137,AZ,away, 57 ,Goal, Dani de Wit , Vangelis Pavlidis 
+1992,137,Sparta,home, 59 ,Goal, Vito van Crooy , Jonathan de Guzman 
+1993,137,AZ,away, 65 ,Goal, Milos Kerkez ,
+1994,137,AZ,away, 66 ,Substitution, Mees de Wit , Pantelis Hatzidiakos 
+1995,137,AZ,away, 66 ,Substitution, Aslak Witry , Milos Kerkez 
+1996,137,AZ,away, 67 ,Substitution, Mayckel Lahdo , Myron van Brederode 
+1997,137,Sparta,home, 75 ,Substitution, Sven Mijnans , Jonathan de Guzman 
+1998,137,AZ,away, 75 ,Substitution, Yusuf Barası , Vangelis Pavlidis 
+1999,137,Sparta,home, 75 ,Substitution, Shurandy Sambo , Dirk Abels 
+2000,137,AZ,away, 82 ,Substitution, Peer Koopmeiners , Jordy Clasie 
+2001,137,Sparta,home, 83 ,Substitution, Charles Brym , Younes Namli 
+2002,138,Twente,home, 22 ,Goal, Ricky van Wolfswinkel , Gijs Smal 
+2003,138,Twente,home, 44 ,Goal, Joshua Brenet , Virgil Misidjan 
+2004,138,Fortuna,away, 45 ,Substitution, Inigo Cordoba , Tijjani Noslin 
+2005,138,Fortuna,away, 45 ,Substitution, Burak Yilmaz , Arianit Ferati 
+2006,138,Fortuna,away, 45 ,Substitution, Ivo Pinto , Mickael Tirpan 
+2007,138,Twente,home, 53 ,Goal, Virgil Misidjan , Michel Vlap 
+2008,138,Twente,home, 69 ,Substitution, Mathias Kjølø , Ramiz Zerrouki 
+2009,138,Twente,home, 69 ,Substitution, Sem Steijn , Michel Vlap 
+2010,138,Fortuna,away, 73 ,Yellow card, Deroy Duarte ,
+2011,138,Twente,home, 74 ,Yellow card, Ricky van Wolfswinkel ,
+2012,138,Twente,home, 77 ,Substitution, Manfred Ugalde , Ricky van Wolfswinkel 
+2013,138,Fortuna,away, 80 ,Yellow card, Mats Seuntjens ,
+2014,138,Twente,home, 82 ,Substitution, Václav Černý , Daan Rots 
+2015,138,Fortuna,away, 82 ,Substitution, Roel Janssen , Dimitrios Siovas 
+2016,138,Fortuna,away, 82 ,Substitution, Vasilis Sourlis , Dogan Erdoğan 
+2017,138,Twente,home, 83 ,Substitution, Christos Tzolis , Virgil Misidjan 
+2018,138,Fortuna,away, 92 ,Yellow card, Burak Yilmaz ,
+2019,139,Ajax,home, 4 ,Goal, Steven Bergwijn , Devyne Rensch 
+2020,139,Groningen,away, 10 ,Goal, Cyril Ngonge , Jørgen Strand Larsen 
+2021,139,Ajax,home, 28 ,Goal, Antony , Edson Álvarez 
+2022,139,Ajax,home, 30 ,Yellow card, Dušan Tadić ,
+2023,139,Ajax,home, 45 ,Goal, Steven Bergwijn , Antony 
+2024,139,Groningen,away, 45 ,Substitution, Ragnar Oratmangoen , Tomás Suslov 
+2025,139,Groningen,away, 45 ,Substitution, Paulos Abraham , Ramon Lundqvist 
+2026,139,Ajax,home, 57 ,Goal, Steven Bergwijn , Dušan Tadić 
+2027,139,Groningen,away, 62 ,Substitution, Patrick Joosten , Cyril Ngonge 
+2028,139,Ajax,home, 66 ,Goal, Kenneth Taylor , Brian Brobbey 
+2029,139,Ajax,home, 69 ,Substitution, Davy Klaassen , Kenneth Taylor 
+2030,139,Ajax,home, 69 ,Substitution, Lorenzo Lucca , Brian Brobbey 
+2031,139,Ajax,home, 70 ,Substitution, Steven Berghuis , Steven Bergwijn 
+2032,139,Groningen,away, 79 ,Substitution, Luciano Valente , Laros Duarte 
+2033,139,Ajax,home, 84 ,Substitution, Mohammed Kudus , Dušan Tadić 
+2034,139,Ajax,home, 84 ,Substitution, Perr Schuurs , Devyne Rensch 
+2035,139,Ajax,home, 88 ,Penalty, Steven Berghuis , Penalty 
+2036,139,Groningen,away, 92 ,Substitution, Liam van Gelderen , Neraysho Kasanwirjo 
+2037,140,Volendam,home, 11 ,Goal, Daryl van Mieghem , Benaissa Benamar 
+2038,140,NEC,away, 17 ,Goal, Elayis Tavşan , Mikkel Duelund 
+2039,140,NEC,away, 19 ,Goal, Oussama Tannane , Pedro Marques 
+2040,140,Volendam,home, 34 ,Yellow card, Daryl van Mieghem ,
+2041,140,Volendam,home, 36 ,Substitution, Ibrahim El Kadiri , Francesco Antonucci 
+2042,140,Volendam,home, 56 ,Yellow card, Carel Eiting ,
+2043,140,Volendam,home, 59 ,Substitution, Bilal Ould-Chikh , Billy van Duijl 
+2044,140,Volendam,home, 59 ,Substitution, Gaetano Oristanio , Henk Veerman 
+2045,140,NEC,away, 66 ,Substitution, Jordy Bruijn , Pedro Marques 
+2046,140,NEC,away, 76 ,Goal, Mikkel Duelund , Lasse Schone 
+2047,140,Volendam,home, 83 ,Substitution, Walid Ould-Chikh , Benaissa Benamar 
+2048,140,NEC,away, 87 ,Substitution, Ibrahim Cissoko , Elayis Tavşan 
+2049,140,NEC,away, 90 ,Goal, Jordy Bruijn , Mikkel Duelund 
+2050,140,NEC,away, 92 ,Substitution, Andri Baldursson , Oussama Tannane 
+2051,141,Heerenveen,away, 48 ,Yellow card, Mats Köhlert ,
+2052,141,Feyenoord,home, 63 ,Substitution, Oussama Idrissi , Patrik Wålemark 
+2053,141,Heerenveen,away, 63 ,Substitution, Alex Timossi Andersson , Sydney van Hooijdonk 
+2054,141,Feyenoord,home, 63 ,Substitution, Orkun Kökcü , Sebastian Szymański 
+2055,141,Heerenveen,away, 64 ,Substitution, Simon Olsson , Tibor Halilović 
+2056,141,Feyenoord,home, 78 ,Substitution, Santiago Giménez , Danilo 
+2057,141,Feyenoord,home, 79 ,Yellow card, Quinten Timber ,
+2058,141,Heerenveen,away, 80 ,Substitution, Rami Kaib , Mats Köhlert 
+2059,141,Feyenoord,home, 85 ,Substitution, Jens Toornstra , Marcus Pedersen 
+2060,141,Feyenoord,home, 85 ,Substitution, Alireza Jahanbakhsh , Quinten Timber 
+2061,141,Heerenveen,away, 90 ,Substitution, Hussein Ali , Thom Haye 
+2062,141,Heerenveen,away, 97 ,Yellow card, Andries Noppert ,
+2063,142,Utrecht,home, 14 ,Yellow card, Taylor Booth ,
+2064,142,Cambuur,away, 31 ,Yellow card, Roberts Uldriķis ,
+2065,142,Utrecht,home, 45 ,Substitution, Can Bozdoğan , Taylor Booth 
+2066,142,Utrecht,home, 45 ,Substitution, Ruben Kluivert , Modibo Sagnan 
+2067,142,Utrecht,home, 47 ,Yellow card, Luuk Brouwers ,
+2068,142,Cambuur,away, 61 ,Substitution, David Sambissa , Milan Smit 
+2069,142,Utrecht,home, 64 ,Substitution, Anastasios Douvikas , Daishawn Redan 
+2070,142,Utrecht,home, 70 ,Substitution, Moussa Sylla , Hidde ter Avest 
+2071,142,Utrecht,home, 75 ,Substitution, Albert Lottin , Othmane Boussaid 
+2072,142,Cambuur,away, 77 ,Substitution, Mitchel Paulissen , Jamie Jacobs 
+2073,142,Cambuur,away, 77 ,Substitution, Michael Breij , Remco Balk 
+2074,142,Cambuur,away, 85 ,Substitution, Tom Boere , Roberts Uldriķis 
+2075,142,Utrecht,home, 86 ,Yellow card, Mark van der Maarel ,
+2076,143,Waalwijk,away, 12 ,Yellow card, Michiel Kramer ,
+2077,143,Emmen,home, 49 ,Yellow card, Miguel Araujo ,
+2078,143,Emmen,home, 45 ,Substitution, Mark Diemers , Jasin Assehnoun 
+2079,143,Emmen,home, 48 ,Yellow card, Lucas Bernadou ,
+2080,143,Waalwijk,away, 56 ,Substitution, Vurnon Anita , Lennerd Daneels 
+2081,143,Waalwijk,away, 56 ,Substitution, Florian Jozefzoon , Iliass Bel Hassani 
+2082,143,Emmen,home, 58 ,Goal, Lucas Bernadou ,
+2083,143,Waalwijk,away, 68 ,Substitution, Julen Lobete , Michiel Kramer 
+2084,143,Waalwijk,away, 68 ,Substitution, Pelle Clement , Thierry Lutonda 
+2085,143,Emmen,home, 75 ,Substitution, Fernando Pacheco , Richairo Živković 
+2086,143,Waalwijk,away, 81 ,Substitution, Roy Kuijpers , Yassin Oukili 
+2087,143,Waalwijk,away, 89 ,Goal, Julen Lobete , Florian Jozefzoon 
+2088,143,Emmen,home, 92 ,Yellow card, Jeroen Veldmate ,
+2089,144,PSV,away, 3 ,Goal, Luuk de Jong , Cody Gakpo 
+2090,144,Go Ahead Eagles,home, 14 ,Goal, Isac Lidberg , Mats Deijl 
+2091,144,Go Ahead Eagles,home, 32 ,Red card, Mats Deijl ,
+2092,144,PSV,away, 38 ,Substitution, Joey Veerman , Richard Ledezma 
+2093,144,PSV,away, 48 ,Goal, Xavi Simons ,
+2094,144,PSV,away, 55 ,Goal, Armando Obispo , Xavi Simons 
+2095,144,Go Ahead Eagles,home, 45 ,Substitution, Jamal Amofa , Enric Llansana 
+2096,144,PSV,away, 45 ,Substitution, Guus Til , Luuk de Jong 
+2097,144,PSV,away, 45 ,Substitution, Ismael Saibari , Cody Gakpo 
+2098,144,PSV,away, 60 ,Substitution, Érick Gutiérrez , Ibrahim Sangaré 
+2099,144,Go Ahead Eagles,home, 70 ,Substitution, Rashaan Fernandes , Evert Linthorst 
+2100,144,Go Ahead Eagles,home, 74 ,Yellow card, José Fontán ,
+2101,144,PSV,away, 76 ,Goal, Xavi Simons , Ismael Saibari 
+2102,144,Go Ahead Eagles,home, 80 ,Goal, Oliver Edvardsen , Isac Lidberg 
+2103,144,PSV,away, 81 ,Substitution, André Ramalho , Armando Obispo 
+2104,144,PSV,away, 89 ,Goal, Joey Veerman , Phillipp Mwene 
+2105,144,Go Ahead Eagles,home, 91 ,Substitution, Xander Blomme , Philippe Rommens 
+2106,145,Excelsior,home, 14 ,Goal, Reda Kharchouch , Siebe Horemans 
+2107,145,Excelsior,home, 20 ,Goal, Reda Kharchouch , Marouan Azarkan 
+2108,145,Vitesse,away, 29 ,Goal, Nikolai Frederiksen ,
+2109,145,Vitesse,away, 64 ,Substitution, Thomas Buitink , Ferro 
+2110,145,Excelsior,home, 65 ,Substitution, Yassin Ayoub , Julian Baas 
+2111,145,Excelsior,home, 76 ,Goal, Kenzo Goudmijn , Reda Kharchouch 
+2112,145,Vitesse,away, 82 ,Substitution, Simon van Duivenbooden , Million Manhoef 
+2113,145,Vitesse,away, 82 ,Substitution, Mohamed Sankoh , Toni Domgjoni 
+2114,145,Excelsior,home, 86 ,Substitution, Raphaël Eyongo , Reda Kharchouch 
+2115,145,Excelsior,home, 86 ,Substitution, Nathangelo Markelo , Marouan Azarkan 
+2116,145,Excelsior,home, 92 ,Substitution, Luuk Admiraal , Kenzo Goudmijn 
+2117,145,Vitesse,away, 97 ,Red card, Sondre Trondstad ,
+2118,146,AZ,home, 62 ,Substitution, Mees de Wit , Milos Kerkez 
+2119,146,AZ,home, 62 ,Substitution, Aslak Witry , Pantelis Hatzidiakos 
+2120,146,Go Ahead Eagles,away, 66 ,Substitution, Bobby Adekanye , Oliver Edvardsen 
+2121,146,AZ,home, 70 ,Goal, Vangelis Pavlidis , Aslak Witry 
+2122,146,Go Ahead Eagles,away, 72 ,Yellow card, Bobby Adekanye ,
+2123,146,Go Ahead Eagles,away, 76 ,Substitution, Pim Saathof , Willum Willumsson 
+2124,146,AZ,home, 80 ,Yellow card, Dani de Wit ,
+2125,146,AZ,home, 84 ,Substitution, Yusuf Barası , Vangelis Pavlidis 
+2126,146,AZ,home, 84 ,Substitution, Mayckel Lahdo , Håkon Evjen 
+2127,146,AZ,home, 86 ,Goal, Myron van Brederode , Yusuf Barası 
+2128,146,AZ,home, 90 ,Substitution, Peer Koopmeiners , Dani de Wit 
+2129,147,Vitesse,home, 19 ,Goal, Million Manhoef , Maximilian Wittek 
+2130,147,Feyenoord,away, 31 ,Goal, Patrik Wålemark , Sebastian Szymański 
+2131,147,Vitesse,home, 36 ,Yellow card, Sondre Trondstad ,
+2132,147,Vitesse,home, 40 ,Yellow card, Ferro ,
+2133,147,Feyenoord,away, 41 ,Goal, Danilo , Sebastian Szymański 
+2134,147,Feyenoord,away, 47 ,Yellow card, Sebastian Szymański ,
+2135,147,Vitesse,home, 56 ,Goal, Nikolai Frederiksen , Million Manhoef 
+2136,147,Vitesse,home, 58 ,Substitution, Mohamed Sankoh , Toni Domgjoni 
+2137,147,Feyenoord,away, 61 ,Goal, Javairô Dilrosun , Quinten Timber 
+2138,147,Feyenoord,away, 65 ,Substitution, Jens Toornstra , Sebastian Szymański 
+2139,147,Feyenoord,away, 65 ,Substitution, Oussama Idrissi , Patrik Wålemark 
+2140,147,Feyenoord,away, 66 ,Goal, Danilo ,
+2141,147,Feyenoord,away, 69 ,Goal, Lutsharel Geertruida , Jens Toornstra 
+2142,147,Feyenoord,away, 73 ,Substitution, Alireza Jahanbakhsh , Javairô Dilrosun 
+2143,147,Vitesse,home, 78 ,Substitution, Thomas Buitink , Nikolai Frederiksen 
+2144,147,Vitesse,home, 78 ,Substitution, Daan Huisman , Million Manhoef 
+2145,147,Vitesse,home, 79 ,Substitution, Ryan Flamingo , Ferro 
+2146,147,Feyenoord,away, 84 ,Substitution, Cole Bassett , Danilo 
+2147,147,Feyenoord,away, 84 ,Substitution, Noah Naujoks , Quinten Timber 
+2148,147,Vitesse,home, 87 ,Substitution, Romaric Yapi , Carlens Arcus 
+2149,148,Twente,away, 45 ,Substitution, Sem Steijn , Michel Vlap 
+2150,148,Twente,away, 50 ,Yellow card, Michal Sadílek ,
+2151,148,NEC,home, 53 ,Yellow card, Mikkel Duelund ,
+2152,148,Twente,away, 69 ,Substitution, Denilho Cleonise , Christos Tzolis 
+2153,148,Twente,away, 69 ,Substitution, Virgil Misidjan , Václav Černý 
+2154,148,NEC,home, 70 ,Substitution, Calvin Verdonk , Mikkel Duelund 
+2155,148,NEC,home, 76 ,Substitution, Ilias Bronkhorst , Pedro Marques 
+2156,148,Twente,away, 81 ,Substitution, Ricky van Wolfswinkel , Manfred Ugalde 
+2157,148,Twente,away, 81 ,Substitution, Mees Hilgers , Robin Pröpper 
+2158,148,NEC,home, 88 ,Substitution, Ibrahim Cissoko , Elayis Tavşan 
+2159,148,NEC,home, 88 ,Substitution, Andri Baldursson , Dirk Proper 
+2160,148,Twente,away, 91 ,Goal, Sem Steijn , Joshua Brenet 
+2161,149,Groningen,home, 2 ,Goal, Cyril Ngonge ,
+2162,149,Groningen,home, 34 ,Goal, Jørgen Strand Larsen , Cyril Ngonge 
+2163,149,Volendam,away, 38 ,Goal, Daryl van Mieghem , Derry Murkin 
+2164,149,Volendam,away, 40 ,Substitution, Henk Veerman , Ibrahim El Kadiri 
+2165,149,Groningen,home, 66 ,Substitution, Paulos Abraham , Tomás Suslov 
+2166,149,Groningen,home, 66 ,Substitution, Daleho Irandust , Cyril Ngonge 
+2167,149,Groningen,home, 67 ,Substitution, Ragnar Oratmangoen , Ramon Lundqvist 
+2168,149,Volendam,away, 68 ,Goal, Benaissa Benamar , Daryl van Mieghem 
+2169,149,Volendam,away, 79 ,Substitution, Gaetano Oristanio , Francesco Antonucci 
+2170,149,Volendam,away, 83 ,Yellow card, Benaissa Benamar ,
+2171,149,Volendam,away, 86 ,Substitution, Walid Ould-Chikh , Benaissa Benamar 
+2172,149,Volendam,away, 86 ,Substitution, Lequincio Zeefuik , Robert Mühren 
+2173,150,Waalwijk,home, 15 ,Goal, Dario Van Den Buijs , Michiel Kramer 
+2174,150,Waalwijk,home, 45 ,Goal, Iliass Bel Hassani , Thierry Lutonda 
+2175,150,Utrecht,away, 45 ,Substitution, Bas Dost , Anastasios Douvikas 
+2176,150,Utrecht,away, 45 ,Substitution, Can Bozdoğan , Taylor Booth 
+2177,150,Utrecht,away, 52 ,Goal, Bas Dost ,
+2178,150,Waalwijk,home, 61 ,Substitution, Vurnon Anita , Iliass Bel Hassani 
+2179,150,Waalwijk,home, 61 ,Substitution, Luuk Wouters , Thierry Lutonda 
+2180,150,Utrecht,away, 62 ,Substitution, Mark van der Maarel , Mike Van der Hoorn 
+2181,150,Waalwijk,home, 67 ,Substitution, Julen Lobete , Lennerd Daneels 
+2182,150,Utrecht,away, 67 ,Substitution, Mimoun Mahi , Djevencio van der Kust 
+2183,150,Utrecht,away, 77 ,Substitution, Moussa Sylla , Daishawn Redan 
+2184,150,Waalwijk,home, 79 ,Yellow card, Yassin Oukili ,
+2185,150,Utrecht,away, 85 ,Goal, Bas Dost , Luuk Brouwers 
+2186,151,PSV,home, 18 ,Goal, Johan Bakayoko , Xavi Simons 
+2187,151,Emmen,away, 25 ,Yellow card, Keziah Veendorp ,
+2188,151,PSV,home, 26 ,Own goal, Maikel Kieftenbeld , Own goal 
+2189,151,PSV,home, 38 ,Goal, Cody Gakpo , Armando Obispo 
+2190,151,PSV,home, 45 ,Substitution, Richard Ledezma , Joey Veerman 
+2191,151,PSV,home, 45 ,Substitution, Fredrik Oppegård , Philipp Max 
+2192,151,PSV,home, 54 ,Goal, Cody Gakpo , Luuk de Jong 
+2193,151,PSV,home, 59 ,Substitution, André Ramalho , Armando Obispo 
+2194,151,PSV,home, 60 ,Substitution, Ismael Saibari , Cody Gakpo 
+2195,151,Emmen,away, 62 ,Goal, Ole Romeny , Lucas Bernadou 
+2196,151,Emmen,away, 63 ,Substitution, Jasin Assehnoun , Richairo Živković 
+2197,151,Emmen,away, 79 ,Substitution, Fernando Pacheco , Lucas Bernadou 
+2198,151,Emmen,away, 86 ,Substitution, Azzeddine Toufiqui , Ole Romeny 
+2199,151,PSV,home, 91 ,Substitution, Sávio , Luuk de Jong 
+2200,152,Excelsior,away, 10 ,Goal, Marouan Azarkan , Couhaib Driouech 
+2201,152,Excelsior,away, 44 ,Goal, Julian Baas ,
+2202,152,Cambuur,home, 45 ,Substitution, Remco Balk , Mitchel Paulissen 
+2203,152,Excelsior,away, 48 ,Yellow card, Couhaib Driouech ,
+2204,152,Cambuur,home, 48 ,Yellow card, Doke Schmidt ,
+2205,152,Cambuur,home, 58 ,Substitution, Leon Bergsma , Floris Smand 
+2206,152,Cambuur,home, 58 ,Substitution, David Sambissa , Milan Smit 
+2207,152,Excelsior,away, 64 ,Substitution, Serano Seymor , Marouan Azarkan 
+2208,152,Excelsior,away, 64 ,Substitution, Raphaël Eyongo , Reda Kharchouch 
+2209,152,Excelsior,away, 65 ,Substitution, Yassin Ayoub , Kenzo Goudmijn 
+2210,152,Excelsior,away, 68 ,Yellow card, Siebe Horemans ,
+2211,152,Cambuur,home, 70 ,Substitution, Tom Boere , Doke Schmidt 
+2212,152,Cambuur,home, 77 ,Substitution, Michael Breij , Jamie Jacobs 
+2213,152,Excelsior,away, 80 ,Substitution, Nathangelo Markelo , Julian Baas 
+2214,152,Excelsior,away, 88 ,Substitution, Jacky Donkor , Couhaib Driouech 
+2215,153,Fortuna,home, 6 ,Goal, Paul Gladon , Arianit Ferati 
+2216,153,Fortuna,home, 27 ,Yellow card, Mats Seuntjens ,
+2217,153,Ajax,away, 45 ,Substitution, Davy Klaassen , Steven Berghuis 
+2218,153,Ajax,away, 45 ,Substitution, Brian Brobbey , Perr Schuurs 
+2219,153,Ajax,away, 48 ,Goal, Kenneth Taylor , Antony 
+2220,153,Ajax,away, 51 ,Goal, Devyne Rensch , Brian Brobbey 
+2221,153,Ajax,away, 62 ,Goal, Brian Brobbey , Dušan Tadić 
+2222,153,Fortuna,home, 66 ,Substitution, Burak Yilmaz , Tijjani Noslin 
+2223,153,Fortuna,home, 66 ,Substitution, Inigo Cordoba , Dogan Erdoğan 
+2224,153,Ajax,away, 74 ,Substitution, Lisandro Magallán , Devyne Rensch 
+2225,153,Fortuna,home, 78 ,Substitution, Ivo Pinto , Rodrigo Guth 
+2226,153,Ajax,away, 80 ,Disallowed goal,Disallowed goal,
+2227,153,Fortuna,home, 82 ,Yellow card, Arianit Ferati ,
+2228,153,Fortuna,home, 87 ,Goal, Burak Yilmaz ,
+2229,153,Fortuna,home, 88 ,Yellow card, Paul Gladon ,
+2230,153,Ajax,away, 90 ,Substitution, Mohammed Kudus , Steven Bergwijn 
+2231,154,Heerenveen,home, 25 ,Yellow card, Sydney van Hooijdonk ,
+2232,154,Sparta,away, 49 ,Yellow card, Arno Verschueren ,
+2233,154,Sparta,away, 74 ,Substitution, Jeremy van Mullem , Jonathan de Guzman 
+2234,154,Sparta,away, 74 ,Substitution, Sven Mijnans , Arno Verschueren 
+2235,154,Heerenveen,home, 78 ,Substitution, Tibor Halilović , Rami Kaib 
+2236,154,Sparta,away, 78 ,Substitution, Joshua Kitolano , Younes Namli 
+2237,154,Sparta,away, 78 ,Substitution, Omar Rekik , Tobias Lauritsen 
+2238,154,Sparta,away, 78 ,Substitution, Mario Engels , Mike Eerdhuijzen 
+2239,154,Heerenveen,home, 86 ,Substitution, Simon Olsson , Thom Haye 

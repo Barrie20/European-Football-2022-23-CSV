@@ -1,0 +1,1621 @@
+event_id,match_id,team,event_team,event_time,event_type,action_player_1,action_player_2
+1,1,Arsenal,home, 17 ,Goal, Kieran Tierney ,
+2,1,Zürich,away, 32 ,Yellow card, Fidan Aliti ,
+3,1,Zürich,away, 45 ,Substitution, Antonio Marchesano , Fabian Rohner 
+4,1,Zürich,away, 49 ,Yellow card, Nikola Katić ,
+5,1,Zürich,away, 62 ,Yellow card, Cheick Condé ,
+6,1,Arsenal,home, 63 ,Substitution, Thomas Partey , Elneny Mohamed 
+7,1,Arsenal,home, 63 ,Substitution, Bukayo Saka , Gabriel Jesus 
+8,1,Arsenal,home, 73 ,Substitution, Martin Ødegaard , Fábio Vieira 
+9,1,Arsenal,home, 73 ,Substitution, Takehiro Tomiyasu , Ben White 
+10,1,Zürich,away, 77 ,Substitution, Marc Hornschuh , Ole Selnæs 
+11,1,Zürich,away, 78 ,Substitution, Bohdan Viunnyk , Aiyegun Tosin 
+12,1,Zürich,away, 82 ,Substitution, Bledian Krasniqi , Cheick Condé 
+13,1,Arsenal,home, 88 ,Substitution, Cedric Soares , Takehiro Tomiyasu 
+14,1,Zürich,away, 89 ,Substitution, Ivan Santini , Fidan Aliti 
+15,1,Arsenal,home, 96 ,Yellow card, Gabriel ,
+16,2,Bodø/Glimt,home, 32 ,Yellow card, Hugo Vetlesen ,
+17,2,PSV,away, 35 ,Own goal, Alfons Sampsted , Own goal 
+18,2,PSV,away, 45 ,Substitution, André Ramalho , Armando Obispo 
+19,2,PSV,away, 45 ,Substitution, Anwar El Ghazi , Luuk de Jong 
+20,2,PSV,away, 45 ,Substitution, Érick Gutiérrez , Joey Veerman 
+21,2,Bodø/Glimt,home, 49 ,Yellow card, Japhet Sery Larsen ,
+22,2,PSV,away, 52 ,Goal, Johan Bakayoko , Anwar El Ghazi 
+23,2,PSV,away, 59 ,Yellow card, André Ramalho ,
+24,2,PSV,away, 70 ,Substitution, Yorbe Vertessen , Noni Madueke 
+25,2,Bodø/Glimt,home, 75 ,Substitution, Morten Konradsen , Japhet Sery Larsen 
+26,2,Bodø/Glimt,home, 75 ,Substitution, Ulrik Saltnes , Hugo Vetlesen 
+27,2,Bodø/Glimt,home, 75 ,Substitution, Nino Žugelj , Ola Solbakken 
+28,2,Bodø/Glimt,home, 75 ,Substitution, Amahl Pellegrino , Joel Mvuka 
+29,2,Bodø/Glimt,home, 83 ,Substitution, Lars Salvesen , Runar Espejord 
+30,2,PSV,away, 91 ,Substitution, Emmanuel van de Blaak , Ki Hoever 
+31,2,Bodø/Glimt,home, 93 ,Goal, Nino Žugelj , Ulrik Saltnes 
+32,3,Braga,home, 36 ,Goal, Ricardo Horta ,
+33,3,Braga,home, 45 ,Substitution, Álvaro Djaló , Abel Ruiz 
+34,3,Braga,home, 48 ,Yellow card, Paulo Oliveira ,
+35,3,Braga,home, 55 ,Goal, Álvaro Djaló ,
+36,3,Malmö,away, 58 ,Yellow card, Matej Chaluš ,
+37,3,Braga,home, 59 ,Substitution, Hernâni Infande , Rodrigo Gomes 
+38,3,Braga,home, 60 ,Substitution, Uroš Račić , Ali Musrati 
+39,3,Malmö,away, 61 ,Substitution, Isaac Thelin , Ola Toivonen 
+40,3,Malmö,away, 62 ,Substitution, Patriot Sejdiu , Mohamed Turay 
+41,3,Malmö,away, 74 ,Substitution, Sergio Peña , Erdal Rakip 
+42,3,Braga,home, 74 ,Substitution, Diego Lainez , Ricardo Horta 
+43,3,Malmö,away, 77 ,Goal, Patriot Sejdiu , Isaac Thelin 
+44,3,Braga,home, 79 ,Substitution, Cristián Borja , Nuno Sequeira 
+45,3,Braga,home, 96 ,Yellow card, Hernâni Infande ,
+46,4,Fenerbahçe,away, 23 ,Goal, Arda Güler ,
+47,4,Fenerbahçe,away, 47 ,Goal, Willian Arão , Arda Güler 
+48,4,Dynamo Kyiv,home, 45 ,Substitution, Denys Garmash , Volodymyr Shepelev 
+49,4,Dynamo Kyiv,home, 45 ,Substitution, Vladyslav Kabaev , Artem Besedin 
+50,4,Dynamo Kyiv,home, 51 ,Yellow card, Denys Garmash ,
+51,4,Dynamo Kyiv,home, 57 ,Yellow card, Illia Zabarnyi ,
+52,4,Fenerbahçe,away, 63 ,Yellow card, Attila Szalai ,
+53,4,Fenerbahçe,away, 64 ,Substitution, Emre Mor , Arda Güler 
+54,4,Fenerbahçe,away, 64 ,Substitution, Joao Pedro Galvao , Michy Batshuayi 
+55,4,Fenerbahçe,away, 64 ,Substitution, Irfan Kahveci , Enner Valencia 
+56,4,Dynamo Kyiv,home, 68 ,Second yellow card, Illia Zabarnyi ,
+57,4,Dynamo Kyiv,home, 70 ,Substitution, Olexandr Karavaev , Vitalii Buyalskyi 
+58,4,Dynamo Kyiv,home, 70 ,Substitution, Oleksandr Syrota , Kostiantyn Vivcharenko 
+59,4,Fenerbahçe,away, 73 ,Substitution, Miha Zajc , Willian Arão 
+60,4,Fenerbahçe,away, 79 ,Substitution, Ezgjan Alioski , Lincoln 
+61,4,Dynamo Kyiv,home, 86 ,Substitution, Samba Diallo , Viktor Tsygankov 
+62,4,Fenerbahçe,away, 90 ,Yellow card, Emre Mor ,
+63,4,Dynamo Kyiv,home, 93 ,Yellow card, Serhiy Sydorchuk ,
+64,4,Fenerbahçe,away, 95 ,Yellow card, Irfan Kahveci ,
+65,5,Ludogorets,away, 15 ,Yellow card, Cicinho ,
+66,5,Ludogorets,away, 41 ,Goal, Rick , Cicinho 
+67,5,Roma,home, 45 ,Substitution, Cristian Volpato , Mady Camara 
+68,5,Roma,home, 45 ,Substitution, Bryan Cristante , Rick Karsdorp 
+69,5,Roma,home, 45 ,Substitution, Nicolò Zaniolo , Andrea Belotti 
+70,5,Roma,home, 49 ,Yellow card, Cristian Volpato ,
+71,5,Roma,home, 56 ,Penalty, Lorenzo Pellegrini , Penalty 
+72,5,Roma,home, 61 ,Substitution, Nicola Zalewski , Nemanja Matic 
+73,5,Ludogorets,away, 62 ,Yellow card, Thiago ,
+74,5,Ludogorets,away, 64 ,Yellow card, Anton Nedyalkov ,
+75,5,Ludogorets,away, 64 ,Yellow card, Jakub Piotrowski ,
+76,5,Roma,home, 65 ,Penalty, Lorenzo Pellegrini , Penalty 
+77,5,Ludogorets,away, 71 ,Substitution, Kiril Despodov , Bernard Tekpetey 
+78,5,Ludogorets,away, 71 ,Substitution, Nonato , Jakub Piotrowski 
+79,5,Ludogorets,away, 71 ,Substitution, Matías Tissera , Thiago 
+80,5,Ludogorets,away, 78 ,Disallowed goal,Disallowed goal,
+81,5,Ludogorets,away, 79 ,Yellow card, Rick ,
+82,5,Roma,home, 80 ,Substitution, Edoardo Bove , Cristian Volpato 
+83,5,Roma,home, 85 ,Goal, Nicolò Zaniolo , Bryan Cristante 
+84,5,Roma,home, 87 ,Yellow card, Nicolò Zaniolo ,
+85,5,Ludogorets,away, 87 ,Substitution, Spas Delev , Aslak Witry 
+86,5,Ludogorets,away, 87 ,Substitution, Danny Gruper , Cicinho 
+87,5,Roma,home, 88 ,Yellow card, Matías Viña ,
+88,5,Ludogorets,away, 90 ,Red card, Olivier Verdon ,
+89,5,Ludogorets,away, 90 ,Yellow card, Nonato ,
+90,6,Rennes,home, 17 ,Goal, Matthis Abline , Benjamin Bourigeaud 
+91,6,Rennes,home, 18 ,Yellow card, Flavien Tait ,
+92,6,AEK,away, 28 ,Yellow card, Hrvoje Miličević ,
+93,6,Rennes,home, 56 ,Substitution, Jérémy Doku , Martin Terrier 
+94,6,Rennes,home, 56 ,Substitution, Amine Gouiri , Matthis Abline 
+95,6,Rennes,home, 63 ,Substitution, Désiré Doué , Benjamin Bourigeaud 
+96,6,Rennes,home, 63 ,Substitution, Lesley Ugochukwu , Lovro Majer 
+97,6,Rennes,home, 71 ,Substitution, Adrien Truffert , Arnaud Kalimuendo 
+98,6,AEK,away, 74 ,Substitution, Rafael Lopes , Rafail Mamas 
+99,6,AEK,away, 76 ,Goal, Rafael Lopes ,
+100,6,AEK,away, 85 ,Yellow card, Roberto Rosales ,
+101,6,AEK,away, 88 ,Substitution, Mikel Gonzalez , Luis Gustavo 
+102,6,AEK,away, 88 ,Substitution, Nikos Englezou , Ádám Gyurcsó 
+103,6,AEK,away, 92 ,Substitution, Henry Andreou , Victor Olatunji 
+104,7,1. FC Union Berlin,away, 6 ,Goal, Sven Michel , Sheraldo Becker 
+105,7,1. FC Union Berlin,away, 9 ,Yellow card, Sheraldo Becker ,
+106,7,R. Union SG,home, 45 ,Substitution, Victor Boniface , Gustaf Nilsson 
+107,7,1. FC Union Berlin,away, 45 ,Substitution, Lennart Grill , Frederik Rønnow 
+108,7,1. FC Union Berlin,away, 48 ,Yellow card, Janik Haberer ,
+109,7,1. FC Union Berlin,away, 62 ,Substitution, András Schäfer , Genki Haraguchi 
+110,7,1. FC Union Berlin,away, 62 ,Substitution, Morten Thorsby , Janik Haberer 
+111,7,1. FC Union Berlin,away, 62 ,Substitution, Kevin Behrens , Sven Michel 
+112,7,R. Union SG,home, 64 ,Substitution, Oussama El Azzouzi , Lazare Amani 
+113,7,R. Union SG,home, 64 ,Substitution, Dennis Eckert , Dante Vanzeir 
+114,7,R. Union SG,home, 72 ,Substitution, Loïc Lapoussin , Ismaël Kandouss 
+115,7,R. Union SG,home, 72 ,Substitution, Jose Rodriguez , Teddy Teuma 
+116,7,R. Union SG,home, 78 ,Yellow card, Simon Adingra ,
+117,7,R. Union SG,home, 79 ,Yellow card, Dennis Eckert ,
+118,7,1. FC Union Berlin,away, 89 ,Substitution, Jamie Leweling , Sheraldo Becker 
+119,7,1. FC Union Berlin,away, 91 ,Yellow card, Christopher Trimmel ,
+120,7,R. Union SG,home, 94 ,Yellow card, Jose Rodriguez ,
+121,8,Real Betis,home, 20 ,Goal, Aitor Ruibal , Juan Miranda 
+122,8,Real Betis,home, 34 ,Yellow card, Aitor Ruibal ,
+123,8,Real Betis,home, 40 ,Goal, Aitor Ruibal , Youssouf Sabaly 
+124,8,Real Betis,home, 45 ,Substitution, Sergio Canales , Youssouf Sabaly 
+125,8,Real Betis,home, 45 ,Substitution, Borja Iglesias , William Carvalho 
+126,8,Real Betis,home, 48 ,Yellow card, Edgar Gonzalez ,
+127,8,HJK,away, 55 ,Substitution, Joona Toivio , Matti Peltola 
+128,8,Real Betis,home, 67 ,Substitution, Dani Pérez , Willian Jose 
+129,8,Real Betis,home, 67 ,Substitution, Nabil Fekir , Luiz Henrique 
+130,8,HJK,away, 68 ,Substitution, Anthony Olusanya , Santeri Hostikka 
+131,8,Real Betis,home, 77 ,Substitution, Andrés Guardado , Paul Akouokou 
+132,8,HJK,away, 80 ,Substitution, Bojan Radulović , Malik Abubakari 
+133,8,HJK,away, 80 ,Substitution, Atomu Tanaka , Santeri Väänänen 
+134,8,HJK,away, 80 ,Substitution, Johannes Yli-Kokko , Nassim Boujellab 
+135,8,Real Betis,home, 92 ,Goal, Nabil Fekir , Borja Iglesias 
+136,9,Qarabağ,home, 24 ,Yellow card, Bahlul Mustafazadə ,
+137,9,SC Freiburg,away, 25 ,Penalty, Nils Petersen , Penalty 
+138,9,SC Freiburg,away, 34 ,Yellow card, Kevin Schade ,
+139,9,SC Freiburg,away, 45 ,Substitution, Lukas Kübler , Christian Günter 
+140,9,Qarabağ,home, 48 ,Yellow card, Marko Janković ,
+141,9,Qarabağ,home, 55 ,Disallowed goal,Disallowed goal,
+142,9,Qarabağ,home, 55 ,Yellow card, Kady ,
+143,9,Qarabağ,home, 61 ,Red card, Kevin Medina ,
+144,9,SC Freiburg,away, 62 ,Substitution, Roland Sallai , Kevin Schade 
+145,9,Qarabağ,home, 63 ,Substitution, Maksim Medvedev , Ramil Şeydayev 
+146,9,SC Freiburg,away, 64 ,Yellow card, Yannik Keitel ,
+147,9,SC Freiburg,away, 72 ,Substitution, Jeong Woo-yeong , Noah Weißhaupt 
+148,9,SC Freiburg,away, 73 ,Substitution, Matthias Ginter , Hugo Siquet 
+149,9,SC Freiburg,away, 74 ,Yellow card, Keven Schlotterbeck ,
+150,9,SC Freiburg,away, 84 ,Substitution, Vincenzo Grifo , Lucas Höler 
+151,9,Qarabağ,home, 87 ,Substitution, Musa Qurbanlı , Richard Almeyda 
+152,9,Qarabağ,home, 88 ,Substitution, Toral Bayramov , Elvin Cəfərquliyev 
+153,9,Qarabağ,home, 88 ,Substitution, Júlio Romão , Marko Janković 
+154,9,Qarabağ,home, 88 ,Substitution, Abbas Hüseynov , Marko Vesovic 
+155,9,Qarabağ,home, 91 ,Goal, Owusu Kwabena , Toral Bayramov 
+156,9,Qarabağ,home, 93 ,Yellow card, Júlio Romão ,
+157,10,Lazio,away, 32 ,Yellow card, Manuel Lazzari ,
+158,10,Feyenoord,home, 45 ,Substitution, Quilindschy Hartman , Marcos López 
+159,10,Lazio,away, 45 ,Substitution, Adam Marušić , Manuel Lazzari 
+160,10,Lazio,away, 52 ,Yellow card, Mattia Zaccagni ,
+161,10,Lazio,away, 63 ,Substitution, Pedro , Mattia Zaccagni 
+162,10,Feyenoord,home, 63 ,Substitution, Santiago Giménez , Danilo 
+163,10,Feyenoord,home, 64 ,Goal, Santiago Giménez ,
+164,10,Lazio,away, 67 ,Substitution, Danilo Cataldi , Marcos Antônio 
+165,10,Lazio,away, 67 ,Substitution, Matías Vecino , Toma Bašić 
+166,10,Feyenoord,home, 73 ,Substitution, Patrik Wålemark , Igor Paixão 
+167,10,Lazio,away, 77 ,Yellow card, Pedro ,
+168,10,Lazio,away, 79 ,Yellow card, Matteo Cancellieri ,
+169,10,Lazio,away, 81 ,Substitution, Luka Romero , Matteo Cancellieri 
+170,10,Feyenoord,home, 87 ,Yellow card, Santiago Giménez ,
+171,10,Feyenoord,home, 87 ,Yellow card, Quinten Timber ,
+172,10,Lazio,away, 87 ,Yellow card, Patric Gabarron ,
+173,10,Lazio,away, 87 ,Yellow card, Adam Marušić ,
+174,10,Feyenoord,home, 92 ,Substitution, Mats Wieffer , Quinten Timber 
+175,10,Lazio,away, 95 ,Yellow card, Luka Romero ,
+176,10,Lazio,away, 96 ,Second yellow card, Luka Romero ,
+177,11,Monaco,home, 5 ,Goal, Kevin Volland , Caio Henrique 
+178,11,Red Star Belgrade,away, 23 ,Yellow card, Milan Rodic ,
+179,11,Monaco,home, 27 ,Goal, Kevin Volland , Krépin Diatta 
+180,11,Red Star Belgrade,away, 38 ,Yellow card, Aleksandar Katai ,
+181,11,Red Star Belgrade,away, 45 ,Substitution, Slavoljub Srnić , Stefan Mitrović 
+182,11,Monaco,home, 50 ,Own goal, Milan Rodic , Own goal 
+183,11,Monaco,home, 53 ,Yellow card, Benoît Badiashile ,
+184,11,Red Star Belgrade,away, 54 ,Penalty, Guélor Kanga , Penalty 
+185,11,Red Star Belgrade,away, 60 ,Substitution, Kings Kangwa , Aleksandar Katai 
+186,11,Red Star Belgrade,away, 62 ,Yellow card, Slavoljub Srnić ,
+187,11,Red Star Belgrade,away, 64 ,Yellow card, Guélor Kanga ,
+188,11,Red Star Belgrade,away, 68 ,Disallowed goal,Disallowed goal,
+189,11,Red Star Belgrade,away, 71 ,Substitution, El Fardou Ben Mohamed , Osman Bukari 
+190,11,Red Star Belgrade,away, 71 ,Substitution, Ibrahim Mustapha , Guélor Kanga 
+191,11,Monaco,home, 75 ,Substitution, Vanderson , Krépin Diatta 
+192,11,Monaco,home, 76 ,Substitution, Breel Embolo , Wissam Ben Yedder 
+193,11,Red Star Belgrade,away, 84 ,Substitution, Irakli Azarovi , Milan Rodic 
+194,11,Monaco,home, 85 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+195,11,Monaco,home, 85 ,Substitution, Eliot Matazo , Mohamed Camara 
+196,11,Monaco,home, 87 ,Goal, Kevin Volland , Ismail Jakobs 
+197,11,Monaco,home, 90 ,Substitution, Eliesse Ben Seghir , Kevin Volland 
+198,12,Nantes,away, 5 ,Substitution, Dennis Appiah , Fabio 
+199,12,Olympiacos,home, 45 ,Substitution, Anastasios Sapountzis , Youssef El Arabi 
+200,12,Nantes,away, 45 ,Substitution, Ludovic Blas , Moses Simon 
+201,12,Olympiacos,home, 45 ,Substitution, Sime Vrsaljko , Marios Vrousai 
+202,12,Nantes,away, 48 ,Yellow card, Jean-Charles Castelletto ,
+203,12,Olympiacos,home, 60 ,Substitution, Pape Abou Cissé , Alexios Kalogeropoulos 
+204,12,Nantes,away, 67 ,Yellow card, Samuel Moutoussamy ,
+205,12,Olympiacos,home, 69 ,Substitution, Marcelo , Aboubakar Kamara 
+206,12,Nantes,away, 73 ,Substitution, Pedro Chirivella , Samuel Moutoussamy 
+207,12,Nantes,away, 73 ,Substitution, Kader Bamba , Ignatius Ganago 
+208,12,Nantes,away, 79 ,Goal, Mostafa Mohamed , Ludovic Blas 
+209,12,Nantes,away, 80 ,Substitution, Marcus Coco , Evann Guessand 
+210,12,Olympiacos,home, 85 ,Substitution, Pipa , Josh Bowler 
+211,12,Nantes,away, 90 ,Goal, Ludovic Blas , Mostafa Mohamed 
+212,12,Olympiacos,home, 93 ,Yellow card, Panagiotis Retsos ,
+213,13,Manchester United,away, 17 ,Goal, Alejandro Garnacho , Cristiano Ronaldo 
+214,13,Manchester United,away, 58 ,Substitution, Marcus Rashford , Donny van de Beek 
+215,13,Real Sociedad,home, 58 ,Substitution, Aritz Elustondo , Andoni Gorosabel 
+216,13,Manchester United,away, 58 ,Substitution, Scott McTominay , Victor Lindelof 
+217,13,Real Sociedad,home, 58 ,Substitution, Robert Navarro , Pablo Marín 
+218,13,Manchester United,away, 62 ,Yellow card, Lisandro Martínez ,
+219,13,Real Sociedad,home, 64 ,Yellow card, Brais Mendez ,
+220,13,Manchester United,away, 71 ,Yellow card, Cristiano Ronaldo ,
+221,13,Real Sociedad,home, 73 ,Yellow card, Carlos Fernandez Luna ,
+222,13,Real Sociedad,home, 73 ,Substitution, Ander Guevara , Carlos Fernandez Luna 
+223,13,Manchester United,away, 82 ,Substitution, Fred , Christian Eriksen 
+224,13,Manchester United,away, 82 ,Substitution, Harry Maguire , Alejandro Garnacho 
+225,13,Real Sociedad,home, 83 ,Substitution, Igor Zubeldia , Brais Mendez 
+226,13,Real Sociedad,home, 83 ,Substitution, Jon Magunazelaia , Alexander Sorloth 
+227,13,Manchester United,away, 87 ,Yellow card, Diogo Dalot ,
+228,14,Sheriff,home, 17 ,Yellow card, Stjepan Radeljić ,
+229,14,Omonia,away, 63 ,Substitution, Fotios Papoulis , Charalampos Charalampous 
+230,14,Omonia,away, 63 ,Substitution, Paris Psaltis , Jan Lecjaks 
+231,14,Omonia,away, 63 ,Substitution, Panayiotis Zachariou , Loizos Loizou 
+232,14,Sheriff,home, 68 ,Yellow card, I Rasheed ,
+233,14,Sheriff,home, 69 ,Substitution, Iyayi Atiemwen , Mudasiru Salifu 
+234,14,Omonia,away, 76 ,Substitution, Mikkel Diskerud , Moreto Cassamá 
+235,14,Omonia,away, 81 ,Yellow card, Roman Bezus ,
+236,14,Omonia,away, 81 ,Substitution, Brandon Barker , Bruno Felipe 
+237,14,Sheriff,home, 86 ,Substitution, Renan Guedes , Pernambuco 
+238,14,Sheriff,home, 87 ,Goal, I Rasheed , Moussa Kyabou 
+239,14,Sheriff,home, 92 ,Substitution, Heron , Moussa Kyabou 
+240,15,Trabzonspor,home, 7 ,Goal, Anastasios Bakasetas , Trezeguet 
+241,15,Ferencváros,away, 27 ,Yellow card, Aïssa Laïdouni ,
+242,15,Trabzonspor,home, 46 ,Yellow card, Abdülkadir Ömür ,
+243,15,Ferencváros,away, 47 ,Yellow card, Samy Mmaee ,
+244,15,Trabzonspor,home, 51 ,Yellow card, Vitor Hugo ,
+245,15,Ferencváros,away, 61 ,Substitution, Xavier Mercier , Anderson Esiti 
+246,15,Trabzonspor,home, 62 ,Substitution, Jean Gbamin , Marek Hamsik 
+247,15,Trabzonspor,home, 62 ,Substitution, Djaniny , Yusuf Yazıcı 
+248,15,Trabzonspor,home, 69 ,Substitution, Enis Bardhi , Abdülkadir Ömür 
+249,15,Trabzonspor,home, 70 ,Substitution, Naci Ünüvar , Anastasios Bakasetas 
+250,15,Trabzonspor,home, 81 ,Yellow card, Marc Bartra ,
+251,15,Ferencváros,away, 82 ,Substitution, Adnan Kovačević , Tokmac Nguen 
+252,15,Trabzonspor,home, 85 ,Substitution, Dogucan Haspolat , Trezeguet 
+253,15,Ferencváros,away, 88 ,Yellow card, Bálint Vécsei ,
+254,15,Ferencváros,away, 91 ,Substitution, Damir Redzic , Lóránd Pászka 
+255,16,Midtjylland,home, 15 ,Goal, Anders Dreyer , Gustav Isaksen 
+256,16,Midtjylland,home, 28 ,Yellow card, Evander ,
+257,16,Sturm,away, 29 ,Yellow card, Otar Kiteishvili ,
+258,16,Sturm,away, 33 ,Yellow card, Amadou Danté ,
+259,16,Sturm,away, 45 ,Substitution, David Schnegg , Amadou Danté 
+260,16,Sturm,away, 45 ,Substitution, Emanuel Emegha , William Bøving 
+261,16,Sturm,away, 55 ,Yellow card, David Schnegg ,
+262,16,Midtjylland,home, 66 ,Substitution, Valdemar Andreasen , Edward Chilufya 
+263,16,Midtjylland,home, 66 ,Substitution, Oliver Sørensen , Evander 
+264,16,Midtjylland,home, 67 ,Substitution, Nikolas Dyhr , Paulinho 
+265,16,Midtjylland,home, 72 ,Goal, Anders Dreyer , Gustav Isaksen 
+266,16,Sturm,away, 74 ,Substitution, Jakob Jantscher , Albian Ajeti 
+267,16,Sturm,away, 80 ,Substitution, Manprit Sarkaria , Otar Kiteishvili 
+268,16,Sturm,away, 80 ,Substitution, Alexandar Borković , David Affengruber 
+269,16,Midtjylland,home, 88 ,Yellow card, Erik Sviatchenko ,
+270,16,Sturm,away, 88 ,Yellow card, Emanuel Emegha ,
+271,16,Midtjylland,home, 89 ,Substitution, Juninho , Erik Sviatchenko 
+272,16,Midtjylland,home, 91 ,Substitution, Gustav Christensen , Anders Dreyer 
+273,16,Midtjylland,home, 93 ,Yellow card, Kristoffer Olsson ,
+274,17,Roma,away, 22 ,Yellow card, Gianluca Mancini ,
+275,17,Roma,away, 28 ,Disallowed goal,Disallowed goal,
+276,17,HJK,home, 34 ,Yellow card, Aapo Halme ,
+277,17,Roma,away, 41 ,Goal, Tammy Abraham , Lorenzo Pellegrini 
+278,17,HJK,home, 45 ,Substitution, Malik Abubakari , Anthony Olusanya 
+279,17,HJK,home, 54 ,Goal, Perparim Hetemaj , Malik Abubakari 
+280,17,Roma,away, 62 ,Own goal, Arttu Hoskonen , Own goal 
+281,17,HJK,home, 69 ,Substitution, Nassim Boujellab , Perparim Hetemaj 
+282,17,Roma,away, 77 ,Substitution, Giacomo Faticanti , Cristian Volpato 
+283,17,Roma,away, 78 ,Substitution, Eldor Shomurodov , Lorenzo Pellegrini 
+284,17,Roma,away, 78 ,Substitution, Edoardo Bove , Mady Camara 
+285,17,HJK,home, 80 ,Disallowed goal,Disallowed goal,
+286,17,Roma,away, 81 ,Yellow card, Rui Patrício ,
+287,17,HJK,home, 82 ,Yellow card, Malik Abubakari ,
+288,17,Roma,away, 84 ,Substitution, Marash Kumbulla , Bryan Cristante 
+289,17,Roma,away, 89 ,Substitution, Leonardo Spinazzola , Stephan El Shaarawy 
+290,17,Roma,away, 94 ,Yellow card, Leonardo Spinazzola ,
+291,18,Sturm,home, 56 ,Substitution, Emanuel Emegha , Albian Ajeti 
+292,18,Sturm,home, 56 ,Substitution, Otar Kiteishvili , Stefan Hierländer 
+293,18,Feyenoord,away, 60 ,Substitution, Patrik Wålemark , Alireza Jahanbakhsh 
+294,18,Sturm,home, 67 ,Yellow card, Ivan Ljubic ,
+295,18,Feyenoord,away, 68 ,Substitution, Marcus Pedersen , Sebastian Szymański 
+296,18,Feyenoord,away, 70 ,Yellow card, Quinten Timber ,
+297,18,Feyenoord,away, 79 ,Yellow card, Patrik Wålemark ,
+298,18,Sturm,home, 83 ,Substitution, Jakob Jantscher , William Bøving 
+299,18,Feyenoord,away, 83 ,Yellow card, Javairô Dilrosun ,
+300,18,Feyenoord,away, 85 ,Substitution, Santiago Giménez , Danilo 
+301,18,Sturm,home, 91 ,Substitution, David Schnegg , Amadou Danté 
+302,18,Feyenoord,away, 92 ,Yellow card, Marcus Pedersen ,
+303,18,Sturm,home, 93 ,Goal, Otar Kiteishvili , Emanuel Emegha 
+304,19,Olympiacos,away, 17 ,Goal, Youssef El Arabi ,
+305,19,Olympiacos,away, 28 ,Yellow card, Yann M'Vila ,
+306,19,Olympiacos,away, 39 ,Substitution, Oleg Reabciuk , Garry Rodrigues 
+307,19,SC Freiburg,home, 63 ,Substitution, Maximilian Eggestein , Yannik Keitel 
+308,19,SC Freiburg,home, 64 ,Substitution, Noah Weißhaupt , Ritsu Dōan 
+309,19,SC Freiburg,home, 64 ,Substitution, Jeong Woo-yeong , Daniel-Kofi Kyereh 
+310,19,Olympiacos,away, 69 ,Substitution, Pierre Kunde , Pep Biel 
+311,19,SC Freiburg,home, 72 ,Substitution, Nils Petersen , Michael Gregoritsch 
+312,19,SC Freiburg,home, 78 ,Substitution, Kiliann Sildillia , Philipp Lienhart 
+313,19,Olympiacos,away, 80 ,Yellow card, Giorgos Masouras ,
+314,19,Olympiacos,away, 82 ,Substitution, Mathieu Valbuena , Giorgos Masouras 
+315,19,Olympiacos,away, 82 ,Yellow card, Youssef El Arabi ,
+316,19,Olympiacos,away, 82 ,Substitution, Panagiotis Retsos , Marios Vrousai 
+317,19,Olympiacos,away, 83 ,Substitution, Hwang Ui-jo , Youssef El Arabi 
+318,19,Olympiacos,away, 91 ,Yellow card, Alexandros Paschalakis ,
+319,19,SC Freiburg,home, 93 ,Goal, Lukas Kübler , Christian Günter 
+320,19,Olympiacos,away, 94 ,Yellow card, Pierre Kunde ,
+321,19,Olympiacos,away, 95 ,Yellow card, Ousseynou Ba ,
+322,19,Olympiacos,away, 96 ,Second yellow card, Ousseynou Ba ,
+323,19,SC Freiburg,home, 97 ,Yellow card, Matthias Ginter ,
+324,19,Olympiacos,away, 97 ,Yellow card, Panagiotis Retsos ,
+325,20,Red Star Belgrade,home, 25 ,Yellow card, Aleksandar Dragovic ,
+326,20,Red Star Belgrade,home, 37 ,Goal, Aleksandar Katai , Osman Bukari 
+327,20,Trabzonspor,away, 39 ,Goal, Anastasios Bakasetas ,
+328,20,Red Star Belgrade,home, 45 ,Yellow card, Aleksandar Pesic ,
+329,20,Red Star Belgrade,home, 60 ,Substitution, Mirko Ivanić , Slavoljub Srnić 
+330,20,Red Star Belgrade,home, 64 ,Goal, Aleksandar Pesic , Osman Bukari 
+331,20,Trabzonspor,away, 68 ,Substitution, Abdülkadir Ömür , Jean Gbamin 
+332,20,Trabzonspor,away, 68 ,Substitution, Djaniny , Umut Bozok 
+333,20,Red Star Belgrade,home, 75 ,Substitution, Kings Kangwa , Aleksandar Katai 
+334,20,Trabzonspor,away, 82 ,Substitution, Yusuf Yazıcı , Marek Hamsik 
+335,20,Trabzonspor,away, 82 ,Substitution, Mountassir Lahtimi , Enis Bardhi 
+336,20,Red Star Belgrade,home, 83 ,Substitution, Jovan Mijatović , Aleksandar Pesic 
+337,20,Red Star Belgrade,home, 83 ,Substitution, Ibrahim Mustapha , Stefan Mitrović 
+338,21,Real Sociedad,away, 47 ,Goal, Robert Navarro , Asier Illarramendi 
+339,21,Real Sociedad,away, 45 ,Substitution, Pablo Marín , Takefusa Kubo 
+340,21,Omonia,home, 45 ,Substitution, Fotios Papoulis , Brandon Barker 
+341,21,Real Sociedad,away, 45 ,Substitution, Brais Mendez , Mikel Merino 
+342,21,Omonia,home, 50 ,Yellow card, Adam Lang ,
+343,21,Omonia,home, 53 ,Yellow card, Fotios Papoulis ,
+344,21,Real Sociedad,away, 60 ,Goal, Brais Mendez , Robert Navarro 
+345,21,Omonia,home, 64 ,Substitution, Héctor Yuste , Nemanja Miletić 
+346,21,Omonia,home, 64 ,Substitution, Karim Ansarifard , Bruno Felipe 
+347,21,Real Sociedad,away, 69 ,Substitution, Aritz Arambarri , Diego Rico Salguero 
+348,21,Real Sociedad,away, 70 ,Substitution, Jon Magunazelaia , Jon Karrikaburu 
+349,21,Omonia,home, 72 ,Substitution, Ioannis Kousoulos , Charalampos Charalampous 
+350,21,Real Sociedad,away, 73 ,Yellow card, Asier Illarramendi ,
+351,21,Omonia,home, 80 ,Substitution, Nikolas Panagiotou , Adam Matthews 
+352,21,Real Sociedad,away, 80 ,Substitution, Beñat Turrientes , Asier Illarramendi 
+353,21,Real Sociedad,away, 83 ,Yellow card, Brais Mendez ,
+354,21,Omonia,home, 88 ,Yellow card, Moreto Cassamá ,
+355,22,Nantes,home, 16 ,Goal, Ludovic Blas , Pedro Chirivella 
+356,22,Nantes,home, 41 ,Yellow card, Kader Bamba ,
+357,22,Qarabağ,away, 56 ,Penalty, Filip Ozobić , Penalty 
+358,22,Nantes,home, 60 ,Yellow card, Andrei Girotto ,
+359,22,Nantes,home, 67 ,Substitution, Moussa Sissoko , Sebastien Corchia 
+360,22,Nantes,home, 67 ,Substitution, Moses Simon , Evann Guessand 
+361,22,Nantes,home, 67 ,Substitution, Dennis Appiah , Kader Bamba 
+362,22,Qarabağ,away, 69 ,Substitution, Marko Janković , Richard Almeyda 
+363,22,Qarabağ,away, 69 ,Substitution, Ramil Şeydayev , Filip Ozobić 
+364,22,Nantes,home, 78 ,Substitution, Ignatius Ganago , Samuel Moutoussamy 
+365,22,Qarabağ,away, 79 ,Substitution, Júlio Romão , Qara Qarayev 
+366,22,Qarabağ,away, 82 ,Yellow card, Marko Vesovic ,
+367,22,Qarabağ,away, 88 ,Substitution, Elvin Cəfərquliyev , Toral Bayramov 
+368,22,Nantes,home, 88 ,Substitution, Marcus Coco , Pedro Chirivella 
+369,22,Qarabağ,away, 88 ,Substitution, Abbas Hüseynov , Marko Vesovic 
+370,22,Nantes,home, 94 ,Goal, Ignatius Ganago , Jean-Charles Castelletto 
+371,22,Nantes,home, 94 ,Yellow card, Pedro Chirivella ,
+372,23,Sheriff,away, 22 ,Yellow card, I Rasheed ,
+373,23,Manchester United,home, 44 ,Goal, Diogo Dalot , Christian Eriksen 
+374,23,Manchester United,home, 45 ,Substitution, Marcus Rashford , Antony 
+375,23,Manchester United,home, 45 ,Substitution, Harry Maguire , Lisandro Martínez 
+376,23,Manchester United,home, 63 ,Substitution, Luke Shaw , Diogo Dalot 
+377,23,Manchester United,home, 63 ,Substitution, Scott McTominay , Casemiro 
+378,23,Sheriff,away, 64 ,Yellow card, Renan Guedes ,
+379,23,Manchester United,home, 65 ,Goal, Marcus Rashford , Luke Shaw 
+380,23,Sheriff,away, 79 ,Substitution, Adrian Hatman , Mouhamed Diop 
+381,23,Sheriff,away, 79 ,Substitution, Pernambuco , I Rasheed 
+382,23,Manchester United,home, 79 ,Substitution, Donny van de Beek , Alejandro Garnacho 
+383,23,Manchester United,home, 81 ,Goal, Cristiano Ronaldo ,
+384,23,Manchester United,home, 84 ,Yellow card, Harry Maguire ,
+385,23,Sheriff,away, 89 ,Substitution, Nichita Covali , Iyayi Atiemwen 
+386,23,Sheriff,away, 94 ,Substitution, Eugeniu Gliga , Cédric Badolo 
+387,24,Ferencváros,home, 24 ,Yellow card, Endre Botka ,
+388,24,Monaco,away, 31 ,Goal, Wissam Ben Yedder , Axel Disasi 
+389,24,Ferencváros,home, 32 ,Yellow card, Denes Dibusz ,
+390,24,Monaco,away, 41 ,Substitution, Krépin Diatta , Vanderson 
+391,24,Ferencváros,home, 45 ,Substitution, Marquinhos , Amer Gojak 
+392,24,Monaco,away, 56 ,Yellow card, Mohamed Camara ,
+393,24,Ferencváros,home, 56 ,Substitution, Muhamed Besic , Bálint Vécsei 
+394,24,Ferencváros,home, 65 ,Substitution, Tokmac Nguen , Lóránd Pászka 
+395,24,Ferencváros,home, 80 ,Yellow card, Aïssa Laïdouni ,
+396,24,Ferencváros,home, 81 ,Goal, Kristoffer Zachariassen , Tokmac Nguen 
+397,24,Monaco,away, 83 ,Substitution, Jean Lucas , Youssouf Fofana 
+398,24,Monaco,away, 83 ,Substitution, Breel Embolo , Kevin Volland 
+399,24,Monaco,away, 84 ,Yellow card, Guillermo Maripan ,
+400,24,Ferencváros,home, 91 ,Substitution, Anderson Esiti , Marquinhos 
+401,24,Ferencváros,home, 92 ,Yellow card, Muhamed Besic ,
+402,25,AEK,home, 26 ,Goal, Omri Altman , Imad Faraj 
+403,25,Dynamo Kyiv,away, 35 ,Yellow card, Volodymyr Shepelev ,
+404,25,Dynamo Kyiv,away, 45 ,Goal, Vladyslav Vanat , Vitalii Buyalskyi 
+405,25,AEK,home, 53 ,Goal, Rafael Lopes , Nikos Englezou 
+406,25,Dynamo Kyiv,away, 55 ,Yellow card, Viktor Tsygankov ,
+407,25,Dynamo Kyiv,away, 65 ,Substitution, Denys Garmash , Vladyslav Kabaev 
+408,25,AEK,home, 66 ,Substitution, Rafail Mamas , Rafael Lopes 
+409,25,Dynamo Kyiv,away, 69 ,Yellow card, Illia Zabarnyi ,
+410,25,AEK,home, 72 ,Goal, Omri Altman ,
+411,25,Dynamo Kyiv,away, 75 ,Substitution, Kaheem Parris , Vitalii Buyalskyi 
+412,25,AEK,home, 79 ,Yellow card, Roberto Rosales ,
+413,25,Dynamo Kyiv,away, 82 ,Goal, Denys Garmash , Oleksandr Tymchyk 
+414,25,AEK,home, 83 ,Substitution, Victor Olatunji , Omri Altman 
+415,25,Dynamo Kyiv,away, 83 ,Substitution, Samba Diallo , Volodymyr Shepelev 
+416,25,Dynamo Kyiv,away, 83 ,Substitution, Artem Besedin , Vladyslav Vanat 
+417,25,AEK,home, 84 ,Substitution, Kypros Christoforou , Imad Faraj 
+418,25,Dynamo Kyiv,away, 85 ,Yellow card, Samba Diallo ,
+419,25,AEK,home, 88 ,Substitution, Mikel Gonzalez , Roberto Rosales 
+420,25,AEK,home, 89 ,Substitution, Giorgos Naoum , Ádám Gyurcsó 
+421,25,Dynamo Kyiv,away, 91 ,Goal, Denys Garmash ,
+422,26,Fenerbahçe,home, 3 ,Yellow card, Willian Arão ,
+423,26,Rennes,away, 5 ,Goal, Amine Gouiri , Adrien Truffert 
+424,26,Rennes,away, 11 ,Disallowed goal,Disallowed goal,
+425,26,Rennes,away, 16 ,Goal, Martin Terrier , Amine Gouiri 
+426,26,Fenerbahçe,home, 28 ,Yellow card, Irfan Kahveci ,
+427,26,Rennes,away, 30 ,Goal, Amine Gouiri , Benjamin Bourigeaud 
+428,26,Fenerbahçe,home, 42 ,Goal, Enner Valencia , Irfan Kahveci 
+429,26,Rennes,away, 52 ,Substitution, Dogan Alemdar , Steve Mandanda 
+430,26,Fenerbahçe,home, 60 ,Substitution, Ezgjan Alioski , Gustavo Henrique 
+431,26,Fenerbahçe,home, 61 ,Substitution, Emre Mor , Irfan Kahveci 
+432,26,Fenerbahçe,home, 61 ,Substitution, Michy Batshuayi , Joao Pedro Galvao 
+433,26,Fenerbahçe,home, 61 ,Substitution, Miha Zajc , Willian Arão 
+434,26,Rennes,away, 70 ,Substitution, Lorenz Assignon , Benjamin Bourigeaud 
+435,26,Rennes,away, 70 ,Substitution, Désiré Doué , Lovro Majer 
+436,26,Rennes,away, 73 ,Yellow card, Désiré Doué ,
+437,26,Fenerbahçe,home, 78 ,Substitution, Arda Güler , Lincoln 
+438,26,Fenerbahçe,home, 82 ,Goal, Miha Zajc ,
+439,26,Rennes,away, 83 ,Substitution, Kamaldeen Sulemana , Martin Terrier 
+440,26,Rennes,away, 84 ,Substitution, Arnaud Kalimuendo , Amine Gouiri 
+441,26,Fenerbahçe,home, 88 ,Goal, Emre Mor , Miguel Crespo 
+442,26,Rennes,away, 91 ,Yellow card, Lesley Ugochukwu ,
+443,26,Rennes,away, 94 ,Yellow card, Hamari Traore ,
+444,27,Midtjylland,away, 8 ,Goal, Gustav Isaksen ,
+445,27,Lazio,home, 15 ,Yellow card, Alessio Romagnoli ,
+446,27,Lazio,home, 36 ,Goal, Sergej Milinković-Savić , Felipe Anderson 
+447,27,Midtjylland,away, 42 ,Yellow card, Joel Andersson ,
+448,27,Midtjylland,away, 53 ,Substitution, Pione Sisto , Edward Chilufya 
+449,27,Midtjylland,away, 53 ,Substitution, Mads Thychosen , Joel Andersson 
+450,27,Lazio,home, 55 ,Substitution, Danilo Cataldi , Marcos Antônio 
+451,27,Lazio,home, 55 ,Substitution, Pedro , Matteo Cancellieri 
+452,27,Lazio,home, 55 ,Substitution, Matías Vecino , Toma Bašić 
+453,27,Lazio,home, 58 ,Goal, Pedro ,
+454,27,Midtjylland,away, 61 ,Substitution, Sory Kaba , Charles 
+455,27,Lazio,home, 69 ,Yellow card, Mario Gila ,
+456,27,Lazio,home, 73 ,Substitution, Luka Romero , Mattia Zaccagni 
+457,27,Lazio,home, 80 ,Disallowed goal,Disallowed goal,
+458,27,Midtjylland,away, 82 ,Substitution, Nikolas Dyhr , Paulinho 
+459,27,Lazio,home, 82 ,Substitution, Nicolò Casale , Mario Gila 
+460,27,Midtjylland,away, 82 ,Substitution, Juninho , Emiliano Martínez 
+461,27,Lazio,home, 89 ,Yellow card, Matías Vecino ,
+462,27,Midtjylland,away, 90 ,Yellow card, Juninho ,
+463,27,Midtjylland,away, 95 ,Yellow card, Erik Sviatchenko ,
+464,28,Real Betis,away, 8 ,Yellow card, Paul Akouokou ,
+465,28,Real Betis,away, 28 ,Substitution, Luiz Henrique , Joaquin 
+466,28,Ludogorets,home, 38 ,Yellow card, Cicinho ,
+467,28,Ludogorets,home, 45 ,Yellow card, Olivier Verdon ,
+468,28,Real Betis,away, 45 ,Substitution, Alex Moreno , Juan Miranda 
+469,28,Real Betis,away, 45 ,Substitution, Nabil Fekir , Paul Akouokou 
+470,28,Real Betis,away, 56 ,Goal, Nabil Fekir , Luiz Henrique 
+471,28,Ludogorets,home, 65 ,Substitution, Matías Tissera , Thiago 
+472,28,Real Betis,away, 73 ,Substitution, Enrique Fernández , Guido Rodríguez 
+473,28,Ludogorets,home, 74 ,Substitution, Nonato , Jakub Piotrowski 
+474,28,Ludogorets,home, 74 ,Substitution, Spas Delev , Rick 
+475,28,Ludogorets,home, 83 ,Substitution, Danny Gruper , Aslak Witry 
+476,28,Real Betis,away, 83 ,Substitution, Borja Iglesias , Willian Jose 
+477,28,Ludogorets,home, 84 ,Substitution, Claude Gonçalves , Pedro Naressi 
+478,29,R. Union SG,away, 10 ,Goal, Teddy Teuma , Lazare Amani 
+479,29,R. Union SG,away, 13 ,Yellow card, Dante Vanzeir ,
+480,29,Malmö,home, 38 ,Yellow card, Patriot Sejdiu ,
+481,29,R. Union SG,away, 41 ,Goal, Lazare Amani , Teddy Teuma 
+482,29,Malmö,home, 45 ,Substitution, Erdal Rakip , Oscar Lewicki 
+483,29,R. Union SG,away, 45 ,Substitution, Gustaf Nilsson , Victor Boniface 
+484,29,R. Union SG,away, 45 ,Substitution, Cameron Puertas , Lazare Amani 
+485,29,Malmö,home, 47 ,Yellow card, Mohamed Turay ,
+486,29,R. Union SG,away, 62 ,Yellow card, Cameron Puertas ,
+487,29,R. Union SG,away, 70 ,Substitution, Simon Adingra , Loïc Lapoussin 
+488,29,Malmö,home, 72 ,Substitution, Jonas Knudsen , Sören Rieks 
+489,29,Malmö,home, 72 ,Substitution, Sergio Peña , Hugo Larsson 
+490,29,R. Union SG,away, 76 ,Yellow card, Siebe Van der Heyden ,
+491,29,R. Union SG,away, 82 ,Substitution, Oussama El Azzouzi , Teddy Teuma 
+492,29,Malmö,home, 87 ,Yellow card, Sergio Peña ,
+493,29,R. Union SG,away, 88 ,Substitution, Guillaume François , Dante Vanzeir 
+494,29,R. Union SG,away, 89 ,Yellow card, Gustaf Nilsson ,
+495,30,PSV,home, 43 ,Disallowed goal,Disallowed goal,
+496,30,PSV,home, 45 ,Substitution, Luuk de Jong , Anwar El Ghazi 
+497,30,PSV,home, 55 ,Goal, Joey Veerman , Luuk de Jong 
+498,30,Arsenal,away, 57 ,Substitution, Thomas Partey , Albert Lokonga 
+499,30,Arsenal,away, 57 ,Substitution, Bukayo Saka , Martin Ødegaard 
+500,30,Arsenal,away, 58 ,Yellow card, Kieran Tierney ,
+501,30,PSV,home, 63 ,Goal, Luuk de Jong , Cody Gakpo 
+502,30,Arsenal,away, 64 ,Substitution, Gabriel Jesus , Rob Holding 
+503,30,PSV,home, 67 ,Yellow card, Phillipp Mwene ,
+504,30,Arsenal,away, 67 ,Yellow card, Gabriel Martinelli ,
+505,30,Arsenal,away, 74 ,Substitution, Gabriel , Kieran Tierney 
+506,30,Arsenal,away, 74 ,Substitution, Ben White , Takehiro Tomiyasu 
+507,30,Arsenal,away, 79 ,Yellow card, Gabriel Jesus ,
+508,30,PSV,home, 80 ,Substitution, Noni Madueke , Xavi Simons 
+509,30,PSV,home, 80 ,Yellow card, Xavi Simons ,
+510,30,Arsenal,away, 80 ,Yellow card, Granit Xhaka ,
+511,30,PSV,home, 81 ,Substitution, Jordan Teze , Jarrad Branthwaite 
+512,30,PSV,home, 81 ,Substitution, Guus Til , Joey Veerman 
+513,30,PSV,home, 84 ,Substitution, Mauro Júnior , Cody Gakpo 
+514,31,Bodø/Glimt,away, 39 ,Yellow card, Hugo Vetlesen ,
+515,31,Bodø/Glimt,away, 46 ,Goal, Amahl Pellegrino , Albert Grønbæk 
+516,31,Zürich,home, 48 ,Yellow card, Cheick Condé ,
+517,31,Zürich,home, 60 ,Substitution, Fabian Rohner , Adrián Guerrero 
+518,31,Zürich,home, 63 ,Yellow card, Blerim Dzemaili ,
+519,31,Zürich,home, 67 ,Goal, Nikola Boranijašević ,
+520,31,Zürich,home, 71 ,Substitution, Antonio Marchesano , Blerim Dzemaili 
+521,31,Zürich,home, 74 ,Yellow card, Nikola Boranijašević ,
+522,31,Bodø/Glimt,away, 78 ,Substitution, Lars Salvesen , Runar Espejord 
+523,31,Bodø/Glimt,away, 78 ,Substitution, Joel Mvuka , Amahl Pellegrino 
+524,31,Zürich,home, 79 ,Yellow card, Aiyegun Tosin ,
+525,31,Bodø/Glimt,away, 82 ,Substitution, Marius Lode , Brede Moe 
+526,31,Zürich,home, 84 ,Substitution, Karol Mets , Fidan Aliti 
+527,31,Zürich,home, 84 ,Substitution, Bohdan Viunnyk , Jonathan Okita 
+528,31,Zürich,home, 84 ,Substitution, Selmin Hodža , Aiyegun Tosin 
+529,31,Bodø/Glimt,away, 87 ,Substitution, Elias Hagen , Albert Grønbæk 
+530,31,Zürich,home, 94 ,Goal, Antonio Marchesano , Fabian Rohner 
+531,32,1. FC Union Berlin,home, 33 ,Yellow card, Morten Thorsby ,
+532,32,Braga,away, 39 ,Yellow card, Fabiano ,
+533,32,Braga,away, 47 ,Yellow card, Abel Ruiz ,
+534,32,1. FC Union Berlin,home, 45 ,Substitution, András Schäfer , Morten Thorsby 
+535,32,Braga,away, 47 ,Yellow card, Castro ,
+536,32,1. FC Union Berlin,home, 63 ,Substitution, Kevin Behrens , Jordan Siebatcheu 
+537,32,1. FC Union Berlin,home, 68 ,Penalty, Robin Knoche , Penalty 
+538,32,1. FC Union Berlin,home, 72 ,Yellow card, Julian Ryerson ,
+539,32,Braga,away, 75 ,Substitution, Rodrigo Gomes , Iuri Medeiros 
+540,32,Braga,away, 75 ,Substitution, Andre Horta , Castro 
+541,32,Braga,away, 80 ,Substitution, Simon Banza , Fabiano 
+542,32,1. FC Union Berlin,home, 91 ,Substitution, Jamie Leweling , Sheraldo Becker 
+543,32,Braga,away, 91 ,Substitution, Álvaro Djaló , Nuno Sequeira 
+544,32,1. FC Union Berlin,home, 92 ,Yellow card, Frederik Rønnow ,
+545,32,1. FC Union Berlin,home, 94 ,Substitution, Genki Haraguchi , Janik Haberer 
+546,32,Braga,away, 95 ,Yellow card, Ricardo Horta ,
+547,33,HJK,away, 33 ,Yellow card, David Browne ,
+548,33,Ludogorets,home, 38 ,Goal, Danny Gruper , Rick 
+549,33,Ludogorets,home, 47 ,Yellow card, Cicinho ,
+550,33,HJK,away, 45 ,Substitution, Matti Peltola , David Browne 
+551,33,HJK,away, 55 ,Yellow card, Jukka Raitala ,
+552,33,HJK,away, 58 ,Substitution, Casper Terho , Pyry Soiri 
+553,33,HJK,away, 59 ,Substitution, Nassim Boujellab , Santeri Väänänen 
+554,33,Ludogorets,home, 64 ,Goal, Rick , Bernard Tekpetey 
+555,33,Ludogorets,home, 67 ,Substitution, Thiago , Matías Tissera 
+556,33,HJK,away, 70 ,Substitution, Atomu Tanaka , Lucas Lingman 
+557,33,HJK,away, 70 ,Substitution, Anthony Olusanya , Santeri Hostikka 
+558,33,HJK,away, 73 ,Yellow card, Casper Terho ,
+559,33,Ludogorets,home, 77 ,Substitution, Pedro Naressi , Show 
+560,33,HJK,away, 83 ,Yellow card, Perparim Hetemaj ,
+561,33,Ludogorets,home, 86 ,Substitution, Spas Delev , Bernard Tekpetey 
+562,33,Ludogorets,home, 86 ,Substitution, Nonato , Jakub Piotrowski 
+563,33,HJK,away, 93 ,Second yellow card, Jukka Raitala ,
+564,34,Omonia,away, 49 ,Yellow card, Andronikos Kakoullis ,
+565,34,Manchester United,home, 60 ,Substitution, Jadon Sancho , Antony 
+566,34,Manchester United,home, 60 ,Substitution, Luke Shaw , Tyrell Malacia 
+567,34,Omonia,away, 64 ,Substitution, Karim Ansarifard , Andronikos Kakoullis 
+568,34,Omonia,away, 65 ,Substitution, Paris Psaltis , Adam Matthews 
+569,34,Omonia,away, 68 ,Yellow card, Moreto Cassamá ,
+570,34,Manchester United,home, 70 ,Substitution, Christian Eriksen , Fred 
+571,34,Omonia,away, 74 ,Substitution, Loizos Loizou , Bruno Felipe 
+572,34,Omonia,away, 74 ,Substitution, Fotios Papoulis , Charalampos Charalampous 
+573,34,Manchester United,home, 81 ,Substitution, Scott McTominay , Casemiro 
+574,34,Omonia,away, 86 ,Substitution, Mikkel Diskerud , Moreto Cassamá 
+575,34,Omonia,away, 91 ,Yellow card, Nikolas Panagiotou ,
+576,34,Manchester United,home, 93 ,Goal, Scott McTominay ,
+577,35,Zürich,away, 2 ,Yellow card, Karol Mets ,
+578,35,PSV,home, 9 ,Goal, Érick Gutiérrez ,
+579,35,PSV,home, 15 ,Goal, Joey Veerman , Guus Til 
+580,35,Zürich,away, 31 ,Yellow card, Antonio Marchesano ,
+581,35,PSV,home, 34 ,Goal, Ibrahim Sangaré ,
+582,35,PSV,home, 45 ,Substitution, Richard Ledezma , Xavi Simons 
+583,35,PSV,home, 45 ,Substitution, Anwar El Ghazi , Cody Gakpo 
+584,35,PSV,home, 55 ,Goal, Joey Veerman , Ibrahim Sangaré 
+585,35,PSV,home, 56 ,Substitution, Johan Bakayoko , Joey Veerman 
+586,35,Zürich,away, 59 ,Substitution, Ole Selnæs , Cheick Condé 
+587,35,Zürich,away, 59 ,Substitution, Jonathan Okita , Bohdan Viunnyk 
+588,35,PSV,home, 61 ,Yellow card, Richard Ledezma ,
+589,35,PSV,home, 63 ,Substitution, Sávio , Ibrahim Sangaré 
+590,35,Zürich,away, 65 ,Yellow card, Lindrit Kamberi ,
+591,35,Zürich,away, 70 ,Substitution, Donis Avdijaj , Aiyegun Tosin 
+592,35,Zürich,away, 70 ,Substitution, Bledian Krasniqi , Antonio Marchesano 
+593,35,PSV,home, 74 ,Substitution, Jordan Teze , Armando Obispo 
+594,35,Zürich,away, 82 ,Substitution, Fabian Rohner , Marc Hornschuh 
+595,35,PSV,home, 84 ,Goal, Anwar El Ghazi , Guus Til 
+596,36,Red Star Belgrade,away, 21 ,Yellow card, Strahinja Eraković ,
+597,36,Ferencváros,home, 23 ,Goal, Kristoffer Zachariassen ,
+598,36,Red Star Belgrade,away, 27 ,Substitution, Kings Kangwa , Sekou Sanogo 
+599,36,Ferencváros,home, 28 ,Yellow card, Mats Knoester ,
+600,36,Red Star Belgrade,away, 46 ,Disallowed goal,Disallowed goal,
+601,36,Ferencváros,home, 51 ,Yellow card, Endre Botka ,
+602,36,Red Star Belgrade,away, 55 ,Goal, Stefan Mitrović , Guélor Kanga 
+603,36,Ferencváros,home, 61 ,Goal, Samy Mmaee , Lóránd Pászka 
+604,36,Red Star Belgrade,away, 61 ,Substitution, Osman Bukari , Aleksandar Katai 
+605,36,Ferencváros,home, 62 ,Yellow card, Adama Traoré ,
+606,36,Ferencváros,home, 66 ,Substitution, Tokmac Nguen , Amer Gojak 
+607,36,Ferencváros,home, 81 ,Substitution, Anderson Esiti , Muhamed Besic 
+608,36,Red Star Belgrade,away, 81 ,Substitution, Nemanja Milunović , Aleksandar Dragovic 
+609,36,Red Star Belgrade,away, 82 ,Substitution, Jovan Mijatović , Guélor Kanga 
+610,36,Ferencváros,home, 85 ,Yellow card, Adam Bogdan ,
+611,36,Ferencváros,home, 91 ,Yellow card, Tokmac Nguen ,
+612,36,Ferencváros,home, 94 ,Substitution, Franck Boli , Ryan Mmaee 
+613,37,Sturm,away, 22 ,Yellow card, Sandro Ingolitsch ,
+614,37,Lazio,home, 27 ,Yellow card, Manuel Lazzari ,
+615,37,Sturm,away, 27 ,Yellow card, Otar Kiteishvili ,
+616,37,Sturm,away, 44 ,Yellow card, David Affengruber ,
+617,37,Lazio,home, 45 ,Penalty, Ciro Immobile , Penalty 
+618,37,Lazio,home, 47 ,Second yellow card, Manuel Lazzari ,
+619,37,Sturm,away, 47 ,Yellow card, Jon Gorenc-Stankovic ,
+620,37,Lazio,home, 48 ,Yellow card, Ciro Immobile ,
+621,37,Lazio,home, 45 ,Substitution, Adam Marušić , Mattia Zaccagni 
+622,37,Sturm,away, 45 ,Substitution, William Bøving , Emanuel Emegha 
+623,37,Sturm,away, 56 ,Goal, William Bøving , Alexander Prass 
+624,37,Lazio,home, 57 ,Substitution, Sergej Milinković-Savić , Toma Bašić 
+625,37,Sturm,away, 57 ,Substitution, Tomi Horvat , Otar Kiteishvili 
+626,37,Lazio,home, 57 ,Substitution, Matías Vecino , Danilo Cataldi 
+627,37,Lazio,home, 58 ,Substitution, Felipe Anderson , Luis Alberto 
+628,37,Lazio,home, 71 ,Goal, Pedro , Felipe Anderson 
+629,37,Sturm,away, 74 ,Yellow card, Alexander Prass ,
+630,37,Sturm,away, 79 ,Substitution, Ivan Ljubic , Jon Gorenc-Stankovic 
+631,37,Sturm,away, 79 ,Substitution, Manprit Sarkaria , Stefan Hierländer 
+632,37,Lazio,home, 79 ,Substitution, Matteo Cancellieri , Ciro Immobile 
+633,37,Sturm,away, 79 ,Substitution, Jakob Jantscher , Albian Ajeti 
+634,37,Sturm,away, 83 ,Goal, William Bøving , Tomi Horvat 
+635,37,Sturm,away, 85 ,Yellow card, Ivan Ljubic ,
+636,37,Lazio,home, 88 ,Yellow card, Sergej Milinković-Savić ,
+637,38,1. FC Union Berlin,home, 8 ,Yellow card, Janik Haberer ,
+638,38,Malmö,away, 14 ,Yellow card, Isaac Thelin ,
+639,38,1. FC Union Berlin,home, 29 ,Yellow card, Christopher Trimmel ,
+640,38,Malmö,away, 36 ,Yellow card, Sergio Peña ,
+641,38,Malmö,away, 37 ,Substitution, Erdal Rakip , Jo Inge Berget 
+642,38,1. FC Union Berlin,home, 61 ,Yellow card, Robin Knoche ,
+643,38,1. FC Union Berlin,home, 63 ,Yellow card, Rani Khedira ,
+644,38,1. FC Union Berlin,home, 67 ,Substitution, Sven Michel , Jordan Siebatcheu 
+645,38,1. FC Union Berlin,home, 67 ,Substitution, Morten Thorsby , Genki Haraguchi 
+646,38,1. FC Union Berlin,home, 72 ,Yellow card, Morten Thorsby ,
+647,38,Malmö,away, 76 ,Yellow card, Martin Olsson ,
+648,38,Malmö,away, 81 ,Substitution, Emmanuel Lomotey , Oscar Lewicki 
+649,38,Malmö,away, 84 ,Substitution, Jonas Knudsen , Martin Olsson 
+650,38,Malmö,away, 84 ,Yellow card, Jonas Knudsen ,
+651,38,1. FC Union Berlin,home, 85 ,Substitution, Kevin Behrens , Janik Haberer 
+652,38,Malmö,away, 87 ,Yellow card, Emmanuel Lomotey ,
+653,38,Malmö,away, 87 ,Yellow card, Anders Christiansen ,
+654,38,1. FC Union Berlin,home, 89 ,Penalty, Robin Knoche , Penalty 
+655,38,Malmö,away, 92 ,Red card, Emmanuel Lomotey ,
+656,38,1. FC Union Berlin,home, 96 ,Substitution, Niko Gießelmann , Sheraldo Becker 
+657,39,Trabzonspor,home, 24 ,Yellow card, Enis Bardhi ,
+658,39,Trabzonspor,home, 37 ,Yellow card, Djaniny ,
+659,39,Trabzonspor,home, 44 ,Own goal, Malang Sarr , Own goal 
+660,39,Trabzonspor,home, 45 ,Substitution, Vitor Hugo , Hüseyin Türkmen 
+661,39,Trabzonspor,home, 48 ,Goal, Vitor Hugo , Anastasios Bakasetas 
+662,39,Trabzonspor,home, 52 ,Yellow card, Stefano Denswil ,
+663,39,Trabzonspor,home, 57 ,Goal, Enis Bardhi ,
+664,39,Trabzonspor,home, 58 ,Substitution, Abdülkadir Ömür , Djaniny 
+665,39,Trabzonspor,home, 58 ,Substitution, Emmanouil Siopis , Marek Hamsik 
+666,39,Monaco,away, 60 ,Substitution, Myron Boadu , Breel Embolo 
+667,39,Monaco,away, 60 ,Substitution, Takumi Minamino , Aleksandr Golovin 
+668,39,Monaco,away, 60 ,Substitution, Gelson Martins , Krépin Diatta 
+669,39,Monaco,away, 63 ,Yellow card, Youssouf Fofana ,
+670,39,Trabzonspor,home, 64 ,Substitution, Trezeguet , Enis Bardhi 
+671,39,Trabzonspor,home, 67 ,Yellow card, Emmanouil Siopis ,
+672,39,Monaco,away, 68 ,Substitution, Kevin Volland , Wissam Ben Yedder 
+673,39,Trabzonspor,home, 69 ,Goal, Trezeguet ,
+674,39,Trabzonspor,home, 77 ,Substitution, Yusuf Erdoğan , Eren Elmalı 
+675,39,Monaco,away, 83 ,Substitution, Ismail Jakobs , Caio Henrique 
+676,40,Sheriff,away, 14 ,Yellow card, Mudasiru Salifu ,
+677,40,Sheriff,away, 24 ,Yellow card, Armel Zohouri ,
+678,40,Sheriff,away, 33 ,Second yellow card, Armel Zohouri ,
+679,40,Real Sociedad,home, 37 ,Yellow card, Diego Rico Salguero ,
+680,40,Real Sociedad,home, 46 ,Goal, Alexander Sorloth , David Silva 
+681,40,Real Sociedad,home, 45 ,Substitution, Robert Navarro , David Silva 
+682,40,Real Sociedad,home, 45 ,Substitution, Jon Karrikaburu , Carlos Fernandez Luna 
+683,40,Real Sociedad,home, 62 ,Substitution, Urko González , Brais Mendez 
+684,40,Real Sociedad,home, 62 ,Substitution, Takefusa Kubo , Alexander Sorloth 
+685,40,Real Sociedad,home, 65 ,Goal, Diego Rico Salguero , Robert Navarro 
+686,40,Real Sociedad,home, 74 ,Substitution, Aritz Arambarri , Aritz Elustondo 
+687,40,Sheriff,away, 75 ,Substitution, Heron , Pernambuco 
+688,40,Sheriff,away, 80 ,Substitution, Felipe Vizeu , I Rasheed 
+689,40,Real Sociedad,home, 81 ,Goal, Robert Navarro , Takefusa Kubo 
+690,40,Sheriff,away, 85 ,Substitution, Danila Ignatov , Gaby Kiki 
+691,41,Fenerbahçe,away, 16 ,Goal, Joao Pedro Galvao , Ezgjan Alioski 
+692,41,Fenerbahçe,away, 33 ,Yellow card, Arda Güler ,
+693,41,AEK,home, 38 ,Yellow card, Ángel García ,
+694,41,AEK,home, 41 ,Yellow card, Rafail Mamas ,
+695,41,Fenerbahçe,away, 43 ,Yellow card, Lincoln ,
+696,41,AEK,home, 49 ,Yellow card, Ivan Trichkovski ,
+697,41,AEK,home, 52 ,Penalty, Ivan Trichkovski , Penalty 
+698,41,AEK,home, 64 ,Substitution, Giorgos Naoum , Rafail Mamas 
+699,41,Fenerbahçe,away, 67 ,Yellow card, Serdar Aziz ,
+700,41,Fenerbahçe,away, 68 ,Substitution, Bright Osayi-Samuel , Ezgjan Alioski 
+701,41,Fenerbahçe,away, 69 ,Substitution, Michy Batshuayi , Arda Güler 
+702,41,Fenerbahçe,away, 69 ,Substitution, Enner Valencia , Joao Pedro Galvao 
+703,41,AEK,home, 75 ,Substitution, Pere Pons , Luis Gustavo 
+704,41,AEK,home, 75 ,Substitution, Victor Olatunji , Omri Altman 
+705,41,AEK,home, 75 ,Substitution, Rafael Lopes , Ivan Trichkovski 
+706,41,Fenerbahçe,away, 76 ,Substitution, Miguel Crespo , Lincoln 
+707,41,Fenerbahçe,away, 80 ,Penalty, Michy Batshuayi , Penalty 
+708,41,AEK,home, 82 ,Substitution, Mikel Gonzalez , Oier 
+709,41,AEK,home, 84 ,Second yellow card, Ángel García ,
+710,41,Fenerbahçe,away, 86 ,Missed penalty, Enner Valencia , Missed penalty 
+711,41,Fenerbahçe,away, 88 ,Yellow card, Gustavo Henrique ,
+712,41,AEK,home, 88 ,Yellow card, Victor Olatunji ,
+713,41,Fenerbahçe,away, 92 ,Substitution, Irfan Kahveci , Diego Rossi 
+714,41,AEK,home, 95 ,Yellow card, Pere Pons ,
+715,41,AEK,home, 95 ,Yellow card, Imad Faraj ,
+716,42,Bodø/Glimt,home, 12 ,Substitution, Albert Grønbæk , Ulrik Saltnes 
+717,42,Arsenal,away, 24 ,Goal, Bukayo Saka ,
+718,42,Arsenal,away, 30 ,Yellow card, Bukayo Saka ,
+719,42,Arsenal,away, 59 ,Substitution, Granit Xhaka , Bukayo Saka 
+720,42,Arsenal,away, 59 ,Substitution, Gabriel Martinelli , Reiss Nelson 
+721,42,Bodø/Glimt,home, 66 ,Yellow card, Hugo Vetlesen ,
+722,42,Arsenal,away, 70 ,Substitution, Marquinhos , Martin Ødegaard 
+723,42,Arsenal,away, 70 ,Substitution, Takehiro Tomiyasu , Ben White 
+724,42,Bodø/Glimt,home, 76 ,Substitution, Lars Salvesen , Runar Espejord 
+725,42,Arsenal,away, 84 ,Substitution, Thomas Partey , Albert Lokonga 
+726,42,Arsenal,away, 89 ,Yellow card, Thomas Partey ,
+727,42,Bodø/Glimt,home, 89 ,Substitution, Brede Moe , Marius Høibråten 
+728,42,Bodø/Glimt,home, 89 ,Substitution, Joel Mvuka , Amahl Pellegrino 
+729,42,Arsenal,away, 91 ,Yellow card, Matt Turner ,
+730,43,Olympiacos,away, 40 ,Yellow card, Sime Vrsaljko ,
+731,43,Olympiacos,away, 60 ,Substitution, Mathieu Valbuena , Pep Biel 
+732,43,Olympiacos,away, 60 ,Substitution, Marcelo , Hwang Ui-jo 
+733,43,Qarabağ,home, 62 ,Substitution, Filip Ozobić , Kady 
+734,43,Qarabağ,home, 66 ,Yellow card, Richard Almeyda ,
+735,43,Qarabağ,home, 68 ,Substitution, Marko Janković , Richard Almeyda 
+736,43,Qarabağ,home, 68 ,Substitution, Júlio Romão , Qara Qarayev 
+737,43,Olympiacos,away, 69 ,Substitution, Yann M'Vila , Pierre Kunde 
+738,43,Qarabağ,home, 83 ,Yellow card, Júlio Romão ,
+739,43,Olympiacos,away, 83 ,Yellow card, Sokratis ,
+740,43,Qarabağ,home, 85 ,Substitution, Toral Bayramov , Elvin Cəfərquliyev 
+741,43,Qarabağ,home, 85 ,Substitution, Abbas Hüseynov , Owusu Kwabena 
+742,43,Olympiacos,away, 86 ,Substitution, Garry Rodrigues , Marios Vrousai 
+743,43,Olympiacos,away, 86 ,Substitution, Hwang In-beom , Andreas Bouchalakis 
+744,43,Qarabağ,home, 88 ,Yellow card, Marko Vesovic ,
+745,44,Midtjylland,away, 12 ,Yellow card, Emiliano Martínez ,
+746,44,Midtjylland,away, 16 ,Goal, Emiliano Martínez , Paulinho 
+747,44,Feyenoord,home, 32 ,Goal, Quinten Timber , Sebastian Szymański 
+748,44,Midtjylland,away, 42 ,Substitution, Juninho , Henrik Dalsgaard 
+749,44,Feyenoord,home, 48 ,Goal, Dávid Hancko , Lutsharel Geertruida 
+750,44,Midtjylland,away, 58 ,Goal, Erik Sviatchenko , Evander 
+751,44,Feyenoord,home, 63 ,Yellow card, Lutsharel Geertruida ,
+752,44,Midtjylland,away, 63 ,Yellow card, Kristoffer Olsson ,
+753,44,Midtjylland,away, 66 ,Substitution, Sory Kaba , Pione Sisto 
+754,44,Feyenoord,home, 70 ,Yellow card, Orkun Kökcü ,
+755,44,Feyenoord,home, 71 ,Substitution, Javairô Dilrosun , Quinten Timber 
+756,44,Feyenoord,home, 71 ,Substitution, Patrik Wålemark , Alireza Jahanbakhsh 
+757,44,Feyenoord,home, 74 ,Yellow card, Patrik Wålemark ,
+758,44,Feyenoord,home, 77 ,Substitution, Danilo , Santiago Giménez 
+759,44,Midtjylland,away, 88 ,Substitution, Charles , Emiliano Martínez 
+760,44,Midtjylland,away, 88 ,Substitution, Edward Chilufya , Anders Dreyer 
+761,44,Midtjylland,away, 88 ,Substitution, Oliver Sørensen , Evander 
+762,44,Midtjylland,away, 89 ,Yellow card, Jonas Lössl ,
+763,45,Braga,away, 15 ,Goal, Vítinha , Ricardo Horta 
+764,45,R. Union SG,home, 20 ,Goal, Victor Boniface , Bart Nieuwkoop 
+765,45,Braga,away, 25 ,Yellow card, Fabiano ,
+766,45,Braga,away, 36 ,Goal, Vítinha , Nuno Sequeira 
+767,45,Braga,away, 41 ,Goal, Vítinha , Ricardo Horta 
+768,45,R. Union SG,home, 45 ,Yellow card, Lazare Amani ,
+769,45,R. Union SG,home, 45 ,Substitution, Loïc Lapoussin , Christian Burgess 
+770,45,Braga,away, 45 ,Substitution, Víctor Gómez , Fabiano 
+771,45,R. Union SG,home, 49 ,Goal, Dante Vanzeir , Teddy Teuma 
+772,45,R. Union SG,home, 62 ,Goal, Victor Boniface , Loïc Lapoussin 
+773,45,R. Union SG,home, 63 ,Substitution, Cameron Puertas , Lazare Amani 
+774,45,Braga,away, 69 ,Substitution, Uroš Račić , Andre Horta 
+775,45,Braga,away, 69 ,Substitution, Iuri Medeiros , Rodrigo Gomes 
+776,45,Braga,away, 71 ,Yellow card, Sikou Niakaté ,
+777,45,Braga,away, 76 ,Substitution, Paulo Oliveira , Sikou Niakaté 
+778,45,R. Union SG,home, 82 ,Substitution, Gustaf Nilsson , Dante Vanzeir 
+779,45,R. Union SG,home, 86 ,Yellow card, Senne Lynen ,
+780,45,Braga,away, 91 ,Substitution, Simon Banza , Abel Ruiz 
+781,45,R. Union SG,home, 94 ,Substitution, Ross Sykes , Bart Nieuwkoop 
+782,45,R. Union SG,home, 95 ,Substitution, Oussama El Azzouzi , Victor Boniface 
+783,46,SC Freiburg,away, 25 ,Goal, Lukas Kübler ,
+784,46,SC Freiburg,away, 65 ,Substitution, Kevin Schade , Vincenzo Grifo 
+785,46,SC Freiburg,away, 65 ,Substitution, Michael Gregoritsch , Nils Petersen 
+786,46,SC Freiburg,away, 66 ,Yellow card, Nicolas Höfler ,
+787,46,SC Freiburg,away, 71 ,Goal, Michael Gregoritsch , Jeong Woo-yeong 
+788,46,Nantes,home, 73 ,Substitution, Marcus Coco , Moussa Sissoko 
+789,46,Nantes,home, 73 ,Substitution, Kader Bamba , Moses Simon 
+790,46,SC Freiburg,away, 75 ,Substitution, Maximilian Eggestein , Yannik Keitel 
+791,46,SC Freiburg,away, 75 ,Substitution, Noah Weißhaupt , Ritsu Dōan 
+792,46,Nantes,home, 80 ,Substitution, Samuel Moutoussamy , Pedro Chirivella 
+793,46,Nantes,home, 80 ,Substitution, Jean-Charles Castelletto , Nicolas Pallois 
+794,46,SC Freiburg,away, 81 ,Goal, Kevin Schade ,
+795,46,SC Freiburg,away, 87 ,Goal, Jeong Woo-yeong ,
+796,46,SC Freiburg,away, 87 ,Substitution, Keven Schlotterbeck , Nicolas Höfler 
+797,46,Nantes,home, 88 ,Substitution, Dennis Appiah , Andrei Girotto 
+798,47,Real Betis,home, 31 ,Yellow card, Joaquin ,
+799,47,Real Betis,home, 31 ,Yellow card, Andrés Guardado ,
+800,47,Real Betis,home, 34 ,Goal, Sergio Canales , Rodri 
+801,47,Roma,away, 35 ,Yellow card, Nemanja Matic ,
+802,47,Roma,away, 44 ,Yellow card, Gianluca Mancini ,
+803,47,Roma,away, 45 ,Substitution, Mady Camara , Nemanja Matic 
+804,47,Roma,away, 53 ,Goal, Andrea Belotti , Mady Camara 
+805,47,Roma,away, 58 ,Yellow card, Mady Camara ,
+806,47,Real Betis,home, 69 ,Substitution, Luiz Henrique , Joaquin 
+807,47,Real Betis,home, 69 ,Substitution, Borja Iglesias , Willian Jose 
+808,47,Roma,away, 71 ,Substitution, Matías Viña , Leonardo Spinazzola 
+809,47,Roma,away, 76 ,Substitution, Edoardo Bove , Andrea Belotti 
+810,47,Real Betis,home, 80 ,Yellow card, Juan Miranda ,
+811,47,Real Betis,home, 80 ,Substitution, William Carvalho , Andrés Guardado 
+812,47,Real Betis,home, 81 ,Substitution, Guido Rodríguez , Sergio Canales 
+813,47,Real Betis,home, 86 ,Substitution, Alex Moreno , Juan Miranda 
+814,47,Roma,away, 88 ,Substitution, Stephan El Shaarawy , Lorenzo Pellegrini 
+815,47,Real Betis,home, 90 ,Yellow card, Rodri ,
+816,48,Rennes,away, 24 ,Yellow card, Benjamin Bourigeaud ,
+817,48,Dynamo Kyiv,home, 44 ,Yellow card, Artem Besedin ,
+818,48,Rennes,away, 48 ,Goal, Christopher Wooh , Benjamin Bourigeaud 
+819,48,Dynamo Kyiv,home, 53 ,Yellow card, Oleksandr Tymchyk ,
+820,48,Rennes,away, 66 ,Substitution, Kamaldeen Sulemana , Martin Terrier 
+821,48,Dynamo Kyiv,home, 66 ,Substitution, Vladyslav Vanat , Artem Besedin 
+822,48,Dynamo Kyiv,home, 66 ,Substitution, Vladyslav Kabaev , Denys Garmash 
+823,48,Dynamo Kyiv,home, 67 ,Substitution, Kostiantyn Vivcharenko , Vladyslav Dubinchak 
+824,48,Rennes,away, 70 ,Yellow card, Désiré Doué ,
+825,48,Dynamo Kyiv,home, 70 ,Substitution, Oleksandr Andrievskyi , Volodymyr Shepelev 
+826,48,Rennes,away, 73 ,Substitution, Flavien Tait , Désiré Doué 
+827,48,Rennes,away, 73 ,Substitution, Amine Gouiri , Arnaud Kalimuendo 
+828,48,Dynamo Kyiv,home, 77 ,Substitution, Olexandr Karavaev , Oleksandr Tymchyk 
+829,48,Rennes,away, 84 ,Substitution, Adrien Truffert , Benjamin Bourigeaud 
+830,48,Dynamo Kyiv,home, 95 ,Yellow card, Vladyslav Vanat ,
+831,49,Feyenoord,away, 21 ,Goal, Sebastian Szymański ,
+832,49,Midtjylland,home, 29 ,Yellow card, Erik Sviatchenko ,
+833,49,Feyenoord,away, 32 ,Substitution, Alireza Jahanbakhsh , Oussama Idrissi 
+834,49,Midtjylland,home, 40 ,Yellow card, Henrik Dalsgaard ,
+835,49,Midtjylland,home, 44 ,Yellow card, Evander ,
+836,49,Feyenoord,away, 45 ,Penalty, Orkun Kökcü , Penalty 
+837,49,Feyenoord,away, 47 ,Yellow card, Marcos López ,
+838,49,Feyenoord,away, 50 ,Yellow card, Dávid Hancko ,
+839,49,Midtjylland,home, 45 ,Substitution, Anders Dreyer , Sory Kaba 
+840,49,Midtjylland,home, 45 ,Substitution, Juninho , Erik Sviatchenko 
+841,49,Midtjylland,home, 47 ,Yellow card, Juninho ,
+842,49,Midtjylland,home, 54 ,Goal, Gustav Isaksen ,
+843,49,Feyenoord,away, 66 ,Substitution, Patrik Wålemark , Javairô Dilrosun 
+844,49,Feyenoord,away, 66 ,Substitution, Marcus Pedersen , Orkun Kökcü 
+845,49,Feyenoord,away, 68 ,Yellow card, Alireza Jahanbakhsh ,
+846,49,Midtjylland,home, 73 ,Substitution, Edward Chilufya , Pione Sisto 
+847,49,Midtjylland,home, 73 ,Substitution, Mads Thychosen , Joel Andersson 
+848,49,Midtjylland,home, 75 ,Yellow card, Emiliano Martínez ,
+849,49,Midtjylland,home, 77 ,Yellow card, Paulinho ,
+850,49,Feyenoord,away, 79 ,Substitution, Mats Wieffer , Danilo 
+851,49,Feyenoord,away, 79 ,Substitution, Santiago Giménez , Sebastian Szymański 
+852,49,Midtjylland,home, 84 ,Substitution, Nikolas Dyhr , Paulinho 
+853,49,Midtjylland,home, 85 ,Goal, Juninho , Evander 
+854,50,AEK,away, 9 ,Yellow card, Oier ,
+855,50,AEK,away, 12 ,Yellow card, Imad Faraj ,
+856,50,Fenerbahçe,home, 26 ,Goal, Michy Batshuayi , Diego Rossi 
+857,50,Fenerbahçe,home, 39 ,Yellow card, Bright Osayi-Samuel ,
+858,50,AEK,away, 39 ,Yellow card, Omri Altman ,
+859,50,Fenerbahçe,home, 47 ,Yellow card, Lincoln ,
+860,50,AEK,away, 69 ,Substitution, Victor Olatunji , Omri Altman 
+861,50,AEK,away, 70 ,Substitution, Giorgos Naoum , Oier 
+862,50,Fenerbahçe,home, 72 ,Substitution, Ferdi Kadıoğlu , Bright Osayi-Samuel 
+863,50,Fenerbahçe,home, 72 ,Substitution, Enner Valencia , Lincoln 
+864,50,Fenerbahçe,home, 72 ,Substitution, Irfan Kahveci , Emre Mor 
+865,50,Fenerbahçe,home, 79 ,Own goal, Rafail Mamas , Own goal 
+866,50,AEK,away, 80 ,Substitution, Pere Pons , Luis Gustavo 
+867,50,AEK,away, 81 ,Substitution, Ivan Trichkovski , Rafael Lopes 
+868,50,Fenerbahçe,home, 87 ,Substitution, Serdar Aziz , Diego Rossi 
+869,50,Fenerbahçe,home, 88 ,Substitution, Arda Güler , Michy Batshuayi 
+870,51,Qarabağ,away, 5 ,Disallowed goal,Disallowed goal,
+871,51,Qarabağ,away, 34 ,Yellow card, Elvin Cəfərquliyev ,
+872,51,Qarabağ,away, 45 ,Substitution, Toral Bayramov , Elvin Cəfərquliyev 
+873,51,Olympiacos,home, 60 ,Substitution, Giorgos Masouras , Garry Rodrigues 
+874,51,Olympiacos,home, 60 ,Substitution, Marcelo , Andreas Bouchalakis 
+875,51,Qarabağ,away, 65 ,Substitution, Ramil Şeydayev , Leandro Andrade 
+876,51,Qarabağ,away, 65 ,Substitution, Júlio Romão , Richard Almeyda 
+877,51,Qarabağ,away, 68 ,Goal, Owusu Kwabena , Kady 
+878,51,Olympiacos,home, 74 ,Substitution, Hwang In-beom , Pierre Kunde 
+879,51,Olympiacos,home, 74 ,Substitution, Aboubakar Kamara , Hwang Ui-jo 
+880,51,Qarabağ,away, 82 ,Goal, Marko Vesovic ,
+881,51,Olympiacos,home, 83 ,Substitution, Mathieu Valbuena , Pape Abou Cissé 
+882,51,Qarabağ,away, 86 ,Yellow card, Ramil Şeydayev ,
+883,51,Qarabağ,away, 86 ,Goal, Ramil Şeydayev , Marko Vesovic 
+884,51,Olympiacos,home, 88 ,Yellow card, Mathieu Valbuena ,
+885,51,Qarabağ,away, 88 ,Yellow card, Qara Qarayev ,
+886,51,Qarabağ,away, 91 ,Substitution, Abbas Hüseynov , Marko Vesovic 
+887,51,Qarabağ,away, 91 ,Substitution, Filip Ozobić , Owusu Kwabena 
+888,52,Rennes,home, 23 ,Goal, Martin Terrier , Amine Gouiri 
+889,52,Dynamo Kyiv,away, 33 ,Goal, Viktor Tsygankov ,
+890,52,Rennes,home, 64 ,Substitution, Désiré Doué , Amine Gouiri 
+891,52,Rennes,home, 64 ,Substitution, Arnaud Kalimuendo , Lovro Majer 
+892,52,Dynamo Kyiv,away, 79 ,Substitution, Vladyslav Vanat , Vladyslav Kabaev 
+893,52,Rennes,home, 79 ,Substitution, Matthis Abline , Martin Terrier 
+894,52,Rennes,home, 85 ,Substitution, Adrien Truffert , Benjamin Bourigeaud 
+895,52,Dynamo Kyiv,away, 86 ,Substitution, Olexandr Karavaev , Viktor Tsygankov 
+896,52,Dynamo Kyiv,away, 88 ,Yellow card, Illia Zabarnyi ,
+897,52,Rennes,home, 89 ,Goal, Désiré Doué ,
+898,52,Dynamo Kyiv,away, 92 ,Substitution, Kostiantyn Vivcharenko , Denys Popov 
+899,53,SC Freiburg,home, 20 ,Substitution, Nils Petersen , Michael Gregoritsch 
+900,53,SC Freiburg,home, 48 ,Goal, Daniel-Kofi Kyereh , Ritsu Dōan 
+901,53,Nantes,away, 66 ,Yellow card, Mostafa Mohamed ,
+902,53,SC Freiburg,home, 66 ,Yellow card, Kiliann Sildillia ,
+903,53,Nantes,away, 69 ,Substitution, Ignatius Ganago , Moses Simon 
+904,53,Nantes,away, 69 ,Substitution, Moussa Sissoko , Pedro Chirivella 
+905,53,SC Freiburg,home, 71 ,Substitution, Yannik Keitel , Maximilian Eggestein 
+906,53,SC Freiburg,home, 72 ,Goal, Vincenzo Grifo , Christian Günter 
+907,53,SC Freiburg,home, 78 ,Yellow card, Christian Günter ,
+908,53,Nantes,away, 78 ,Substitution, Sebastien Corchia , Dennis Appiah 
+909,53,Nantes,away, 78 ,Substitution, Evann Guessand , Andrei Girotto 
+910,53,SC Freiburg,home, 82 ,Substitution, Noah Weißhaupt , Vincenzo Grifo 
+911,53,SC Freiburg,home, 82 ,Substitution, Kevin Schade , Daniel-Kofi Kyereh 
+912,53,SC Freiburg,home, 83 ,Substitution, Lukas Kübler , Ritsu Dōan 
+913,53,Nantes,away, 84 ,Substitution, Kader Bamba , Mostafa Mohamed 
+914,53,SC Freiburg,home, 90 ,Yellow card, Yannik Keitel ,
+915,54,R. Union SG,away, 17 ,Yellow card, Teddy Teuma ,
+916,54,Braga,home, 23 ,Yellow card, Vítor Tormena ,
+917,54,Braga,home, 49 ,Goal, Abel Ruiz , Vítinha 
+918,54,Braga,home, 62 ,Yellow card, Fabiano ,
+919,54,Braga,home, 65 ,Substitution, Rodrigo Gomes , Andre Horta 
+920,54,R. Union SG,away, 67 ,Substitution, Simon Adingra , Loïc Lapoussin 
+921,54,Braga,home, 79 ,Substitution, Simon Banza , Vítinha 
+922,54,Braga,home, 79 ,Substitution, Diego Lainez , Ricardo Horta 
+923,54,R. Union SG,away, 83 ,Substitution, Gustaf Nilsson , Ismaël Kandouss 
+924,54,R. Union SG,away, 83 ,Substitution, Guillaume François , Bart Nieuwkoop 
+925,54,R. Union SG,away, 86 ,Goal, Gustaf Nilsson , Simon Adingra 
+926,54,Braga,home, 89 ,Substitution, Álvaro Djaló , Abel Ruiz 
+927,54,R. Union SG,away, 89 ,Substitution, Cameron Puertas , Lazare Amani 
+928,54,Braga,home, 89 ,Substitution, Jean Gorby , Castro 
+929,54,R. Union SG,away, 91 ,Substitution, Ross Sykes , Dante Vanzeir 
+930,54,R. Union SG,away, 93 ,Yellow card, Anthony Moris ,
+931,54,R. Union SG,away, 94 ,Goal, Gustaf Nilsson , Simon Adingra 
+932,55,Arsenal,home, 23 ,Goal, Edward Nketiah ,
+933,55,Arsenal,home, 27 ,Goal, Rob Holding , Fábio Vieira 
+934,55,Bodø/Glimt,away, 33 ,Yellow card, Brice Wembangomo ,
+935,55,Arsenal,home, 41 ,Yellow card, Granit Xhaka ,
+936,55,Bodø/Glimt,away, 53 ,Yellow card, Alfons Sampsted ,
+937,55,Arsenal,home, 58 ,Substitution, Martin Ødegaard , Granit Xhaka 
+938,55,Arsenal,home, 59 ,Substitution, Gabriel Jesus , Gabriel Martinelli 
+939,55,Arsenal,home, 59 ,Substitution, Bukayo Saka , Marquinhos 
+940,55,Arsenal,home, 70 ,Substitution, Ben White , Kieran Tierney 
+941,55,Bodø/Glimt,away, 73 ,Substitution, Ola Solbakken , Joel Mvuka 
+942,55,Bodø/Glimt,away, 73 ,Substitution, Albert Grønbæk , Hugo Vetlesen 
+943,55,Arsenal,home, 82 ,Substitution, Reiss Nelson , Edward Nketiah 
+944,55,Arsenal,home, 84 ,Goal, Fábio Vieira , Gabriel Jesus 
+945,55,Bodø/Glimt,away, 88 ,Substitution, Morten Konradsen , Alfons Sampsted 
+946,55,Bodø/Glimt,away, 88 ,Substitution, Lars Salvesen , Runar Espejord 
+947,55,Bodø/Glimt,away, 88 ,Substitution, Marius Høibråten , Marius Lode 
+948,56,Roma,home, 5 ,Substitution, Leonardo Spinazzola , Zeki Çelik 
+949,56,Real Betis,away, 22 ,Substitution, Luiz Henrique , Nabil Fekir 
+950,56,Real Betis,away, 29 ,Yellow card, Luiz Felipe ,
+951,56,Real Betis,away, 32 ,Yellow card, Claudio Bravo ,
+952,56,Real Betis,away, 33 ,Yellow card, Andrés Guardado ,
+953,56,Roma,home, 34 ,Penalty, Paulo Dybala , Penalty 
+954,56,Real Betis,away, 40 ,Goal, Guido Rodríguez , Luiz Henrique 
+955,56,Real Betis,away, 60 ,Substitution, Rodri , Joaquin 
+956,56,Roma,home, 71 ,Yellow card, Gianluca Mancini ,
+957,56,Roma,home, 72 ,Substitution, Andrea Belotti , Tammy Abraham 
+958,56,Real Betis,away, 75 ,Substitution, William Carvalho , Andrés Guardado 
+959,56,Real Betis,away, 75 ,Substitution, Borja Iglesias , Willian Jose 
+960,56,Real Betis,away, 75 ,Substitution, Alex Moreno , Juan Miranda 
+961,56,Roma,home, 80 ,Substitution, Stephan El Shaarawy , Paulo Dybala 
+962,56,Roma,home, 80 ,Substitution, Mady Camara , Bryan Cristante 
+963,56,Real Betis,away, 83 ,Yellow card, Germán Pezzella ,
+964,56,Real Betis,away, 88 ,Goal, Luiz Henrique , Rodri 
+965,56,Roma,home, 93 ,Red card, Nicolò Zaniolo ,
+966,57,Lazio,away, 25 ,Yellow card, Danilo Cataldi ,
+967,57,Sturm,home, 33 ,Yellow card, Stefan Hierländer ,
+968,57,Sturm,home, 35 ,Yellow card, Jusuf Gazibegović ,
+969,57,Lazio,away, 45 ,Substitution, Mattia Zaccagni , Felipe Anderson 
+970,57,Lazio,away, 45 ,Substitution, Manuel Lazzari , Adam Marušić 
+971,57,Lazio,away, 63 ,Substitution, Matías Vecino , Sergej Milinković-Savić 
+972,57,Sturm,home, 69 ,Substitution, Otar Kiteishvili , Tomi Horvat 
+973,57,Sturm,home, 70 ,Substitution, Mohammed Fuseini , William Bøving 
+974,57,Lazio,away, 72 ,Substitution, Matteo Cancellieri , Pedro 
+975,57,Lazio,away, 75 ,Substitution, Patric Gabarron , Mario Gila 
+976,57,Sturm,home, 76 ,Substitution, Ivan Ljubic , Stefan Hierländer 
+977,57,Sturm,home, 76 ,Substitution, Manprit Sarkaria , Albian Ajeti 
+978,57,Lazio,away, 80 ,Disallowed goal,Disallowed goal,
+979,57,Sturm,home, 81 ,Second yellow card, Jusuf Gazibegović ,
+980,57,Sturm,home, 84 ,Substitution, Sandro Ingolitsch , Alexander Prass 
+981,57,Lazio,away, 88 ,Yellow card, Patric Gabarron ,
+982,57,Sturm,home, 90 ,Yellow card, Jörg Siebenhandl ,
+983,57,Sturm,home, 95 ,Yellow card, Otar Kiteishvili ,
+984,58,Sheriff,home, 17 ,Yellow card, Moussa Kyabou ,
+985,58,Real Sociedad,away, 29 ,Yellow card, Álex Sola ,
+986,58,Sheriff,home, 31 ,Yellow card, Iyayi Atiemwen ,
+987,58,Real Sociedad,away, 53 ,Goal, David Silva , Alexander Sorloth 
+988,58,Sheriff,home, 61 ,Second yellow card, Moussa Kyabou ,
+989,58,Real Sociedad,away, 62 ,Goal, Aritz Elustondo , Brais Mendez 
+990,58,Sheriff,home, 66 ,Substitution, Mudasiru Salifu , Iyayi Atiemwen 
+991,58,Sheriff,home, 66 ,Substitution, Abou Ouattara , Pernambuco 
+992,58,Real Sociedad,away, 69 ,Substitution, Carlos Fernandez Luna , David Silva 
+993,58,Real Sociedad,away, 69 ,Substitution, Aritz Arambarri , Álex Sola 
+994,58,Sheriff,home, 77 ,Substitution, Patrick Kpozo , Felipe Vizeu 
+995,58,Real Sociedad,away, 77 ,Substitution, Asier Illarramendi , Mikel Merino 
+996,58,Real Sociedad,away, 77 ,Substitution, Beñat Turrientes , Brais Mendez 
+997,58,Real Sociedad,away, 81 ,Substitution, Jon Karrikaburu , Alexander Sorloth 
+998,59,Omonia,home, 34 ,Goal, Karim Ansarifard , Bruno Felipe 
+999,59,Manchester United,away, 45 ,Substitution, Marcus Rashford , Jadon Sancho 
+1000,59,Manchester United,away, 45 ,Substitution, Luke Shaw , Tyrell Malacia 
+1001,59,Manchester United,away, 53 ,Goal, Marcus Rashford ,
+1002,59,Omonia,home, 61 ,Substitution, Andronikos Kakoullis , Karim Ansarifard 
+1003,59,Omonia,home, 61 ,Substitution, Fotios Papoulis , Brandon Barker 
+1004,59,Manchester United,away, 61 ,Substitution, Anthony Martial , Bruno Fernandes 
+1005,59,Omonia,home, 62 ,Yellow card, Charalampos Charalampous ,
+1006,59,Manchester United,away, 63 ,Goal, Anthony Martial , Marcus Rashford 
+1007,59,Omonia,home, 71 ,Substitution, Loizos Loizou , Bruno Felipe 
+1008,59,Omonia,home, 72 ,Substitution, Nikolas Panagiotou , Mikkel Diskerud 
+1009,59,Manchester United,away, 74 ,Substitution, Fred , Antony 
+1010,59,Manchester United,away, 82 ,Substitution, Scott McTominay , Casemiro 
+1011,59,Omonia,home, 82 ,Substitution, Roman Bezus , Nemanja Miletić 
+1012,59,Manchester United,away, 84 ,Goal, Marcus Rashford , Cristiano Ronaldo 
+1013,59,Omonia,home, 85 ,Goal, Nikolas Panagiotou , Andronikos Kakoullis 
+1014,59,Manchester United,away, 87 ,Yellow card, Lisandro Martínez ,
+1015,59,Omonia,home, 87 ,Yellow card, Andronikos Kakoullis ,
+1016,59,Manchester United,away, 95 ,Yellow card, Luke Shaw ,
+1017,60,Trabzonspor,away, 4 ,Yellow card, Stefano Denswil ,
+1018,60,Trabzonspor,away, 11 ,Red card, Maxi Gómez ,
+1019,60,Monaco,home, 14 ,Goal, Wissam Ben Yedder , Breel Embolo 
+1020,60,Monaco,home, 22 ,Yellow card, Vanderson ,
+1021,60,Monaco,home, 47 ,Penalty, Wissam Ben Yedder , Penalty 
+1022,60,Monaco,home, 55 ,Goal, Axel Disasi , Breel Embolo 
+1023,60,Trabzonspor,away, 56 ,Substitution, Umut Bozok , Yusuf Yazıcı 
+1024,60,Trabzonspor,away, 56 ,Substitution, Anastasios Bakasetas , Marek Hamsik 
+1025,60,Monaco,home, 57 ,Substitution, Kevin Volland , Breel Embolo 
+1026,60,Monaco,home, 57 ,Substitution, Myron Boadu , Wissam Ben Yedder 
+1027,60,Monaco,home, 65 ,Substitution, Jean Lucas , Mohamed Camara 
+1028,60,Monaco,home, 65 ,Substitution, Guillermo Maripan , Vanderson 
+1029,60,Trabzonspor,away, 72 ,Goal, Anastasios Bakasetas , Umut Bozok 
+1030,60,Trabzonspor,away, 72 ,Substitution, Djaniny , Trezeguet 
+1031,60,Trabzonspor,away, 72 ,Substitution, Abdülkadir Ömür , Emmanouil Siopis 
+1032,60,Monaco,home, 73 ,Substitution, Takumi Minamino , Aleksandr Golovin 
+1033,60,Monaco,home, 74 ,Yellow card, Krépin Diatta ,
+1034,60,Trabzonspor,away, 82 ,Substitution, Naci Ünüvar , Enis Bardhi 
+1035,61,Malmö,home, 42 ,Yellow card, Erdal Rakip ,
+1036,61,1. FC Union Berlin,away, 45 ,Red card, András Schäfer ,
+1037,61,Malmö,home, 64 ,Substitution, Ola Toivonen , Jo Inge Berget 
+1038,61,1. FC Union Berlin,away, 68 ,Goal, Sheraldo Becker , Robin Knoche 
+1039,61,Malmö,home, 73 ,Yellow card, Felix Beijmo ,
+1040,61,1. FC Union Berlin,away, 74 ,Substitution, Kevin Behrens , Jordan Siebatcheu 
+1041,61,1. FC Union Berlin,away, 74 ,Substitution, Niko Gießelmann , Julian Ryerson 
+1042,61,1. FC Union Berlin,away, 79 ,Yellow card, Janik Haberer ,
+1043,61,Malmö,home, 80 ,Substitution, Patriot Sejdiu , Joseph Ceesay 
+1044,61,Malmö,home, 80 ,Substitution, Moustafa Zeidan , Hugo Larsson 
+1045,61,1. FC Union Berlin,away, 84 ,Substitution, Genki Haraguchi , Janik Haberer 
+1046,61,1. FC Union Berlin,away, 91 ,Substitution, Morten Thorsby , Sheraldo Becker 
+1047,62,Ludogorets,away, 10 ,Goal, Matías Tissera , Cauly 
+1048,62,HJK,home, 51 ,Yellow card, Santeri Hostikka ,
+1049,62,HJK,home, 55 ,Goal, Perparim Hetemaj , Santeri Hostikka 
+1050,62,HJK,home, 58 ,Yellow card, Jukka Raitala ,
+1051,62,Ludogorets,away, 61 ,Substitution, Rick , Bernard Tekpetey 
+1052,62,HJK,home, 64 ,Substitution, Anthony Olusanya , Malik Abubakari 
+1053,62,Ludogorets,away, 69 ,Substitution, Nonato , Show 
+1054,62,Ludogorets,away, 70 ,Substitution, Thiago , Matías Tissera 
+1055,62,HJK,home, 74 ,Substitution, Nassim Boujellab , Santeri Hostikka 
+1056,62,HJK,home, 74 ,Substitution, Bojan Radulović , Perparim Hetemaj 
+1057,62,Ludogorets,away, 80 ,Yellow card, Jakub Piotrowski ,
+1058,62,HJK,home, 86 ,Yellow card, Nassim Boujellab ,
+1059,62,Ludogorets,away, 87 ,Substitution, Pedro Naressi , Kiril Despodov 
+1060,63,PSV,away, 10 ,Goal, Yorbe Vertessen , Armando Obispo 
+1061,63,PSV,away, 15 ,Goal, Yorbe Vertessen ,
+1062,63,PSV,away, 21 ,Goal, Cody Gakpo ,
+1063,63,PSV,away, 35 ,Goal, Xavi Simons , Cody Gakpo 
+1064,63,PSV,away, 45 ,Substitution, Jordan Teze , Armando Obispo 
+1065,63,PSV,away, 55 ,Goal, Cody Gakpo , Joey Veerman 
+1066,63,Zürich,home, 56 ,Substitution, Marc Hornschuh , Blerim Dzemaili 
+1067,63,Zürich,home, 56 ,Substitution, Jonathan Okita , Nikola Boranijašević 
+1068,63,Zürich,home, 56 ,Substitution, Karol Mets , Fidan Aliti 
+1069,63,PSV,away, 61 ,Substitution, Anwar El Ghazi , Yorbe Vertessen 
+1070,63,PSV,away, 61 ,Substitution, Guus Til , Xavi Simons 
+1071,63,PSV,away, 62 ,Substitution, Johan Bakayoko , Cody Gakpo 
+1072,63,PSV,away, 66 ,Substitution, Ki Hoever , Philipp Max 
+1073,63,Zürich,home, 71 ,Substitution, Nikola Katić , Mirlind Kryeziu 
+1074,63,Zürich,home, 71 ,Substitution, Donis Avdijaj , Antonio Marchesano 
+1075,63,Zürich,home, 87 ,Goal, Jonathan Okita , Aiyegun Tosin 
+1076,64,Red Star Belgrade,home, 21 ,Yellow card, Aleksandar Dragovic ,
+1077,64,Red Star Belgrade,home, 27 ,Penalty, Guélor Kanga , Penalty 
+1078,64,Red Star Belgrade,home, 35 ,Goal, Stefan Mitrović , Aleksandar Pesic 
+1079,64,Red Star Belgrade,home, 50 ,Goal, Aleksandar Katai , Marko Gobeljić 
+1080,64,Red Star Belgrade,home, 54 ,Yellow card, Sekou Sanogo ,
+1081,64,Ferencváros,away, 57 ,Substitution, Bálint Vécsei , Muhamed Besic 
+1082,64,Ferencváros,away, 57 ,Substitution, Ryan Mmaee , Franck Boli 
+1083,64,Red Star Belgrade,home, 60 ,Goal, Guélor Kanga , Mirko Ivanić 
+1084,64,Red Star Belgrade,home, 62 ,Substitution, Slavoljub Srnić , Sekou Sanogo 
+1085,64,Red Star Belgrade,home, 62 ,Substitution, Radovan Pankov , Stefan Mitrović 
+1086,64,Ferencváros,away, 66 ,Substitution, Marquinhos , Tokmac Nguen 
+1087,64,Ferencváros,away, 66 ,Substitution, Amer Gojak , Aïssa Laïdouni 
+1088,64,Ferencváros,away, 71 ,Goal, Kristoffer Zachariassen , Henry Wingo 
+1089,64,Ferencváros,away, 72 ,Yellow card, Samy Mmaee ,
+1090,64,Red Star Belgrade,home, 72 ,Substitution, Nemanja Motika , Aleksandar Katai 
+1091,64,Red Star Belgrade,home, 72 ,Substitution, Veljko Nikolić , Aleksandar Dragovic 
+1092,64,Red Star Belgrade,home, 76 ,Yellow card, Milan Rodic ,
+1093,64,Ferencváros,away, 77 ,Substitution, Lóránd Pászka , Endre Botka 
+1094,64,Ferencváros,away, 79 ,Yellow card, Mats Knoester ,
+1095,64,Red Star Belgrade,home, 80 ,Substitution, Ibrahim Mustapha , Guélor Kanga 
+1096,64,Ferencváros,away, 86 ,Yellow card, Bálint Vécsei ,
+1097,65,Arsenal,home, 46 ,Yellow card, Granit Xhaka ,
+1098,65,PSV,away, 56 ,Yellow card, Érick Gutiérrez ,
+1099,65,PSV,away, 65 ,Substitution, Noni Madueke , Guus Til 
+1100,65,PSV,away, 66 ,Substitution, Jordan Teze , Philipp Max 
+1101,65,Arsenal,home, 67 ,Substitution, Thomas Partey , Albert Lokonga 
+1102,65,Arsenal,home, 67 ,Substitution, Martin Ødegaard , Fábio Vieira 
+1103,65,Arsenal,home, 70 ,Goal, Granit Xhaka , Takehiro Tomiyasu 
+1104,65,Arsenal,home, 76 ,Substitution, Gabriel Martinelli , Gabriel Jesus 
+1105,65,Arsenal,home, 76 ,Substitution, Ben White , Takehiro Tomiyasu 
+1106,65,PSV,away, 77 ,Substitution, Luuk de Jong , Joey Veerman 
+1107,65,Arsenal,home, 85 ,Substitution, Reiss Nelson , Bukayo Saka 
+1108,65,Arsenal,home, 88 ,Yellow card, Martin Ødegaard ,
+1109,65,Arsenal,home, 88 ,Yellow card, Kieran Tierney ,
+1110,65,PSV,away, 91 ,Substitution, Richard Ledezma , Xavi Simons 
+1111,66,Fenerbahçe,away, 26 ,Disallowed goal,Disallowed goal,
+1112,66,Rennes,home, 52 ,Goal, Martin Terrier , Lovro Majer 
+1113,66,Rennes,home, 54 ,Goal, Lovro Majer , Martin Terrier 
+1114,66,Fenerbahçe,away, 57 ,Substitution, Ezgjan Alioski , Luan Peres 
+1115,66,Fenerbahçe,away, 60 ,Goal, Irfan Kahveci , Mert Yandaş 
+1116,66,Rennes,home, 64 ,Substitution, Adrien Truffert , Amine Gouiri 
+1117,66,Rennes,home, 65 ,Substitution, Désiré Doué , Kamaldeen Sulemana 
+1118,66,Fenerbahçe,away, 66 ,Substitution, Enner Valencia , Michy Batshuayi 
+1119,66,Fenerbahçe,away, 67 ,Substitution, Joao Pedro Galvao , Joshua King 
+1120,66,Fenerbahçe,away, 67 ,Substitution, Emre Mor , Lincoln 
+1121,66,Rennes,home, 74 ,Substitution, Matthis Abline , Martin Terrier 
+1122,66,Rennes,home, 76 ,Yellow card, Lovro Majer ,
+1123,66,Rennes,home, 78 ,Substitution, Flavien Tait , Lovro Majer 
+1124,66,Rennes,home, 78 ,Substitution, Jérémy Doku , Lesley Ugochukwu 
+1125,66,Rennes,home, 83 ,Red card, Hamari Traore ,
+1126,66,Fenerbahçe,away, 86 ,Substitution, Diego Rossi , Mert Yandaş 
+1127,66,Rennes,home, 91 ,Yellow card, Benjamin Bourigeaud ,
+1128,66,Fenerbahçe,away, 92 ,Penalty, Enner Valencia , Penalty 
+1129,66,Fenerbahçe,away, 93 ,Yellow card, Joao Pedro Galvao ,
+1130,66,Rennes,home, 93 ,Yellow card, Arthur Theate ,
+1131,66,Rennes,home, 93 ,Yellow card, Joe Rodon ,
+1132,67,Bodø/Glimt,home, 17 ,Yellow card, Marius Lode ,
+1133,67,Bodø/Glimt,home, 45 ,Substitution, Runar Espejord , Lars Salvesen 
+1134,67,Zürich,away, 51 ,Yellow card, Ole Selnæs ,
+1135,67,Bodø/Glimt,home, 54 ,Own goal, Ole Selnæs , Own goal 
+1136,67,Bodø/Glimt,home, 58 ,Goal, Hugo Vetlesen , Ola Solbakken 
+1137,67,Zürich,away, 60 ,Yellow card, Aiyegun Tosin ,
+1138,67,Zürich,away, 61 ,Substitution, Donis Avdijaj , Fabian Rohner 
+1139,67,Zürich,away, 61 ,Substitution, Antonio Marchesano , Bledian Krasniqi 
+1140,67,Bodø/Glimt,home, 67 ,Substitution, Amahl Pellegrino , Joel Mvuka 
+1141,67,Zürich,away, 71 ,Substitution, Bohdan Viunnyk , Jonathan Okita 
+1142,67,Zürich,away, 71 ,Substitution, Cheick Condé , Blerim Dzemaili 
+1143,67,Bodø/Glimt,home, 77 ,Substitution, Isak Amundsen , Marius Lode 
+1144,67,Bodø/Glimt,home, 77 ,Substitution, Albert Grønbæk , Ola Solbakken 
+1145,67,Zürich,away, 81 ,Goal, Donis Avdijaj , Ole Selnæs 
+1146,67,Zürich,away, 82 ,Substitution, Ivan Santini , Aiyegun Tosin 
+1147,68,AEK,away, 8 ,Goal, Ádám Gyurcsó ,
+1148,68,Dynamo Kyiv,home, 29 ,Disallowed goal,Disallowed goal,
+1149,68,Dynamo Kyiv,home, 35 ,Yellow card, Oleksandr Andrievskyi ,
+1150,68,AEK,away, 42 ,Yellow card, Ángel García ,
+1151,68,AEK,away, 44 ,Yellow card, Rafail Mamas ,
+1152,68,Dynamo Kyiv,home, 45 ,Substitution, Artem Besedin , Denys Garmash 
+1153,68,AEK,away, 63 ,Yellow card, Pere Pons ,
+1154,68,AEK,away, 64 ,Substitution, Oier , Rafail Mamas 
+1155,68,AEK,away, 64 ,Substitution, Luis Gustavo , Ivan Trichkovski 
+1156,68,Dynamo Kyiv,home, 67 ,Substitution, Olexandr Karavaev , Tomasz Kędziora 
+1157,68,Dynamo Kyiv,home, 67 ,Substitution, Volodymyr Shepelev , Oleksandr Andrievskyi 
+1158,68,AEK,away, 73 ,Substitution, Rafael Lopes , Victor Olatunji 
+1159,68,AEK,away, 74 ,Substitution, Giorgos Naoum , Pere Pons 
+1160,68,Dynamo Kyiv,home, 76 ,Yellow card, Serhiy Sydorchuk ,
+1161,68,AEK,away, 77 ,Substitution, Nikos Englezou , Ádám Gyurcsó 
+1162,68,AEK,away, 83 ,Yellow card, Kenan Pirić ,
+1163,68,Dynamo Kyiv,home, 84 ,Substitution, Vladyslav Vanat , Vladyslav Kabaev 
+1164,69,Ludogorets,away, 2 ,Yellow card, Show ,
+1165,69,Real Betis,home, 25 ,Goal, Luiz Henrique , Juan Miranda 
+1166,69,Real Betis,home, 39 ,Goal, Joaquin , Juan Miranda 
+1167,69,Ludogorets,away, 41 ,Yellow card, Kiril Despodov ,
+1168,69,Real Betis,home, 45 ,Yellow card, Aitor Ruibal ,
+1169,69,Ludogorets,away, 46 ,Goal, Kiril Despodov ,
+1170,69,Real Betis,home, 47 ,Yellow card, Paul Akouokou ,
+1171,69,Ludogorets,away, 53 ,Yellow card, Bernard Tekpetey ,
+1172,69,Real Betis,home, 56 ,Substitution, Guido Rodríguez , Paul Akouokou 
+1173,69,Real Betis,home, 59 ,Goal, Sergio Canales ,
+1174,69,Ludogorets,away, 62 ,Substitution, Nonato , Show 
+1175,69,Ludogorets,away, 62 ,Substitution, Danny Gruper , Aslak Witry 
+1176,69,Ludogorets,away, 69 ,Substitution, Spas Delev , Kiril Despodov 
+1177,69,Ludogorets,away, 70 ,Substitution, Rick , Bernard Tekpetey 
+1178,69,Real Betis,home, 72 ,Substitution, Rodri , Joaquin 
+1179,69,Real Betis,home, 73 ,Substitution, Germán Pezzella , Luiz Felipe 
+1180,69,Ludogorets,away, 74 ,Goal, Rick , Cauly 
+1181,69,Real Betis,home, 74 ,Yellow card, Andrés Guardado ,
+1182,69,Ludogorets,away, 74 ,Yellow card, Anton Nedyalkov ,
+1183,69,Ludogorets,away, 80 ,Substitution, Matías Tissera , Thiago 
+1184,69,Real Betis,home, 85 ,Substitution, William Carvalho , Luiz Henrique 
+1185,69,Real Betis,home, 85 ,Substitution, Alex Moreno , Sergio Canales 
+1186,69,Real Betis,home, 93 ,Yellow card, Claudio Bravo ,
+1187,70,HJK,away, 14 ,Red card, Miro Tenho ,
+1188,70,HJK,away, 23 ,Substitution, Matti Peltola , Santeri Hostikka 
+1189,70,Roma,home, 25 ,Yellow card, Roger Ibañez ,
+1190,70,HJK,away, 29 ,Yellow card, Perparim Hetemaj ,
+1191,70,Roma,home, 45 ,Substitution, Chris Smalling , Roger Ibañez 
+1192,70,HJK,away, 45 ,Substitution, Paulus Arajuuri , Arttu Hoskonen 
+1193,70,Roma,home, 45 ,Substitution, Paulo Dybala , Matías Viña 
+1194,70,HJK,away, 45 ,Substitution, Aapo Halme , Perparim Hetemaj 
+1195,70,Roma,home, 47 ,Goal, Paulo Dybala , Lorenzo Pellegrini 
+1196,70,Roma,home, 49 ,Goal, Lorenzo Pellegrini ,
+1197,70,Roma,home, 60 ,Yellow card, Bryan Cristante ,
+1198,70,Roma,home, 64 ,Substitution, Mady Camara , Bryan Cristante 
+1199,70,HJK,away, 66 ,Substitution, Anthony Olusanya , Pyry Soiri 
+1200,70,Roma,home, 68 ,Goal, Andrea Belotti , Nicolò Zaniolo 
+1201,70,Roma,home, 69 ,Substitution, Edoardo Bove , Lorenzo Pellegrini 
+1202,70,HJK,away, 69 ,Substitution, Nassim Boujellab , Lucas Lingman 
+1203,70,Roma,home, 76 ,Substitution, Tammy Abraham , Nicolò Zaniolo 
+1204,70,HJK,away, 87 ,Yellow card, Aapo Halme ,
+1205,71,Malmö,away, 6 ,Goal, Joseph Ceesay , Martin Olsson 
+1206,71,R. Union SG,home, 17 ,Goal, Christian Burgess , Teddy Teuma 
+1207,71,Malmö,away, 45 ,Substitution, Sören Rieks , Jonas Knudsen 
+1208,71,R. Union SG,home, 53 ,Substitution, Simon Adingra , Dennis Eckert 
+1209,71,Malmö,away, 57 ,Goal, Isaac Thelin , Felix Beijmo 
+1210,71,Malmö,away, 61 ,Substitution, Hugo Larsson , Moustafa Zeidan 
+1211,71,R. Union SG,home, 66 ,Substitution, Gustaf Nilsson , Guillaume François 
+1212,71,R. Union SG,home, 69 ,Goal, Teddy Teuma , Christian Burgess 
+1213,71,R. Union SG,home, 71 ,Goal, Victor Boniface , Loïc Lapoussin 
+1214,71,Malmö,away, 74 ,Substitution, Ola Toivonen , Joseph Ceesay 
+1215,71,R. Union SG,home, 80 ,Substitution, Jose Rodriguez , Victor Boniface 
+1216,71,R. Union SG,home, 88 ,Yellow card, Siebe Van der Heyden ,
+1217,72,1. FC Union Berlin,away, 27 ,Yellow card, András Schäfer ,
+1218,72,Braga,home, 47 ,Yellow card, Simon Banza ,
+1219,72,Braga,home, 61 ,Substitution, Andre Horta , Uroš Račić 
+1220,72,Braga,home, 61 ,Substitution, Iuri Medeiros , Álvaro Djaló 
+1221,72,1. FC Union Berlin,away, 64 ,Substitution, Christopher Trimmel , Tymoteusz Puchacz 
+1222,72,1. FC Union Berlin,away, 68 ,Substitution, Genki Haraguchi , András Schäfer 
+1223,72,Braga,home, 70 ,Substitution, Abel Ruiz , Simon Banza 
+1224,72,Braga,home, 71 ,Yellow card, Andre Horta ,
+1225,72,Braga,home, 77 ,Goal, Vítinha ,
+1226,72,1. FC Union Berlin,away, 82 ,Substitution, Tim Skarke , Janik Haberer 
+1227,72,1. FC Union Berlin,away, 82 ,Substitution, Jamie Leweling , Robin Knoche 
+1228,72,1. FC Union Berlin,away, 82 ,Substitution, Kevin Behrens , Sheraldo Becker 
+1229,72,Braga,home, 86 ,Substitution, Castro , Vítinha 
+1230,72,1. FC Union Berlin,away, 90 ,Yellow card, Kevin Behrens ,
+1231,72,1. FC Union Berlin,away, 95 ,Yellow card, Julian Ryerson ,
+1232,73,Omonia,away, 2 ,Yellow card, Mikkel Diskerud ,
+1233,73,Omonia,away, 13 ,Substitution, Charalampos Charalampous , Moreto Cassamá 
+1234,73,Real Sociedad,home, 30 ,Goal, Ander Guevara ,
+1235,73,Omonia,away, 51 ,Substitution, Adam Lang , Héctor Yuste 
+1236,73,Real Sociedad,home, 61 ,Substitution, Takefusa Kubo , Mohamed Cho 
+1237,73,Real Sociedad,home, 61 ,Substitution, Alexander Sorloth , Jon Karrikaburu 
+1238,73,Real Sociedad,home, 61 ,Substitution, Robert Navarro , Mikel Merino 
+1239,73,Omonia,away, 65 ,Substitution, Fotios Papoulis , Mikkel Diskerud 
+1240,73,Omonia,away, 65 ,Substitution, Bruno Felipe , Karim Ansarifard 
+1241,73,Omonia,away, 65 ,Substitution, Adam Matthews , Paris Psaltis 
+1242,73,Omonia,away, 72 ,Goal, Bruno Felipe ,
+1243,73,Real Sociedad,home, 75 ,Substitution, Beñat Turrientes , Asier Illarramendi 
+1244,73,Real Sociedad,home, 75 ,Substitution, Andoni Gorosabel , Álex Sola 
+1245,73,Real Sociedad,home, 80 ,Goal, Alexander Sorloth , Takefusa Kubo 
+1246,73,Omonia,away, 83 ,Yellow card, Fouad Bachirou ,
+1247,73,Real Sociedad,home, 86 ,Yellow card, Igor Zubeldia ,
+1248,73,Omonia,away, 92 ,Yellow card, Adam Lang ,
+1249,74,Manchester United,away, 17 ,Goal, Jadon Sancho , Christian Eriksen 
+1250,74,Sheriff,home, 38 ,Yellow card, Patrick Kpozo ,
+1251,74,Manchester United,away, 39 ,Penalty, Cristiano Ronaldo , Penalty 
+1252,74,Manchester United,away, 45 ,Substitution, Casemiro , Scott McTominay 
+1253,74,Sheriff,home, 63 ,Yellow card, Iyayi Atiemwen ,
+1254,74,Manchester United,away, 70 ,Substitution, Luke Shaw , Diogo Dalot 
+1255,74,Sheriff,home, 73 ,Substitution, Felipe Vizeu , I Rasheed 
+1256,74,Sheriff,home, 73 ,Substitution, Pernambuco , Abou Ouattara 
+1257,74,Manchester United,away, 81 ,Substitution, Anthony Elanga , Cristiano Ronaldo 
+1258,74,Sheriff,home, 81 ,Substitution, Mudasiru Salifu , Iyayi Atiemwen 
+1259,74,Manchester United,away, 90 ,Substitution, Alejandro Garnacho , Antony 
+1260,74,Manchester United,away, 90 ,Substitution, Harry Maguire , Lisandro Martínez 
+1261,75,SC Freiburg,away, 5 ,Goal, Nicolas Höfler , Vincenzo Grifo 
+1262,75,SC Freiburg,away, 25 ,Goal, Michael Gregoritsch , Daniel-Kofi Kyereh 
+1263,75,Olympiacos,home, 45 ,Substitution, Pierre Kunde , Panagiotis Retsos 
+1264,75,Olympiacos,home, 45 ,Substitution, Oleg Reabciuk , Andreas Bouchalakis 
+1265,75,SC Freiburg,away, 52 ,Goal, Michael Gregoritsch , Matthias Ginter 
+1266,75,SC Freiburg,away, 61 ,Yellow card, Philipp Lienhart ,
+1267,75,SC Freiburg,away, 62 ,Substitution, Jeong Woo-yeong , Daniel-Kofi Kyereh 
+1268,75,SC Freiburg,away, 62 ,Substitution, Kevin Schade , Michael Gregoritsch 
+1269,75,Olympiacos,home, 63 ,Substitution, Youssef El Arabi , Josh Bowler 
+1270,75,Olympiacos,home, 63 ,Substitution, Garry Rodrigues , Giorgos Masouras 
+1271,75,SC Freiburg,away, 69 ,Substitution, Nils Petersen , Ritsu Dōan 
+1272,75,Olympiacos,home, 71 ,Substitution, Pipa , Sime Vrsaljko 
+1273,75,Olympiacos,home, 77 ,Yellow card, Garry Rodrigues ,
+1274,75,SC Freiburg,away, 78 ,Substitution, Lukas Kübler , Kiliann Sildillia 
+1275,75,SC Freiburg,away, 78 ,Substitution, Yannik Keitel , Vincenzo Grifo 
+1276,75,SC Freiburg,away, 80 ,Yellow card, Nicolas Höfler ,
+1277,76,Monaco,home, 45 ,Substitution, Ruben Aguilar , Vanderson 
+1278,76,Monaco,home, 45 ,Substitution, Maghnes Akliouche , Krépin Diatta 
+1279,76,Ferencváros,away, 63 ,Substitution, Amer Gojak , Tokmac Nguen 
+1280,76,Ferencváros,away, 64 ,Substitution, Franck Boli , Ryan Mmaee 
+1281,76,Monaco,home, 66 ,Substitution, Breel Embolo , Wissam Ben Yedder 
+1282,76,Ferencváros,away, 69 ,Yellow card, Muhamed Besic ,
+1283,76,Ferencváros,away, 70 ,Substitution, Bálint Vécsei , Muhamed Besic 
+1284,76,Monaco,home, 73 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+1285,76,Monaco,home, 77 ,Yellow card, Breel Embolo ,
+1286,76,Ferencváros,away, 79 ,Goal, Bálint Vécsei , Adama Traoré 
+1287,76,Monaco,home, 81 ,Substitution, Myron Boadu , Malang Sarr 
+1288,76,Ferencváros,away, 90 ,Substitution, Anderson Esiti , Kristoffer Zachariassen 
+1289,76,Ferencváros,away, 94 ,Yellow card, Adama Traoré ,
+1290,77,Sturm,away, 8 ,Yellow card, Gregory Wüthrich ,
+1291,77,Feyenoord,home, 9 ,Goal, Alireza Jahanbakhsh , Orkun Kökcü 
+1292,77,Sturm,away, 13 ,Yellow card, Jon Gorenc-Stankovic ,
+1293,77,Sturm,away, 19 ,Substitution, Ivan Ljubic , Emanuel Emegha 
+1294,77,Feyenoord,home, 31 ,Goal, Dávid Hancko , Oussama Idrissi 
+1295,77,Feyenoord,home, 34 ,Goal, Danilo , Marcos López 
+1296,77,Feyenoord,home, 41 ,Goal, Alireza Jahanbakhsh , Javairô Dilrosun 
+1297,77,Sturm,away, 45 ,Substitution, Dominik Oroz , Jon Gorenc-Stankovic 
+1298,77,Sturm,away, 45 ,Substitution, David Affengruber , Gregory Wüthrich 
+1299,77,Feyenoord,home, 53 ,Disallowed goal,Disallowed goal,
+1300,77,Feyenoord,home, 55 ,Substitution, Quilindschy Hartman , Marcos López 
+1301,77,Sturm,away, 63 ,Substitution, Christoph Lang , William Bøving 
+1302,77,Feyenoord,home, 64 ,Substitution, Santiago Giménez , Danilo 
+1303,77,Feyenoord,home, 64 ,Substitution, Patrik Wålemark , Alireza Jahanbakhsh 
+1304,77,Feyenoord,home, 66 ,Goal, Santiago Giménez , Patrik Wålemark 
+1305,77,Sturm,away, 72 ,Substitution, Otar Kiteishvili , Tomi Horvat 
+1306,77,Sturm,away, 75 ,Yellow card, David Affengruber ,
+1307,77,Feyenoord,home, 75 ,Substitution, Ezequiel Bullaude , Orkun Kökcü 
+1308,77,Feyenoord,home, 75 ,Substitution, Mats Wieffer , Quinten Timber 
+1309,77,Feyenoord,home, 78 ,Goal, Oussama Idrissi , Ezequiel Bullaude 
+1310,78,Qarabağ,home, 60 ,Goal, Owusu Kwabena , Filip Ozobić 
+1311,78,Qarabağ,home, 62 ,Substitution, Ramil Şeydayev , Filip Ozobić 
+1312,78,Nantes,away, 64 ,Substitution, Evann Guessand , Ignatius Ganago 
+1313,78,Nantes,away, 64 ,Substitution, Pedro Chirivella , Moussa Sissoko 
+1314,78,Qarabağ,home, 65 ,Goal, Abdellah Zoubir , Kady 
+1315,78,Qarabağ,home, 72 ,Goal, Marko Janković , Qara Qarayev 
+1316,78,Nantes,away, 76 ,Substitution, Andrei Girotto , Samuel Moutoussamy 
+1317,78,Nantes,away, 76 ,Substitution, Marcus Coco , Moses Simon 
+1318,78,Nantes,away, 80 ,Yellow card, Andrei Girotto ,
+1319,78,Nantes,away, 84 ,Substitution, Dennis Appiah , Mostafa Mohamed 
+1320,78,Qarabağ,home, 87 ,Yellow card, Elvin Cəfərquliyev ,
+1321,78,Qarabağ,home, 88 ,Substitution, Leandro Andrade , Owusu Kwabena 
+1322,78,Qarabağ,home, 88 ,Substitution, Richard Almeyda , Marko Janković 
+1323,78,Qarabağ,home, 89 ,Substitution, Júlio Romão , Qara Qarayev 
+1324,78,Qarabağ,home, 91 ,Substitution, Musa Qurbanlı , Abdellah Zoubir 
+1325,79,Midtjylland,home, 26 ,Goal, Paulinho , Evander 
+1326,79,Midtjylland,home, 30 ,Goal, Sory Kaba , Anders Dreyer 
+1327,79,Lazio,away, 52 ,Substitution, Sergej Milinković-Savić , Matías Vecino 
+1328,79,Midtjylland,home, 52 ,Penalty, Evander , Penalty 
+1329,79,Lazio,away, 52 ,Substitution, Adam Marušić , Stefan Radu 
+1330,79,Lazio,away, 53 ,Substitution, Matteo Cancellieri , Pedro 
+1331,79,Midtjylland,home, 56 ,Yellow card, Paulinho ,
+1332,79,Lazio,away, 57 ,Goal, Sergej Milinković-Savić , Ciro Immobile 
+1333,79,Midtjylland,home, 61 ,Yellow card, Jonas Lössl ,
+1334,79,Midtjylland,home, 62 ,Substitution, Charles , Emiliano Martínez 
+1335,79,Midtjylland,home, 62 ,Substitution, Pione Sisto , Anders Dreyer 
+1336,79,Midtjylland,home, 67 ,Missed penalty, Evander , Missed penalty 
+1337,79,Midtjylland,home, 67 ,Goal, Gustav Isaksen ,
+1338,79,Lazio,away, 69 ,Substitution, Marcos Antônio , Danilo Cataldi 
+1339,79,Lazio,away, 70 ,Yellow card, Alessio Romagnoli ,
+1340,79,Midtjylland,home, 72 ,Goal, Erik Sviatchenko , Evander 
+1341,79,Lazio,away, 76 ,Substitution, Luka Romero , Ciro Immobile 
+1342,79,Midtjylland,home, 77 ,Substitution, Edward Chilufya , Gustav Isaksen 
+1343,79,Midtjylland,home, 87 ,Substitution, Valdemar Andreasen , Sory Kaba 
+1344,80,Red Star Belgrade,away, 6 ,Yellow card, Kings Kangwa ,
+1345,80,Trabzonspor,home, 16 ,Goal, Marek Hamsik , Trezeguet 
+1346,80,Red Star Belgrade,away, 45 ,Substitution, Aleksandar Katai , Slavoljub Srnić 
+1347,80,Trabzonspor,home, 50 ,Yellow card, Djaniny ,
+1348,80,Red Star Belgrade,away, 52 ,Yellow card, Sekou Sanogo ,
+1349,80,Red Star Belgrade,away, 59 ,Substitution, Kalifa Coulibaly , Aleksandar Pesic 
+1350,80,Red Star Belgrade,away, 59 ,Substitution, Ibrahim Mustapha , Sekou Sanogo 
+1351,80,Trabzonspor,home, 61 ,Substitution, Enis Bardhi , Marek Hamsik 
+1352,80,Trabzonspor,home, 61 ,Substitution, Abdülkadir Ömür , Maxi Gómez 
+1353,80,Red Star Belgrade,away, 63 ,Second yellow card, Kings Kangwa ,
+1354,80,Trabzonspor,home, 68 ,Goal, Trezeguet , Anastasios Bakasetas 
+1355,80,Trabzonspor,home, 69 ,Substitution, Vitor Hugo , Jens Stryger Larsen 
+1356,80,Red Star Belgrade,away, 70 ,Substitution, Veljko Nikolić , Osman Bukari 
+1357,80,Trabzonspor,home, 79 ,Substitution, Umut Bozok , Djaniny 
+1358,80,Trabzonspor,home, 79 ,Substitution, Mountassir Lahtimi , Abdülkadir Ömür 
+1359,80,Red Star Belgrade,away, 83 ,Yellow card, Aleksandar Katai ,
+1360,80,Red Star Belgrade,away, 84 ,Substitution, Radovan Pankov , Guélor Kanga 
+1361,80,Red Star Belgrade,away, 89 ,Goal, Veljko Nikolić , Ibrahim Mustapha 
+1362,80,Trabzonspor,home, 90 ,Yellow card, Eren Elmalı ,
+1363,81,Red Star Belgrade,home, 7 ,Yellow card, Aleksandar Dragovic ,
+1364,81,Monaco,away, 18 ,Yellow card, Benoît Badiashile ,
+1365,81,Monaco,away, 43 ,Yellow card, Takumi Minamino ,
+1366,81,Red Star Belgrade,home, 45 ,Yellow card, Aleksandar Pesic ,
+1367,81,Red Star Belgrade,home, 54 ,Substitution, El Fardou Ben Mohamed , Aleksandar Pesic 
+1368,81,Monaco,away, 57 ,Substitution, Krépin Diatta , Takumi Minamino 
+1369,81,Monaco,away, 57 ,Substitution, Jean Lucas , Youssouf Fofana 
+1370,81,Monaco,away, 66 ,Substitution, Breel Embolo , Wissam Ben Yedder 
+1371,81,Monaco,away, 69 ,Yellow card, Aleksandr Golovin ,
+1372,81,Monaco,away, 74 ,Penalty, Breel Embolo , Penalty 
+1373,81,Red Star Belgrade,home, 76 ,Substitution, Veljko Nikolić , Slavoljub Srnić 
+1374,81,Monaco,away, 83 ,Substitution, Ismail Jakobs , Aleksandr Golovin 
+1375,81,Red Star Belgrade,home, 87 ,Substitution, Kalifa Coulibaly , Aleksandar Katai 
+1376,81,Red Star Belgrade,home, 87 ,Substitution, Stefan Mitrović , Sekou Sanogo 
+1377,81,Red Star Belgrade,home, 89 ,Yellow card, Nemanja Milunović ,
+1378,82,Ferencváros,home, 5 ,Goal, Tokmac Nguen , Bálint Vécsei 
+1379,82,Ferencváros,home, 16 ,Red card, Eldar Ćivić ,
+1380,82,Ferencváros,home, 20 ,Substitution, Endre Botka , Franck Boli 
+1381,82,Ferencváros,home, 29 ,Goal, Adama Traoré , Tokmac Nguen 
+1382,82,Trabzonspor,away, 39 ,Goal, Maxi Gómez , Anastasios Bakasetas 
+1383,82,Ferencváros,home, 41 ,Yellow card, Muhamed Besic ,
+1384,82,Trabzonspor,away, 42 ,Yellow card, Enis Bardhi ,
+1385,82,Ferencváros,home, 44 ,Penalty, Tokmac Nguen , Penalty 
+1386,82,Trabzonspor,away, 45 ,Substitution, Eren Elmalı , Vitor Hugo 
+1387,82,Trabzonspor,away, 45 ,Substitution, Yusuf Yazıcı , Enis Bardhi 
+1388,82,Trabzonspor,away, 45 ,Substitution, Marek Hamsik , Jean Gbamin 
+1389,82,Trabzonspor,away, 60 ,Substitution, Umut Bozok , Abdülkadir Ömür 
+1390,82,Trabzonspor,away, 71 ,Goal, Umut Bozok , Maxi Gómez 
+1391,82,Trabzonspor,away, 72 ,Substitution, Djaniny , Stefano Denswil 
+1392,82,Ferencváros,home, 76 ,Substitution, Aïssa Laïdouni , Bálint Vécsei 
+1393,82,Ferencváros,home, 76 ,Substitution, Amer Gojak , Tokmac Nguen 
+1394,82,Ferencváros,home, 80 ,Yellow card, Henry Wingo ,
+1395,82,Ferencváros,home, 86 ,Yellow card, Denes Dibusz ,
+1396,82,Trabzonspor,away, 87 ,Disallowed goal,Disallowed goal,
+1397,82,Ferencváros,home, 90 ,Substitution, Adnan Kovačević , Muhamed Besic 
+1398,82,Ferencváros,home, 92 ,Yellow card, Mats Knoester ,
+1399,83,Lazio,home, 4 ,Goal, Luis Alberto , Matías Vecino 
+1400,83,Lazio,home, 8 ,Yellow card, Felipe Anderson ,
+1401,83,Lazio,home, 15 ,Goal, Felipe Anderson , Ciro Immobile 
+1402,83,Lazio,home, 28 ,Goal, Matías Vecino ,
+1403,83,Feyenoord,away, 45 ,Substitution, Alireza Jahanbakhsh , Sebastian Szymański 
+1404,83,Lazio,home, 63 ,Goal, Matías Vecino , Luis Alberto 
+1405,83,Feyenoord,away, 64 ,Substitution, Mats Wieffer , Javairô Dilrosun 
+1406,83,Feyenoord,away, 64 ,Substitution, Santiago Giménez , Danilo 
+1407,83,Feyenoord,away, 69 ,Penalty, Santiago Giménez , Penalty 
+1408,83,Lazio,home, 69 ,Substitution, Toma Bašić , Luis Alberto 
+1409,83,Feyenoord,away, 69 ,Substitution, Oussama Idrissi , Patrik Wålemark 
+1410,83,Lazio,home, 70 ,Substitution, Matteo Cancellieri , Ciro Immobile 
+1411,83,Lazio,home, 70 ,Substitution, Sergej Milinković-Savić , Matías Vecino 
+1412,83,Lazio,home, 73 ,Substitution, Patric Gabarron , Alessio Romagnoli 
+1413,83,Lazio,home, 76 ,Substitution, Stefan Radu , Adam Marušić 
+1414,83,Feyenoord,away, 78 ,Yellow card, Oussama Idrissi ,
+1415,83,Feyenoord,away, 86 ,Substitution, Igor Paixão , Quinten Timber 
+1416,83,Feyenoord,away, 88 ,Goal, Santiago Giménez ,
+1417,84,Manchester United,home, 45 ,Substitution, Bruno Fernandes , Christian Eriksen 
+1418,84,Real Sociedad,away, 45 ,Substitution, Alexander Sorloth , Umar Sadiq 
+1419,84,Manchester United,home, 45 ,Substitution, Lisandro Martínez , Diogo Dalot 
+1420,84,Manchester United,home, 57 ,Yellow card, Lisandro Martínez ,
+1421,84,Real Sociedad,away, 59 ,Penalty, Brais Mendez , Penalty 
+1422,84,Real Sociedad,away, 60 ,Yellow card, David Silva ,
+1423,84,Real Sociedad,away, 65 ,Substitution, Mohamed Cho , David Silva 
+1424,84,Real Sociedad,away, 70 ,Yellow card, Aihen Muñoz ,
+1425,84,Manchester United,home, 71 ,Substitution, Jadon Sancho , Antony 
+1426,84,Manchester United,home, 71 ,Substitution, Alejandro Garnacho , Anthony Elanga 
+1427,84,Real Sociedad,away, 78 ,Substitution, Barrenetxea , Takefusa Kubo 
+1428,84,Manchester United,home, 83 ,Yellow card, Fred ,
+1429,84,Manchester United,home, 83 ,Substitution, Charlie McNeill , Tyrell Malacia 
+1430,84,Real Sociedad,away, 84 ,Substitution, Beñat Turrientes , Brais Mendez 
+1431,84,Real Sociedad,away, 84 ,Substitution, Álex Sola , Andoni Gorosabel 
+1432,84,Real Sociedad,away, 89 ,Yellow card, Beñat Turrientes ,
+1433,85,Nantes,home, 32 ,Goal, Mostafa Mohamed , Ludovic Blas 
+1434,85,Olympiacos,away, 50 ,Own goal, Samuel Moutoussamy , Own goal 
+1435,85,Olympiacos,away, 56 ,Yellow card, Panagiotis Retsos ,
+1436,85,Olympiacos,away, 59 ,Substitution, Josh Bowler , Giorgos Masouras 
+1437,85,Nantes,home, 69 ,Substitution, Moses Simon , Ignatius Ganago 
+1438,85,Nantes,home, 69 ,Substitution, Moussa Sissoko , Samuel Moutoussamy 
+1439,85,Nantes,home, 72 ,Yellow card, Moussa Sissoko ,
+1440,85,Olympiacos,away, 77 ,Substitution, Aboubakar Kamara , Hwang Ui-jo 
+1441,85,Nantes,home, 82 ,Disallowed goal,Disallowed goal,
+1442,85,Nantes,home, 85 ,Yellow card, Nicolas Pallois ,
+1443,85,Olympiacos,away, 86 ,Substitution, Youssef El Arabi , Pep Biel 
+1444,85,Nantes,home, 92 ,Yellow card, Ludovic Blas ,
+1445,85,Olympiacos,away, 92 ,Yellow card, Oleg Reabciuk ,
+1446,85,Nantes,home, 93 ,Goal, Evann Guessand , Ludovic Blas 
+1447,86,Sheriff,away, 2 ,Goal, I Rasheed , Maksym Koval 
+1448,86,Sheriff,away, 8 ,Yellow card, I Rasheed ,
+1449,86,Omonia,home, 45 ,Substitution, Francis Uzoho , Fabiano 
+1450,86,Omonia,home, 54 ,Yellow card, Adam Lang ,
+1451,86,Sheriff,away, 55 ,Penalty, Iyayi Atiemwen , Penalty 
+1452,86,Sheriff,away, 56 ,Yellow card, Iyayi Atiemwen ,
+1453,86,Omonia,home, 73 ,Substitution, Fotios Papoulis , Moreto Cassamá 
+1454,86,Omonia,home, 73 ,Substitution, Karim Ansarifard , Brandon Barker 
+1455,86,Sheriff,away, 74 ,Substitution, Mudasiru Salifu , Iyayi Atiemwen 
+1456,86,Sheriff,away, 76 ,Goal, Mouhamed Diop , I Rasheed 
+1457,86,Omonia,home, 81 ,Substitution, Roman Bezus , Bruno Felipe 
+1458,86,Omonia,home, 82 ,Substitution, Ioannis Kousoulos , Charalampos Charalampous 
+1459,86,Omonia,home, 83 ,Disallowed goal,Disallowed goal,
+1460,86,Omonia,home, 85 ,Yellow card, Roman Bezus ,
+1461,86,Sheriff,away, 89 ,Yellow card, Mudasiru Salifu ,
+1462,86,Sheriff,away, 94 ,Substitution, Pernambuco , Abou Ouattara 
+1463,86,Sheriff,away, 95 ,Substitution, Felipe Vizeu , I Rasheed 
+1464,86,Sheriff,away, 97 ,Yellow card, Patrick Kpozo ,
+1465,86,Sheriff,away, 100 ,Substitution, Renan Guedes , Armel Zohouri 
+1466,86,Sheriff,away, 100 ,Substitution, Heron , Patrick Kpozo 
+1467,87,Sturm,home, 8 ,Goal, Emanuel Emegha , Amadou Danté 
+1468,87,Sturm,home, 40 ,Yellow card, Emanuel Emegha ,
+1469,87,Sturm,home, 42 ,Missed penalty, Tomi Horvat , Missed penalty 
+1470,87,Midtjylland,away, 57 ,Substitution, Kristoffer Olsson , Oliver Sørensen 
+1471,87,Sturm,home, 63 ,Substitution, Mohammed Fuseini , William Bøving 
+1472,87,Sturm,home, 64 ,Yellow card, Stefan Hierländer ,
+1473,87,Sturm,home, 70 ,Substitution, Albian Ajeti , Emanuel Emegha 
+1474,87,Midtjylland,away, 70 ,Substitution, Emiliano Martínez , Pione Sisto 
+1475,87,Sturm,home, 73 ,Second yellow card, Stefan Hierländer ,
+1476,87,Sturm,home, 78 ,Substitution, Ivan Ljubic , Tomi Horvat 
+1477,87,Sturm,home, 79 ,Substitution, Dominik Oroz , Jon Gorenc-Stankovic 
+1478,87,Midtjylland,away, 81 ,Substitution, Mads Thychosen , Paulinho 
+1479,87,Midtjylland,away, 81 ,Substitution, Edward Chilufya , Henrik Dalsgaard 
+1480,87,Sturm,home, 90 ,Yellow card, Ivan Ljubic ,
+1481,87,Midtjylland,away, 92 ,Yellow card, Gustav Isaksen ,
+1482,87,Sturm,home, 92 ,Yellow card, Jusuf Gazibegović ,
+1483,87,Sturm,home, 96 ,Yellow card, Albian Ajeti ,
+1484,88,Qarabağ,away, 6 ,Yellow card, Toral Bayramov ,
+1485,88,SC Freiburg,home, 7 ,Penalty, Vincenzo Grifo , Penalty 
+1486,88,SC Freiburg,home, 15 ,Goal, Ritsu Dōan , Maximilian Eggestein 
+1487,88,Qarabağ,away, 39 ,Goal, Marko Vesovic , Owusu Kwabena 
+1488,88,SC Freiburg,home, 47 ,Yellow card, Vincenzo Grifo ,
+1489,88,SC Freiburg,home, 51 ,Yellow card, Ritsu Dōan ,
+1490,88,SC Freiburg,home, 71 ,Substitution, Michael Gregoritsch , Nils Petersen 
+1491,88,SC Freiburg,home, 71 ,Substitution, Daniel-Kofi Kyereh , Vincenzo Grifo 
+1492,88,Qarabağ,away, 76 ,Substitution, Júlio Romão , Ramil Şeydayev 
+1493,88,Qarabağ,away, 77 ,Substitution, Richard Almeyda , Qara Qarayev 
+1494,88,Qarabağ,away, 82 ,Yellow card, Abdellah Zoubir ,
+1495,88,Qarabağ,away, 84 ,Substitution, Leandro Andrade , Marko Janković 
+1496,88,SC Freiburg,home, 88 ,Substitution, Noah Weißhaupt , Jeong Woo-yeong 
+1497,88,Qarabağ,away, 92 ,Substitution, Elvin Cəfərquliyev , Toral Bayramov 
+1498,88,SC Freiburg,home, 93 ,Substitution, Yannik Keitel , Ritsu Dōan 
+1499,88,Qarabağ,away, 94 ,Yellow card, Owusu Kwabena ,
+1500,89,Bodø/Glimt,away, 44 ,Goal, Albert Grønbæk , Patrick Berg 
+1501,89,Bodø/Glimt,away, 48 ,Yellow card, Patrick Berg ,
+1502,89,PSV,home, 56 ,Yellow card, Cody Gakpo ,
+1503,89,Bodø/Glimt,away, 58 ,Substitution, Lars Salvesen , Runar Espejord 
+1504,89,PSV,home, 62 ,Substitution, Sávio , Ismael Saibari 
+1505,89,PSV,home, 62 ,Goal, Cody Gakpo , Anwar El Ghazi 
+1506,89,PSV,home, 62 ,Substitution, Anwar El Ghazi , Yorbe Vertessen 
+1507,89,Bodø/Glimt,away, 70 ,Substitution, Isak Amundsen , Marius Lode 
+1508,89,Bodø/Glimt,away, 74 ,Yellow card, Isak Amundsen ,
+1509,89,Bodø/Glimt,away, 91 ,Yellow card, Nikita Haikin ,
+1510,89,PSV,home, 94 ,Yellow card, Xavi Simons ,
+1511,90,Malmö,home, 12 ,Yellow card, Erdal Rakip ,
+1512,90,Malmö,home, 25 ,Substitution, Mohamed Turay , Erdal Rakip 
+1513,90,Braga,away, 30 ,Goal, Bruno Rodrigues , Paulo Oliveira 
+1514,90,Malmö,home, 45 ,Substitution, Ola Toivonen , Isaac Thelin 
+1515,90,Malmö,home, 45 ,Substitution, Sergio Peña , Oscar Lewicki 
+1516,90,Braga,away, 48 ,Disallowed goal,Disallowed goal,
+1517,90,Malmö,home, 56 ,Substitution, Joseph Ceesay , Felix Beijmo 
+1518,90,Braga,away, 57 ,Yellow card, Vítinha ,
+1519,90,Braga,away, 61 ,Substitution, Álvaro Djaló , Vítinha 
+1520,90,Braga,away, 70 ,Penalty, Ricardo Horta , Penalty 
+1521,90,Braga,away, 74 ,Substitution, Uroš Račić , Andre Horta 
+1522,90,Braga,away, 74 ,Substitution, Rodrigo Gomes , Diego Lainez 
+1523,90,Malmö,home, 78 ,Yellow card, Martin Olsson ,
+1524,90,Malmö,home, 80 ,Yellow card, Mohamed Turay ,
+1525,90,Malmö,home, 84 ,Yellow card, Niklas Moisander ,
+1526,90,Braga,away, 85 ,Yellow card, Nuno Sequeira ,
+1527,90,Braga,away, 85 ,Substitution, Cristián Borja , Nuno Sequeira 
+1528,90,Braga,away, 85 ,Substitution, Castro , Ricardo Horta 
+1529,90,Malmö,home, 88 ,Substitution, Jonas Knudsen , Martin Olsson 
+1530,90,Malmö,home, 96 ,Yellow card, Jonas Knudsen ,
+1531,91,Ludogorets,home, 38 ,Yellow card, Show ,
+1532,91,Ludogorets,home, 52 ,Yellow card, Anton Nedyalkov ,
+1533,91,Roma,away, 67 ,Substitution, Eldor Shomurodov , Andrea Belotti 
+1534,91,Roma,away, 67 ,Substitution, Leonardo Spinazzola , Zeki Çelik 
+1535,91,Ludogorets,home, 68 ,Yellow card, Jakub Piotrowski ,
+1536,91,Ludogorets,home, 71 ,Substitution, Rick , Kiril Despodov 
+1537,91,Ludogorets,home, 72 ,Goal, Cauly , Jakub Piotrowski 
+1538,91,Roma,away, 75 ,Substitution, Edoardo Bove , Bryan Cristante 
+1539,91,Roma,away, 75 ,Substitution, Cristian Volpato , Gianluca Mancini 
+1540,91,Roma,away, 76 ,Substitution, Mady Camara , Nemanja Matic 
+1541,91,Ludogorets,home, 77 ,Substitution, Nonato , Show 
+1542,91,Roma,away, 86 ,Goal, Eldor Shomurodov , Lorenzo Pellegrini 
+1543,91,Ludogorets,home, 86 ,Substitution, Spas Delev , Cauly 
+1544,91,Ludogorets,home, 87 ,Substitution, Georgi Terziev , Aslak Witry 
+1545,91,Ludogorets,home, 88 ,Goal, Nonato , Rick 
+1546,92,R. Union SG,away, 39 ,Goal, Senne Lynen , Victor Boniface 
+1547,92,1. FC Union Berlin,home, 51 ,Yellow card, Christopher Trimmel ,
+1548,92,1. FC Union Berlin,home, 60 ,Substitution, András Schäfer , Genki Haraguchi 
+1549,92,1. FC Union Berlin,home, 60 ,Substitution, Sven Michel , Kevin Behrens 
+1550,92,R. Union SG,away, 69 ,Substitution, Cameron Puertas , Jose Rodriguez 
+1551,92,1. FC Union Berlin,home, 69 ,Substitution, Tim Skarke , Janik Haberer 
+1552,92,1. FC Union Berlin,home, 70 ,Substitution, Julian Ryerson , Christopher Trimmel 
+1553,92,R. Union SG,away, 75 ,Substitution, Simon Adingra , Dante Vanzeir 
+1554,92,R. Union SG,away, 79 ,Yellow card, Loïc Lapoussin ,
+1555,92,1. FC Union Berlin,home, 82 ,Substitution, Jamie Leweling , Danilho Doekhi 
+1556,92,R. Union SG,away, 83 ,Substitution, Dennis Eckert , Victor Boniface 
+1557,92,1. FC Union Berlin,home, 90 ,Yellow card, András Schäfer ,
+1558,92,1. FC Union Berlin,home, 96 ,Red card, Sven Michel ,
+1559,93,Real Betis,away, 6 ,Substitution, Rodri , Juanmi 
+1560,93,Real Betis,away, 25 ,Yellow card, Victor Ruiz ,
+1561,93,HJK,home, 47 ,Yellow card, Nassim Boujellab ,
+1562,93,Real Betis,away, 48 ,Penalty, Willian Jose , Penalty 
+1563,93,Real Betis,away, 45 ,Substitution, Luiz Felipe , Victor Ruiz 
+1564,93,Real Betis,away, 48 ,Yellow card, Germán Pezzella ,
+1565,93,Real Betis,away, 48 ,Yellow card, Luiz Felipe ,
+1566,93,Real Betis,away, 60 ,Substitution, Sergio Canales , Joaquin 
+1567,93,Real Betis,away, 64 ,Goal, Willian Jose ,
+1568,93,HJK,home, 68 ,Disallowed goal,Disallowed goal,
+1569,93,HJK,home, 74 ,Substitution, Anthony Olusanya , Malik Abubakari 
+1570,93,HJK,home, 74 ,Substitution, Casper Terho , Pyry Soiri 
+1571,93,HJK,home, 74 ,Substitution, Murilo , Nassim Boujellab 
+1572,93,Real Betis,away, 75 ,Substitution, Guido Rodríguez , William Carvalho 
+1573,93,Real Betis,away, 75 ,Substitution, Andrés Guardado , Luiz Henrique 
+1574,93,HJK,home, 87 ,Substitution, Matti Peltola , Arttu Hoskonen 
+1575,93,HJK,home, 88 ,Substitution, Perparim Hetemaj , Lucas Lingman 
+1576,94,Dynamo Kyiv,away, 11 ,Yellow card, Denys Garmash ,
+1577,94,Fenerbahçe,home, 35 ,Goal, Gustavo Henrique , Diego Rossi 
+1578,94,Fenerbahçe,home, 50 ,Yellow card, Joshua King ,
+1579,94,Dynamo Kyiv,away, 59 ,Substitution, Kostiantyn Vivcharenko , Vladyslav Dubinchak 
+1580,94,Dynamo Kyiv,away, 63 ,Goal, Viktor Tsygankov , Vitalii Buyalskyi 
+1581,94,Dynamo Kyiv,away, 68 ,Substitution, Volodymyr Shepelev , Mykola Shaparenko 
+1582,94,Fenerbahçe,home, 68 ,Yellow card, Diego Rossi ,
+1583,94,Fenerbahçe,home, 69 ,Substitution, Michy Batshuayi , Joao Pedro Galvao 
+1584,94,Fenerbahçe,home, 69 ,Substitution, Enner Valencia , Joshua King 
+1585,94,Fenerbahçe,home, 69 ,Substitution, Irfan Kahveci , Diego Rossi 
+1586,94,Fenerbahçe,home, 72 ,Yellow card, Mert Yandaş ,
+1587,94,Dynamo Kyiv,away, 78 ,Yellow card, Oleksandr Syrota ,
+1588,94,Fenerbahçe,home, 82 ,Yellow card, Ezgjan Alioski ,
+1589,94,Fenerbahçe,home, 83 ,Substitution, Mert Yandaş , Miguel Crespo 
+1590,94,Fenerbahçe,home, 83 ,Substitution, Lincoln , Ezgjan Alioski 
+1591,94,Dynamo Kyiv,away, 87 ,Yellow card, Heorhii Bushchan ,
+1592,94,Dynamo Kyiv,away, 88 ,Substitution, Mykyta Kravchenko , Denys Garmash 
+1593,94,Fenerbahçe,home, 92 ,Goal, Michy Batshuayi ,
+1594,94,Fenerbahçe,home, 96 ,Yellow card, Altay Bayındır ,
+1595,95,Arsenal,away, 16 ,Goal, Marquinhos ,
+1596,95,Zürich,home, 18 ,Yellow card, Mirlind Kryeziu ,
+1597,95,Zürich,home, 44 ,Penalty, Mirlind Kryeziu , Penalty 
+1598,95,Arsenal,away, 62 ,Goal, Edward Nketiah , Marquinhos 
+1599,95,Zürich,home, 67 ,Substitution, Fabian Rohner , Adrián Guerrero 
+1600,95,Zürich,home, 67 ,Substitution, Antonio Marchesano , Bledian Krasniqi 
+1601,95,Zürich,home, 67 ,Substitution, Cheick Condé , Blerim Dzemaili 
+1602,95,Arsenal,away, 69 ,Substitution, Olexandr Zinchenko , Kieran Tierney 
+1603,95,Arsenal,away, 69 ,Substitution, Bukayo Saka , Marquinhos 
+1604,95,Arsenal,away, 69 ,Substitution, Martin Ødegaard , Fábio Vieira 
+1605,95,Arsenal,away, 78 ,Substitution, Gabriel Jesus , Edward Nketiah 
+1606,95,Zürich,home, 80 ,Substitution, Donis Avdijaj , Jonathan Okita 
+1607,95,Zürich,home, 80 ,Substitution, Ivan Santini , Aiyegun Tosin 
+1608,96,Rennes,away, 29 ,Goal, Arthur Theate , Kamaldeen Sulemana 
+1609,96,AEK,home, 33 ,Goal, Oier , Roberto Rosales 
+1610,96,AEK,home, 45 ,Substitution, Kypros Christoforou , Roberto Rosales 
+1611,96,Rennes,away, 57 ,Substitution, Martin Terrier , Birger Meling 
+1612,96,Rennes,away, 58 ,Substitution, Benjamin Bourigeaud , Matthis Abline 
+1613,96,AEK,home, 63 ,Substitution, Ádám Gyurcsó , Omri Altman 
+1614,96,Rennes,away, 68 ,Yellow card, Baptiste Santamaría ,
+1615,96,AEK,home, 79 ,Substitution, Pere Pons , Ivan Trichkovski 
+1616,96,AEK,home, 80 ,Substitution, Rafael Lopes , Victor Olatunji 
+1617,96,Rennes,away, 83 ,Substitution, Lorenz Assignon , Lovro Majer 
+1618,96,AEK,home, 89 ,Yellow card, Kypros Christoforou ,
+1619,96,AEK,home, 93 ,Substitution, Giorgos Naoum , Imad Faraj 
+1620,96,Rennes,away, 94 ,Goal, Lorenz Assignon , Kamaldeen Sulemana 
